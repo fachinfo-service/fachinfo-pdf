@@ -1,6343 +1,6343 @@
-[Pravidel® 2,5 mg Tabletten](http://www.fachinfo.de/pdf/001710)
+[Pravidel® 2,5 mg Tabletten](data/001710.pdf)
 
-[Tetanus-Impfstoff Mérieux®](http://www.fachinfo.de/pdf/001712)
+[Tetanus-Impfstoff Mérieux®](data/001712.pdf)
 
-[Amiodaron-ratiopharm® 100 mg](http://www.fachinfo.de/pdf/001714)
+[Amiodaron-ratiopharm® 100 mg](data/001714.pdf)
 
-[Prednisolon-ratiopharm® Tabletten](http://www.fachinfo.de/pdf/001715)
+[Prednisolon-ratiopharm® Tabletten](data/001715.pdf)
 
-[Prednison-ratiopharm® 5 mg](http://www.fachinfo.de/pdf/001716)
+[Prednison-ratiopharm® 5 mg](data/001716.pdf)
 
-[Prelis® comp](http://www.fachinfo.de/pdf/001718)
+[Prelis® comp](data/001718.pdf)
 
-[Spasmo-Urgenin® TC 5 mg](http://www.fachinfo.de/pdf/001728)
+[Spasmo-Urgenin® TC 5 mg](data/001728.pdf)
 
-[PENTAVAC®](http://www.fachinfo.de/pdf/001741)
+[PENTAVAC®](data/001741.pdf)
 
-[Metformin AbZ 500 mg Filmtabletten](http://www.fachinfo.de/pdf/001742)
+[Metformin AbZ 500 mg Filmtabletten](data/001742.pdf)
 
-[Alprazolam-TEVA® 0,25 mg / 0,5 mg / 1 mg](http://www.fachinfo.de/pdf/001749)
+[Alprazolam-TEVA® 0,25 mg / 0,5 mg / 1 mg](data/001749.pdf)
 
-[Pantozol® i.v. 40 mg](http://www.fachinfo.de/pdf/001752)
+[Pantozol® i.v. 40 mg](data/001752.pdf)
 
-[Protagent®](http://www.fachinfo.de/pdf/001753)
+[Protagent®](data/001753.pdf)
 
-[PROTAXON® forte 300 mg Filmtabletten](http://www.fachinfo.de/pdf/001754)
+[PROTAXON® forte 300 mg Filmtabletten](data/001754.pdf)
 
-[Fluoxetin-TEVA® 20 mg Hartkapseln](http://www.fachinfo.de/pdf/001759)
+[Fluoxetin-TEVA® 20 mg Hartkapseln](data/001759.pdf)
 
-[Radiogardase®-Cs](http://www.fachinfo.de/pdf/001778)
+[Radiogardase®-Cs](data/001778.pdf)
 
-[Remestan® mite 10 mg](http://www.fachinfo.de/pdf/001793)
+[Remestan® mite 10 mg](data/001793.pdf)
 
-[Atosil® Injektionslösung N](http://www.fachinfo.de/pdf/001799)
+[Atosil® Injektionslösung N](data/001799.pdf)
 
-[Arnica comp. / Formica Ölige Einreibung](http://www.fachinfo.de/pdf/001811)
+[Arnica comp. / Formica Ölige Einreibung](data/001811.pdf)
 
-[Arnica comp./Formica Salbe](http://www.fachinfo.de/pdf/001812)
+[Arnica comp./Formica Salbe](data/001812.pdf)
 
-[Cardiodoron® / Aurum comp.](http://www.fachinfo.de/pdf/001814)
+[Cardiodoron® / Aurum comp.](data/001814.pdf)
 
-[Carum carvi](http://www.fachinfo.de/pdf/001815)
+[Carum carvi](data/001815.pdf)
 
-[Rhinospray® bei Schnupfen](http://www.fachinfo.de/pdf/001816)
+[Rhinospray® bei Schnupfen](data/001816.pdf)
 
-[Cardiodoron® Rh Tabletten](http://www.fachinfo.de/pdf/001817)
+[Cardiodoron® Rh Tabletten](data/001817.pdf)
 
-[Erysidoron ® 2 Tabletten](http://www.fachinfo.de/pdf/001818)
+[Erysidoron ® 2 Tabletten](data/001818.pdf)
 
-[Ribomunyl ® uno](http://www.fachinfo.de/pdf/001819)
+[Ribomunyl ® uno](data/001819.pdf)
 
-[Gencydo® Injektionslösungen](http://www.fachinfo.de/pdf/001821)
+[Gencydo® Injektionslösungen](data/001821.pdf)
 
-[Vividrin® akut Azelastin](http://www.fachinfo.de/pdf/001823)
+[Vividrin® akut Azelastin](data/001823.pdf)
 
-[Menodoron ® Dilution](http://www.fachinfo.de/pdf/001827)
+[Menodoron ® Dilution](data/001827.pdf)
 
-[RIOPAN® Magen Gel](http://www.fachinfo.de/pdf/001829)
+[RIOPAN® Magen Gel](data/001829.pdf)
 
-[Rytmonorm®](http://www.fachinfo.de/pdf/001845)
+[Rytmonorm®](data/001845.pdf)
 
-[sab simplex ®](http://www.fachinfo.de/pdf/001846)
+[sab simplex ®](data/001846.pdf)
 
-[Haloper-CT 2 mg/ml Lösung](http://www.fachinfo.de/pdf/001856)
+[Haloper-CT 2 mg/ml Lösung](data/001856.pdf)
 
-[Sandimmun® Weichkapseln](http://www.fachinfo.de/pdf/001861)
+[Sandimmun® Weichkapseln](data/001861.pdf)
 
-[Alprazolam-ratiopharm® 0,25 mg](http://www.fachinfo.de/pdf/001882)
+[Alprazolam-ratiopharm® 0,25 mg](data/001882.pdf)
 
-[Septopal ®-10er-Kette/Septopal ®-30er-Kette/Septopal ®-60er-Kette](http://www.fachinfo.de/pdf/001886)
+[Septopal ®-10er-Kette/Septopal ®-30er-Kette/Septopal ®-60er-Kette](data/001886.pdf)
 
-[Metformin-ratiopharm® 500 mg / 850 mg](http://www.fachinfo.de/pdf/001890)
+[Metformin-ratiopharm® 500 mg / 850 mg](data/001890.pdf)
 
-[Venalitan® 150 000 N Salbe](http://www.fachinfo.de/pdf/001896)
+[Venalitan® 150 000 N Salbe](data/001896.pdf)
 
-[Profact® Depot 6,3 mg 2-Monatsimplantat](http://www.fachinfo.de/pdf/001902)
+[Profact® Depot 6,3 mg 2-Monatsimplantat](data/001902.pdf)
 
-[Nitrendipin-ratiopharm® 10 mg/20 mg](http://www.fachinfo.de/pdf/001903)
+[Nitrendipin-ratiopharm® 10 mg/20 mg](data/001903.pdf)
 
-[Nitrendipin-CT 10 mg/20 mg](http://www.fachinfo.de/pdf/001914)
+[Nitrendipin-CT 10 mg/20 mg](data/001914.pdf)
 
-[Aspirin® protect 100 mg/- 300 mg](http://www.fachinfo.de/pdf/001915)
+[Aspirin® protect 100 mg/- 300 mg](data/001915.pdf)
 
-[Aspirin® N 100 mg/- 300 mg](http://www.fachinfo.de/pdf/001917)
+[Aspirin® N 100 mg/- 300 mg](data/001917.pdf)
 
-[Metronidazol 400 Heumann](http://www.fachinfo.de/pdf/001924)
+[Metronidazol 400 Heumann](data/001924.pdf)
 
-[Tilidin AbZ Tropfen](http://www.fachinfo.de/pdf/001938)
+[Tilidin AbZ Tropfen](data/001938.pdf)
 
-[Aricept ® 5 mg/10 mg](http://www.fachinfo.de/pdf/001940)
+[Aricept ® 5 mg/10 mg](data/001940.pdf)
 
-[Spiro comp.-ratiopharm® 50 mg/20 mg](http://www.fachinfo.de/pdf/001941)
+[Spiro comp.-ratiopharm® 50 mg/20 mg](data/001941.pdf)
 
-[Diblocin ® PP 4 mg](http://www.fachinfo.de/pdf/001970)
+[Diblocin ® PP 4 mg](data/001970.pdf)
 
-[Ebrantil® i. v. 50 mg](http://www.fachinfo.de/pdf/001992)
+[Ebrantil® i. v. 50 mg](data/001992.pdf)
 
-[Synphasec](http://www.fachinfo.de/pdf/002000)
+[Synphasec](data/002000.pdf)
 
-[Syntaris ®](http://www.fachinfo.de/pdf/002001)
+[Syntaris ®](data/002001.pdf)
 
-[Tafil ® 0,5/1,0 mg Tabletten](http://www.fachinfo.de/pdf/002008)
+[Tafil ® 0,5/1,0 mg Tabletten](data/002008.pdf)
 
-[Tambocor Injektionslösung](http://www.fachinfo.de/pdf/002014)
+[Tambocor Injektionslösung](data/002014.pdf)
 
-[Tamoxifen-ratiopharm® 20 mg](http://www.fachinfo.de/pdf/002019)
+[Tamoxifen-ratiopharm® 20 mg](data/002019.pdf)
 
-[Beclometason-CT](http://www.fachinfo.de/pdf/002023)
+[Beclometason-CT](data/002023.pdf)
 
 [Tardyferon® Depot-Eisen(II)
--sulfat](http://www.fachinfo.de/pdf/002024)
+-sulfat](data/002024.pdf)
 
-[Tardyferon®-Fol](http://www.fachinfo.de/pdf/002025)
+[Tardyferon®-Fol](data/002025.pdf)
 
-[Tavor ® 0,5 mg/1,0 mg/Tabs 2,0 mg/2,5 mg](http://www.fachinfo.de/pdf/002029)
+[Tavor ® 0,5 mg/1,0 mg/Tabs 2,0 mg/2,5 mg](data/002029.pdf)
 
 [Tebonin® forte 40 mg (Flüssigkeit)
-](http://www.fachinfo.de/pdf/002035)
+](data/002035.pdf)
 
-[Tegretal® 400 mg retard](http://www.fachinfo.de/pdf/002038)
+[Tegretal® 400 mg retard](data/002038.pdf)
 
-[Medikinet® 5 mg/10 mg/20 mg Tabletten](http://www.fachinfo.de/pdf/002039)
+[Medikinet® 5 mg/10 mg/20 mg Tabletten](data/002039.pdf)
 
-[Conjuncain® EDO®](http://www.fachinfo.de/pdf/002049)
+[Conjuncain® EDO®](data/002049.pdf)
 
-[Lipidil-Ter® 160 mg](http://www.fachinfo.de/pdf/002050)
+[Lipidil-Ter® 160 mg](data/002050.pdf)
 
-[Tepilta® Suspension in Beuteln](http://www.fachinfo.de/pdf/002051)
+[Tepilta® Suspension in Beuteln](data/002051.pdf)
 
-[Sufentanil-ratiopharm® 0,05 mg/10 ml, - 0,01 mg/2 ml](http://www.fachinfo.de/pdf/002055)
+[Sufentanil-ratiopharm® 0,05 mg/10 ml, - 0,01 mg/2 ml](data/002055.pdf)
 
-[Flotrin®](http://www.fachinfo.de/pdf/002058)
+[Flotrin®](data/002058.pdf)
 
-[Transpulmin®](http://www.fachinfo.de/pdf/002065)
+[Transpulmin®](data/002065.pdf)
 
-[Tim®-Ophtal® sine](http://www.fachinfo.de/pdf/002073)
+[Tim®-Ophtal® sine](data/002073.pdf)
 
-[Thrombocid® Salbe](http://www.fachinfo.de/pdf/002086)
+[Thrombocid® Salbe](data/002086.pdf)
 
-[Vagi-Metro Creme](http://www.fachinfo.de/pdf/002098)
+[Vagi-Metro Creme](data/002098.pdf)
 
-[Tofranil ® 25](http://www.fachinfo.de/pdf/002105)
+[Tofranil ® 25](data/002105.pdf)
 
 [Tollwut-Impfstoff (HDC)
-](http://www.fachinfo.de/pdf/002107)
+](data/002107.pdf)
 
-[Toxogonin®](http://www.fachinfo.de/pdf/002119)
+[Toxogonin®](data/002119.pdf)
 
-[Inderm ® Gel](http://www.fachinfo.de/pdf/002138)
+[Inderm ® Gel](data/002138.pdf)
 
-[Inderm ®](http://www.fachinfo.de/pdf/002139)
+[Inderm ®](data/002139.pdf)
 
-[Triamteren comp.-ratiopharm® 50 mg/25 mg](http://www.fachinfo.de/pdf/002155)
+[Triamteren comp.-ratiopharm® 50 mg/25 mg](data/002155.pdf)
 
-[TRIDIN® 150 mg/5 mg Kautabletten](http://www.fachinfo.de/pdf/002158)
+[TRIDIN® 150 mg/5 mg Kautabletten](data/002158.pdf)
 
-[Eusovit® forte 403 mg](http://www.fachinfo.de/pdf/002159)
+[Eusovit® forte 403 mg](data/002159.pdf)
 
-[Ossofortin® forte](http://www.fachinfo.de/pdf/002161)
+[Ossofortin® forte](data/002161.pdf)
 
-[Triquilar® überzogene Tabletten](http://www.fachinfo.de/pdf/002165)
+[Triquilar® überzogene Tabletten](data/002165.pdf)
 
-[DIPROSONE® Depot](http://www.fachinfo.de/pdf/002166)
+[DIPROSONE® Depot](data/002166.pdf)
 
-[Troxerutin-ratiopharm® 300 mg](http://www.fachinfo.de/pdf/002172)
+[Troxerutin-ratiopharm® 300 mg](data/002172.pdf)
 
-[Novartis Pharma Voltaren® Zäpfchen](http://www.fachinfo.de/pdf/002173)
+[Novartis Pharma Voltaren® Zäpfchen](data/002173.pdf)
 
-[Oxybutynin-ratiopharm®](http://www.fachinfo.de/pdf/002177)
+[Oxybutynin-ratiopharm®](data/002177.pdf)
 
-[Tumarol® N Balsam](http://www.fachinfo.de/pdf/002179)
+[Tumarol® N Balsam](data/002179.pdf)
 
-[Website: http://www.bfarm.de anzuzeigen. genannt sind. Verschreibungspflichtig](http://www.fachinfo.de/pdf/002180)
+[Website: http://www.bfarm.de anzuzeigen. genannt sind. Verschreibungspflichtig](data/002180.pdf)
 
-[Bepanthen ® WUND- UND HEILSALBE](http://www.fachinfo.de/pdf/002182)
+[Bepanthen ® WUND- UND HEILSALBE](data/002182.pdf)
 
-[Tussafug ®](http://www.fachinfo.de/pdf/002183)
+[Tussafug ®](data/002183.pdf)
 
-[Bepanthen ® AUGEN- UND NASENSALBE](http://www.fachinfo.de/pdf/002184)
+[Bepanthen ® AUGEN- UND NASENSALBE](data/002184.pdf)
 
-[Typhoral® L Kapseln](http://www.fachinfo.de/pdf/002186)
+[Typhoral® L Kapseln](data/002186.pdf)
 
-[Uniphyllin® 300/400/600 mg](http://www.fachinfo.de/pdf/002202)
+[Uniphyllin® 300/400/600 mg](data/002202.pdf)
 
-[Amiogamma® 200](http://www.fachinfo.de/pdf/002203)
+[Amiogamma® 200](data/002203.pdf)
 
-[Urbason® solubile 16 mg](http://www.fachinfo.de/pdf/002207)
+[Urbason® solubile 16 mg](data/002207.pdf)
 
-[Sempera® Liquid 10 mg/ml](http://www.fachinfo.de/pdf/002209)
+[Sempera® Liquid 10 mg/ml](data/002209.pdf)
 
-[Uromitexan® 400 mg](http://www.fachinfo.de/pdf/002216)
+[Uromitexan® 400 mg](data/002216.pdf)
 
-[Ursofalk® 250mg Kapseln](http://www.fachinfo.de/pdf/002220)
+[Ursofalk® 250mg Kapseln](data/002220.pdf)
 
-[Valoron ® N](http://www.fachinfo.de/pdf/002225)
+[Valoron ® N](data/002225.pdf)
 
-[Canesten® GYN 3-Tage-Therapie Vaginaltabletten](http://www.fachinfo.de/pdf/002231)
+[Canesten® GYN 3-Tage-Therapie Vaginaltabletten](data/002231.pdf)
 
-[Canesten® GYN Once Kombi/Canesten® GYN 3-Tage-Kombi](http://www.fachinfo.de/pdf/002233)
+[Canesten® GYN Once Kombi/Canesten® GYN 3-Tage-Kombi](data/002233.pdf)
 
-[Lacrisic SE Augentropfen](http://www.fachinfo.de/pdf/002246)
+[Lacrisic SE Augentropfen](data/002246.pdf)
 
-[Levocarb-GRY® 100 mg/25 mg Tabletten](http://www.fachinfo.de/pdf/002250)
+[Levocarb-GRY® 100 mg/25 mg Tabletten](data/002250.pdf)
 
-[Verapamil-ratiopharm® 240 mg](http://www.fachinfo.de/pdf/002254)
+[Verapamil-ratiopharm® 240 mg](data/002254.pdf)
 
-[Nitregamma® 20](http://www.fachinfo.de/pdf/002260)
+[Nitregamma® 20](data/002260.pdf)
 
-[Virudermin Gel](http://www.fachinfo.de/pdf/002279)
+[Virudermin Gel](data/002279.pdf)
 
-[Vitamin B1-ratiopharm®](http://www.fachinfo.de/pdf/002289)
+[Vitamin B1-ratiopharm®](data/002289.pdf)
 
-[Vitamin B12-ratiopharm® 10 μg](http://www.fachinfo.de/pdf/002290)
+[Vitamin B12-ratiopharm® 10 μg](data/002290.pdf)
 
-[Volon® A solubile](http://www.fachinfo.de/pdf/002299)
+[Volon® A solubile](data/002299.pdf)
 
-[Volon® A Tinktur N](http://www.fachinfo.de/pdf/002300)
+[Volon® A Tinktur N](data/002300.pdf)
 
-[Volon® A Haftsalbe](http://www.fachinfo.de/pdf/002301)
+[Volon® A Haftsalbe](data/002301.pdf)
 
-[Volonimat ® Creme](http://www.fachinfo.de/pdf/002304)
+[Volonimat ® Creme](data/002304.pdf)
 
-[Voltaren ®](http://www.fachinfo.de/pdf/002307)
+[Voltaren ®](data/002307.pdf)
 
-[Zaditen® Sirup](http://www.fachinfo.de/pdf/002321)
+[Zaditen® Sirup](data/002321.pdf)
 
-[Leponex® 25 mg/- 100 mg](http://www.fachinfo.de/pdf/002323)
+[Leponex® 25 mg/- 100 mg](data/002323.pdf)
 
-[vitamin B12-Loges® Injektionslösung](http://www.fachinfo.de/pdf/002331)
+[vitamin B12-Loges® Injektionslösung](data/002331.pdf)
 
-[Zyloric®](http://www.fachinfo.de/pdf/002332)
+[Zyloric®](data/002332.pdf)
 
-[Daivonex® 50 μg/g Salbe](http://www.fachinfo.de/pdf/002340)
+[Daivonex® 50 μg/g Salbe](data/002340.pdf)
 
-[Alprazolam AbZ 0,25 mg Tabletten](http://www.fachinfo.de/pdf/002342)
+[Alprazolam AbZ 0,25 mg Tabletten](data/002342.pdf)
 
-[Fluconazol-ratiopharm® Hartkapseln](http://www.fachinfo.de/pdf/002350)
+[Fluconazol-ratiopharm® Hartkapseln](data/002350.pdf)
 
-[sche, insbesondere neurologische Befunde](http://www.fachinfo.de/pdf/002364)
+[sche, insbesondere neurologische Befunde](data/002364.pdf)
 
-[Gittalun® Trinktabletten](http://www.fachinfo.de/pdf/002367)
+[Gittalun® Trinktabletten](data/002367.pdf)
 
-[CEFURAX®](http://www.fachinfo.de/pdf/002370)
+[CEFURAX®](data/002370.pdf)
 
-[Fluconazol AbZ 50 mg / 150 mg Hartkapseln](http://www.fachinfo.de/pdf/002372)
+[Fluconazol AbZ 50 mg / 150 mg Hartkapseln](data/002372.pdf)
 
-[ZYPREXA VELOTAB](http://www.fachinfo.de/pdf/002385)
+[ZYPREXA VELOTAB](data/002385.pdf)
 
-[Zopiclon AbZ 7,5 mg Filmtabletten](http://www.fachinfo.de/pdf/002386)
+[Zopiclon AbZ 7,5 mg Filmtabletten](data/002386.pdf)
 
-[Fluconazol-CT Hartkapseln](http://www.fachinfo.de/pdf/002387)
+[Fluconazol-CT Hartkapseln](data/002387.pdf)
 
-[Haloperidol-GRY® 1 mg](http://www.fachinfo.de/pdf/002389)
+[Haloperidol-GRY® 1 mg](data/002389.pdf)
 
-[Monapax Tropfen](http://www.fachinfo.de/pdf/002390)
+[Monapax Tropfen](data/002390.pdf)
 
-[Esberitox® mono Tropfen](http://www.fachinfo.de/pdf/002402)
+[Esberitox® mono Tropfen](data/002402.pdf)
 
-[Ismo® 20](http://www.fachinfo.de/pdf/002406)
+[Ismo® 20](data/002406.pdf)
 
-[KadeFungin® 3 Vaginaltabletten](http://www.fachinfo.de/pdf/002407)
+[KadeFungin® 3 Vaginaltabletten](data/002407.pdf)
 
-[KadeFungin® 3 Vaginalcreme](http://www.fachinfo.de/pdf/002410)
+[KadeFungin® 3 Vaginalcreme](data/002410.pdf)
 
-[KadeFungin® 6 Vaginalcreme](http://www.fachinfo.de/pdf/002413)
+[KadeFungin® 6 Vaginalcreme](data/002413.pdf)
 
-[KadeFungin® 6 Vaginaltabletten](http://www.fachinfo.de/pdf/002415)
+[KadeFungin® 6 Vaginaltabletten](data/002415.pdf)
 
-[Ferro-Folgamma®](http://www.fachinfo.de/pdf/002422)
+[Ferro-Folgamma®](data/002422.pdf)
 
-[Kybernin® P 500/P 1000](http://www.fachinfo.de/pdf/002424)
+[Kybernin® P 500/P 1000](data/002424.pdf)
 
-[Ampho-Moronal®](http://www.fachinfo.de/pdf/002429)
+[Ampho-Moronal®](data/002429.pdf)
 
-[Megalac ® Hydrotalcit](http://www.fachinfo.de/pdf/002432)
+[Megalac ® Hydrotalcit](data/002432.pdf)
 
-[Moronal® Salbe](http://www.fachinfo.de/pdf/002433)
+[Moronal® Salbe](data/002433.pdf)
 
-[Mysteclin](http://www.fachinfo.de/pdf/002437)
+[Mysteclin](data/002437.pdf)
 
-[ACE-Hemmer-ratiopharm® comp. 25 mg/12,5 mg](http://www.fachinfo.de/pdf/002440)
+[ACE-Hemmer-ratiopharm® comp. 25 mg/12,5 mg](data/002440.pdf)
 
-[Favistan ® Tabletten](http://www.fachinfo.de/pdf/002456)
+[Favistan ® Tabletten](data/002456.pdf)
 
-[Favistan ® Injektionslösung](http://www.fachinfo.de/pdf/002457)
+[Favistan ® Injektionslösung](data/002457.pdf)
 
-[Hox alpha®](http://www.fachinfo.de/pdf/002458)
+[Hox alpha®](data/002458.pdf)
 
-[Transbronchin Kapseln](http://www.fachinfo.de/pdf/002459)
+[Transbronchin Kapseln](data/002459.pdf)
 
-[B12-ASmedic ®](http://www.fachinfo.de/pdf/002463)
+[B12-ASmedic ®](data/002463.pdf)
 
-[Bromazepam-ratiopharm® 6 mg](http://www.fachinfo.de/pdf/002473)
+[Bromazepam-ratiopharm® 6 mg](data/002473.pdf)
 
-[Amdipharm Heitrin ®](http://www.fachinfo.de/pdf/002475)
+[Amdipharm Heitrin ®](data/002475.pdf)
 
-[Glibenclamid 3,5 Heumann](http://www.fachinfo.de/pdf/002476)
+[Glibenclamid 3,5 Heumann](data/002476.pdf)
 
-[Calcium-CT 500 mg Kautabletten](http://www.fachinfo.de/pdf/002478)
+[Calcium-CT 500 mg Kautabletten](data/002478.pdf)
 
-[B12-ASmedic ® Tropfen](http://www.fachinfo.de/pdf/002489)
+[B12-ASmedic ® Tropfen](data/002489.pdf)
 
-[Aminophyllin® 125 mg](http://www.fachinfo.de/pdf/002490)
+[Aminophyllin® 125 mg](data/002490.pdf)
 
-[pantostin®](http://www.fachinfo.de/pdf/002491)
+[pantostin®](data/002491.pdf)
 
-[Levitra® 5 mg Filmtabletten](http://www.fachinfo.de/pdf/002499)
+[Levitra® 5 mg Filmtabletten](data/002499.pdf)
 
-[Volon® A-Schüttelmix](http://www.fachinfo.de/pdf/002502)
+[Volon® A-Schüttelmix](data/002502.pdf)
 
-[Nife-CT 20 mg Retardtabletten](http://www.fachinfo.de/pdf/002505)
+[Nife-CT 20 mg Retardtabletten](data/002505.pdf)
 
-[Lormetazepam-ratiopharm® Tabletten](http://www.fachinfo.de/pdf/002507)
+[Lormetazepam-ratiopharm® Tabletten](data/002507.pdf)
 
-[Faros® 600 mg](http://www.fachinfo.de/pdf/002513)
+[Faros® 600 mg](data/002513.pdf)
 
-[Lisigamma ®](http://www.fachinfo.de/pdf/002529)
+[Lisigamma ®](data/002529.pdf)
 
-[Aurum/Lavandula comp. Creme](http://www.fachinfo.de/pdf/002530)
+[Aurum/Lavandula comp. Creme](data/002530.pdf)
 
-[Bolus Eucalypti comp. Pulver](http://www.fachinfo.de/pdf/002533)
+[Bolus Eucalypti comp. Pulver](data/002533.pdf)
 
-[Cardiodoron ® / Magnesium phosphoricum acidum](http://www.fachinfo.de/pdf/002534)
+[Cardiodoron ® / Magnesium phosphoricum acidum](data/002534.pdf)
 
-[Cardiodoron® 1 % / Magnesium phosphoricum acidum D6 aa](http://www.fachinfo.de/pdf/002535)
+[Cardiodoron® 1 % / Magnesium phosphoricum acidum D6 aa](data/002535.pdf)
 
-[Carduus marianus Kapseln](http://www.fachinfo.de/pdf/002536)
+[Carduus marianus Kapseln](data/002536.pdf)
 
-[Rosmarin-Salbe 10 %](http://www.fachinfo.de/pdf/002544)
+[Rosmarin-Salbe 10 %](data/002544.pdf)
 
-[Echinacin® Tabletten Madaus](http://www.fachinfo.de/pdf/002548)
+[Echinacin® Tabletten Madaus](data/002548.pdf)
 
-[Ciprofloxacin-ratiopharm® 100/250/500/750 mg](http://www.fachinfo.de/pdf/002561)
+[Ciprofloxacin-ratiopharm® 100/250/500/750 mg](data/002561.pdf)
 
-[Levitra® 10 mg Filmtabletten](http://www.fachinfo.de/pdf/002565)
+[Levitra® 10 mg Filmtabletten](data/002565.pdf)
 
-[Tromphyllin® retard 600 Retardtabletten](http://www.fachinfo.de/pdf/002570)
+[Tromphyllin® retard 600 Retardtabletten](data/002570.pdf)
 
-[Tavor ® pro injectione 2 mg](http://www.fachinfo.de/pdf/002573)
+[Tavor ® pro injectione 2 mg](data/002573.pdf)
 
-[Levitra® 20 mg Filmtabletten](http://www.fachinfo.de/pdf/002574)
+[Levitra® 20 mg Filmtabletten](data/002574.pdf)
 
-[Spondyvit ®](http://www.fachinfo.de/pdf/002585)
+[Spondyvit ®](data/002585.pdf)
 
-[Gynokadin® Gel](http://www.fachinfo.de/pdf/002588)
+[Gynokadin® Gel](data/002588.pdf)
 
-[Daivonex ® 50 µg/ml Lösung](http://www.fachinfo.de/pdf/002590)
+[Daivonex ® 50 µg/ml Lösung](data/002590.pdf)
 
-[Sobelin ® Granulat](http://www.fachinfo.de/pdf/002592)
+[Sobelin ® Granulat](data/002592.pdf)
 
-[Sobelin ® 75/150/300 mg](http://www.fachinfo.de/pdf/002595)
+[Sobelin ® 75/150/300 mg](data/002595.pdf)
 
-[Actonel® 30 mg Filmtabletten](http://www.fachinfo.de/pdf/002603)
+[Actonel® 30 mg Filmtabletten](data/002603.pdf)
 
-[Canesten® Extra Nagelset](http://www.fachinfo.de/pdf/002612)
+[Canesten® Extra Nagelset](data/002612.pdf)
 
-[Kinzalmono® 20 mg Tabletten](http://www.fachinfo.de/pdf/002616)
+[Kinzalmono® 20 mg Tabletten](data/002616.pdf)
 
-[Bronchoretard® Tag 200/Nacht 350](http://www.fachinfo.de/pdf/002618)
+[Bronchoretard® Tag 200/Nacht 350](data/002618.pdf)
 
-[Kinzalmono® 40 mg Tabletten](http://www.fachinfo.de/pdf/002621)
+[Kinzalmono® 40 mg Tabletten](data/002621.pdf)
 
-[Kinzalmono® 80 mg Tabletten](http://www.fachinfo.de/pdf/002622)
+[Kinzalmono® 80 mg Tabletten](data/002622.pdf)
 
-[Kytta-Sedativum® Dragees](http://www.fachinfo.de/pdf/002624)
+[Kytta-Sedativum® Dragees](data/002624.pdf)
 
-[Kinzalkomb® 40 mg 12,5 mg Tabletten](http://www.fachinfo.de/pdf/002626)
+[Kinzalkomb® 40 mg 12,5 mg Tabletten](data/002626.pdf)
 
-[Encephabol ®](http://www.fachinfo.de/pdf/002633)
+[Encephabol ®](data/002633.pdf)
 
-[NasenSpray-ratiopharm®](http://www.fachinfo.de/pdf/002634)
+[NasenSpray-ratiopharm®](data/002634.pdf)
 
-[Metronidazol Artesan-Drossapharm](http://www.fachinfo.de/pdf/002637)
+[Metronidazol Artesan-Drossapharm](data/002637.pdf)
 
-[Kinzalkomb® 80 mg 12,5 mg Tabletten](http://www.fachinfo.de/pdf/002639)
+[Kinzalkomb® 80 mg 12,5 mg Tabletten](data/002639.pdf)
 
-[Gastrografin®](http://www.fachinfo.de/pdf/002645)
+[Gastrografin®](data/002645.pdf)
 
-[Viramune® 200 mg Tabletten](http://www.fachinfo.de/pdf/002647)
+[Viramune® 200 mg Tabletten](data/002647.pdf)
 
-[Phosphalugel®](http://www.fachinfo.de/pdf/002654)
+[Phosphalugel®](data/002654.pdf)
 
-[Cholagogum Nattermann ® Artischocke Liquidum](http://www.fachinfo.de/pdf/002666)
+[Cholagogum Nattermann ® Artischocke Liquidum](data/002666.pdf)
 
-[Helixor® A/-M/-P](http://www.fachinfo.de/pdf/002672)
+[Helixor® A/-M/-P](data/002672.pdf)
 
-[Effortil® Tropfen](http://www.fachinfo.de/pdf/002675)
+[Effortil® Tropfen](data/002675.pdf)
 
-[Sandimmun® Optoral 100 mg/ml](http://www.fachinfo.de/pdf/002678)
+[Sandimmun® Optoral 100 mg/ml](data/002678.pdf)
 
-[Cormagnesin 200/400](http://www.fachinfo.de/pdf/002684)
+[Cormagnesin 200/400](data/002684.pdf)
 
-[Endo-Paractol® 0,526 g/100 ml Emulsion](http://www.fachinfo.de/pdf/002696)
+[Endo-Paractol® 0,526 g/100 ml Emulsion](data/002696.pdf)
 
-[Pirocutan® Gel](http://www.fachinfo.de/pdf/002702)
+[Pirocutan® Gel](data/002702.pdf)
 
-[Cholagogum Nattermann® Artischocke Kapsel](http://www.fachinfo.de/pdf/002703)
+[Cholagogum Nattermann® Artischocke Kapsel](data/002703.pdf)
 
-[Agnucaston®](http://www.fachinfo.de/pdf/002716)
+[Agnucaston®](data/002716.pdf)
 
-[frubiase® calcium forte 500](http://www.fachinfo.de/pdf/002724)
+[frubiase® calcium forte 500](data/002724.pdf)
 
-[Novofem® Filmtabletten](http://www.fachinfo.de/pdf/002736)
+[Novofem® Filmtabletten](data/002736.pdf)
 
-[Calciumgluconat B. Braun 10 %](http://www.fachinfo.de/pdf/002742)
+[Calciumgluconat B. Braun 10 %](data/002742.pdf)
 
-[Zolpidem real 10 mg](http://www.fachinfo.de/pdf/002745)
+[Zolpidem real 10 mg](data/002745.pdf)
 
-[Resistan ® mono](http://www.fachinfo.de/pdf/002749)
+[Resistan ® mono](data/002749.pdf)
 
-[Hepar 10 % Baxter](http://www.fachinfo.de/pdf/002761)
+[Hepar 10 % Baxter](data/002761.pdf)
 
-[Simethicon-ratiopharm® 85 mg](http://www.fachinfo.de/pdf/002768)
+[Simethicon-ratiopharm® 85 mg](data/002768.pdf)
 
-[Fentanyl-ratiopharm®](http://www.fachinfo.de/pdf/002788)
+[Fentanyl-ratiopharm®](data/002788.pdf)
 
-[Nasivin® ohne Konservierungsstoffe](http://www.fachinfo.de/pdf/002798)
+[Nasivin® ohne Konservierungsstoffe](data/002798.pdf)
 
-[Digitoxin AWD 0,07](http://www.fachinfo.de/pdf/002799)
+[Digitoxin AWD 0,07](data/002799.pdf)
 
-[Amdipharm Erythrocin ®-i.v.](http://www.fachinfo.de/pdf/002807)
+[Amdipharm Erythrocin ®-i.v.](data/002807.pdf)
 
-[Amdipharm Erythrocin 500 mg Neo](http://www.fachinfo.de/pdf/002808)
+[Amdipharm Erythrocin 500 mg Neo](data/002808.pdf)
 
-[ASPIRIN® MIGRÄNE](http://www.fachinfo.de/pdf/002811)
+[ASPIRIN® MIGRÄNE](data/002811.pdf)
 
-[Faustan](http://www.fachinfo.de/pdf/002827)
+[Faustan](data/002827.pdf)
 
-[Gyno-Pevaryl ® Creme, 10 mg/g Creme](http://www.fachinfo.de/pdf/002830)
+[Gyno-Pevaryl ® Creme, 10 mg/g Creme](data/002830.pdf)
 
-[Faustan 5](http://www.fachinfo.de/pdf/002833)
+[Faustan 5](data/002833.pdf)
 
-[GYNO-PEVARYL® 3/6 Ovula,](http://www.fachinfo.de/pdf/002834)
+[GYNO-PEVARYL® 3/6 Ovula,](data/002834.pdf)
 
-[Zink-Injekt N](http://www.fachinfo.de/pdf/002841)
+[Zink-Injekt N](data/002841.pdf)
 
-[Actonel® 5 mg Filmtabletten](http://www.fachinfo.de/pdf/002843)
+[Actonel® 5 mg Filmtabletten](data/002843.pdf)
 
-[Herphonal ® 25 mg](http://www.fachinfo.de/pdf/002846)
+[Herphonal ® 25 mg](data/002846.pdf)
 
-[Kalymin® forte 5 mg](http://www.fachinfo.de/pdf/002853)
+[Kalymin® forte 5 mg](data/002853.pdf)
 
-[Conceplan ® M](http://www.fachinfo.de/pdf/002874)
+[Conceplan ® M](data/002874.pdf)
 
-[Levocarb-TEVA® 200 mg/50 mg Tabletten](http://www.fachinfo.de/pdf/002878)
+[Levocarb-TEVA® 200 mg/50 mg Tabletten](data/002878.pdf)
 
-[Gadovist® 1,0 mmol/ml](http://www.fachinfo.de/pdf/002919)
+[Gadovist® 1,0 mmol/ml](data/002919.pdf)
 
-[Virzin ® 200 mg/400 mg/800 mg](http://www.fachinfo.de/pdf/002933)
+[Virzin ® 200 mg/400 mg/800 mg](data/002933.pdf)
 
-[Calcimagon®-D3](http://www.fachinfo.de/pdf/002951)
+[Calcimagon®-D3](data/002951.pdf)
 
-[Ritalin® 10 mg Tabletten](http://www.fachinfo.de/pdf/002958)
+[Ritalin® 10 mg Tabletten](data/002958.pdf)
 
-[Mastodynon®](http://www.fachinfo.de/pdf/002969)
+[Mastodynon®](data/002969.pdf)
 
-[Daunoblastin](http://www.fachinfo.de/pdf/002977)
+[Daunoblastin](data/002977.pdf)
 
-[Paracefan® Injektionslösung](http://www.fachinfo.de/pdf/002979)
+[Paracefan® Injektionslösung](data/002979.pdf)
 
-[Reparil®-Gel N](http://www.fachinfo.de/pdf/002989)
+[Reparil®-Gel N](data/002989.pdf)
 
-[Silymarin-CT Hartkapseln](http://www.fachinfo.de/pdf/002992)
+[Silymarin-CT Hartkapseln](data/002992.pdf)
 
-[Kevatril® Filmtabletten 2 mg](http://www.fachinfo.de/pdf/002995)
+[Kevatril® Filmtabletten 2 mg](data/002995.pdf)
 
-[Ultracarbon®](http://www.fachinfo.de/pdf/003001)
+[Ultracarbon®](data/003001.pdf)
 
-[Mucosolvan® Lutschpastillen 15 mg](http://www.fachinfo.de/pdf/003005)
+[Mucosolvan® Lutschpastillen 15 mg](data/003005.pdf)
 
-[L-Thyroxin Henning® 25 – 200](http://www.fachinfo.de/pdf/003011)
+[L-Thyroxin Henning® 25 – 200](data/003011.pdf)
 
-[Valproat-CT 300 mg / 600 mg Filmtabletten](http://www.fachinfo.de/pdf/003015)
+[Valproat-CT 300 mg / 600 mg Filmtabletten](data/003015.pdf)
 
-[Talcid®](http://www.fachinfo.de/pdf/003027)
+[Talcid®](data/003027.pdf)
 
-[Sufenta® epidural](http://www.fachinfo.de/pdf/003029)
+[Sufenta® epidural](data/003029.pdf)
 
-[Onkotrone](http://www.fachinfo.de/pdf/003037)
+[Onkotrone](data/003037.pdf)
 
-[CELESTAN® Depot](http://www.fachinfo.de/pdf/003041)
+[CELESTAN® Depot](data/003041.pdf)
 
-[Ameu® 500 mg](http://www.fachinfo.de/pdf/003043)
+[Ameu® 500 mg](data/003043.pdf)
 
-[Captopril comp. AbZ 25 mg / 12,5 mg Tabletten](http://www.fachinfo.de/pdf/003047)
+[Captopril comp. AbZ 25 mg / 12,5 mg Tabletten](data/003047.pdf)
 
-[Aktren®/Aktren® Forte /Aktren® Spezial](http://www.fachinfo.de/pdf/003049)
+[Aktren®/Aktren® Forte /Aktren® Spezial](data/003049.pdf)
 
-[ISO-EREMFAT 100 mg/150 mg](http://www.fachinfo.de/pdf/003055)
+[ISO-EREMFAT 100 mg/150 mg](data/003055.pdf)
 
-[Marcumar®](http://www.fachinfo.de/pdf/003056)
+[Marcumar®](data/003056.pdf)
 
-[Anexate®](http://www.fachinfo.de/pdf/003058)
+[Anexate®](data/003058.pdf)
 
-[Dalmadorm ® 30 mg Filmtabletten](http://www.fachinfo.de/pdf/003059)
+[Dalmadorm ® 30 mg Filmtabletten](data/003059.pdf)
 
-[Konakion® MM 10 mg](http://www.fachinfo.de/pdf/003063)
+[Konakion® MM 10 mg](data/003063.pdf)
 
-[Lexotanil ® 6 mg](http://www.fachinfo.de/pdf/003064)
+[Lexotanil ® 6 mg](data/003064.pdf)
 
-[Librium ® Tabs 25 mg Filmtabletten](http://www.fachinfo.de/pdf/003067)
+[Librium ® Tabs 25 mg Filmtabletten](data/003067.pdf)
 
-[Madopar®](http://www.fachinfo.de/pdf/003071)
+[Madopar®](data/003071.pdf)
 
-[Mogadan® 5 mg Tabletten](http://www.fachinfo.de/pdf/003073)
+[Mogadan® 5 mg Tabletten](data/003073.pdf)
 
-[Rohypnol ® Konzentrat zur Herstellung einer](http://www.fachinfo.de/pdf/003077)
+[Rohypnol ® Konzentrat zur Herstellung einer](data/003077.pdf)
 
-[EPIPEVISONE®](http://www.fachinfo.de/pdf/003079)
+[EPIPEVISONE®](data/003079.pdf)
 
-[Rivotril®](http://www.fachinfo.de/pdf/003091)
+[Rivotril®](data/003091.pdf)
 
-[Rivotril®](http://www.fachinfo.de/pdf/003092)
+[Rivotril®](data/003092.pdf)
 
-[Bifon Creme](http://www.fachinfo.de/pdf/003099)
+[Bifon Creme](data/003099.pdf)
 
-[Simvastatin real 10 mg/20 mg/40 mg](http://www.fachinfo.de/pdf/003101)
+[Simvastatin real 10 mg/20 mg/40 mg](data/003101.pdf)
 
-[Cortidexason comp.](http://www.fachinfo.de/pdf/003107)
+[Cortidexason comp.](data/003107.pdf)
 
-[Dolgit® 200/400](http://www.fachinfo.de/pdf/003109)
+[Dolgit® 200/400](data/003109.pdf)
 
-[proff® Schmerzcreme,](http://www.fachinfo.de/pdf/003110)
+[proff® Schmerzcreme,](data/003110.pdf)
 
-[Furo-CT 500 mg Tabletten](http://www.fachinfo.de/pdf/003114)
+[Furo-CT 500 mg Tabletten](data/003114.pdf)
 
-[Staurodorm® Neu](http://www.fachinfo.de/pdf/003115)
+[Staurodorm® Neu](data/003115.pdf)
 
-[proff® Schmerzgel](http://www.fachinfo.de/pdf/003116)
+[proff® Schmerzgel](data/003116.pdf)
 
-[Plastufer ®](http://www.fachinfo.de/pdf/003124)
+[Plastufer ®](data/003124.pdf)
 
-[Zolpidem-CT 10 mg Filmtabletten](http://www.fachinfo.de/pdf/003125)
+[Zolpidem-CT 10 mg Filmtabletten](data/003125.pdf)
 
-[DreisaFol® 5 mg Tabletten](http://www.fachinfo.de/pdf/003127)
+[DreisaFol® 5 mg Tabletten](data/003127.pdf)
 
-[Tavor ® 1,0/2,5 mg Expidet](http://www.fachinfo.de/pdf/003129)
+[Tavor ® 1,0/2,5 mg Expidet](data/003129.pdf)
 
-[Ciproflox-CT Filmtabletten](http://www.fachinfo.de/pdf/003137)
+[Ciproflox-CT Filmtabletten](data/003137.pdf)
 
-[Dopegyt®-Tabletten](http://www.fachinfo.de/pdf/003139)
+[Dopegyt®-Tabletten](data/003139.pdf)
 
-[Colifoam® Rektalschaum](http://www.fachinfo.de/pdf/003140)
+[Colifoam® Rektalschaum](data/003140.pdf)
 
-[Cardiodoron ® Dilution](http://www.fachinfo.de/pdf/003151)
+[Cardiodoron ® Dilution](data/003151.pdf)
 
-[Cardiodoron® mite Dilution](http://www.fachinfo.de/pdf/003152)
+[Cardiodoron® mite Dilution](data/003152.pdf)
 
-[Fentanyl B. Braun 0,5 mg](http://www.fachinfo.de/pdf/003164)
+[Fentanyl B. Braun 0,5 mg](data/003164.pdf)
 
-[Fentanyl B. Braun 0,1 mg](http://www.fachinfo.de/pdf/003166)
+[Fentanyl B. Braun 0,1 mg](data/003166.pdf)
 
-[Alkeran ® 2 mg Filmtabletten](http://www.fachinfo.de/pdf/003174)
+[Alkeran ® 2 mg Filmtabletten](data/003174.pdf)
 
-[Cephalexin-ratiopharm® 500 mg / 1000 mg](http://www.fachinfo.de/pdf/003175)
+[Cephalexin-ratiopharm® 500 mg / 1000 mg](data/003175.pdf)
 
-[allergo-loges®](http://www.fachinfo.de/pdf/003177)
+[allergo-loges®](data/003177.pdf)
 
-[nasic®-cur](http://www.fachinfo.de/pdf/003184)
+[nasic®-cur](data/003184.pdf)
 
-[thyreo-loges® comp.](http://www.fachinfo.de/pdf/003188)
+[thyreo-loges® comp.](data/003188.pdf)
 
-[Atenolol 25/50/100 Heumann®](http://www.fachinfo.de/pdf/003189)
+[Atenolol 25/50/100 Heumann®](data/003189.pdf)
 
-[thyreoLoges®](http://www.fachinfo.de/pdf/003201)
+[thyreoLoges®](data/003201.pdf)
 
-[Gentamicin-POS®](http://www.fachinfo.de/pdf/003204)
+[Gentamicin-POS®](data/003204.pdf)
 
-[Biotin-ratiopharm® 5 mg](http://www.fachinfo.de/pdf/003211)
+[Biotin-ratiopharm® 5 mg](data/003211.pdf)
 
-[Dimeticon-CT 85 mg Kautabletten](http://www.fachinfo.de/pdf/003212)
+[Dimeticon-CT 85 mg Kautabletten](data/003212.pdf)
 
-[Erythro-CT 1000 mg Granulat](http://www.fachinfo.de/pdf/003213)
+[Erythro-CT 1000 mg Granulat](data/003213.pdf)
 
-[toxi-loges® Tropfen](http://www.fachinfo.de/pdf/003219)
+[toxi-loges® Tropfen](data/003219.pdf)
 
-[Nystatin Lederle Tropfen 100.000 I. E./ml Suspension](http://www.fachinfo.de/pdf/003221)
+[Nystatin Lederle Tropfen 100.000 I. E./ml Suspension](data/003221.pdf)
 
-[Azur ® compositum Zäpfchen](http://www.fachinfo.de/pdf/003232)
+[Azur ® compositum Zäpfchen](data/003232.pdf)
 
-[Belnif®](http://www.fachinfo.de/pdf/003240)
+[Belnif®](data/003240.pdf)
 
-[Tamoxifen 20 Heumann](http://www.fachinfo.de/pdf/003243)
+[Tamoxifen 20 Heumann](data/003243.pdf)
 
-[Galderma Meladinine ® Lösungskonzentrat 0,3%](http://www.fachinfo.de/pdf/003245)
+[Galderma Meladinine ® Lösungskonzentrat 0,3%](data/003245.pdf)
 
-[Zavedos ® 10 mg/10 ml](http://www.fachinfo.de/pdf/003252)
+[Zavedos ® 10 mg/10 ml](data/003252.pdf)
 
-[Echinacin® Saft MADAUS](http://www.fachinfo.de/pdf/003256)
+[Echinacin® Saft MADAUS](data/003256.pdf)
 
-[Allopurinol-ratiopharm® comp. 100 mg/20 mg](http://www.fachinfo.de/pdf/003257)
+[Allopurinol-ratiopharm® comp. 100 mg/20 mg](data/003257.pdf)
 
-[toxi-loges® Tabletten](http://www.fachinfo.de/pdf/003259)
+[toxi-loges® Tabletten](data/003259.pdf)
 
-[Sobelin ® Solubile](http://www.fachinfo.de/pdf/003271)
+[Sobelin ® Solubile](data/003271.pdf)
 
-[KadeFungin® 3 Kombi Packung](http://www.fachinfo.de/pdf/003273)
+[KadeFungin® 3 Kombi Packung](data/003273.pdf)
 
-[KadeFungin® 6 Kombi-Packung](http://www.fachinfo.de/pdf/003279)
+[KadeFungin® 6 Kombi-Packung](data/003279.pdf)
 
-[Prosta Urgenin® Uno](http://www.fachinfo.de/pdf/003292)
+[Prosta Urgenin® Uno](data/003292.pdf)
 
-[Xyloneural Durchstechflaschen](http://www.fachinfo.de/pdf/003299)
+[Xyloneural Durchstechflaschen](data/003299.pdf)
 
-[CELEBREX ® 100 mg/200 mg](http://www.fachinfo.de/pdf/003300)
+[CELEBREX ® 100 mg/200 mg](data/003300.pdf)
 
-[Noristerat® 200 mg Injektionslösung](http://www.fachinfo.de/pdf/003308)
+[Noristerat® 200 mg Injektionslösung](data/003308.pdf)
 
-[Cellidrin®](http://www.fachinfo.de/pdf/003310)
+[Cellidrin®](data/003310.pdf)
 
-[DESMIN® 20/- 30 Filmtabletten](http://www.fachinfo.de/pdf/003313)
+[DESMIN® 20/- 30 Filmtabletten](data/003313.pdf)
 
-[Rheumon® i. m.](http://www.fachinfo.de/pdf/003314)
+[Rheumon® i. m.](data/003314.pdf)
 
-[Eicosapen®](http://www.fachinfo.de/pdf/003316)
+[Eicosapen®](data/003316.pdf)
 
-[Metformin-CT 850 mg Filmtabletten](http://www.fachinfo.de/pdf/003320)
+[Metformin-CT 850 mg Filmtabletten](data/003320.pdf)
 
-[Mundbalsam flüssig](http://www.fachinfo.de/pdf/003336)
+[Mundbalsam flüssig](data/003336.pdf)
 
-[Natulan](http://www.fachinfo.de/pdf/003342)
+[Natulan](data/003342.pdf)
 
-[POLYERGA DRAGEES](http://www.fachinfo.de/pdf/003358)
+[POLYERGA DRAGEES](data/003358.pdf)
 
-[Ofloxacin AbZ 200 mg Filmtabletten](http://www.fachinfo.de/pdf/003361)
+[Ofloxacin AbZ 200 mg Filmtabletten](data/003361.pdf)
 
-[Oxybutynin-CT 2,5 mg / 5 mg](http://www.fachinfo.de/pdf/003363)
+[Oxybutynin-CT 2,5 mg / 5 mg](data/003363.pdf)
 
-[Kräuterlax®](http://www.fachinfo.de/pdf/003365)
+[Kräuterlax®](data/003365.pdf)
 
-[Gargarisma zum Gurgeln](http://www.fachinfo.de/pdf/003372)
+[Gargarisma zum Gurgeln](data/003372.pdf)
 
-[Atenolol-CT Filmtabletten](http://www.fachinfo.de/pdf/003400)
+[Atenolol-CT Filmtabletten](data/003400.pdf)
 
-[Anxut® 5 mg/10 mg](http://www.fachinfo.de/pdf/003411)
+[Anxut® 5 mg/10 mg](data/003411.pdf)
 
-[Mono-Embolex® 8000 I.E.](http://www.fachinfo.de/pdf/003413)
+[Mono-Embolex® 8000 I.E.](data/003413.pdf)
 
-[Td-RIX®](http://www.fachinfo.de/pdf/003427)
+[Td-RIX®](data/003427.pdf)
 
-[Aspirin® Coffein](http://www.fachinfo.de/pdf/003438)
+[Aspirin® Coffein](data/003438.pdf)
 
-[Glucobay® 50 mg](http://www.fachinfo.de/pdf/003443)
+[Glucobay® 50 mg](data/003443.pdf)
 
-[Fragmin ® 10 ml Multidose](http://www.fachinfo.de/pdf/003445)
+[Fragmin ® 10 ml Multidose](data/003445.pdf)
 
-[REVAXiS®](http://www.fachinfo.de/pdf/003462)
+[REVAXiS®](data/003462.pdf)
 
-[Tolid ®](http://www.fachinfo.de/pdf/003478)
+[Tolid ®](data/003478.pdf)
 
-[Oxybugamma® 2,5](http://www.fachinfo.de/pdf/003502)
+[Oxybugamma® 2,5](data/003502.pdf)
 
-[selenase ® 50 peroral](http://www.fachinfo.de/pdf/003507)
+[selenase ® 50 peroral](data/003507.pdf)
 
-[Cefuroxim-ratiopharm® 125 mg/5 ml TS](http://www.fachinfo.de/pdf/003525)
+[Cefuroxim-ratiopharm® 125 mg/5 ml TS](data/003525.pdf)
 
-[Laxans-ratiopharm® 5 mg magensaftresistente Tabletten](http://www.fachinfo.de/pdf/003535)
+[Laxans-ratiopharm® 5 mg magensaftresistente Tabletten](data/003535.pdf)
 
-[Penicillin V-CT 1,0 Mio I.E.](http://www.fachinfo.de/pdf/003553)
+[Penicillin V-CT 1,0 Mio I.E.](data/003553.pdf)
 
-[NovoNorm®](http://www.fachinfo.de/pdf/003554)
+[NovoNorm®](data/003554.pdf)
 
-[Laxagetten®-CT 5 mg Abführtabletten](http://www.fachinfo.de/pdf/003555)
+[Laxagetten®-CT 5 mg Abführtabletten](data/003555.pdf)
 
-[Spasmolyt 10 mg/20 mg](http://www.fachinfo.de/pdf/003559)
+[Spasmolyt 10 mg/20 mg](data/003559.pdf)
 
-[Voltaren® Plus 50 mg/50 mg Filmtabletten](http://www.fachinfo.de/pdf/003562)
+[Voltaren® Plus 50 mg/50 mg Filmtabletten](data/003562.pdf)
 
-[Mucosolvan® Filmtabletten 60 mg](http://www.fachinfo.de/pdf/003568)
+[Mucosolvan® Filmtabletten 60 mg](data/003568.pdf)
 
-[Tenuate® Retard](http://www.fachinfo.de/pdf/003576)
+[Tenuate® Retard](data/003576.pdf)
 
-[Dr. Henk Balkis](http://www.fachinfo.de/pdf/003585)
+[Dr. Henk Balkis](data/003585.pdf)
 
-[Ossofortin® forte](http://www.fachinfo.de/pdf/003586)
+[Ossofortin® forte](data/003586.pdf)
 
-[Loraderm®](http://www.fachinfo.de/pdf/003588)
+[Loraderm®](data/003588.pdf)
 
-[Vigil 100 mg / 200 mg Tabletten](http://www.fachinfo.de/pdf/003592)
+[Vigil 100 mg / 200 mg Tabletten](data/003592.pdf)
 
-[Triamteren comp.-CT 50 mg/25 mg Filmtabletten](http://www.fachinfo.de/pdf/003598)
+[Triamteren comp.-CT 50 mg/25 mg Filmtabletten](data/003598.pdf)
 
-[OCTOSTIM Dosierspray 1,5 mg/ml](http://www.fachinfo.de/pdf/003599)
+[OCTOSTIM Dosierspray 1,5 mg/ml](data/003599.pdf)
 
-[Bisogamma® 5/10](http://www.fachinfo.de/pdf/003605)
+[Bisogamma® 5/10](data/003605.pdf)
 
-[Aspirin® Effect](http://www.fachinfo.de/pdf/003610)
+[Aspirin® Effect](data/003610.pdf)
 
-[Fuzeon® 90 mg/ml](http://www.fachinfo.de/pdf/003617)
+[Fuzeon® 90 mg/ml](data/003617.pdf)
 
-[Helixate® NexGen 1000 I.E.](http://www.fachinfo.de/pdf/003620)
+[Helixate® NexGen 1000 I.E.](data/003620.pdf)
 
-[Asacol 400 mg](http://www.fachinfo.de/pdf/003622)
+[Asacol 400 mg](data/003622.pdf)
 
-[Echinacin® Capsetten Madaus](http://www.fachinfo.de/pdf/003623)
+[Echinacin® Capsetten Madaus](data/003623.pdf)
 
-[CORDES ® BETA CREME](http://www.fachinfo.de/pdf/003624)
+[CORDES ® BETA CREME](data/003624.pdf)
 
-[Ultreon ®](http://www.fachinfo.de/pdf/003631)
+[Ultreon ®](data/003631.pdf)
 
-[diarrhœsan® Saft](http://www.fachinfo.de/pdf/003634)
+[diarrhœsan® Saft](data/003634.pdf)
 
-[Deltaran® 200/300/400 mg](http://www.fachinfo.de/pdf/003642)
+[Deltaran® 200/300/400 mg](data/003642.pdf)
 
-[Helixate® NexGen 250 I.E.](http://www.fachinfo.de/pdf/003651)
+[Helixate® NexGen 250 I.E.](data/003651.pdf)
 
-[Dolgit® 800](http://www.fachinfo.de/pdf/003667)
+[Dolgit® 800](data/003667.pdf)
 
-[Myrrhinil-Intest®](http://www.fachinfo.de/pdf/003675)
+[Myrrhinil-Intest®](data/003675.pdf)
 
-[Zolpidem-ratiopharm® 5 mg](http://www.fachinfo.de/pdf/003696)
+[Zolpidem-ratiopharm® 5 mg](data/003696.pdf)
 
-[Voltaren® K Migräne 50 mg](http://www.fachinfo.de/pdf/003701)
+[Voltaren® K Migräne 50 mg](data/003701.pdf)
 
-[Loratadin-ratiopharm® 10 mg](http://www.fachinfo.de/pdf/003703)
+[Loratadin-ratiopharm® 10 mg](data/003703.pdf)
 
-[Xenical® 120 mg Hartkapseln](http://www.fachinfo.de/pdf/003707)
+[Xenical® 120 mg Hartkapseln](data/003707.pdf)
 
-[Oxybugamma® 5](http://www.fachinfo.de/pdf/003708)
+[Oxybugamma® 5](data/003708.pdf)
 
-[Helixate® NexGen 500 I.E.](http://www.fachinfo.de/pdf/003711)
+[Helixate® NexGen 500 I.E.](data/003711.pdf)
 
-[Bezafibrat-ratiopharm® 200 mg](http://www.fachinfo.de/pdf/003718)
+[Bezafibrat-ratiopharm® 200 mg](data/003718.pdf)
 
-[Dexa-Gentamicin, Augentropfen](http://www.fachinfo.de/pdf/003724)
+[Dexa-Gentamicin, Augentropfen](data/003724.pdf)
 
-[Pantozol® 20 mg](http://www.fachinfo.de/pdf/003730)
+[Pantozol® 20 mg](data/003730.pdf)
 
-[Bezagamma® 200](http://www.fachinfo.de/pdf/003747)
+[Bezagamma® 200](data/003747.pdf)
 
-[Dilatrend® 3,125 mg/6,25 mg/12,5 mg/25 mg](http://www.fachinfo.de/pdf/003750)
+[Dilatrend® 3,125 mg/6,25 mg/12,5 mg/25 mg](data/003750.pdf)
 
-[Dolestan® forte](http://www.fachinfo.de/pdf/003759)
+[Dolestan® forte](data/003759.pdf)
 
-[Clomifen-ratiopharm® 50 mg Tabletten](http://www.fachinfo.de/pdf/003764)
+[Clomifen-ratiopharm® 50 mg Tabletten](data/003764.pdf)
 
-[Ciprofloxacin AbZ 100/250/500 mg](http://www.fachinfo.de/pdf/003772)
+[Ciprofloxacin AbZ 100/250/500 mg](data/003772.pdf)
 
-[Mucoangin ® gegen Halsschmerzen](http://www.fachinfo.de/pdf/003784)
+[Mucoangin ® gegen Halsschmerzen](data/003784.pdf)
 
-[Lisinopril Heumann](http://www.fachinfo.de/pdf/003785)
+[Lisinopril Heumann](data/003785.pdf)
 
-[Efudix® 5 % Creme](http://www.fachinfo.de/pdf/003786)
+[Efudix® 5 % Creme](data/003786.pdf)
 
-[Salofalk® Granu-Stix® 500mg/- 1000mg/- 1,5g/- 3g](http://www.fachinfo.de/pdf/003794)
+[Salofalk® Granu-Stix® 500mg/- 1000mg/- 1,5g/- 3g](data/003794.pdf)
 
-[Ambene® Tabletten](http://www.fachinfo.de/pdf/003796)
+[Ambene® Tabletten](data/003796.pdf)
 
-[Dipidolor®](http://www.fachinfo.de/pdf/003806)
+[Dipidolor®](data/003806.pdf)
 
-[Haldol®-Janssen 2 mg/5 mg/10 mg](http://www.fachinfo.de/pdf/003810)
+[Haldol®-Janssen 2 mg/5 mg/10 mg](data/003810.pdf)
 
-[Haldol®-Janssen Decanoat, - 3 ml,](http://www.fachinfo.de/pdf/003811)
+[Haldol®-Janssen Decanoat, - 3 ml,](data/003811.pdf)
 
-[Hypnomidate®](http://www.fachinfo.de/pdf/003813)
+[Hypnomidate®](data/003813.pdf)
 
-[RAPIFEN®](http://www.fachinfo.de/pdf/003822)
+[RAPIFEN®](data/003822.pdf)
 
-[Fotil 5 mg/ml + 20 mg/ml](http://www.fachinfo.de/pdf/003829)
+[Fotil 5 mg/ml + 20 mg/ml](data/003829.pdf)
 
-[Elcrit ®](http://www.fachinfo.de/pdf/003838)
+[Elcrit ®](data/003838.pdf)
 
-[Zithromax ® 250 mg Filmtabletten](http://www.fachinfo.de/pdf/003839)
+[Zithromax ® 250 mg Filmtabletten](data/003839.pdf)
 
-[Arnica comp. / Apis Creme](http://www.fachinfo.de/pdf/003842)
+[Arnica comp. / Apis Creme](data/003842.pdf)
 
-[Arnica comp. / Cuprum](http://www.fachinfo.de/pdf/003844)
+[Arnica comp. / Cuprum](data/003844.pdf)
 
-[Chelidonium comp.](http://www.fachinfo.de/pdf/003847)
+[Chelidonium comp.](data/003847.pdf)
 
-[Digestodoron® Dilution, Tabletten](http://www.fachinfo.de/pdf/003851)
+[Digestodoron® Dilution, Tabletten](data/003851.pdf)
 
-[Stannum metallicum 5 % Salbe](http://www.fachinfo.de/pdf/003854)
+[Stannum metallicum 5 % Salbe](data/003854.pdf)
 
-[Produkten oder Thrombinlösungen kann das gewendet wurde oder eine bekannte Über- genannten Informationen hinausgeht. Auf-](http://www.fachinfo.de/pdf/003864)
+[Produkten oder Thrombinlösungen kann das gewendet wurde oder eine bekannte Über- genannten Informationen hinausgeht. Auf-](data/003864.pdf)
 
-[Melperon-CT 25 mg / 50 mg / 100 mg Filmtabletten](http://www.fachinfo.de/pdf/003870)
+[Melperon-CT 25 mg / 50 mg / 100 mg Filmtabletten](data/003870.pdf)
 
-[Ambroxol 30 Heumann](http://www.fachinfo.de/pdf/003877)
+[Ambroxol 30 Heumann](data/003877.pdf)
 
-[Limptar® N 200 mg](http://www.fachinfo.de/pdf/003882)
+[Limptar® N 200 mg](data/003882.pdf)
 
-[Fotil sine 5 mg/ml + 20 mg/ml](http://www.fachinfo.de/pdf/003890)
+[Fotil sine 5 mg/ml + 20 mg/ml](data/003890.pdf)
 
-[Cloderm liquid 1%](http://www.fachinfo.de/pdf/003894)
+[Cloderm liquid 1%](data/003894.pdf)
 
-[NeoRecormon® 500/2.000/3.000/4.000/5.000/6.000/10.000/30.000 I.E.](http://www.fachinfo.de/pdf/003898)
+[NeoRecormon® 500/2.000/3.000/4.000/5.000/6.000/10.000/30.000 I.E.](data/003898.pdf)
 
-[Ximovan®](http://www.fachinfo.de/pdf/003899)
+[Ximovan®](data/003899.pdf)
 
-[Accupro ®](http://www.fachinfo.de/pdf/003903)
+[Accupro ®](data/003903.pdf)
 
-[Domperidon-TEVA® 10 mg Filmtabletten](http://www.fachinfo.de/pdf/003910)
+[Domperidon-TEVA® 10 mg Filmtabletten](data/003910.pdf)
 
-[Krewel Meuselbach GmbH Pernionin ® Thermo-Teilbad](http://www.fachinfo.de/pdf/003928)
+[Krewel Meuselbach GmbH Pernionin ® Thermo-Teilbad](data/003928.pdf)
 
-[Krewel Meuselbach GmbH Pernionin ® Thermo-Vollbad](http://www.fachinfo.de/pdf/003929)
+[Krewel Meuselbach GmbH Pernionin ® Thermo-Vollbad](data/003929.pdf)
 
-[Melperon-ratiopharm® 25 mg / 50 mg / 100 mg Filmtabletten](http://www.fachinfo.de/pdf/003931)
+[Melperon-ratiopharm® 25 mg / 50 mg / 100 mg Filmtabletten](data/003931.pdf)
 
-[Migräne-Kranit® 500 mg](http://www.fachinfo.de/pdf/003932)
+[Migräne-Kranit® 500 mg](data/003932.pdf)
 
-[Balkis Dr. Henk®](http://www.fachinfo.de/pdf/003934)
+[Balkis Dr. Henk®](data/003934.pdf)
 
-[Micardis® 80 mg Tabletten](http://www.fachinfo.de/pdf/003956)
+[Micardis® 80 mg Tabletten](data/003956.pdf)
 
-[Micardis® 40 mg Tabletten](http://www.fachinfo.de/pdf/003957)
+[Micardis® 40 mg Tabletten](data/003957.pdf)
 
-[Pamba® Tabletten](http://www.fachinfo.de/pdf/003960)
+[Pamba® Tabletten](data/003960.pdf)
 
-[HALCION ®](http://www.fachinfo.de/pdf/003964)
+[HALCION ®](data/003964.pdf)
 
-[Mallebrin ®](http://www.fachinfo.de/pdf/003965)
+[Mallebrin ®](data/003965.pdf)
 
-[Mastodynon® Tabletten](http://www.fachinfo.de/pdf/003966)
+[Mastodynon® Tabletten](data/003966.pdf)
 
-[Immunosporin® Weichkapseln](http://www.fachinfo.de/pdf/003974)
+[Immunosporin® Weichkapseln](data/003974.pdf)
 
-[Dolviran® N](http://www.fachinfo.de/pdf/003975)
+[Dolviran® N](data/003975.pdf)
 
-[Ciprobay® 100 mg](http://www.fachinfo.de/pdf/003979)
+[Ciprobay® 100 mg](data/003979.pdf)
 
-[Polbax® novo](http://www.fachinfo.de/pdf/003981)
+[Polbax® novo](data/003981.pdf)
 
-[Metformin Heumann](http://www.fachinfo.de/pdf/003987)
+[Metformin Heumann](data/003987.pdf)
 
-[Volon® A 40/A 40-5 ml](http://www.fachinfo.de/pdf/003993)
+[Volon® A 40/A 40-5 ml](data/003993.pdf)
 
-[Volon® A 10/A 10-5 ml](http://www.fachinfo.de/pdf/003994)
+[Volon® A 10/A 10-5 ml](data/003994.pdf)
 
-[SEMPERA® Kapseln](http://www.fachinfo.de/pdf/004004)
+[SEMPERA® Kapseln](data/004004.pdf)
 
-[vertikalen HIV-Transmission.](http://www.fachinfo.de/pdf/004005)
+[vertikalen HIV-Transmission.](data/004005.pdf)
 
-[Ciprofloxacin Heumann 100 mg/250 mg/500 mg](http://www.fachinfo.de/pdf/004006)
+[Ciprofloxacin Heumann 100 mg/250 mg/500 mg](data/004006.pdf)
 
-[Nalador ®-500](http://www.fachinfo.de/pdf/004009)
+[Nalador ®-500](data/004009.pdf)
 
-[Tobramaxin®](http://www.fachinfo.de/pdf/004012)
+[Tobramaxin®](data/004012.pdf)
 
-[Ibuprofen-CT](http://www.fachinfo.de/pdf/004026)
+[Ibuprofen-CT](data/004026.pdf)
 
-[Cefuroxim Heumann, Filmtabletten](http://www.fachinfo.de/pdf/004027)
+[Cefuroxim Heumann, Filmtabletten](data/004027.pdf)
 
-[Felodipin retard Heumann](http://www.fachinfo.de/pdf/004033)
+[Felodipin retard Heumann](data/004033.pdf)
 
-[Penicillin V 1 Mega Heumann](http://www.fachinfo.de/pdf/004034)
+[Penicillin V 1 Mega Heumann](data/004034.pdf)
 
-[Humalog® Mix25/Mix50](http://www.fachinfo.de/pdf/004038)
+[Humalog® Mix25/Mix50](data/004038.pdf)
 
-[Herceptin® i. v.](http://www.fachinfo.de/pdf/004044)
+[Herceptin® i. v.](data/004044.pdf)
 
-[GeloDurat®-Salbe](http://www.fachinfo.de/pdf/004046)
+[GeloDurat®-Salbe](data/004046.pdf)
 
-[Targretin® 75 mg Weichkapseln](http://www.fachinfo.de/pdf/004049)
+[Targretin® 75 mg Weichkapseln](data/004049.pdf)
 
-[LORATADIN 10 HEUMANN](http://www.fachinfo.de/pdf/004053)
+[LORATADIN 10 HEUMANN](data/004053.pdf)
 
-[Buscopan® Ampullen](http://www.fachinfo.de/pdf/004055)
+[Buscopan® Ampullen](data/004055.pdf)
 
-[GINKOBIL® ratiopharm Tropfen 40 mg](http://www.fachinfo.de/pdf/004059)
+[GINKOBIL® ratiopharm Tropfen 40 mg](data/004059.pdf)
 
-[Bromazep-CT 6 mg Tabletten](http://www.fachinfo.de/pdf/004061)
+[Bromazep-CT 6 mg Tabletten](data/004061.pdf)
 
-[SERENOA-ratiopharm® 160 mg / 320 mg](http://www.fachinfo.de/pdf/004063)
+[SERENOA-ratiopharm® 160 mg / 320 mg](data/004063.pdf)
 
-[Piroxicam-ratiopharm® 20 mg](http://www.fachinfo.de/pdf/004069)
+[Piroxicam-ratiopharm® 20 mg](data/004069.pdf)
 
-[Diazep-CT 10 mg Tabletten](http://www.fachinfo.de/pdf/004071)
+[Diazep-CT 10 mg Tabletten](data/004071.pdf)
 
-[Neurobion® N forte](http://www.fachinfo.de/pdf/004086)
+[Neurobion® N forte](data/004086.pdf)
 
-[ Molsidomin Heumann](http://www.fachinfo.de/pdf/004090)
+[ Molsidomin Heumann](data/004090.pdf)
 
-[Soderm ® Creme/Lotio/Salbe](http://www.fachinfo.de/pdf/004093)
+[Soderm ® Creme/Lotio/Salbe](data/004093.pdf)
 
-[Captogamma® HCT](http://www.fachinfo.de/pdf/004094)
+[Captogamma® HCT](data/004094.pdf)
 
-[Zavedos ®](http://www.fachinfo.de/pdf/004096)
+[Zavedos ®](data/004096.pdf)
 
-[Zopiclon-CT 3,75 mg Filmtabletten](http://www.fachinfo.de/pdf/004098)
+[Zopiclon-CT 3,75 mg Filmtabletten](data/004098.pdf)
 
-[Transpulmin® Erkältungsbalsam](http://www.fachinfo.de/pdf/004108)
+[Transpulmin® Erkältungsbalsam](data/004108.pdf)
 
-[schnupfen endrine ®](http://www.fachinfo.de/pdf/004110)
+[schnupfen endrine ®](data/004110.pdf)
 
-[Weleda Crataegus Tropfen](http://www.fachinfo.de/pdf/004127)
+[Weleda Crataegus Tropfen](data/004127.pdf)
 
-[NovaStep® überzogene Tabletten](http://www.fachinfo.de/pdf/004131)
+[NovaStep® überzogene Tabletten](data/004131.pdf)
 
-[Pirox-CT 20 mg Tabletten](http://www.fachinfo.de/pdf/004135)
+[Pirox-CT 20 mg Tabletten](data/004135.pdf)
 
-[Furosemid 40 Heumann](http://www.fachinfo.de/pdf/004140)
+[Furosemid 40 Heumann](data/004140.pdf)
 
-[MSR 10/20/30 mg Mundipharma ®](http://www.fachinfo.de/pdf/004149)
+[MSR 10/20/30 mg Mundipharma ®](data/004149.pdf)
 
-[Simvastatin Heumann](http://www.fachinfo.de/pdf/004152)
+[Simvastatin Heumann](data/004152.pdf)
 
-[Ergo-Kranit® Migräne](http://www.fachinfo.de/pdf/004161)
+[Ergo-Kranit® Migräne](data/004161.pdf)
 
-[Plenosol MADAUS](http://www.fachinfo.de/pdf/004170)
+[Plenosol MADAUS](data/004170.pdf)
 
-[Alomide® SE](http://www.fachinfo.de/pdf/004174)
+[Alomide® SE](data/004174.pdf)
 
-[Klimadynon®](http://www.fachinfo.de/pdf/004179)
+[Klimadynon®](data/004179.pdf)
 
-[Thiogamma® Turbo-Set](http://www.fachinfo.de/pdf/004182)
+[Thiogamma® Turbo-Set](data/004182.pdf)
 
-[Loperamid-ratiopharm® 0,2 mg/ml](http://www.fachinfo.de/pdf/004189)
+[Loperamid-ratiopharm® 0,2 mg/ml](data/004189.pdf)
 
-[Schmerz-Dolgit®](http://www.fachinfo.de/pdf/004210)
+[Schmerz-Dolgit®](data/004210.pdf)
 
-[Importal®](http://www.fachinfo.de/pdf/004218)
+[Importal®](data/004218.pdf)
 
-[Trevilor retard 37,5/75/150 mg Hartkapseln,](http://www.fachinfo.de/pdf/004226)
+[Trevilor retard 37,5/75/150 mg Hartkapseln,](data/004226.pdf)
 
-[BETOPTIMA® Augentropfen 5 mg/ml](http://www.fachinfo.de/pdf/004234)
+[BETOPTIMA® Augentropfen 5 mg/ml](data/004234.pdf)
 
-[Lysthenon® siccum](http://www.fachinfo.de/pdf/004235)
+[Lysthenon® siccum](data/004235.pdf)
 
-[Gammagard S/D](http://www.fachinfo.de/pdf/004237)
+[Gammagard S/D](data/004237.pdf)
 
-[Ureotop ® Creme/Salbe](http://www.fachinfo.de/pdf/004241)
+[Ureotop ® Creme/Salbe](data/004241.pdf)
 
-[Thioctacid® 200 HR](http://www.fachinfo.de/pdf/004247)
+[Thioctacid® 200 HR](data/004247.pdf)
 
-[Glib-ratiopharm® S Tabletten](http://www.fachinfo.de/pdf/004250)
+[Glib-ratiopharm® S Tabletten](data/004250.pdf)
 
-[CORDES ® BETA SALBE](http://www.fachinfo.de/pdf/004252)
+[CORDES ® BETA SALBE](data/004252.pdf)
 
-[Diclo KD® 75 akut](http://www.fachinfo.de/pdf/004269)
+[Diclo KD® 75 akut](data/004269.pdf)
 
-[L-Carn® Trinklösung, - 1 g](http://www.fachinfo.de/pdf/004273)
+[L-Carn® Trinklösung, - 1 g](data/004273.pdf)
 
-[FARMORUBICIN ® 50 mg HL](http://www.fachinfo.de/pdf/004279)
+[FARMORUBICIN ® 50 mg HL](data/004279.pdf)
 
-[Synarela ®](http://www.fachinfo.de/pdf/004287)
+[Synarela ®](data/004287.pdf)
 
-[Sotagamma® 80/160](http://www.fachinfo.de/pdf/004289)
+[Sotagamma® 80/160](data/004289.pdf)
 
-[Paroxetin AbZ 20 mg](http://www.fachinfo.de/pdf/004294)
+[Paroxetin AbZ 20 mg](data/004294.pdf)
 
-[Xyloneual Ampullen](http://www.fachinfo.de/pdf/004302)
+[Xyloneual Ampullen](data/004302.pdf)
 
-[Pirocutan Creme](http://www.fachinfo.de/pdf/004311)
+[Pirocutan Creme](data/004311.pdf)
 
-[Naproxen-CT](http://www.fachinfo.de/pdf/004314)
+[Naproxen-CT](data/004314.pdf)
 
-[Ambroxol comp.-ratiopharm®](http://www.fachinfo.de/pdf/004318)
+[Ambroxol comp.-ratiopharm®](data/004318.pdf)
 
-[Nasivin® ohne Konservierungsstoffe](http://www.fachinfo.de/pdf/004321)
+[Nasivin® ohne Konservierungsstoffe](data/004321.pdf)
 
-[Teveten® Plus HCT 600 mg/12,5 mg](http://www.fachinfo.de/pdf/004328)
+[Teveten® Plus HCT 600 mg/12,5 mg](data/004328.pdf)
 
-[Kaveri® 50 mg](http://www.fachinfo.de/pdf/004331)
+[Kaveri® 50 mg](data/004331.pdf)
 
-[Pankreatin Mikro-ratiopharm® 20 000](http://www.fachinfo.de/pdf/004340)
+[Pankreatin Mikro-ratiopharm® 20 000](data/004340.pdf)
 
-[Lovastatin-ratiopharm® 20 / 40 mg](http://www.fachinfo.de/pdf/004344)
+[Lovastatin-ratiopharm® 20 / 40 mg](data/004344.pdf)
 
-[Clindamycin Heumann](http://www.fachinfo.de/pdf/004353)
+[Clindamycin Heumann](data/004353.pdf)
 
-[Zinksalbe-CT](http://www.fachinfo.de/pdf/004360)
+[Zinksalbe-CT](data/004360.pdf)
 
-[Probenecid Weimer ®](http://www.fachinfo.de/pdf/004367)
+[Probenecid Weimer ®](data/004367.pdf)
 
-[Femoston® mono 2 mg](http://www.fachinfo.de/pdf/004383)
+[Femoston® mono 2 mg](data/004383.pdf)
 
-[Vertigo-Meresa® 200](http://www.fachinfo.de/pdf/004389)
+[Vertigo-Meresa® 200](data/004389.pdf)
 
-[Nitrendipin AbZ 10 mg, 20 mg Tabletten](http://www.fachinfo.de/pdf/004396)
+[Nitrendipin AbZ 10 mg, 20 mg Tabletten](data/004396.pdf)
 
-[Vomex A® Suppositorien](http://www.fachinfo.de/pdf/004400)
+[Vomex A® Suppositorien](data/004400.pdf)
 
-[Bronchicum® Mono Codein Tropfen](http://www.fachinfo.de/pdf/004406)
+[Bronchicum® Mono Codein Tropfen](data/004406.pdf)
 
-[Cephalex-CT 500 mg / 1000 mg Filmtabletten](http://www.fachinfo.de/pdf/004418)
+[Cephalex-CT 500 mg / 1000 mg Filmtabletten](data/004418.pdf)
 
-[Atropinsulfat B. Braun 0,5 mg/ml](http://www.fachinfo.de/pdf/004423)
+[Atropinsulfat B. Braun 0,5 mg/ml](data/004423.pdf)
 
-[Morphin-ratiopharm® 10/30/60/100 mg](http://www.fachinfo.de/pdf/004432)
+[Morphin-ratiopharm® 10/30/60/100 mg](data/004432.pdf)
 
-[Tebonin® spezial 80 mg](http://www.fachinfo.de/pdf/004434)
+[Tebonin® spezial 80 mg](data/004434.pdf)
 
-[Tebonin® intens 120 mg](http://www.fachinfo.de/pdf/004435)
+[Tebonin® intens 120 mg](data/004435.pdf)
 
-[Metfogamma® 500](http://www.fachinfo.de/pdf/004441)
+[Metfogamma® 500](data/004441.pdf)
 
-[Sufentanil-ratiopharm® 0,05 mg / 1 ml, - 0,25 mg / 5 ml, - 1 mg / 20 ml](http://www.fachinfo.de/pdf/004446)
+[Sufentanil-ratiopharm® 0,05 mg / 1 ml, - 0,25 mg / 5 ml, - 1 mg / 20 ml](data/004446.pdf)
 
-[ZYPREXA 10 mg Pulver](http://www.fachinfo.de/pdf/004447)
+[ZYPREXA 10 mg Pulver](data/004447.pdf)
 
-[Ursofalk® 250mg/5ml Suspension](http://www.fachinfo.de/pdf/004448)
+[Ursofalk® 250mg/5ml Suspension](data/004448.pdf)
 
-[Galderma Eryaknen ® 2 %/4 % Gel](http://www.fachinfo.de/pdf/004455)
+[Galderma Eryaknen ® 2 %/4 % Gel](data/004455.pdf)
 
-[GeloBronchial®-Saft](http://www.fachinfo.de/pdf/004458)
+[GeloBronchial®-Saft](data/004458.pdf)
 
-[teufelskralle-Loges®](http://www.fachinfo.de/pdf/004459)
+[teufelskralle-Loges®](data/004459.pdf)
 
-[Restex® 100 mg/25 mg Hartkapseln](http://www.fachinfo.de/pdf/004462)
+[Restex® 100 mg/25 mg Hartkapseln](data/004462.pdf)
 
-[Bayotensin® akut](http://www.fachinfo.de/pdf/004465)
+[Bayotensin® akut](data/004465.pdf)
 
-[Restex® 100 mg/25 mg Tabletten](http://www.fachinfo.de/pdf/004473)
+[Restex® 100 mg/25 mg Tabletten](data/004473.pdf)
 
-[Agiocur® Madaus](http://www.fachinfo.de/pdf/004478)
+[Agiocur® Madaus](data/004478.pdf)
 
-[AZARON](http://www.fachinfo.de/pdf/004488)
+[AZARON](data/004488.pdf)
 
-[IBU-ratiopharm® 200 mg akut](http://www.fachinfo.de/pdf/004505)
+[IBU-ratiopharm® 200 mg akut](data/004505.pdf)
 
-[sab simplex ®](http://www.fachinfo.de/pdf/004520)
+[sab simplex ®](data/004520.pdf)
 
-[Amitriptylin-CT 25 mg/75 mg](http://www.fachinfo.de/pdf/004550)
+[Amitriptylin-CT 25 mg/75 mg](data/004550.pdf)
 
-[SELEGILIN-TEVA ® 5 mg/- 10 mg Tabletten](http://www.fachinfo.de/pdf/004554)
+[SELEGILIN-TEVA ® 5 mg/- 10 mg Tabletten](data/004554.pdf)
 
-[Selectol ®](http://www.fachinfo.de/pdf/004555)
+[Selectol ®](data/004555.pdf)
 
-[Nadixa®](http://www.fachinfo.de/pdf/004556)
+[Nadixa®](data/004556.pdf)
 
-[Contramutan® N Saft](http://www.fachinfo.de/pdf/004560)
+[Contramutan® N Saft](data/004560.pdf)
 
-[Contramutan ® Tropfen](http://www.fachinfo.de/pdf/004561)
+[Contramutan ® Tropfen](data/004561.pdf)
 
-[Monapax®](http://www.fachinfo.de/pdf/004564)
+[Monapax®](data/004564.pdf)
 
-[Traumanase®](http://www.fachinfo.de/pdf/004567)
+[Traumanase®](data/004567.pdf)
 
-[LHRH Ferring 0,1 mg/1 ml](http://www.fachinfo.de/pdf/004568)
+[LHRH Ferring 0,1 mg/1 ml](data/004568.pdf)
 
-[Tussamag® Hustensaft N](http://www.fachinfo.de/pdf/004578)
+[Tussamag® Hustensaft N](data/004578.pdf)
 
-[Midazolam-ratiopharm®](http://www.fachinfo.de/pdf/004595)
+[Midazolam-ratiopharm®](data/004595.pdf)
 
-[Cefixim-ratiopharm® 200/400 mg](http://www.fachinfo.de/pdf/004596)
+[Cefixim-ratiopharm® 200/400 mg](data/004596.pdf)
 
-[PARIET® 10 mg/20 mg](http://www.fachinfo.de/pdf/004599)
+[PARIET® 10 mg/20 mg](data/004599.pdf)
 
-[Hepar-SL® 320 mg](http://www.fachinfo.de/pdf/004615)
+[Hepar-SL® 320 mg](data/004615.pdf)
 
-[Rheuma-Sern](http://www.fachinfo.de/pdf/004616)
+[Rheuma-Sern](data/004616.pdf)
 
-[Adalat ® 5 mg/50 ml pro infusione](http://www.fachinfo.de/pdf/004632)
+[Adalat ® 5 mg/50 ml pro infusione](data/004632.pdf)
 
-[EMADINE® 0,5 mg/ml](http://www.fachinfo.de/pdf/004634)
+[EMADINE® 0,5 mg/ml](data/004634.pdf)
 
-[Heparin-ratiopharm® 30 000/60 000 Salbe](http://www.fachinfo.de/pdf/004636)
+[Heparin-ratiopharm® 30 000/60 000 Salbe](data/004636.pdf)
 
-[Allopurinol Heumann](http://www.fachinfo.de/pdf/004640)
+[Allopurinol Heumann](data/004640.pdf)
 
-[MSI 10/20/100/200 mg Mundipharma®](http://www.fachinfo.de/pdf/004645)
+[MSI 10/20/100/200 mg Mundipharma®](data/004645.pdf)
 
-[BS-ratiopharm® 20 mg/ml Injektionslösung](http://www.fachinfo.de/pdf/004653)
+[BS-ratiopharm® 20 mg/ml Injektionslösung](data/004653.pdf)
 
-[Kaliumchlorid 7,45 % Braun](http://www.fachinfo.de/pdf/004698)
+[Kaliumchlorid 7,45 % Braun](data/004698.pdf)
 
-[Kaliumchlorid 14,90 % Braun](http://www.fachinfo.de/pdf/004701)
+[Kaliumchlorid 14,90 % Braun](data/004701.pdf)
 
-[Klacid® 500 mg](http://www.fachinfo.de/pdf/004702)
+[Klacid® 500 mg](data/004702.pdf)
 
-[Azulfidine ®](http://www.fachinfo.de/pdf/004707)
+[Azulfidine ®](data/004707.pdf)
 
-[Bronchipret® Thymian Pastillen](http://www.fachinfo.de/pdf/004709)
+[Bronchipret® Thymian Pastillen](data/004709.pdf)
 
-[Bronchospray® Autohaler®](http://www.fachinfo.de/pdf/004719)
+[Bronchospray® Autohaler®](data/004719.pdf)
 
-[Ferrogamma®](http://www.fachinfo.de/pdf/004742)
+[Ferrogamma®](data/004742.pdf)
 
-[PVP-Jod-ratiopharm® Salbe](http://www.fachinfo.de/pdf/004752)
+[PVP-Jod-ratiopharm® Salbe](data/004752.pdf)
 
-[Bromelain-POS®](http://www.fachinfo.de/pdf/004757)
+[Bromelain-POS®](data/004757.pdf)
 
-[Aequamen®/Aequamen® forte](http://www.fachinfo.de/pdf/004769)
+[Aequamen®/Aequamen® forte](data/004769.pdf)
 
-[CellCept® 500 mg Pulver](http://www.fachinfo.de/pdf/004770)
+[CellCept® 500 mg Pulver](data/004770.pdf)
 
-[Vetren® Gel 30.000 I.E.](http://www.fachinfo.de/pdf/004771)
+[Vetren® Gel 30.000 I.E.](data/004771.pdf)
 
-[Metronidazol B. Braun 5 mg/ml](http://www.fachinfo.de/pdf/004776)
+[Metronidazol B. Braun 5 mg/ml](data/004776.pdf)
 
-[Amantagamma® 100](http://www.fachinfo.de/pdf/004777)
+[Amantagamma® 100](data/004777.pdf)
 
-[DEXA BICIRON ® Augentropfen](http://www.fachinfo.de/pdf/004782)
+[DEXA BICIRON ® Augentropfen](data/004782.pdf)
 
-[Rivoltan® Teufelskralle](http://www.fachinfo.de/pdf/004786)
+[Rivoltan® Teufelskralle](data/004786.pdf)
 
-[Galderma Meladinine ® 10 mg Tabletten](http://www.fachinfo.de/pdf/004790)
+[Galderma Meladinine ® 10 mg Tabletten](data/004790.pdf)
 
-[Domperidon-CT 10 mg](http://www.fachinfo.de/pdf/004795)
+[Domperidon-CT 10 mg](data/004795.pdf)
 
-[Dexa Loscon® mono](http://www.fachinfo.de/pdf/004802)
+[Dexa Loscon® mono](data/004802.pdf)
 
-[Tetanol® pur](http://www.fachinfo.de/pdf/004806)
+[Tetanol® pur](data/004806.pdf)
 
-[Solco-Derman ®](http://www.fachinfo.de/pdf/004811)
+[Solco-Derman ®](data/004811.pdf)
 
-[Oxybutynin AbZ 5 mg Tabletten](http://www.fachinfo.de/pdf/004816)
+[Oxybutynin AbZ 5 mg Tabletten](data/004816.pdf)
 
-[Aggrenox® 200 mg/25 mg](http://www.fachinfo.de/pdf/004823)
+[Aggrenox® 200 mg/25 mg](data/004823.pdf)
 
-[Azulfidine ® RA](http://www.fachinfo.de/pdf/004837)
+[Azulfidine ® RA](data/004837.pdf)
 
-[Deacura®](http://www.fachinfo.de/pdf/004843)
+[Deacura®](data/004843.pdf)
 
-[Loperamid-CT 2 mg Hartkapseln](http://www.fachinfo.de/pdf/004858)
+[Loperamid-CT 2 mg Hartkapseln](data/004858.pdf)
 
-[Ciatyl-Z® Acuphase](http://www.fachinfo.de/pdf/004870)
+[Ciatyl-Z® Acuphase](data/004870.pdf)
 
-[Doxycyclin Heumann 100 mg Tabletten](http://www.fachinfo.de/pdf/004872)
+[Doxycyclin Heumann 100 mg Tabletten](data/004872.pdf)
 
-[Ciatyl-Z ®](http://www.fachinfo.de/pdf/004873)
+[Ciatyl-Z ®](data/004873.pdf)
 
-[Ciatyl-Z ® Depot](http://www.fachinfo.de/pdf/004874)
+[Ciatyl-Z ® Depot](data/004874.pdf)
 
-[Roxithromycin AbZ 150 mg Filmtabletten](http://www.fachinfo.de/pdf/004893)
+[Roxithromycin AbZ 150 mg Filmtabletten](data/004893.pdf)
 
-[Loperamid 2 Heumann](http://www.fachinfo.de/pdf/004899)
+[Loperamid 2 Heumann](data/004899.pdf)
 
-[SIROS® Kapseln](http://www.fachinfo.de/pdf/004903)
+[SIROS® Kapseln](data/004903.pdf)
 
-[Tegretal® 200 mg](http://www.fachinfo.de/pdf/004904)
+[Tegretal® 200 mg](data/004904.pdf)
 
-[Tegretal® Suspension](http://www.fachinfo.de/pdf/004906)
+[Tegretal® Suspension](data/004906.pdf)
 
-[milgamma® mono 50](http://www.fachinfo.de/pdf/004909)
+[milgamma® mono 50](data/004909.pdf)
 
-[Fucidine® H 20 mg/g + 10 mg/g Creme](http://www.fachinfo.de/pdf/004910)
+[Fucidine® H 20 mg/g + 10 mg/g Creme](data/004910.pdf)
 
-[Ardeycordal®](http://www.fachinfo.de/pdf/004925)
+[Ardeycordal®](data/004925.pdf)
 
-[ZacPac®](http://www.fachinfo.de/pdf/004930)
+[ZacPac®](data/004930.pdf)
 
 [Ibuprofen Heumann (Rp)
-](http://www.fachinfo.de/pdf/004941)
+](data/004941.pdf)
 
-[Propafenon-CT 150 mg Filmtabletten](http://www.fachinfo.de/pdf/004942)
+[Propafenon-CT 150 mg Filmtabletten](data/004942.pdf)
 
-[Calcium D3-ratiopharm®](http://www.fachinfo.de/pdf/004944)
+[Calcium D3-ratiopharm®](data/004944.pdf)
 
-[Dia-Aktivanad ®-N Saft](http://www.fachinfo.de/pdf/004950)
+[Dia-Aktivanad ®-N Saft](data/004950.pdf)
 
-[Aktivanad-N Saft](http://www.fachinfo.de/pdf/004951)
+[Aktivanad-N Saft](data/004951.pdf)
 
-[Sabril® 500 mg Filmtabletten](http://www.fachinfo.de/pdf/004954)
+[Sabril® 500 mg Filmtabletten](data/004954.pdf)
 
-[Propafenon-CT 300 mg Filmtabletten](http://www.fachinfo.de/pdf/004955)
+[Propafenon-CT 300 mg Filmtabletten](data/004955.pdf)
 
-[Doxazosin Heumann](http://www.fachinfo.de/pdf/004965)
+[Doxazosin Heumann](data/004965.pdf)
 
-[NIVADIL®](http://www.fachinfo.de/pdf/004970)
+[NIVADIL®](data/004970.pdf)
 
-[Amoxicillin Heumann](http://www.fachinfo.de/pdf/004982)
+[Amoxicillin Heumann](data/004982.pdf)
 
-[Lipidil® 200 mg](http://www.fachinfo.de/pdf/004988)
+[Lipidil® 200 mg](data/004988.pdf)
 
-[Escor® 8 mg/Escor® forte 16 mg](http://www.fachinfo.de/pdf/005000)
+[Escor® 8 mg/Escor® forte 16 mg](data/005000.pdf)
 
-[Progestogel®](http://www.fachinfo.de/pdf/005002)
+[Progestogel®](data/005002.pdf)
 
-[Doxy comp.-CT](http://www.fachinfo.de/pdf/005004)
+[Doxy comp.-CT](data/005004.pdf)
 
-[Azathioprin-ratiopharm® 25 mg / 50 mg](http://www.fachinfo.de/pdf/005007)
+[Azathioprin-ratiopharm® 25 mg / 50 mg](data/005007.pdf)
 
-[Daivonex® 50 Mikrogramm/g Creme](http://www.fachinfo.de/pdf/005039)
+[Daivonex® 50 Mikrogramm/g Creme](data/005039.pdf)
 
-[Morphin-HCI Krewel®](http://www.fachinfo.de/pdf/005041)
+[Morphin-HCI Krewel®](data/005041.pdf)
 
-[Dobutamin-ratiopharm® 250 mg](http://www.fachinfo.de/pdf/005047)
+[Dobutamin-ratiopharm® 250 mg](data/005047.pdf)
 
-[Doregrippin® 500 mg/10 mg Filmtabletten](http://www.fachinfo.de/pdf/005049)
+[Doregrippin® 500 mg/10 mg Filmtabletten](data/005049.pdf)
 
-[Sotalol-ratiopharm® Tabletten](http://www.fachinfo.de/pdf/005066)
+[Sotalol-ratiopharm® Tabletten](data/005066.pdf)
 
-[Thomapyrin® INTENSIV](http://www.fachinfo.de/pdf/005075)
+[Thomapyrin® INTENSIV](data/005075.pdf)
 
-[Tegretal® 200 mg retard](http://www.fachinfo.de/pdf/005077)
+[Tegretal® 200 mg retard](data/005077.pdf)
 
-[HCT-ratiopharm® 25 mg Tabletten](http://www.fachinfo.de/pdf/005079)
+[HCT-ratiopharm® 25 mg Tabletten](data/005079.pdf)
 
-[Morphin-ratiopharm®](http://www.fachinfo.de/pdf/005084)
+[Morphin-ratiopharm®](data/005084.pdf)
 
-[Bronchicum Tropfen](http://www.fachinfo.de/pdf/005085)
+[Bronchicum Tropfen](data/005085.pdf)
 
-[Bronchicum® Elixir](http://www.fachinfo.de/pdf/005086)
+[Bronchicum® Elixir](data/005086.pdf)
 
-[Metformin-CT 500 mg Filmtabletten](http://www.fachinfo.de/pdf/005087)
+[Metformin-CT 500 mg Filmtabletten](data/005087.pdf)
 
-[Carbamazepin-ratiopharm® 200 mg](http://www.fachinfo.de/pdf/005094)
+[Carbamazepin-ratiopharm® 200 mg](data/005094.pdf)
 
-[Unat®](http://www.fachinfo.de/pdf/005096)
+[Unat®](data/005096.pdf)
 
-[Tumarol ® Creme](http://www.fachinfo.de/pdf/005102)
+[Tumarol ® Creme](data/005102.pdf)
 
-[Tumarol ® Kinderbalsam N](http://www.fachinfo.de/pdf/005103)
+[Tumarol ® Kinderbalsam N](data/005103.pdf)
 
-[Eusovit® 201 mg](http://www.fachinfo.de/pdf/005107)
+[Eusovit® 201 mg](data/005107.pdf)
 
-[Traumon® Gel 5 %](http://www.fachinfo.de/pdf/005109)
+[Traumon® Gel 5 %](data/005109.pdf)
 
-[Strathmann Strotan ® Filmtabletten](http://www.fachinfo.de/pdf/005114)
+[Strathmann Strotan ® Filmtabletten](data/005114.pdf)
 
-[NAC-ratiopharm® 200 mg Sachet](http://www.fachinfo.de/pdf/005122)
+[NAC-ratiopharm® 200 mg Sachet](data/005122.pdf)
 
-[Strogen® uno](http://www.fachinfo.de/pdf/005126)
+[Strogen® uno](data/005126.pdf)
 
-[Aredia ®, Pulver und Lösungsmittel](http://www.fachinfo.de/pdf/005141)
+[Aredia ®, Pulver und Lösungsmittel](data/005141.pdf)
 
-[GYNO-PEVARYL® 1 Depot-Ovulum,](http://www.fachinfo.de/pdf/005143)
+[GYNO-PEVARYL® 1 Depot-Ovulum,](data/005143.pdf)
 
-[Contramutan® Tabletten](http://www.fachinfo.de/pdf/005144)
+[Contramutan® Tabletten](data/005144.pdf)
 
-[Melrosum® Hustensirup](http://www.fachinfo.de/pdf/005147)
+[Melrosum® Hustensirup](data/005147.pdf)
 
-[Calciumacetat-Nefro® 500/700 mg](http://www.fachinfo.de/pdf/005155)
+[Calciumacetat-Nefro® 500/700 mg](data/005155.pdf)
 
-[Metoprolol Heumann](http://www.fachinfo.de/pdf/005156)
+[Metoprolol Heumann](data/005156.pdf)
 
-[Beloc-Zok ® comp](http://www.fachinfo.de/pdf/005158)
+[Beloc-Zok ® comp](data/005158.pdf)
 
-[Laryngomedin® N](http://www.fachinfo.de/pdf/005163)
+[Laryngomedin® N](data/005163.pdf)
 
-[Eleu-Kokk® Dragées](http://www.fachinfo.de/pdf/005165)
+[Eleu-Kokk® Dragées](data/005165.pdf)
 
-[FORSTEO®](http://www.fachinfo.de/pdf/005176)
+[FORSTEO®](data/005176.pdf)
 
-[Aminoplasmal 15 % elektrolyt- und kohlenhydratfrei](http://www.fachinfo.de/pdf/005189)
+[Aminoplasmal 15 % elektrolyt- und kohlenhydratfrei](data/005189.pdf)
 
-[MYOCHOLINE-GLENWOOD ®](http://www.fachinfo.de/pdf/005192)
+[MYOCHOLINE-GLENWOOD ®](data/005192.pdf)
 
-[POTABA-GLENWOOD®](http://www.fachinfo.de/pdf/005194)
+[POTABA-GLENWOOD®](data/005194.pdf)
 
-[YOCON-GLENWOOD® Tabletten 5 mg](http://www.fachinfo.de/pdf/005195)
+[YOCON-GLENWOOD® Tabletten 5 mg](data/005195.pdf)
 
-[Aqualibra®](http://www.fachinfo.de/pdf/005199)
+[Aqualibra®](data/005199.pdf)
 
-[HCT-gamma® 25](http://www.fachinfo.de/pdf/005201)
+[HCT-gamma® 25](data/005201.pdf)
 
-[Cetirigamma® 10 mg](http://www.fachinfo.de/pdf/005206)
+[Cetirigamma® 10 mg](data/005206.pdf)
 
-[Metfogamma® 850](http://www.fachinfo.de/pdf/005216)
+[Metfogamma® 850](data/005216.pdf)
 
-[Florone ® crinale 0,01% Lösung](http://www.fachinfo.de/pdf/005226)
+[Florone ® crinale 0,01% Lösung](data/005226.pdf)
 
-[Regepithel ®](http://www.fachinfo.de/pdf/005230)
+[Regepithel ®](data/005230.pdf)
 
-[DEXA®-SINE](http://www.fachinfo.de/pdf/005233)
+[DEXA®-SINE](data/005233.pdf)
 
-[Metrocreme®](http://www.fachinfo.de/pdf/005237)
+[Metrocreme®](data/005237.pdf)
 
-[Hygroton® 25 mg](http://www.fachinfo.de/pdf/005243)
+[Hygroton® 25 mg](data/005243.pdf)
 
-[Aponal® Ampullen](http://www.fachinfo.de/pdf/005247)
+[Aponal® Ampullen](data/005247.pdf)
 
-[Darob](http://www.fachinfo.de/pdf/005251)
+[Darob](data/005251.pdf)
 
-[Normalip ® pro](http://www.fachinfo.de/pdf/005252)
+[Normalip ® pro](data/005252.pdf)
 
-[Xeloda®](http://www.fachinfo.de/pdf/005254)
+[Xeloda®](data/005254.pdf)
 
-[Thiogamma® 200 oral](http://www.fachinfo.de/pdf/005261)
+[Thiogamma® 200 oral](data/005261.pdf)
 
-[Bisoprolol comp. Heumann](http://www.fachinfo.de/pdf/005288)
+[Bisoprolol comp. Heumann](data/005288.pdf)
 
-[Glibenclamid AbZ Tabletten](http://www.fachinfo.de/pdf/005294)
+[Glibenclamid AbZ Tabletten](data/005294.pdf)
 
-[Valproinsäure-ratiopharm® 150 Filmtabletten](http://www.fachinfo.de/pdf/005299)
+[Valproinsäure-ratiopharm® 150 Filmtabletten](data/005299.pdf)
 
-[Colestyr-CT Pulver](http://www.fachinfo.de/pdf/005305)
+[Colestyr-CT Pulver](data/005305.pdf)
 
-[Silimarit®](http://www.fachinfo.de/pdf/005315)
+[Silimarit®](data/005315.pdf)
 
-[Amoxicillin plus Heumann 500/125 mg](http://www.fachinfo.de/pdf/005317)
+[Amoxicillin plus Heumann 500/125 mg](data/005317.pdf)
 
-[Accuzide ®](http://www.fachinfo.de/pdf/005327)
+[Accuzide ®](data/005327.pdf)
 
-[Zytrim®](http://www.fachinfo.de/pdf/005329)
+[Zytrim®](data/005329.pdf)
 
-[Amoxicillin-ratiopharm® comp. 125 TS](http://www.fachinfo.de/pdf/005334)
+[Amoxicillin-ratiopharm® comp. 125 TS](data/005334.pdf)
 
-[Fentanyl®-Janssen 0,1/0,5 mg](http://www.fachinfo.de/pdf/005341)
+[Fentanyl®-Janssen 0,1/0,5 mg](data/005341.pdf)
 
-[Gliben-CT 1,75 mg Tabletten](http://www.fachinfo.de/pdf/005343)
+[Gliben-CT 1,75 mg Tabletten](data/005343.pdf)
 
-[Sufenta®](http://www.fachinfo.de/pdf/005346)
+[Sufenta®](data/005346.pdf)
 
-[Meditonsin ® Tropfen](http://www.fachinfo.de/pdf/005356)
+[Meditonsin ® Tropfen](data/005356.pdf)
 
-[Sandimmun® 50 mg/ml](http://www.fachinfo.de/pdf/005359)
+[Sandimmun® 50 mg/ml](data/005359.pdf)
 
-[Lorazepam-ratiopharm® Tabletten](http://www.fachinfo.de/pdf/005363)
+[Lorazepam-ratiopharm® Tabletten](data/005363.pdf)
 
-[Duphaston® 10 mg](http://www.fachinfo.de/pdf/005368)
+[Duphaston® 10 mg](data/005368.pdf)
 
-[ENCEPUR® Kinder](http://www.fachinfo.de/pdf/005372)
+[ENCEPUR® Kinder](data/005372.pdf)
 
-[Loperamid-ratiopharm® akut 2 mg](http://www.fachinfo.de/pdf/005376)
+[Loperamid-ratiopharm® akut 2 mg](data/005376.pdf)
 
-[ben-u-ron® 500 mg Hartkapseln](http://www.fachinfo.de/pdf/005382)
+[ben-u-ron® 500 mg Hartkapseln](data/005382.pdf)
 
-[Cardiodoron® 5 %, - 1 %, - 0,1 %](http://www.fachinfo.de/pdf/005383)
+[Cardiodoron® 5 %, - 1 %, - 0,1 %](data/005383.pdf)
 
-[Megalac ® Almasilat](http://www.fachinfo.de/pdf/005387)
+[Megalac ® Almasilat](data/005387.pdf)
 
-[Carmen 10 mg/20 mg](http://www.fachinfo.de/pdf/005388)
+[Carmen 10 mg/20 mg](data/005388.pdf)
 
-[Cetirizin Heumann 10 mg Filmtabletten](http://www.fachinfo.de/pdf/005390)
+[Cetirizin Heumann 10 mg Filmtabletten](data/005390.pdf)
 
-[Carba-CT 200 mg Tabletten](http://www.fachinfo.de/pdf/005392)
+[Carba-CT 200 mg Tabletten](data/005392.pdf)
 
-[Cuprum metallicum praeparatum 0,4%](http://www.fachinfo.de/pdf/005396)
+[Cuprum metallicum praeparatum 0,4%](data/005396.pdf)
 
-[Equisetum arvense 10 % Salbe](http://www.fachinfo.de/pdf/005397)
+[Equisetum arvense 10 % Salbe](data/005397.pdf)
 
-[Loperamid akut Heumann](http://www.fachinfo.de/pdf/005399)
+[Loperamid akut Heumann](data/005399.pdf)
 
-[Befibrat® 200 mg Dragees, überzogene Tabletten](http://www.fachinfo.de/pdf/005403)
+[Befibrat® 200 mg Dragees, überzogene Tabletten](data/005403.pdf)
 
-[ben-u-ron ® 500 mg Tabletten](http://www.fachinfo.de/pdf/005407)
+[ben-u-ron ® 500 mg Tabletten](data/005407.pdf)
 
-[VITAMIN C-ratiopharm® retard 500 mg](http://www.fachinfo.de/pdf/005410)
+[VITAMIN C-ratiopharm® retard 500 mg](data/005410.pdf)
 
-[Dilzem ® 120 mg/180 mg retard](http://www.fachinfo.de/pdf/005414)
+[Dilzem ® 120 mg/180 mg retard](data/005414.pdf)
 
-[Sevredol® 10 mg/20 mg](http://www.fachinfo.de/pdf/005416)
+[Sevredol® 10 mg/20 mg](data/005416.pdf)
 
-[Phosphorus 0,1 % Öl](http://www.fachinfo.de/pdf/005419)
+[Phosphorus 0,1 % Öl](data/005419.pdf)
 
-[Atenolol comp. Heumann®](http://www.fachinfo.de/pdf/005426)
+[Atenolol comp. Heumann®](data/005426.pdf)
 
-[Quarz 10 % Creme](http://www.fachinfo.de/pdf/005427)
+[Quarz 10 % Creme](data/005427.pdf)
 
-[Selon ®](http://www.fachinfo.de/pdf/005428)
+[Selon ®](data/005428.pdf)
 
-[Quarz 50 % Trituration](http://www.fachinfo.de/pdf/005432)
+[Quarz 50 % Trituration](data/005432.pdf)
 
-[Agopton ® 15 mg/30 mg Kapseln](http://www.fachinfo.de/pdf/005438)
+[Agopton ® 15 mg/30 mg Kapseln](data/005438.pdf)
 
-[Aleve®](http://www.fachinfo.de/pdf/005450)
+[Aleve®](data/005450.pdf)
 
-[Broncho-Sern®](http://www.fachinfo.de/pdf/005457)
+[Broncho-Sern®](data/005457.pdf)
 
-[Cor-Vel® Truw](http://www.fachinfo.de/pdf/005460)
+[Cor-Vel® Truw](data/005460.pdf)
 
-[Eicosan® 750 Omega-3-Konzentrat](http://www.fachinfo.de/pdf/005461)
+[Eicosan® 750 Omega-3-Konzentrat](data/005461.pdf)
 
-[Regulax® Picosulfat Tropfen  Krewel Meuselbach GmbH](http://www.fachinfo.de/pdf/005462)
+[Regulax® Picosulfat Tropfen  Krewel Meuselbach GmbH](data/005462.pdf)
 
-[Zopiclon-ratiopharm® 3,75 mg Filmtabletten](http://www.fachinfo.de/pdf/005467)
+[Zopiclon-ratiopharm® 3,75 mg Filmtabletten](data/005467.pdf)
 
-[Naloxon-ratiopharm® 0,4 mg/ml](http://www.fachinfo.de/pdf/005472)
+[Naloxon-ratiopharm® 0,4 mg/ml](data/005472.pdf)
 
-[Bondiol® 0,25 μg/- 0,5 μg/- 1 μg](http://www.fachinfo.de/pdf/005482)
+[Bondiol® 0,25 μg/- 0,5 μg/- 1 μg](data/005482.pdf)
 
-[MAGNESOROT 240®](http://www.fachinfo.de/pdf/005484)
+[MAGNESOROT 240®](data/005484.pdf)
 
-[Meresasul](http://www.fachinfo.de/pdf/005486)
+[Meresasul](data/005486.pdf)
 
-[Meresa® forte](http://www.fachinfo.de/pdf/005487)
+[Meresa® forte](data/005487.pdf)
 
-[nasic® für Kinder](http://www.fachinfo.de/pdf/005503)
+[nasic® für Kinder](data/005503.pdf)
 
-[Vita Gerin®](http://www.fachinfo.de/pdf/005504)
+[Vita Gerin®](data/005504.pdf)
 
-[Simvastatin-saar®](http://www.fachinfo.de/pdf/005506)
+[Simvastatin-saar®](data/005506.pdf)
 
-[Cibacen® Filmtabletten](http://www.fachinfo.de/pdf/005513)
+[Cibacen® Filmtabletten](data/005513.pdf)
 
-[Polysept®](http://www.fachinfo.de/pdf/005517)
+[Polysept®](data/005517.pdf)
 
-[Ventavis® 10 Mikrogramm/ml](http://www.fachinfo.de/pdf/005520)
+[Ventavis® 10 Mikrogramm/ml](data/005520.pdf)
 
-[Jucurba® forte 480 mg](http://www.fachinfo.de/pdf/005533)
+[Jucurba® forte 480 mg](data/005533.pdf)
 
-[NovoMix® 30](http://www.fachinfo.de/pdf/005547)
+[NovoMix® 30](data/005547.pdf)
 
-[ENCEPUR® Erwachsene](http://www.fachinfo.de/pdf/005550)
+[ENCEPUR® Erwachsene](data/005550.pdf)
 
-[Zithromax ® Trockensaft](http://www.fachinfo.de/pdf/005553)
+[Zithromax ® Trockensaft](data/005553.pdf)
 
-[Atrovent® N Dosier-Aerosol](http://www.fachinfo.de/pdf/005562)
+[Atrovent® N Dosier-Aerosol](data/005562.pdf)
 
-[Vetren® forte Gel 150.000 I.E.](http://www.fachinfo.de/pdf/005571)
+[Vetren® forte Gel 150.000 I.E.](data/005571.pdf)
 
-[Braunovidon® Salbe 10 %](http://www.fachinfo.de/pdf/005579)
+[Braunovidon® Salbe 10 %](data/005579.pdf)
 
-[Braunovidon® Salbengaze](http://www.fachinfo.de/pdf/005580)
+[Braunovidon® Salbengaze](data/005580.pdf)
 
-[Citalopram-Hormosan](http://www.fachinfo.de/pdf/005582)
+[Citalopram-Hormosan](data/005582.pdf)
 
-[MinitranS ® 5/- 10](http://www.fachinfo.de/pdf/005583)
+[MinitranS ® 5/- 10](data/005583.pdf)
 
-[Dermapharm Basiscreme ®](http://www.fachinfo.de/pdf/005585)
+[Dermapharm Basiscreme ®](data/005585.pdf)
 
-[Isoderm 10 mg/20 mg](http://www.fachinfo.de/pdf/005594)
+[Isoderm 10 mg/20 mg](data/005594.pdf)
 
-[Dormicum® 7,5 mg Filmtabletten](http://www.fachinfo.de/pdf/005599)
+[Dormicum® 7,5 mg Filmtabletten](data/005599.pdf)
 
-[Aurorix® 150/Aurorix® 300](http://www.fachinfo.de/pdf/005600)
+[Aurorix® 150/Aurorix® 300](data/005600.pdf)
 
-[Dynorm ® 0,5/Dynorm ® 1,0](http://www.fachinfo.de/pdf/005602)
+[Dynorm ® 0,5/Dynorm ® 1,0](data/005602.pdf)
 
-[Galderma Loceryl ® Creme](http://www.fachinfo.de/pdf/005604)
+[Galderma Loceryl ® Creme](data/005604.pdf)
 
-[Loceryl® Nagellack gegen Nagelpilz](http://www.fachinfo.de/pdf/005605)
+[Loceryl® Nagellack gegen Nagelpilz](data/005605.pdf)
 
-[Morphin retard Heumann](http://www.fachinfo.de/pdf/005609)
+[Morphin retard Heumann](data/005609.pdf)
 
-[Sonata® 5 mg/- 10 mg](http://www.fachinfo.de/pdf/005615)
+[Sonata® 5 mg/- 10 mg](data/005615.pdf)
 
-[Magaldrat-ratiopharm® 800 mg](http://www.fachinfo.de/pdf/005621)
+[Magaldrat-ratiopharm® 800 mg](data/005621.pdf)
 
-[Sandimmun® Optoral Weichkapseln](http://www.fachinfo.de/pdf/005622)
+[Sandimmun® Optoral Weichkapseln](data/005622.pdf)
 
-[Bronchicum® Kapsel](http://www.fachinfo.de/pdf/005625)
+[Bronchicum® Kapsel](data/005625.pdf)
 
-[Doxepin-ratiopharm® Filmtabletten](http://www.fachinfo.de/pdf/005632)
+[Doxepin-ratiopharm® Filmtabletten](data/005632.pdf)
 
-[Folsäure-ratiopharm® 5 mg](http://www.fachinfo.de/pdf/005636)
+[Folsäure-ratiopharm® 5 mg](data/005636.pdf)
 
-[Famotidin-CT 20 mg Filmtabletten](http://www.fachinfo.de/pdf/005640)
+[Famotidin-CT 20 mg Filmtabletten](data/005640.pdf)
 
-[Miochol®-E](http://www.fachinfo.de/pdf/005656)
+[Miochol®-E](data/005656.pdf)
 
-[Indo Top-ratiopharm® Spray](http://www.fachinfo.de/pdf/005660)
+[Indo Top-ratiopharm® Spray](data/005660.pdf)
 
-[Archangelica comp. Salbe](http://www.fachinfo.de/pdf/005671)
+[Archangelica comp. Salbe](data/005671.pdf)
 
-[Ubretid®](http://www.fachinfo.de/pdf/005683)
+[Ubretid®](data/005683.pdf)
 
-[LEUKICHTAN ®](http://www.fachinfo.de/pdf/005685)
+[LEUKICHTAN ®](data/005685.pdf)
 
-[PANOTILE® CIPRO 1 mg](http://www.fachinfo.de/pdf/005686)
+[PANOTILE® CIPRO 1 mg](data/005686.pdf)
 
-[Harpagoforte ® 375 mg](http://www.fachinfo.de/pdf/005691)
+[Harpagoforte ® 375 mg](data/005691.pdf)
 
-[Alupent®](http://www.fachinfo.de/pdf/005692)
+[Alupent®](data/005692.pdf)
 
-[Agnolyt MADAUS](http://www.fachinfo.de/pdf/005697)
+[Agnolyt MADAUS](data/005697.pdf)
 
-[Fragmin ® P/P Forte](http://www.fachinfo.de/pdf/005702)
+[Fragmin ® P/P Forte](data/005702.pdf)
 
-[Hydroson ® Tabletten 10 mg](http://www.fachinfo.de/pdf/005707)
+[Hydroson ® Tabletten 10 mg](data/005707.pdf)
 
-[Soderm plus](http://www.fachinfo.de/pdf/005708)
+[Soderm plus](data/005708.pdf)
 
-[Bronchipret® TP](http://www.fachinfo.de/pdf/005719)
+[Bronchipret® TP](data/005719.pdf)
 
-[Ferrum Hausmann ®](http://www.fachinfo.de/pdf/005723)
+[Ferrum Hausmann ®](data/005723.pdf)
 
-[Amoxi-CT 250 mg / 5 ml TS](http://www.fachinfo.de/pdf/005732)
+[Amoxi-CT 250 mg / 5 ml TS](data/005732.pdf)
 
-[HA-Tabletten® N gegen Schmerzen](http://www.fachinfo.de/pdf/005737)
+[HA-Tabletten® N gegen Schmerzen](data/005737.pdf)
 
-[Neurotrat ® S forte](http://www.fachinfo.de/pdf/005749)
+[Neurotrat ® S forte](data/005749.pdf)
 
-[Klein Solidagoren mono](http://www.fachinfo.de/pdf/005756)
+[Klein Solidagoren mono](data/005756.pdf)
 
-[Clivarin® 1.750](http://www.fachinfo.de/pdf/005757)
+[Clivarin® 1.750](data/005757.pdf)
 
-[Micotar® ZP](http://www.fachinfo.de/pdf/005761)
+[Micotar® ZP](data/005761.pdf)
 
-[AKNICHTHOL ® SOFT](http://www.fachinfo.de/pdf/005762)
+[AKNICHTHOL ® SOFT](data/005762.pdf)
 
-[HYDRO CORDES ®](http://www.fachinfo.de/pdf/005765)
+[HYDRO CORDES ®](data/005765.pdf)
 
-[ICHTHOLAN ® T](http://www.fachinfo.de/pdf/005768)
+[ICHTHOLAN ® T](data/005768.pdf)
 
-[ICHTHO ®-BAD](http://www.fachinfo.de/pdf/005770)
+[ICHTHO ®-BAD](data/005770.pdf)
 
-[LIPO CORDES ®](http://www.fachinfo.de/pdf/005774)
+[LIPO CORDES ®](data/005774.pdf)
 
-[SOLUTIO CORDES ®](http://www.fachinfo.de/pdf/005776)
+[SOLUTIO CORDES ®](data/005776.pdf)
 
-[SOLUTIO CORDES ® DEXA N](http://www.fachinfo.de/pdf/005777)
+[SOLUTIO CORDES ® DEXA N](data/005777.pdf)
 
-[CORDES ® VAS](http://www.fachinfo.de/pdf/005779)
+[CORDES ® VAS](data/005779.pdf)
 
-[Natriumphosphat Braun](http://www.fachinfo.de/pdf/005781)
+[Natriumphosphat Braun](data/005781.pdf)
 
-[Klein Hyperforat 250 mg](http://www.fachinfo.de/pdf/005784)
+[Klein Hyperforat 250 mg](data/005784.pdf)
 
-[CellCept® 1 g/5 ml Pulver](http://www.fachinfo.de/pdf/005788)
+[CellCept® 1 g/5 ml Pulver](data/005788.pdf)
 
-[Lactulose-ratiopharm® Sirup](http://www.fachinfo.de/pdf/005808)
+[Lactulose-ratiopharm® Sirup](data/005808.pdf)
 
-[Leukase ® N Salbe](http://www.fachinfo.de/pdf/005809)
+[Leukase ® N Salbe](data/005809.pdf)
 
-[Klein Prostamed Urtica](http://www.fachinfo.de/pdf/005818)
+[Klein Prostamed Urtica](data/005818.pdf)
 
-[Alpha-Lipogamma® 600 mg](http://www.fachinfo.de/pdf/005820)
+[Alpha-Lipogamma® 600 mg](data/005820.pdf)
 
-[AHP 200](http://www.fachinfo.de/pdf/005828)
+[AHP 200](data/005828.pdf)
 
-[alpha-Vibolex®](http://www.fachinfo.de/pdf/005829)
+[alpha-Vibolex®](data/005829.pdf)
 
-[GRANOCYTE® 13 Millionen IE/ml](http://www.fachinfo.de/pdf/005830)
+[GRANOCYTE® 13 Millionen IE/ml](data/005830.pdf)
 
-[Citalopram-ratiopharm® 10 mg/- 20 mg/- 40 mg](http://www.fachinfo.de/pdf/005856)
+[Citalopram-ratiopharm® 10 mg/- 20 mg/- 40 mg](data/005856.pdf)
 
-[Melabon® K](http://www.fachinfo.de/pdf/005861)
+[Melabon® K](data/005861.pdf)
 
-[Kanamycin-POS ®](http://www.fachinfo.de/pdf/005866)
+[Kanamycin-POS ®](data/005866.pdf)
 
-[Micotar® Mundgel](http://www.fachinfo.de/pdf/005869)
+[Micotar® Mundgel](data/005869.pdf)
 
-[Metoprogamma®](http://www.fachinfo.de/pdf/005873)
+[Metoprogamma®](data/005873.pdf)
 
-[Somnosan® 7,5 mg](http://www.fachinfo.de/pdf/005876)
+[Somnosan® 7,5 mg](data/005876.pdf)
 
-[TANTUM® ROSA](http://www.fachinfo.de/pdf/005880)
+[TANTUM® ROSA](data/005880.pdf)
 
-[Methotrexat-GRY® 500 mg/20 ml; -1000 mg/10 ml; -5000 mg/50 ml](http://www.fachinfo.de/pdf/005899)
+[Methotrexat-GRY® 500 mg/20 ml; -1000 mg/10 ml; -5000 mg/50 ml](data/005899.pdf)
 
-[GHRH FERRING 50 Mikrogramm](http://www.fachinfo.de/pdf/005901)
+[GHRH FERRING 50 Mikrogramm](data/005901.pdf)
 
-[Ranitidin-ratiopharm® 75 mg](http://www.fachinfo.de/pdf/005904)
+[Ranitidin-ratiopharm® 75 mg](data/005904.pdf)
 
-[Femoston® conti 1 mg/5 mg](http://www.fachinfo.de/pdf/005905)
+[Femoston® conti 1 mg/5 mg](data/005905.pdf)
 
-[Roxithromycin-ratiopharm® 150 mg Filmtabletten](http://www.fachinfo.de/pdf/005923)
+[Roxithromycin-ratiopharm® 150 mg Filmtabletten](data/005923.pdf)
 
-[ISMN-CT 20 mg/40 mg Tabletten](http://www.fachinfo.de/pdf/005924)
+[ISMN-CT 20 mg/40 mg Tabletten](data/005924.pdf)
 
-[Gabunat®](http://www.fachinfo.de/pdf/005932)
+[Gabunat®](data/005932.pdf)
 
-[HepaBesch®](http://www.fachinfo.de/pdf/005933)
+[HepaBesch®](data/005933.pdf)
 
-[Sufenta® mite](http://www.fachinfo.de/pdf/005939)
+[Sufenta® mite](data/005939.pdf)
 
-[Novartis Pharma Voltaren® Dispers](http://www.fachinfo.de/pdf/005941)
+[Novartis Pharma Voltaren® Dispers](data/005941.pdf)
 
-[Naproxen-ratiopharm®](http://www.fachinfo.de/pdf/005945)
+[Naproxen-ratiopharm®](data/005945.pdf)
 
-[MonoStep® überzogene Tabletten](http://www.fachinfo.de/pdf/005950)
+[MonoStep® überzogene Tabletten](data/005950.pdf)
 
-[gemachten Angaben keine Daten vor, die zu](http://www.fachinfo.de/pdf/005953)
+[gemachten Angaben keine Daten vor, die zu](data/005953.pdf)
 
-[Atrovent® 250 μg/2 ml Fertiginhalat](http://www.fachinfo.de/pdf/005958)
+[Atrovent® 250 μg/2 ml Fertiginhalat](data/005958.pdf)
 
-[Atrovent® 500 μg/2 ml Fertiginhalat](http://www.fachinfo.de/pdf/005963)
+[Atrovent® 500 μg/2 ml Fertiginhalat](data/005963.pdf)
 
-[Thioctacid® 600 HR](http://www.fachinfo.de/pdf/005970)
+[Thioctacid® 600 HR](data/005970.pdf)
 
-[Salviathymol® N Madaus](http://www.fachinfo.de/pdf/005976)
+[Salviathymol® N Madaus](data/005976.pdf)
 
-[Berotec ® N 100 μg Dosier-Aerosol](http://www.fachinfo.de/pdf/005989)
+[Berotec ® N 100 μg Dosier-Aerosol](data/005989.pdf)
 
-[Lipocol-Merz® Kautablette](http://www.fachinfo.de/pdf/006000)
+[Lipocol-Merz® Kautablette](data/006000.pdf)
 
-[Cibadrex® 10 mg/12,5 mg Filmtabletten](http://www.fachinfo.de/pdf/006003)
+[Cibadrex® 10 mg/12,5 mg Filmtabletten](data/006003.pdf)
 
-[Klacid® Pro,](http://www.fachinfo.de/pdf/006008)
+[Klacid® Pro,](data/006008.pdf)
 
-[Thiogamma® 600 oral](http://www.fachinfo.de/pdf/006010)
+[Thiogamma® 600 oral](data/006010.pdf)
 
-[Natriumhydrogencarbonat 4,2 % Braun](http://www.fachinfo.de/pdf/006011)
+[Natriumhydrogencarbonat 4,2 % Braun](data/006011.pdf)
 
-[Ketofex®](http://www.fachinfo.de/pdf/006014)
+[Ketofex®](data/006014.pdf)
 
-[Natriumhydrogencarbonat 8,4 %](http://www.fachinfo.de/pdf/006019)
+[Natriumhydrogencarbonat 8,4 %](data/006019.pdf)
 
-[Natriumhydrogencarbonat 8,4 % B. Braun](http://www.fachinfo.de/pdf/006021)
+[Natriumhydrogencarbonat 8,4 % B. Braun](data/006021.pdf)
 
-[Metalyse® 10.000 U](http://www.fachinfo.de/pdf/006029)
+[Metalyse® 10.000 U](data/006029.pdf)
 
-[Altmann Therapie 224](http://www.fachinfo.de/pdf/006035)
+[Altmann Therapie 224](data/006035.pdf)
 
-[Dulcolax® NP Tropfen](http://www.fachinfo.de/pdf/006061)
+[Dulcolax® NP Tropfen](data/006061.pdf)
 
-[Amdipharm Aprical long 60 mg](http://www.fachinfo.de/pdf/006075)
+[Amdipharm Aprical long 60 mg](data/006075.pdf)
 
-[Silomat® DMP](http://www.fachinfo.de/pdf/006076)
+[Silomat® DMP](data/006076.pdf)
 
-[OPATANOL® 1 mg/ml Augentropfen](http://www.fachinfo.de/pdf/006079)
+[OPATANOL® 1 mg/ml Augentropfen](data/006079.pdf)
 
-[Nystaderm comp. Paste](http://www.fachinfo.de/pdf/006088)
+[Nystaderm comp. Paste](data/006088.pdf)
 
-[Doxyderma® 50 mg](http://www.fachinfo.de/pdf/006090)
+[Doxyderma® 50 mg](data/006090.pdf)
 
-[Doxyderma® 100 mg](http://www.fachinfo.de/pdf/006091)
+[Doxyderma® 100 mg](data/006091.pdf)
 
-[Micotar® Creme](http://www.fachinfo.de/pdf/006092)
+[Micotar® Creme](data/006092.pdf)
 
-[Aponal® 100](http://www.fachinfo.de/pdf/006101)
+[Aponal® 100](data/006101.pdf)
 
-[Ostac® 520 mg](http://www.fachinfo.de/pdf/006102)
+[Ostac® 520 mg](data/006102.pdf)
 
-[Koro-Nyhadin®, Flüssigkeit](http://www.fachinfo.de/pdf/006105)
+[Koro-Nyhadin®, Flüssigkeit](data/006105.pdf)
 
-[Cromo-CT Nasenspray](http://www.fachinfo.de/pdf/006112)
+[Cromo-CT Nasenspray](data/006112.pdf)
 
-[Mucosolvan® Inhalationslösung 15 mg/2 ml](http://www.fachinfo.de/pdf/006118)
+[Mucosolvan® Inhalationslösung 15 mg/2 ml](data/006118.pdf)
 
-[Mucosolvan® Kindersaft 30 mg/5 ml](http://www.fachinfo.de/pdf/006120)
+[Mucosolvan® Kindersaft 30 mg/5 ml](data/006120.pdf)
 
-[Spasmo-Mucosolvan® Saft](http://www.fachinfo.de/pdf/006123)
+[Spasmo-Mucosolvan® Saft](data/006123.pdf)
 
-[Spasmo-Mucosolvan® Tabletten](http://www.fachinfo.de/pdf/006124)
+[Spasmo-Mucosolvan® Tabletten](data/006124.pdf)
 
-[Metysolon® 4 mg/8 mg/16 mg](http://www.fachinfo.de/pdf/006126)
+[Metysolon® 4 mg/8 mg/16 mg](data/006126.pdf)
 
-[CALCIUMFOLINAT biosyn liquid](http://www.fachinfo.de/pdf/006139)
+[CALCIUMFOLINAT biosyn liquid](data/006139.pdf)
 
-[FOLSÄURE biosyn](http://www.fachinfo.de/pdf/006143)
+[FOLSÄURE biosyn](data/006143.pdf)
 
-[Sedotussin® Hustenstiller](http://www.fachinfo.de/pdf/006164)
+[Sedotussin® Hustenstiller](data/006164.pdf)
 
-[Bisolvon® Hustentabletten](http://www.fachinfo.de/pdf/006170)
+[Bisolvon® Hustentabletten](data/006170.pdf)
 
-[PAS-Fatol N](http://www.fachinfo.de/pdf/006178)
+[PAS-Fatol N](data/006178.pdf)
 
-[Volon® 4/8/16 mg](http://www.fachinfo.de/pdf/006180)
+[Volon® 4/8/16 mg](data/006180.pdf)
 
-[Flunitrazepam-ratiopharm® 1 mg](http://www.fachinfo.de/pdf/006181)
+[Flunitrazepam-ratiopharm® 1 mg](data/006181.pdf)
 
-[REMINYL® Lösung](http://www.fachinfo.de/pdf/006205)
+[REMINYL® Lösung](data/006205.pdf)
 
-[ben-u-ron® 1000 mg Zäpfchen](http://www.fachinfo.de/pdf/006207)
+[ben-u-ron® 1000 mg Zäpfchen](data/006207.pdf)
 
-[Morphin Merck ® 100 mg](http://www.fachinfo.de/pdf/006219)
+[Morphin Merck ® 100 mg](data/006219.pdf)
 
-[Spironolacton 50 Heumann](http://www.fachinfo.de/pdf/006231)
+[Spironolacton 50 Heumann](data/006231.pdf)
 
-[Diclofenac Heumann Gel](http://www.fachinfo.de/pdf/006232)
+[Diclofenac Heumann Gel](data/006232.pdf)
 
-[Spironolacton 50/100 plus Heumann](http://www.fachinfo.de/pdf/006235)
+[Spironolacton 50/100 plus Heumann](data/006235.pdf)
 
-[Bazoton® uno](http://www.fachinfo.de/pdf/006240)
+[Bazoton® uno](data/006240.pdf)
 
-[Canesten® GYN Vaginalcreme](http://www.fachinfo.de/pdf/006241)
+[Canesten® GYN Vaginalcreme](data/006241.pdf)
 
-[Sulpirid-CT 200 mg Tabletten](http://www.fachinfo.de/pdf/006270)
+[Sulpirid-CT 200 mg Tabletten](data/006270.pdf)
 
-[Berodual® N Dosier-Aerosol](http://www.fachinfo.de/pdf/006271)
+[Berodual® N Dosier-Aerosol](data/006271.pdf)
 
 [Kaletra® (80 mg + 20 mg)
-/ml](http://www.fachinfo.de/pdf/006272)
+/ml](data/006272.pdf)
 
-[PNEUMOVAX® 23](http://www.fachinfo.de/pdf/006287)
+[PNEUMOVAX® 23](data/006287.pdf)
 
-[Rohypnol® 1 mg, Filmtabletten](http://www.fachinfo.de/pdf/006309)
+[Rohypnol® 1 mg, Filmtabletten](data/006309.pdf)
 
-[Adalat® 20 mg retard](http://www.fachinfo.de/pdf/006314)
+[Adalat® 20 mg retard](data/006314.pdf)
 
-[TERIZIDON, 250 mg, Hartkapseln](http://www.fachinfo.de/pdf/006321)
+[TERIZIDON, 250 mg, Hartkapseln](data/006321.pdf)
 
-[Tramagit® 100 mg](http://www.fachinfo.de/pdf/006322)
+[Tramagit® 100 mg](data/006322.pdf)
 
-[Typhim Vi®](http://www.fachinfo.de/pdf/006332)
+[Typhim Vi®](data/006332.pdf)
 
-[Monaten Behandlung lagen die Werte](http://www.fachinfo.de/pdf/006335)
+[Monaten Behandlung lagen die Werte](data/006335.pdf)
 
-[Kwai® N, Dragees](http://www.fachinfo.de/pdf/006345)
+[Kwai® N, Dragees](data/006345.pdf)
 
-[IS 5 mono-ratiopharm® 20 mg Tabletten](http://www.fachinfo.de/pdf/006356)
+[IS 5 mono-ratiopharm® 20 mg Tabletten](data/006356.pdf)
 
-[Cefaclor-ratiopharm® 500 mg Kapseln](http://www.fachinfo.de/pdf/006360)
+[Cefaclor-ratiopharm® 500 mg Kapseln](data/006360.pdf)
 
-[Mono-Embolex® multi](http://www.fachinfo.de/pdf/006362)
+[Mono-Embolex® multi](data/006362.pdf)
 
-[PK-Merz® Filmtabletten 150 mg](http://www.fachinfo.de/pdf/006367)
+[PK-Merz® Filmtabletten 150 mg](data/006367.pdf)
 
-[Furogamma® 40 mg Tabletten](http://www.fachinfo.de/pdf/006369)
+[Furogamma® 40 mg Tabletten](data/006369.pdf)
 
-[Furogamma® 500](http://www.fachinfo.de/pdf/006371)
+[Furogamma® 500](data/006371.pdf)
 
-[Vitamin C 1000](http://www.fachinfo.de/pdf/006372)
+[Vitamin C 1000](data/006372.pdf)
 
-[Vitamin C 1000](http://www.fachinfo.de/pdf/006373)
+[Vitamin C 1000](data/006373.pdf)
 
-[selenase® RP Tabletten](http://www.fachinfo.de/pdf/006386)
+[selenase® RP Tabletten](data/006386.pdf)
 
-[Kaveri® 120 mg](http://www.fachinfo.de/pdf/006389)
+[Kaveri® 120 mg](data/006389.pdf)
 
-[Jodgamma® 200 μg](http://www.fachinfo.de/pdf/006393)
+[Jodgamma® 200 μg](data/006393.pdf)
 
-[milgamma® mono 150](http://www.fachinfo.de/pdf/006396)
+[milgamma® mono 150](data/006396.pdf)
 
-[Alfason® Crelo](http://www.fachinfo.de/pdf/006402)
+[Alfason® Crelo](data/006402.pdf)
 
-[Glucose 24 % E Baxter](http://www.fachinfo.de/pdf/006403)
+[Glucose 24 % E Baxter](data/006403.pdf)
 
-[Glucose 40 % E Baxter](http://www.fachinfo.de/pdf/006406)
+[Glucose 40 % E Baxter](data/006406.pdf)
 
-[Hedelix® s. a.](http://www.fachinfo.de/pdf/006410)
+[Hedelix® s. a.](data/006410.pdf)
 
-[magnerot® N](http://www.fachinfo.de/pdf/006413)
+[magnerot® N](data/006413.pdf)
 
-[Hedelix® Hustensaft](http://www.fachinfo.de/pdf/006414)
+[Hedelix® Hustensaft](data/006414.pdf)
 
-[Mucosolvan® Hustensaft 30 mg/5 ml](http://www.fachinfo.de/pdf/006415)
+[Mucosolvan® Hustensaft 30 mg/5 ml](data/006415.pdf)
 
-[Mucosolvan® Tropfen 30 mg/2 ml](http://www.fachinfo.de/pdf/006416)
+[Mucosolvan® Tropfen 30 mg/2 ml](data/006416.pdf)
 
-[Nystatin Lederle Paste 100.000 I. E.](http://www.fachinfo.de/pdf/006418)
+[Nystatin Lederle Paste 100.000 I. E.](data/006418.pdf)
 
-[abnobaVISCUM®](http://www.fachinfo.de/pdf/006420)
+[abnobaVISCUM®](data/006420.pdf)
 
-[Rapamune ® 1 mg/ml](http://www.fachinfo.de/pdf/006439)
+[Rapamune ® 1 mg/ml](data/006439.pdf)
 
-[Hydrocutan Salbe 1 %](http://www.fachinfo.de/pdf/006443)
+[Hydrocutan Salbe 1 %](data/006443.pdf)
 
-[Mucosolvan® Brausetabletten 60 mg](http://www.fachinfo.de/pdf/006458)
+[Mucosolvan® Brausetabletten 60 mg](data/006458.pdf)
 
-[Sulpirid-CT 50 mg Tabletten](http://www.fachinfo.de/pdf/006460)
+[Sulpirid-CT 50 mg Tabletten](data/006460.pdf)
 
-[Nafti-CT 200 mg Retardkapseln](http://www.fachinfo.de/pdf/006461)
+[Nafti-CT 200 mg Retardkapseln](data/006461.pdf)
 
-[Bisoprolol AbZ 5 mg Tabletten](http://www.fachinfo.de/pdf/006466)
+[Bisoprolol AbZ 5 mg Tabletten](data/006466.pdf)
 
-[Natil®-N 5 mg/10 mg](http://www.fachinfo.de/pdf/006467)
+[Natil®-N 5 mg/10 mg](data/006467.pdf)
 
-[MicardisPlus® 40 mg/12,5 mg Tabletten](http://www.fachinfo.de/pdf/006474)
+[MicardisPlus® 40 mg/12,5 mg Tabletten](data/006474.pdf)
 
-[MicardisPlus® 80 mg/12,5 mg Tabletten](http://www.fachinfo.de/pdf/006480)
+[MicardisPlus® 80 mg/12,5 mg Tabletten](data/006480.pdf)
 
-[Sulpirid-ratiopharm® 50 / 200 mg](http://www.fachinfo.de/pdf/006482)
+[Sulpirid-ratiopharm® 50 / 200 mg](data/006482.pdf)
 
-[Cyproteronacetat-GRY® 50 mg Tabletten](http://www.fachinfo.de/pdf/006484)
+[Cyproteronacetat-GRY® 50 mg Tabletten](data/006484.pdf)
 
-[SPIRIVA® 18 Mikrogramm](http://www.fachinfo.de/pdf/006487)
+[SPIRIVA® 18 Mikrogramm](data/006487.pdf)
 
-[Propafenon-ratiopharm®](http://www.fachinfo.de/pdf/006488)
+[Propafenon-ratiopharm®](data/006488.pdf)
 
-[ISOPTO®-DEX Augensalbe](http://www.fachinfo.de/pdf/006491)
+[ISOPTO®-DEX Augensalbe](data/006491.pdf)
 
-[ISOPTO®-DEX](http://www.fachinfo.de/pdf/006492)
+[ISOPTO®-DEX](data/006492.pdf)
 
-[Aminopäd® 10 %](http://www.fachinfo.de/pdf/006494)
+[Aminopäd® 10 %](data/006494.pdf)
 
-[OCTANINE® F 500/1000](http://www.fachinfo.de/pdf/006503)
+[OCTANINE® F 500/1000](data/006503.pdf)
 
-[OeKolp® Ovula 0,03 mg](http://www.fachinfo.de/pdf/006516)
+[OeKolp® Ovula 0,03 mg](data/006516.pdf)
 
-[Mestinon ® 60](http://www.fachinfo.de/pdf/006518)
+[Mestinon ® 60](data/006518.pdf)
 
-[Mestinon® 10](http://www.fachinfo.de/pdf/006519)
+[Mestinon® 10](data/006519.pdf)
 
-[Mestinon® retard](http://www.fachinfo.de/pdf/006520)
+[Mestinon® retard](data/006520.pdf)
 
-[Atenogamma 25 mg](http://www.fachinfo.de/pdf/006521)
+[Atenogamma 25 mg](data/006521.pdf)
 
-[Saroten® retard Tabs 75 mg](http://www.fachinfo.de/pdf/006524)
+[Saroten® retard Tabs 75 mg](data/006524.pdf)
 
-[Indapamid-CT 2,5 mg Hartkapseln](http://www.fachinfo.de/pdf/006535)
+[Indapamid-CT 2,5 mg Hartkapseln](data/006535.pdf)
 
-[Diltiagamma® 90 / 120](http://www.fachinfo.de/pdf/006537)
+[Diltiagamma® 90 / 120](data/006537.pdf)
 
-[Jarsin® 300 mg](http://www.fachinfo.de/pdf/006538)
+[Jarsin® 300 mg](data/006538.pdf)
 
-[Ledermix®, Paste](http://www.fachinfo.de/pdf/006539)
+[Ledermix®, Paste](data/006539.pdf)
 
-[Mareen® 50 mg](http://www.fachinfo.de/pdf/006542)
+[Mareen® 50 mg](data/006542.pdf)
 
-[Advantan ® 0,1 % Creme](http://www.fachinfo.de/pdf/006547)
+[Advantan ® 0,1 % Creme](data/006547.pdf)
 
-[Advantan® 0,1% Salbe](http://www.fachinfo.de/pdf/006549)
+[Advantan® 0,1% Salbe](data/006549.pdf)
 
-[Resonium ® A](http://www.fachinfo.de/pdf/006558)
+[Resonium ® A](data/006558.pdf)
 
-[Krewel Meuselbach GmbH Syneudon ® 50 mg](http://www.fachinfo.de/pdf/006568)
+[Krewel Meuselbach GmbH Syneudon ® 50 mg](data/006568.pdf)
 
-[Novartis Pharma Voltaren® Resinat](http://www.fachinfo.de/pdf/006581)
+[Novartis Pharma Voltaren® Resinat](data/006581.pdf)
 
-[Gastrozepin® 50 mg](http://www.fachinfo.de/pdf/006582)
+[Gastrozepin® 50 mg](data/006582.pdf)
 
-[Clindamycin-CT 300 mg Hartkapseln](http://www.fachinfo.de/pdf/006586)
+[Clindamycin-CT 300 mg Hartkapseln](data/006586.pdf)
 
-[Pädiafusin I](http://www.fachinfo.de/pdf/006587)
+[Pädiafusin I](data/006587.pdf)
 
-[Amara-Tropfen Dilution](http://www.fachinfo.de/pdf/006592)
+[Amara-Tropfen Dilution](data/006592.pdf)
 
-[Combudoron ® Gel](http://www.fachinfo.de/pdf/006593)
+[Combudoron ® Gel](data/006593.pdf)
 
-[Pädiafusin II](http://www.fachinfo.de/pdf/006594)
+[Pädiafusin II](data/006594.pdf)
 
-[Hepatodoron® Tabletten](http://www.fachinfo.de/pdf/006595)
+[Hepatodoron® Tabletten](data/006595.pdf)
 
-[Unbekannte Häufigkeiten basieren auf genannten Informationen hinausgeht. Auf-](http://www.fachinfo.de/pdf/006598)
+[Unbekannte Häufigkeiten basieren auf genannten Informationen hinausgeht. Auf-](data/006598.pdf)
 
-[vitamin C-Loges® Injektionslösung](http://www.fachinfo.de/pdf/006599)
+[vitamin C-Loges® Injektionslösung](data/006599.pdf)
 
-[Pädiafusin OP](http://www.fachinfo.de/pdf/006612)
+[Pädiafusin OP](data/006612.pdf)
 
-[Peditrace®](http://www.fachinfo.de/pdf/006614)
+[Peditrace®](data/006614.pdf)
 
-[Mydocalm®](http://www.fachinfo.de/pdf/006616)
+[Mydocalm®](data/006616.pdf)
 
-[Aponal® Tropfen](http://www.fachinfo.de/pdf/006619)
+[Aponal® Tropfen](data/006619.pdf)
 
-[Ozym® 10.000](http://www.fachinfo.de/pdf/006627)
+[Ozym® 10.000](data/006627.pdf)
 
-[Ozym® 20.000](http://www.fachinfo.de/pdf/006628)
+[Ozym® 20.000](data/006628.pdf)
 
-[Thioctacid® T direkt](http://www.fachinfo.de/pdf/006629)
+[Thioctacid® T direkt](data/006629.pdf)
 
-[ISMN 20/40/60 Heumann ®](http://www.fachinfo.de/pdf/006632)
+[ISMN 20/40/60 Heumann ®](data/006632.pdf)
 
-[Pantozol® 40 mg](http://www.fachinfo.de/pdf/006633)
+[Pantozol® 40 mg](data/006633.pdf)
 
-[Pulmozyme® 2.500 E./2,5 ml](http://www.fachinfo.de/pdf/006640)
+[Pulmozyme® 2.500 E./2,5 ml](data/006640.pdf)
 
-[Posterine ® Salbe](http://www.fachinfo.de/pdf/006650)
+[Posterine ® Salbe](data/006650.pdf)
 
-[Posterine ® Zäpfchen](http://www.fachinfo.de/pdf/006651)
+[Posterine ® Zäpfchen](data/006651.pdf)
 
-[HYLASE® „Dessau“ 150 I.E.](http://www.fachinfo.de/pdf/006654)
+[HYLASE® „Dessau“ 150 I.E.](data/006654.pdf)
 
-[Dostinex ®](http://www.fachinfo.de/pdf/006655)
+[Dostinex ®](data/006655.pdf)
 
-[Agiolax® Pico Madaus](http://www.fachinfo.de/pdf/006664)
+[Agiolax® Pico Madaus](data/006664.pdf)
 
-[Carbamazepin 200/400 Heumann](http://www.fachinfo.de/pdf/006667)
+[Carbamazepin 200/400 Heumann](data/006667.pdf)
 
-[Hydergin forte 2 mg Tabletten](http://www.fachinfo.de/pdf/006669)
+[Hydergin forte 2 mg Tabletten](data/006669.pdf)
 
-[Mucosolvan® Retardkapseln 75 mg](http://www.fachinfo.de/pdf/006674)
+[Mucosolvan® Retardkapseln 75 mg](data/006674.pdf)
 
-[Strathmann Epogam ®](http://www.fachinfo.de/pdf/006679)
+[Strathmann Epogam ®](data/006679.pdf)
 
-[Vertigo-Vomex® SR Retardkapseln](http://www.fachinfo.de/pdf/006680)
+[Vertigo-Vomex® SR Retardkapseln](data/006680.pdf)
 
-[Cefaclor-CT 500 mg Hartkapseln](http://www.fachinfo.de/pdf/006682)
+[Cefaclor-CT 500 mg Hartkapseln](data/006682.pdf)
 
-[Faros® 300 mg](http://www.fachinfo.de/pdf/006687)
+[Faros® 300 mg](data/006687.pdf)
 
-[OeKolp®-Tabletten 2 mg](http://www.fachinfo.de/pdf/006691)
+[OeKolp®-Tabletten 2 mg](data/006691.pdf)
 
-[Normoc®](http://www.fachinfo.de/pdf/006693)
+[Normoc®](data/006693.pdf)
 
-[EusoVital® forte 403 mg](http://www.fachinfo.de/pdf/006696)
+[EusoVital® forte 403 mg](data/006696.pdf)
 
-[Vitalipid Infant](http://www.fachinfo.de/pdf/006700)
+[Vitalipid Infant](data/006700.pdf)
 
-[Gabunat® forte 10 mg](http://www.fachinfo.de/pdf/006701)
+[Gabunat® forte 10 mg](data/006701.pdf)
 
-[Vitalipid Adult](http://www.fachinfo.de/pdf/006705)
+[Vitalipid Adult](data/006705.pdf)
 
-[Imukin ®](http://www.fachinfo.de/pdf/006712)
+[Imukin ®](data/006712.pdf)
 
-[EMSER SALZ ®](http://www.fachinfo.de/pdf/006716)
+[EMSER SALZ ®](data/006716.pdf)
 
-[Tollwutglobulin Mérieux® P](http://www.fachinfo.de/pdf/006719)
+[Tollwutglobulin Mérieux® P](data/006719.pdf)
 
-[Gastronerton®](http://www.fachinfo.de/pdf/006722)
+[Gastronerton®](data/006722.pdf)
 
-[Gastronerton ®](http://www.fachinfo.de/pdf/006723)
+[Gastronerton ®](data/006723.pdf)
 
-[magnerot A 100/300/500](http://www.fachinfo.de/pdf/006725)
+[magnerot A 100/300/500](data/006725.pdf)
 
-[Timox® Filmtabletten](http://www.fachinfo.de/pdf/006727)
+[Timox® Filmtabletten](data/006727.pdf)
 
-[milgamma® 100](http://www.fachinfo.de/pdf/006729)
+[milgamma® 100](data/006729.pdf)
 
-[F.X. Passage® SL](http://www.fachinfo.de/pdf/006732)
+[F.X. Passage® SL](data/006732.pdf)
 
-[EMSER® NASENSPRAY Lösung](http://www.fachinfo.de/pdf/006733)
+[EMSER® NASENSPRAY Lösung](data/006733.pdf)
 
-[Bisoprolol-ratiopharm® comp. Filmtabletten](http://www.fachinfo.de/pdf/006736)
+[Bisoprolol-ratiopharm® comp. Filmtabletten](data/006736.pdf)
 
-[Pegasys ® 90/135/180 Mikrogramm](http://www.fachinfo.de/pdf/006737)
+[Pegasys ® 90/135/180 Mikrogramm](data/006737.pdf)
 
-[ACE-Hemmer-ratiopharm® 12,5 mg](http://www.fachinfo.de/pdf/006741)
+[ACE-Hemmer-ratiopharm® 12,5 mg](data/006741.pdf)
 
-[Capto-CT 25 mg Tabletten](http://www.fachinfo.de/pdf/006743)
+[Capto-CT 25 mg Tabletten](data/006743.pdf)
 
-[Vancomycin „Lederle“ 500 mg](http://www.fachinfo.de/pdf/006748)
+[Vancomycin „Lederle“ 500 mg](data/006748.pdf)
 
-[NovoRapid®](http://www.fachinfo.de/pdf/006754)
+[NovoRapid®](data/006754.pdf)
 
-[Rocaltrol® 0,25 μg, Rocaltrol® 0,5 μg](http://www.fachinfo.de/pdf/006756)
+[Rocaltrol® 0,25 μg, Rocaltrol® 0,5 μg](data/006756.pdf)
 
-[Diazepam-ratiopharm® 10 mg/2 ml](http://www.fachinfo.de/pdf/006757)
+[Diazepam-ratiopharm® 10 mg/2 ml](data/006757.pdf)
 
-[ICG-PULSION®](http://www.fachinfo.de/pdf/006759)
+[ICG-PULSION®](data/006759.pdf)
 
-[IBU-ratiopharm® Lysinat](http://www.fachinfo.de/pdf/006764)
+[IBU-ratiopharm® Lysinat](data/006764.pdf)
 
-[Propafenon Heumann](http://www.fachinfo.de/pdf/006768)
+[Propafenon Heumann](data/006768.pdf)
 
-[Spiropent ® Tropfen 0,059 mg/ml, Lösung](http://www.fachinfo.de/pdf/006802)
+[Spiropent ® Tropfen 0,059 mg/ml, Lösung](data/006802.pdf)
 
-[Spiropent® 0,02 mg Tabletten](http://www.fachinfo.de/pdf/006804)
+[Spiropent® 0,02 mg Tabletten](data/006804.pdf)
 
-[Mucosolvan® Injektionslösung](http://www.fachinfo.de/pdf/006805)
+[Mucosolvan® Injektionslösung](data/006805.pdf)
 
-[Protaphane®](http://www.fachinfo.de/pdf/006816)
+[Protaphane®](data/006816.pdf)
 
-[Diclofenac-ratiopharm® Gel](http://www.fachinfo.de/pdf/006817)
+[Diclofenac-ratiopharm® Gel](data/006817.pdf)
 
-[Carboplatin-GRY® 10 mg / ml](http://www.fachinfo.de/pdf/006830)
+[Carboplatin-GRY® 10 mg / ml](data/006830.pdf)
 
-[Karison](http://www.fachinfo.de/pdf/006832)
+[Karison](data/006832.pdf)
 
-[Neurontin ® 100/300/400 mg Hartkapseln](http://www.fachinfo.de/pdf/006833)
+[Neurontin ® 100/300/400 mg Hartkapseln](data/006833.pdf)
 
-[Klimadynon® Uno](http://www.fachinfo.de/pdf/006841)
+[Klimadynon® Uno](data/006841.pdf)
 
-[Actrapid®](http://www.fachinfo.de/pdf/006843)
+[Actrapid®](data/006843.pdf)
 
-[Mirfulan® Spray N, Salbe](http://www.fachinfo.de/pdf/006849)
+[Mirfulan® Spray N, Salbe](data/006849.pdf)
 
-[Mirfulan®](http://www.fachinfo.de/pdf/006850)
+[Mirfulan®](data/006850.pdf)
 
-[B12 »ANKERMANN«®](http://www.fachinfo.de/pdf/006851)
+[B12 »ANKERMANN«®](data/006851.pdf)
 
-[Zink-POS® 3,2 mg/Zinkorotat-POS®](http://www.fachinfo.de/pdf/006866)
+[Zink-POS® 3,2 mg/Zinkorotat-POS®](data/006866.pdf)
 
-[Tonsipret® Tabletten](http://www.fachinfo.de/pdf/006867)
+[Tonsipret® Tabletten](data/006867.pdf)
 
-[Tonsipret® Tropfen](http://www.fachinfo.de/pdf/006868)
+[Tonsipret® Tropfen](data/006868.pdf)
 
-[Gynokadin® Tabletten 2 mg](http://www.fachinfo.de/pdf/006881)
+[Gynokadin® Tabletten 2 mg](data/006881.pdf)
 
-[VIRACEPT ® 250 mg Filmtabletten](http://www.fachinfo.de/pdf/006887)
+[VIRACEPT ® 250 mg Filmtabletten](data/006887.pdf)
 
-[Daivobet® 50 Mikrogramm/g + 0,5 mg/g](http://www.fachinfo.de/pdf/006889)
+[Daivobet® 50 Mikrogramm/g + 0,5 mg/g](data/006889.pdf)
 
-[Haldol®-Janssen](http://www.fachinfo.de/pdf/006915)
+[Haldol®-Janssen](data/006915.pdf)
 
-[NORPROLAC 25 μg/50 μg / 75 μg / 150 μg](http://www.fachinfo.de/pdf/006918)
+[NORPROLAC 25 μg/50 μg / 75 μg / 150 μg](data/006918.pdf)
 
-[Haldol®-Janssen forte](http://www.fachinfo.de/pdf/006920)
+[Haldol®-Janssen forte](data/006920.pdf)
 
-[Methergin®](http://www.fachinfo.de/pdf/006943)
+[Methergin®](data/006943.pdf)
 
-[Methionin-ratiopharm® 500 mg Filmtabletten](http://www.fachinfo.de/pdf/006945)
+[Methionin-ratiopharm® 500 mg Filmtabletten](data/006945.pdf)
 
-[Haldol®-Janssen Injektionslösung 5 mg/ml](http://www.fachinfo.de/pdf/006950)
+[Haldol®-Janssen Injektionslösung 5 mg/ml](data/006950.pdf)
 
-[VAQTA®](http://www.fachinfo.de/pdf/006952)
+[VAQTA®](data/006952.pdf)
 
-[VAQTA® Kinder](http://www.fachinfo.de/pdf/006954)
+[VAQTA® Kinder](data/006954.pdf)
 
-[ICHTHRALETTEN ®](http://www.fachinfo.de/pdf/006956)
+[ICHTHRALETTEN ®](data/006956.pdf)
 
-[Haldol®-Janssen 1mg, Tabletten](http://www.fachinfo.de/pdf/006958)
+[Haldol®-Janssen 1mg, Tabletten](data/006958.pdf)
 
-[Enalapril-ratiopharm® Tabletten](http://www.fachinfo.de/pdf/006964)
+[Enalapril-ratiopharm® Tabletten](data/006964.pdf)
 
-[Urso 250/400 Heumann®](http://www.fachinfo.de/pdf/006983)
+[Urso 250/400 Heumann®](data/006983.pdf)
 
-[Zavedos ® Oral 5 mg/10 mg/25 mg](http://www.fachinfo.de/pdf/006985)
+[Zavedos ® Oral 5 mg/10 mg/25 mg](data/006985.pdf)
 
-[Biotin-ASmedic ®](http://www.fachinfo.de/pdf/006990)
+[Biotin-ASmedic ®](data/006990.pdf)
 
-[Ebixa® 5 mg/Pumpenhub](http://www.fachinfo.de/pdf/007000)
+[Ebixa® 5 mg/Pumpenhub](data/007000.pdf)
 
-[Metrogel® 0,75 %](http://www.fachinfo.de/pdf/007002)
+[Metrogel® 0,75 %](data/007002.pdf)
 
-[Ebixa® 10 mg Filmtabletten](http://www.fachinfo.de/pdf/007003)
+[Ebixa® 10 mg Filmtabletten](data/007003.pdf)
 
-[Ciprofloxacin real 250/500/750 mg](http://www.fachinfo.de/pdf/007016)
+[Ciprofloxacin real 250/500/750 mg](data/007016.pdf)
 
-[Biotin Heumann 5 mg Tabletten](http://www.fachinfo.de/pdf/007026)
+[Biotin Heumann 5 mg Tabletten](data/007026.pdf)
 
-[Virzin ® Creme](http://www.fachinfo.de/pdf/007029)
+[Virzin ® Creme](data/007029.pdf)
 
-[Soledum® Kapseln 100 mg](http://www.fachinfo.de/pdf/007036)
+[Soledum® Kapseln 100 mg](data/007036.pdf)
 
-[Cyklokapron®](http://www.fachinfo.de/pdf/007045)
+[Cyklokapron®](data/007045.pdf)
 
-[Mestinon® 5](http://www.fachinfo.de/pdf/007046)
+[Mestinon® 5](data/007046.pdf)
 
-[ESTREVA® 0,1 % Gel](http://www.fachinfo.de/pdf/007050)
+[ESTREVA® 0,1 % Gel](data/007050.pdf)
 
-[Soledum® Balsam](http://www.fachinfo.de/pdf/007051)
+[Soledum® Balsam](data/007051.pdf)
 
-[Bromhexin Krewel Meuselbach ®](http://www.fachinfo.de/pdf/007054)
+[Bromhexin Krewel Meuselbach ®](data/007054.pdf)
 
-[Vitamin C 500](http://www.fachinfo.de/pdf/007064)
+[Vitamin C 500](data/007064.pdf)
 
-[Vitamin C 500](http://www.fachinfo.de/pdf/007065)
+[Vitamin C 500](data/007065.pdf)
 
-[Tramadol-CT](http://www.fachinfo.de/pdf/007066)
+[Tramadol-CT](data/007066.pdf)
 
-[Haenal® Hamamelis Zäpfchen](http://www.fachinfo.de/pdf/007093)
+[Haenal® Hamamelis Zäpfchen](data/007093.pdf)
 
-[Dibro-Be mono 850 mg Tabletten](http://www.fachinfo.de/pdf/007096)
+[Dibro-Be mono 850 mg Tabletten](data/007096.pdf)
 
-[Antiparkin ®](http://www.fachinfo.de/pdf/007099)
+[Antiparkin ®](data/007099.pdf)
 
-[Atenogamma® comp.](http://www.fachinfo.de/pdf/007101)
+[Atenogamma® comp.](data/007101.pdf)
 
-[Sirdalud®](http://www.fachinfo.de/pdf/007103)
+[Sirdalud®](data/007103.pdf)
 
-[ERYPO FS](http://www.fachinfo.de/pdf/007104)
+[ERYPO FS](data/007104.pdf)
 
-[vertigo-neogama® 100 mg Tabletten](http://www.fachinfo.de/pdf/007107)
+[vertigo-neogama® 100 mg Tabletten](data/007107.pdf)
 
-[M-long® 10 mg/30 mg/60 mg/100 mg,](http://www.fachinfo.de/pdf/007115)
+[M-long® 10 mg/30 mg/60 mg/100 mg,](data/007115.pdf)
 
-[Galderma Basocin ® 1% Akne-Gel](http://www.fachinfo.de/pdf/007135)
+[Galderma Basocin ® 1% Akne-Gel](data/007135.pdf)
 
-[vertigo-neogama® forte 200](http://www.fachinfo.de/pdf/007138)
+[vertigo-neogama® forte 200](data/007138.pdf)
 
-[Yomogi®](http://www.fachinfo.de/pdf/007140)
+[Yomogi®](data/007140.pdf)
 
-[Valocordin®-Diazepam](http://www.fachinfo.de/pdf/007141)
+[Valocordin®-Diazepam](data/007141.pdf)
 
-[Gelonida ® Schmerztabletten](http://www.fachinfo.de/pdf/007142)
+[Gelonida ® Schmerztabletten](data/007142.pdf)
 
-[Hydrotalcit-ratiopharm® 500 mg](http://www.fachinfo.de/pdf/007147)
+[Hydrotalcit-ratiopharm® 500 mg](data/007147.pdf)
 
-[Thioctacid® 600 T](http://www.fachinfo.de/pdf/007153)
+[Thioctacid® 600 T](data/007153.pdf)
 
-[Flutamid-CT 250 mg Tabletten](http://www.fachinfo.de/pdf/007158)
+[Flutamid-CT 250 mg Tabletten](data/007158.pdf)
 
-[Ranitidin-CT 150 mg Filmtabletten](http://www.fachinfo.de/pdf/007159)
+[Ranitidin-CT 150 mg Filmtabletten](data/007159.pdf)
 
-[Eve ® 20](http://www.fachinfo.de/pdf/007166)
+[Eve ® 20](data/007166.pdf)
 
-[RIOPAN® Magen Tabletten](http://www.fachinfo.de/pdf/007171)
+[RIOPAN® Magen Tabletten](data/007171.pdf)
 
-[Ranitidin-ratiopharm® 150 mg / 300 mg](http://www.fachinfo.de/pdf/007176)
+[Ranitidin-ratiopharm® 150 mg / 300 mg](data/007176.pdf)
 
-[Sobelin ® Vaginalcreme](http://www.fachinfo.de/pdf/007177)
+[Sobelin ® Vaginalcreme](data/007177.pdf)
 
-[NAVELBINE® 10 mg/1 ml – 50 mg/5 ml](http://www.fachinfo.de/pdf/007190)
+[NAVELBINE® 10 mg/1 ml – 50 mg/5 ml](data/007190.pdf)
 
-[dysto-loges® S Tabletten](http://www.fachinfo.de/pdf/007194)
+[dysto-loges® S Tabletten](data/007194.pdf)
 
-[SEMPERA® 7 Kapseln](http://www.fachinfo.de/pdf/007203)
+[SEMPERA® 7 Kapseln](data/007203.pdf)
 
-[Flutamid-ratiopharm® 250 mg Tabletten](http://www.fachinfo.de/pdf/007210)
+[Flutamid-ratiopharm® 250 mg Tabletten](data/007210.pdf)
 
-[Phenprogamma® 3](http://www.fachinfo.de/pdf/007216)
+[Phenprogamma® 3](data/007216.pdf)
 
-[Blopress® Plus Tabletten](http://www.fachinfo.de/pdf/007217)
+[Blopress® Plus Tabletten](data/007217.pdf)
 
-[Uromitexan® Multidose](http://www.fachinfo.de/pdf/007219)
+[Uromitexan® Multidose](data/007219.pdf)
 
-[Alpha-Lipogamma® 600 mg](http://www.fachinfo.de/pdf/007222)
+[Alpha-Lipogamma® 600 mg](data/007222.pdf)
 
-[Ureotop ® + VAS Creme](http://www.fachinfo.de/pdf/007226)
+[Ureotop ® + VAS Creme](data/007226.pdf)
 
-[Dynorm ® Plus](http://www.fachinfo.de/pdf/007231)
+[Dynorm ® Plus](data/007231.pdf)
 
-[Basocin ® 1% Akne-Lösung](http://www.fachinfo.de/pdf/007236)
+[Basocin ® 1% Akne-Lösung](data/007236.pdf)
 
-[Micardis® 20 mg Tabletten](http://www.fachinfo.de/pdf/007242)
+[Micardis® 20 mg Tabletten](data/007242.pdf)
 
-[Laxofalk® 10g](http://www.fachinfo.de/pdf/007246)
+[Laxofalk® 10g](data/007246.pdf)
 
-[Aciclovir-ratiopharm® 250 mg p.i.](http://www.fachinfo.de/pdf/007248)
+[Aciclovir-ratiopharm® 250 mg p.i.](data/007248.pdf)
 
-[Fluanxol ® Depot 2 %](http://www.fachinfo.de/pdf/007295)
+[Fluanxol ® Depot 2 %](data/007295.pdf)
 
-[Isoptin® RR plus](http://www.fachinfo.de/pdf/007296)
+[Isoptin® RR plus](data/007296.pdf)
 
-[Trigoa ®](http://www.fachinfo.de/pdf/007298)
+[Trigoa ®](data/007298.pdf)
 
-[ICHTHODERM ®](http://www.fachinfo.de/pdf/007303)
+[ICHTHODERM ®](data/007303.pdf)
 
-[ICHTHOSIN ®](http://www.fachinfo.de/pdf/007304)
+[ICHTHOSIN ®](data/007304.pdf)
 
-[Fluanxol ® Tropfen 50 mg/ml](http://www.fachinfo.de/pdf/007307)
+[Fluanxol ® Tropfen 50 mg/ml](data/007307.pdf)
 
-[Aciclovir-CT 200 mg/400 mg/800 mg](http://www.fachinfo.de/pdf/007308)
+[Aciclovir-CT 200 mg/400 mg/800 mg](data/007308.pdf)
 
-[Lafol ® 0,4 mg Weichkapsel](http://www.fachinfo.de/pdf/007311)
+[Lafol ® 0,4 mg Weichkapsel](data/007311.pdf)
 
-[Fluanxol Depot 10 %](http://www.fachinfo.de/pdf/007324)
+[Fluanxol Depot 10 %](data/007324.pdf)
 
-[Tramadol Heumann](http://www.fachinfo.de/pdf/007326)
+[Tramadol Heumann](data/007326.pdf)
 
-[Partusisten®](http://www.fachinfo.de/pdf/007335)
+[Partusisten®](data/007335.pdf)
 
-[Femoston® 1 mg/10 mg,](http://www.fachinfo.de/pdf/007342)
+[Femoston® 1 mg/10 mg,](data/007342.pdf)
 
-[Famotidin-ratiopharm® 20 mg Filmtabletten](http://www.fachinfo.de/pdf/007352)
+[Famotidin-ratiopharm® 20 mg Filmtabletten](data/007352.pdf)
 
-[Rivanol® Lösung 0,1 %](http://www.fachinfo.de/pdf/007358)
+[Rivanol® Lösung 0,1 %](data/007358.pdf)
 
-[Rivanol ® Salbe](http://www.fachinfo.de/pdf/007359)
+[Rivanol ® Salbe](data/007359.pdf)
 
-[Kytta-Balsam® f](http://www.fachinfo.de/pdf/007362)
+[Kytta-Balsam® f](data/007362.pdf)
 
-[Kytta-Plasma® f](http://www.fachinfo.de/pdf/007363)
+[Kytta-Plasma® f](data/007363.pdf)
 
-[Kytta® Schmerzsalbe](http://www.fachinfo.de/pdf/007364)
+[Kytta® Schmerzsalbe](data/007364.pdf)
 
-[Calcigen® D 600 mg/400 I.E.](http://www.fachinfo.de/pdf/007369)
+[Calcigen® D 600 mg/400 I.E.](data/007369.pdf)
 
-[Enalapril-CT Tabletten](http://www.fachinfo.de/pdf/007373)
+[Enalapril-CT Tabletten](data/007373.pdf)
 
-[Sedonium®](http://www.fachinfo.de/pdf/007381)
+[Sedonium®](data/007381.pdf)
 
-[Reisetabletten-ratiopharm®](http://www.fachinfo.de/pdf/007394)
+[Reisetabletten-ratiopharm®](data/007394.pdf)
 
-[Dolgit® 600](http://www.fachinfo.de/pdf/007395)
+[Dolgit® 600](data/007395.pdf)
 
-[MST 10/30/60/100/200 mg Mundipharma®](http://www.fachinfo.de/pdf/007396)
+[MST 10/30/60/100/200 mg Mundipharma®](data/007396.pdf)
 
-[Aquaphor ® 10/20/40](http://www.fachinfo.de/pdf/007397)
+[Aquaphor ® 10/20/40](data/007397.pdf)
 
-[Madopar ® Depot](http://www.fachinfo.de/pdf/007398)
+[Madopar ® Depot](data/007398.pdf)
 
-[Traumon® Gel 10 %/- Spray](http://www.fachinfo.de/pdf/007405)
+[Traumon® Gel 10 %/- Spray](data/007405.pdf)
 
-[Melperon AbZ 50 mg Filmtabletten](http://www.fachinfo.de/pdf/007412)
+[Melperon AbZ 50 mg Filmtabletten](data/007412.pdf)
 
-[Krewel Meuselbach GmbH Aspecton ® Eukaps 100 mg](http://www.fachinfo.de/pdf/007420)
+[Krewel Meuselbach GmbH Aspecton ® Eukaps 100 mg](data/007420.pdf)
 
-[Kwai® forte 300 mg](http://www.fachinfo.de/pdf/007424)
+[Kwai® forte 300 mg](data/007424.pdf)
 
-[Dolgit® Schmerzgel](http://www.fachinfo.de/pdf/007425)
+[Dolgit® Schmerzgel](data/007425.pdf)
 
-[Hyperesa ®](http://www.fachinfo.de/pdf/007429)
+[Hyperesa ®](data/007429.pdf)
 
-[VENENTABS-ratiopharm® Retardtabletten](http://www.fachinfo.de/pdf/007430)
+[VENENTABS-ratiopharm® Retardtabletten](data/007430.pdf)
 
-[Zinkamin-Falk ® 15mg Hartkapseln](http://www.fachinfo.de/pdf/007438)
+[Zinkamin-Falk ® 15mg Hartkapseln](data/007438.pdf)
 
-[Viramune ® 50 mg/5 ml](http://www.fachinfo.de/pdf/007441)
+[Viramune ® 50 mg/5 ml](data/007441.pdf)
 
-[STAMARIL®](http://www.fachinfo.de/pdf/007467)
+[STAMARIL®](data/007467.pdf)
 
-[Fluoxetin-ratiopharm® 20 mg Tabletten](http://www.fachinfo.de/pdf/007471)
+[Fluoxetin-ratiopharm® 20 mg Tabletten](data/007471.pdf)
 
-[Ranitidin 150/300 Heumann](http://www.fachinfo.de/pdf/007477)
+[Ranitidin 150/300 Heumann](data/007477.pdf)
 
-[Thyronajod® 50, 75, 100, 125, 150 Henning,](http://www.fachinfo.de/pdf/007479)
+[Thyronajod® 50, 75, 100, 125, 150 Henning,](data/007479.pdf)
 
-[Laxans-ratiopharm® 7,5 mg/ml](http://www.fachinfo.de/pdf/007481)
+[Laxans-ratiopharm® 7,5 mg/ml](data/007481.pdf)
 
-[Bisoprolol-ratiopharm® 5 mg Tabletten](http://www.fachinfo.de/pdf/007486)
+[Bisoprolol-ratiopharm® 5 mg Tabletten](data/007486.pdf)
 
-[Ossofortin® D](http://www.fachinfo.de/pdf/007489)
+[Ossofortin® D](data/007489.pdf)
 
-[Ranitidin-ratiopharm® 50 mg/5 ml](http://www.fachinfo.de/pdf/007512)
+[Ranitidin-ratiopharm® 50 mg/5 ml](data/007512.pdf)
 
-[Tannalbin ® Kapseln 250 mg](http://www.fachinfo.de/pdf/007520)
+[Tannalbin ® Kapseln 250 mg](data/007520.pdf)
 
-[Zinkorot®](http://www.fachinfo.de/pdf/007544)
+[Zinkorot®](data/007544.pdf)
 
-[ASS gamma® 75 mg](http://www.fachinfo.de/pdf/007547)
+[ASS gamma® 75 mg](data/007547.pdf)
 
-[Östronara®](http://www.fachinfo.de/pdf/007554)
+[Östronara®](data/007554.pdf)
 
-[ISMN-CT 100 mg Retardtabletten](http://www.fachinfo.de/pdf/007559)
+[ISMN-CT 100 mg Retardtabletten](data/007559.pdf)
 
-[Isotretinoin-ratiopharm® Weichkapseln](http://www.fachinfo.de/pdf/007560)
+[Isotretinoin-ratiopharm® Weichkapseln](data/007560.pdf)
 
-[dexa-clinit](http://www.fachinfo.de/pdf/007572)
+[dexa-clinit](data/007572.pdf)
 
-[Delagil Creme](http://www.fachinfo.de/pdf/007574)
+[Delagil Creme](data/007574.pdf)
 
-[Delagil ® Pulver](http://www.fachinfo.de/pdf/007577)
+[Delagil ® Pulver](data/007577.pdf)
 
-[Gingicain® D](http://www.fachinfo.de/pdf/007579)
+[Gingicain® D](data/007579.pdf)
 
-[Volon® A Creme](http://www.fachinfo.de/pdf/007581)
+[Volon® A Creme](data/007581.pdf)
 
-[Volonimat® Salbe N](http://www.fachinfo.de/pdf/007587)
+[Volonimat® Salbe N](data/007587.pdf)
 
-[Miranova®](http://www.fachinfo.de/pdf/007591)
+[Miranova®](data/007591.pdf)
 
-[Cefaclor Heumann](http://www.fachinfo.de/pdf/007593)
+[Cefaclor Heumann](data/007593.pdf)
 
-[Diazepam-ratiopharm® 2 mg Tabletten](http://www.fachinfo.de/pdf/007597)
+[Diazepam-ratiopharm® 2 mg Tabletten](data/007597.pdf)
 
-[Euminz®](http://www.fachinfo.de/pdf/007601)
+[Euminz®](data/007601.pdf)
 
-[Isoptin® Injektionslösung](http://www.fachinfo.de/pdf/007603)
+[Isoptin® Injektionslösung](data/007603.pdf)
 
-[Rani-nerton® 150](http://www.fachinfo.de/pdf/007608)
+[Rani-nerton® 150](data/007608.pdf)
 
-[Mono Mack ® Depot](http://www.fachinfo.de/pdf/007618)
+[Mono Mack ® Depot](data/007618.pdf)
 
-[Unacid ® PD oral](http://www.fachinfo.de/pdf/007620)
+[Unacid ® PD oral](data/007620.pdf)
 
-[Combactam ® 0,5 g/Combactam ® 1,0 g](http://www.fachinfo.de/pdf/007628)
+[Combactam ® 0,5 g/Combactam ® 1,0 g](data/007628.pdf)
 
-[Norvasc ® 5 mg](http://www.fachinfo.de/pdf/007631)
+[Norvasc ® 5 mg](data/007631.pdf)
 
-[Zinkit® 10](http://www.fachinfo.de/pdf/007633)
+[Zinkit® 10](data/007633.pdf)
 
-[HUMALOG ®](http://www.fachinfo.de/pdf/007637)
+[HUMALOG ®](data/007637.pdf)
 
-[Ilio-Funkton ®](http://www.fachinfo.de/pdf/007653)
+[Ilio-Funkton ®](data/007653.pdf)
 
-[Resochin® Injektion 50 mg/ml](http://www.fachinfo.de/pdf/007655)
+[Resochin® Injektion 50 mg/ml](data/007655.pdf)
 
-[Resochin® Tabletten 250 mg](http://www.fachinfo.de/pdf/007659)
+[Resochin® Tabletten 250 mg](data/007659.pdf)
 
-[STREPTO-Fatol](http://www.fachinfo.de/pdf/007679)
+[STREPTO-Fatol](data/007679.pdf)
 
-[Zerit ® Hartkapseln](http://www.fachinfo.de/pdf/007729)
+[Zerit ® Hartkapseln](data/007729.pdf)
 
-[Soledum® Hustensaft](http://www.fachinfo.de/pdf/007732)
+[Soledum® Hustensaft](data/007732.pdf)
 
-[Mobec® 7,5 mg/15 mg Tabletten](http://www.fachinfo.de/pdf/007736)
+[Mobec® 7,5 mg/15 mg Tabletten](data/007736.pdf)
 
-[Domperidon-ratiopharm® 10 mg](http://www.fachinfo.de/pdf/007740)
+[Domperidon-ratiopharm® 10 mg](data/007740.pdf)
 
-[Domperidon AbZ 10 mg](http://www.fachinfo.de/pdf/007741)
+[Domperidon AbZ 10 mg](data/007741.pdf)
 
-[Faktor VIII SDH Intersero](http://www.fachinfo.de/pdf/007742)
+[Faktor VIII SDH Intersero](data/007742.pdf)
 
-[Baycuten ® HC Creme](http://www.fachinfo.de/pdf/007746)
+[Baycuten ® HC Creme](data/007746.pdf)
 
-[Bisoprolol-CT 5 mg / 10 mg](http://www.fachinfo.de/pdf/007747)
+[Bisoprolol-CT 5 mg / 10 mg](data/007747.pdf)
 
-[Salbutamol-ratiopharm®](http://www.fachinfo.de/pdf/007753)
+[Salbutamol-ratiopharm®](data/007753.pdf)
 
-[IPSEN PHARMA Colina ® Spezial](http://www.fachinfo.de/pdf/007758)
+[IPSEN PHARMA Colina ® Spezial](data/007758.pdf)
 
-[Tilidin-ratiopharm® plus Tropfen](http://www.fachinfo.de/pdf/007761)
+[Tilidin-ratiopharm® plus Tropfen](data/007761.pdf)
 
-[Bromocriptin-ratiopharm®](http://www.fachinfo.de/pdf/007762)
+[Bromocriptin-ratiopharm®](data/007762.pdf)
 
-[Nitrolingual ®](http://www.fachinfo.de/pdf/007779)
+[Nitrolingual ®](data/007779.pdf)
 
-[Nitrolingual® infus.](http://www.fachinfo.de/pdf/007784)
+[Nitrolingual® infus.](data/007784.pdf)
 
-[Adalat® Eins 30/60 mg](http://www.fachinfo.de/pdf/007790)
+[Adalat® Eins 30/60 mg](data/007790.pdf)
 
-[Estring ®](http://www.fachinfo.de/pdf/007798)
+[Estring ®](data/007798.pdf)
 
-[RILUTEK® 50 mg Filmtabletten](http://www.fachinfo.de/pdf/007811)
+[RILUTEK® 50 mg Filmtabletten](data/007811.pdf)
 
-[Soledum® Hustentropfen](http://www.fachinfo.de/pdf/007817)
+[Soledum® Hustentropfen](data/007817.pdf)
 
-[HCT-CT 25 mg Tabletten](http://www.fachinfo.de/pdf/007818)
+[HCT-CT 25 mg Tabletten](data/007818.pdf)
 
-[Vulnostimulin ®](http://www.fachinfo.de/pdf/007827)
+[Vulnostimulin ®](data/007827.pdf)
 
-[Überempfindlichkeit gegen den Wirkstoff](http://www.fachinfo.de/pdf/007834)
+[Überempfindlichkeit gegen den Wirkstoff](data/007834.pdf)
 
-[Salbu Easyhaler 0,1 mg/Dosis Pulver zur Inhalation](http://www.fachinfo.de/pdf/007837)
+[Salbu Easyhaler 0,1 mg/Dosis Pulver zur Inhalation](data/007837.pdf)
 
-[Clinimix 3,5% G-E](http://www.fachinfo.de/pdf/007842)
+[Clinimix 3,5% G-E](data/007842.pdf)
 
-[Clinimix 4,5 % G-E](http://www.fachinfo.de/pdf/007843)
+[Clinimix 4,5 % G-E](data/007843.pdf)
 
-[Clinimix 5 % G-E](http://www.fachinfo.de/pdf/007844)
+[Clinimix 5 % G-E](data/007844.pdf)
 
-[Solaraze® 3 % Gel](http://www.fachinfo.de/pdf/007858)
+[Solaraze® 3 % Gel](data/007858.pdf)
 
-[Nasenspray Heumann](http://www.fachinfo.de/pdf/007879)
+[Nasenspray Heumann](data/007879.pdf)
 
-[Bondronat®](http://www.fachinfo.de/pdf/007883)
+[Bondronat®](data/007883.pdf)
 
-[Hepa-Merz® Granulat 6000](http://www.fachinfo.de/pdf/007906)
+[Hepa-Merz® Granulat 6000](data/007906.pdf)
 
-[ACCUPAQUE™ 240, - 300, - 350](http://www.fachinfo.de/pdf/007907)
+[ACCUPAQUE™ 240, - 300, - 350](data/007907.pdf)
 
-[Trancopal® Dolo](http://www.fachinfo.de/pdf/007908)
+[Trancopal® Dolo](data/007908.pdf)
 
-[Trancopal ® Dolo Suppositorien](http://www.fachinfo.de/pdf/007909)
+[Trancopal ® Dolo Suppositorien](data/007909.pdf)
 
-[Virazole ®-Trockensubstanz 6 g](http://www.fachinfo.de/pdf/007910)
+[Virazole ®-Trockensubstanz 6 g](data/007910.pdf)
 
-[Alomide®](http://www.fachinfo.de/pdf/007913)
+[Alomide®](data/007913.pdf)
 
-[Timo-COMOD® 0,1 %/0,25 %/0,5 %](http://www.fachinfo.de/pdf/007917)
+[Timo-COMOD® 0,1 %/0,25 %/0,5 %](data/007917.pdf)
 
-[Ofloxacin-ratiopharm® 100 mg Filmtabletten](http://www.fachinfo.de/pdf/007926)
+[Ofloxacin-ratiopharm® 100 mg Filmtabletten](data/007926.pdf)
 
-[Clotrimazol Heumann Creme](http://www.fachinfo.de/pdf/007927)
+[Clotrimazol Heumann Creme](data/007927.pdf)
 
-[Heparin Heumann Creme](http://www.fachinfo.de/pdf/007929)
+[Heparin Heumann Creme](data/007929.pdf)
 
-[Cystinol akut ® Dragees](http://www.fachinfo.de/pdf/007933)
+[Cystinol akut ® Dragees](data/007933.pdf)
 
-[Cystinol long® Kapseln](http://www.fachinfo.de/pdf/007934)
+[Cystinol long® Kapseln](data/007934.pdf)
 
-[Remifemin ® plus](http://www.fachinfo.de/pdf/007941)
+[Remifemin ® plus](data/007941.pdf)
 
-[Remiprostan® uno Kapseln](http://www.fachinfo.de/pdf/007942)
+[Remiprostan® uno Kapseln](data/007942.pdf)
 
-[Sedacur® forte Beruhigungsdragees](http://www.fachinfo.de/pdf/007943)
+[Sedacur® forte Beruhigungsdragees](data/007943.pdf)
 
-[Nasivin® ohne Konservierungsstoffe](http://www.fachinfo.de/pdf/007947)
+[Nasivin® ohne Konservierungsstoffe](data/007947.pdf)
 
-[Huminsulin®](http://www.fachinfo.de/pdf/007951)
+[Huminsulin®](data/007951.pdf)
 
-[Suprane](http://www.fachinfo.de/pdf/007952)
+[Suprane](data/007952.pdf)
 
-[Konakion® MM 2 mg](http://www.fachinfo.de/pdf/007956)
+[Konakion® MM 2 mg](data/007956.pdf)
 
-[Makatussin® Tropfen](http://www.fachinfo.de/pdf/007962)
+[Makatussin® Tropfen](data/007962.pdf)
 
-[Zerit® 200 mg Pulver](http://www.fachinfo.de/pdf/007970)
+[Zerit® 200 mg Pulver](data/007970.pdf)
 
-[Isofluran Baxter](http://www.fachinfo.de/pdf/007977)
+[Isofluran Baxter](data/007977.pdf)
 
-[Clionara® 2 mg/1 mg Filmtabletten](http://www.fachinfo.de/pdf/007988)
+[Clionara® 2 mg/1 mg Filmtabletten](data/007988.pdf)
 
-[Elidel® 10 mg/g Creme](http://www.fachinfo.de/pdf/008007)
+[Elidel® 10 mg/g Creme](data/008007.pdf)
 
-[Dolormin® für Kinder](http://www.fachinfo.de/pdf/008011)
+[Dolormin® für Kinder](data/008011.pdf)
 
-[ben-u-ron® 75 mg Zäpfchen](http://www.fachinfo.de/pdf/008012)
+[ben-u-ron® 75 mg Zäpfchen](data/008012.pdf)
 
-[Calcitriol-Nefro 0,25 μg/- 0,50 μg](http://www.fachinfo.de/pdf/008022)
+[Calcitriol-Nefro 0,25 μg/- 0,50 μg](data/008022.pdf)
 
-[Omacor®](http://www.fachinfo.de/pdf/008025)
+[Omacor®](data/008025.pdf)
 
-[Vomex A® Injektionslösung](http://www.fachinfo.de/pdf/008028)
+[Vomex A® Injektionslösung](data/008028.pdf)
 
-[Roxithromycin Heumann](http://www.fachinfo.de/pdf/008033)
+[Roxithromycin Heumann](data/008033.pdf)
 
-[Hedelix®](http://www.fachinfo.de/pdf/008041)
+[Hedelix®](data/008041.pdf)
 
-[CIALIS®](http://www.fachinfo.de/pdf/008049)
+[CIALIS®](data/008049.pdf)
 
-[Moxonidin-ratiopharm® 0,2 mg/- 0,3 mg/- 0,4 mg](http://www.fachinfo.de/pdf/008094)
+[Moxonidin-ratiopharm® 0,2 mg/- 0,3 mg/- 0,4 mg](data/008094.pdf)
 
-[Actraphane®](http://www.fachinfo.de/pdf/008112)
+[Actraphane®](data/008112.pdf)
 
-[VARIVAX®](http://www.fachinfo.de/pdf/008134)
+[VARIVAX®](data/008134.pdf)
 
-[Torasemid-CT Tabletten](http://www.fachinfo.de/pdf/008157)
+[Torasemid-CT Tabletten](data/008157.pdf)
 
-[CILOXAN® 3 mg/ml Ohrentropfen](http://www.fachinfo.de/pdf/008165)
+[CILOXAN® 3 mg/ml Ohrentropfen](data/008165.pdf)
 
-[Bondronat® 50 mg Filmtabletten](http://www.fachinfo.de/pdf/008166)
+[Bondronat® 50 mg Filmtabletten](data/008166.pdf)
 
-[Moxonidin-CT Filmtabletten](http://www.fachinfo.de/pdf/008170)
+[Moxonidin-CT Filmtabletten](data/008170.pdf)
 
-[Berodual® Respimat® 20/50 Mikrogramm/Dosis](http://www.fachinfo.de/pdf/008177)
+[Berodual® Respimat® 20/50 Mikrogramm/Dosis](data/008177.pdf)
 
-[Torasemid-ratiopharm® 5 mg / 10 mg](http://www.fachinfo.de/pdf/008178)
+[Torasemid-ratiopharm® 5 mg / 10 mg](data/008178.pdf)
 
-[Torasemid AbZ 5 mg/10 mg Tabletten](http://www.fachinfo.de/pdf/008179)
+[Torasemid AbZ 5 mg/10 mg Tabletten](data/008179.pdf)
 
-[Moxonidin AbZ Filmtabletten](http://www.fachinfo.de/pdf/008180)
+[Moxonidin AbZ Filmtabletten](data/008180.pdf)
 
-[Bromocriptin AbZ 2,5 mg Tabletten](http://www.fachinfo.de/pdf/008181)
+[Bromocriptin AbZ 2,5 mg Tabletten](data/008181.pdf)
 
-[Moxonidin Heumann Filmtabletten](http://www.fachinfo.de/pdf/008201)
+[Moxonidin Heumann Filmtabletten](data/008201.pdf)
 
-[Metformin-ratiopharm® 1000 mg](http://www.fachinfo.de/pdf/008210)
+[Metformin-ratiopharm® 1000 mg](data/008210.pdf)
 
-[Oculotect ® Augentropfen](http://www.fachinfo.de/pdf/008219)
+[Oculotect ® Augentropfen](data/008219.pdf)
 
-[DOTAREM 0,5 mmol/ml Injektionslösung](http://www.fachinfo.de/pdf/008231)
+[DOTAREM 0,5 mmol/ml Injektionslösung](data/008231.pdf)
 
-[DOTAREM 0,5 mmol/ml Injektionslösung](http://www.fachinfo.de/pdf/008232)
+[DOTAREM 0,5 mmol/ml Injektionslösung](data/008232.pdf)
 
-[DOTAREM 0,5 mmol/ml Injektionslösung](http://www.fachinfo.de/pdf/008233)
+[DOTAREM 0,5 mmol/ml Injektionslösung](data/008233.pdf)
 
-[Ramipril-ratiopharm® comp. 2,5 mg / 12,5 mg Tabletten](http://www.fachinfo.de/pdf/008235)
+[Ramipril-ratiopharm® comp. 2,5 mg / 12,5 mg Tabletten](data/008235.pdf)
 
-[Zithromax ® 500 mg Filmtabletten](http://www.fachinfo.de/pdf/008248)
+[Zithromax ® 500 mg Filmtabletten](data/008248.pdf)
 
-[Fem7® – 50 μg](http://www.fachinfo.de/pdf/008253)
+[Fem7® – 50 μg](data/008253.pdf)
 
-[Metformin-CT 1000 mg Filmtabletten](http://www.fachinfo.de/pdf/008255)
+[Metformin-CT 1000 mg Filmtabletten](data/008255.pdf)
 
-[Ramipril comp.-CT Tabletten](http://www.fachinfo.de/pdf/008258)
+[Ramipril comp.-CT Tabletten](data/008258.pdf)
 
-[Ramipril comp. AbZ 2,5 mg / 12,5 mg Tabletten](http://www.fachinfo.de/pdf/008262)
+[Ramipril comp. AbZ 2,5 mg / 12,5 mg Tabletten](data/008262.pdf)
 
-[Midazolam-ratiopharm®](http://www.fachinfo.de/pdf/008287)
+[Midazolam-ratiopharm®](data/008287.pdf)
 
-[Lisinopril-ratiopharm® comp. Tabletten](http://www.fachinfo.de/pdf/008292)
+[Lisinopril-ratiopharm® comp. Tabletten](data/008292.pdf)
 
-[Lisinopril comp. AbZ Tabletten](http://www.fachinfo.de/pdf/008293)
+[Lisinopril comp. AbZ Tabletten](data/008293.pdf)
 
-[Adalat ® 5 mg/10 mg Weichkapseln](http://www.fachinfo.de/pdf/008302)
+[Adalat ® 5 mg/10 mg Weichkapseln](data/008302.pdf)
 
-[Citalon® 20 mg/40 mg](http://www.fachinfo.de/pdf/008305)
+[Citalon® 20 mg/40 mg](data/008305.pdf)
 
-[Der Nutzen von Copaxone bei Patienten Auf jeden Fall sollte die Behandlung nur für](http://www.fachinfo.de/pdf/008311)
+[Der Nutzen von Copaxone bei Patienten Auf jeden Fall sollte die Behandlung nur für](data/008311.pdf)
 
-[Prednitop®](http://www.fachinfo.de/pdf/008313)
+[Prednitop®](data/008313.pdf)
 
-[Berlinsulin® H](http://www.fachinfo.de/pdf/008314)
+[Berlinsulin® H](data/008314.pdf)
 
-[Levocarb-TEVA® 100 mg/25 mg Retardtabletten](http://www.fachinfo.de/pdf/008316)
+[Levocarb-TEVA® 100 mg/25 mg Retardtabletten](data/008316.pdf)
 
-[RENNIE® Kautabletten](http://www.fachinfo.de/pdf/008317)
+[RENNIE® Kautabletten](data/008317.pdf)
 
-[Gadovist® 1,0 mmol/ml](http://www.fachinfo.de/pdf/008318)
+[Gadovist® 1,0 mmol/ml](data/008318.pdf)
 
-[REPEVAX®](http://www.fachinfo.de/pdf/008319)
+[REPEVAX®](data/008319.pdf)
 
-[Bepanthen ® ANTISEPTISCHE WUNDCREME](http://www.fachinfo.de/pdf/008327)
+[Bepanthen ® ANTISEPTISCHE WUNDCREME](data/008327.pdf)
 
-[Gabax ® 100 mg Hartkapseln](http://www.fachinfo.de/pdf/008333)
+[Gabax ® 100 mg Hartkapseln](data/008333.pdf)
 
-[Fluconazol-GRY®](http://www.fachinfo.de/pdf/008339)
+[Fluconazol-GRY®](data/008339.pdf)
 
-[Clindamycin AbZ 300 mg Hartkapseln](http://www.fachinfo.de/pdf/008341)
+[Clindamycin AbZ 300 mg Hartkapseln](data/008341.pdf)
 
-[Ampicillin+Sulbactam-ratiopharm®](http://www.fachinfo.de/pdf/008353)
+[Ampicillin+Sulbactam-ratiopharm®](data/008353.pdf)
 
-[VELCADE® 3,5 mg](http://www.fachinfo.de/pdf/008387)
+[VELCADE® 3,5 mg](data/008387.pdf)
 
-[Ibuprofen AbZ 400 mg / 600 mg / 800 mg](http://www.fachinfo.de/pdf/008396)
+[Ibuprofen AbZ 400 mg / 600 mg / 800 mg](data/008396.pdf)
 
-[Carvedigamma®](http://www.fachinfo.de/pdf/008405)
+[Carvedigamma®](data/008405.pdf)
 
-[Moxogamma®](http://www.fachinfo.de/pdf/008406)
+[Moxogamma®](data/008406.pdf)
 
-[Levemir®](http://www.fachinfo.de/pdf/008409)
+[Levemir®](data/008409.pdf)
 
-[Gabax ® 300 mg Hartkapseln](http://www.fachinfo.de/pdf/008416)
+[Gabax ® 300 mg Hartkapseln](data/008416.pdf)
 
-[Gabax ® 400 mg Hartkapseln](http://www.fachinfo.de/pdf/008417)
+[Gabax ® 400 mg Hartkapseln](data/008417.pdf)
 
-[Fungizid-ratiopharm® Kombipackung](http://www.fachinfo.de/pdf/008426)
+[Fungizid-ratiopharm® Kombipackung](data/008426.pdf)
 
-[Amisulprid-Hormosan 100/200/400 mg](http://www.fachinfo.de/pdf/008429)
+[Amisulprid-Hormosan 100/200/400 mg](data/008429.pdf)
 
-[Essentiale® Kapsel 300 mg](http://www.fachinfo.de/pdf/008430)
+[Essentiale® Kapsel 300 mg](data/008430.pdf)
 
-[Strathmann Epogam ® 1000 mg](http://www.fachinfo.de/pdf/008433)
+[Strathmann Epogam ® 1000 mg](data/008433.pdf)
 
-[Citalopram-CT 20 mg Filmtabletten](http://www.fachinfo.de/pdf/008434)
+[Citalopram-CT 20 mg Filmtabletten](data/008434.pdf)
 
-[Carbamazepin-ratiopharm® 200 mg](http://www.fachinfo.de/pdf/008438)
+[Carbamazepin-ratiopharm® 200 mg](data/008438.pdf)
 
-[Bepanthen ® LÖSUNG](http://www.fachinfo.de/pdf/008439)
+[Bepanthen ® LÖSUNG](data/008439.pdf)
 
-[Citalopram AbZ 20 mg Filmtabletten](http://www.fachinfo.de/pdf/008440)
+[Citalopram AbZ 20 mg Filmtabletten](data/008440.pdf)
 
-[Midazolam-ratiopharm® 50 mg/50 ml Injektionslösung](http://www.fachinfo.de/pdf/008441)
+[Midazolam-ratiopharm® 50 mg/50 ml Injektionslösung](data/008441.pdf)
 
-[Angeliq® 1mg/2mg Filmtabletten](http://www.fachinfo.de/pdf/008455)
+[Angeliq® 1mg/2mg Filmtabletten](data/008455.pdf)
 
-[Enalapril comp. Heumann](http://www.fachinfo.de/pdf/008456)
+[Enalapril comp. Heumann](data/008456.pdf)
 
-[Blopress® Tabletten](http://www.fachinfo.de/pdf/008459)
+[Blopress® Tabletten](data/008459.pdf)
 
 [Bryophyllum 5 % (1 ml)
- Injektionslösung](http://www.fachinfo.de/pdf/008465)
+ Injektionslösung](data/008465.pdf)
 
-[Cimicifuga comp. Dilution](http://www.fachinfo.de/pdf/008466)
+[Cimicifuga comp. Dilution](data/008466.pdf)
 
-[Crataegus comp. Dilution](http://www.fachinfo.de/pdf/008467)
+[Crataegus comp. Dilution](data/008467.pdf)
 
-[Ferrum-Quarz-Kapseln](http://www.fachinfo.de/pdf/008468)
+[Ferrum-Quarz-Kapseln](data/008468.pdf)
 
-[Majorana 10 % Salbe](http://www.fachinfo.de/pdf/008469)
+[Majorana 10 % Salbe](data/008469.pdf)
 
-[Ratanhia comp. Lösung](http://www.fachinfo.de/pdf/008470)
+[Ratanhia comp. Lösung](data/008470.pdf)
 
-[Wecesin® Salbe](http://www.fachinfo.de/pdf/008471)
+[Wecesin® Salbe](data/008471.pdf)
 
-[Lisigamma® HCT 10 mg/12,5 mg](http://www.fachinfo.de/pdf/008474)
+[Lisigamma® HCT 10 mg/12,5 mg](data/008474.pdf)
 
-[Lisigamma® HCT 20 mg/12,5 mg](http://www.fachinfo.de/pdf/008475)
+[Lisigamma® HCT 20 mg/12,5 mg](data/008475.pdf)
 
-[ASS-ratiopharm® 300 mg](http://www.fachinfo.de/pdf/008487)
+[ASS-ratiopharm® 300 mg](data/008487.pdf)
 
-[Doxazosin-ratiopharm® 4 mg](http://www.fachinfo.de/pdf/008488)
+[Doxazosin-ratiopharm® 4 mg](data/008488.pdf)
 
-[Myoson® direct](http://www.fachinfo.de/pdf/008498)
+[Myoson® direct](data/008498.pdf)
 
-[Ossofortin® plus](http://www.fachinfo.de/pdf/008499)
+[Ossofortin® plus](data/008499.pdf)
 
-[Strathmann StroVac ®](http://www.fachinfo.de/pdf/008500)
+[Strathmann StroVac ®](data/008500.pdf)
 
-[GAMMANORM](http://www.fachinfo.de/pdf/008502)
+[GAMMANORM](data/008502.pdf)
 
-[Braunol®](http://www.fachinfo.de/pdf/008503)
+[Braunol®](data/008503.pdf)
 
-[Fluoxetin-TEVA® 20 mg Tabletten](http://www.fachinfo.de/pdf/008504)
+[Fluoxetin-TEVA® 20 mg Tabletten](data/008504.pdf)
 
-[AFTAB® 0,025 mg Hafttabletten](http://www.fachinfo.de/pdf/008505)
+[AFTAB® 0,025 mg Hafttabletten](data/008505.pdf)
 
-[Dolestan®](http://www.fachinfo.de/pdf/008519)
+[Dolestan®](data/008519.pdf)
 
-[Estradot®](http://www.fachinfo.de/pdf/008521)
+[Estradot®](data/008521.pdf)
 
-[Enalapril comp.-CT 10 mg/25 mg](http://www.fachinfo.de/pdf/008522)
+[Enalapril comp.-CT 10 mg/25 mg](data/008522.pdf)
 
-[TachoSil® Versiegelungsmatrix](http://www.fachinfo.de/pdf/008523)
+[TachoSil® Versiegelungsmatrix](data/008523.pdf)
 
-[Eucalyptus comp. Paste](http://www.fachinfo.de/pdf/008526)
+[Eucalyptus comp. Paste](data/008526.pdf)
 
-[Ferrum ustum comp. Pulver](http://www.fachinfo.de/pdf/008527)
+[Ferrum ustum comp. Pulver](data/008527.pdf)
 
-[Hypericum, Flos 25 % Öl](http://www.fachinfo.de/pdf/008528)
+[Hypericum, Flos 25 % Öl](data/008528.pdf)
 
-[Kephalodoron® 5 % Tabletten](http://www.fachinfo.de/pdf/008529)
+[Kephalodoron® 5 % Tabletten](data/008529.pdf)
 
-[Oleum Strophanthi forte](http://www.fachinfo.de/pdf/008530)
+[Oleum Strophanthi forte](data/008530.pdf)
 
-[Oxalis 30 % Salbe](http://www.fachinfo.de/pdf/008531)
+[Oxalis 30 % Salbe](data/008531.pdf)
 
-[Wecesin® Pulver](http://www.fachinfo.de/pdf/008532)
+[Wecesin® Pulver](data/008532.pdf)
 
-[Weleda Flechtenhonig Sirup](http://www.fachinfo.de/pdf/008533)
+[Weleda Flechtenhonig Sirup](data/008533.pdf)
 
-[Weleda Hustenelixier Sirup](http://www.fachinfo.de/pdf/008534)
+[Weleda Hustenelixier Sirup](data/008534.pdf)
 
-[Cefuroxim-ratiopharm® 250 mg / 500 mg](http://www.fachinfo.de/pdf/008541)
+[Cefuroxim-ratiopharm® 250 mg / 500 mg](data/008541.pdf)
 
-[Doxazosin-CT 4 mg Retardtabletten](http://www.fachinfo.de/pdf/008545)
+[Doxazosin-CT 4 mg Retardtabletten](data/008545.pdf)
 
-[Aconit Ohrentropfen](http://www.fachinfo.de/pdf/008557)
+[Aconit Ohrentropfen](data/008557.pdf)
 
-[Birken Rheumaöl mit Arnika](http://www.fachinfo.de/pdf/008563)
+[Birken Rheumaöl mit Arnika](data/008563.pdf)
 
-[Birken Rheumaöl ohne Arnika](http://www.fachinfo.de/pdf/008564)
+[Birken Rheumaöl ohne Arnika](data/008564.pdf)
 
-[Camphora/Hypericum, Unguentum](http://www.fachinfo.de/pdf/008565)
+[Camphora/Hypericum, Unguentum](data/008565.pdf)
 
-[Chelidonium Kapseln](http://www.fachinfo.de/pdf/008566)
+[Chelidonium Kapseln](data/008566.pdf)
 
-[Hypericum ex herba 5 %, Oleum](http://www.fachinfo.de/pdf/008570)
+[Hypericum ex herba 5 %, Oleum](data/008570.pdf)
 
-[Majorana Vaginalgel](http://www.fachinfo.de/pdf/008572)
+[Majorana Vaginalgel](data/008572.pdf)
 
-[Melissenöl](http://www.fachinfo.de/pdf/008573)
+[Melissenöl](data/008573.pdf)
 
-[Myristica sebifera comp.](http://www.fachinfo.de/pdf/008575)
+[Myristica sebifera comp.](data/008575.pdf)
 
-[Nasenbalsam](http://www.fachinfo.de/pdf/008576)
+[Nasenbalsam](data/008576.pdf)
 
-[Passiflora Nerventonikum](http://www.fachinfo.de/pdf/008579)
+[Passiflora Nerventonikum](data/008579.pdf)
 
-[Solum Öl](http://www.fachinfo.de/pdf/008584)
+[Solum Öl](data/008584.pdf)
 
-[Ramigamma®](http://www.fachinfo.de/pdf/008598)
+[Ramigamma®](data/008598.pdf)
 
-[Budiair ® 200 Mikrogramm](http://www.fachinfo.de/pdf/008606)
+[Budiair ® 200 Mikrogramm](data/008606.pdf)
 
-[ALIMTA®](http://www.fachinfo.de/pdf/008614)
+[ALIMTA®](data/008614.pdf)
 
-[Amoxi-saar ® plus](http://www.fachinfo.de/pdf/008619)
+[Amoxi-saar ® plus](data/008619.pdf)
 
-[PROTELOS ®](http://www.fachinfo.de/pdf/008621)
+[PROTELOS ®](data/008621.pdf)
 
-[Juniperus/Berberis comp., Kapseln](http://www.fachinfo.de/pdf/008624)
+[Juniperus/Berberis comp., Kapseln](data/008624.pdf)
 
-[Ramipril Heumann Tabletten](http://www.fachinfo.de/pdf/008625)
+[Ramipril Heumann Tabletten](data/008625.pdf)
 
-[EFEU-ratiopharm® Hustensaft](http://www.fachinfo.de/pdf/008629)
+[EFEU-ratiopharm® Hustensaft](data/008629.pdf)
 
-[Amoxiclav-CT 875 mg / 125 mg](http://www.fachinfo.de/pdf/008634)
+[Amoxiclav-CT 875 mg / 125 mg](data/008634.pdf)
 
-[Pravagamma® 10 mg](http://www.fachinfo.de/pdf/008643)
+[Pravagamma® 10 mg](data/008643.pdf)
 
-[Pravagamma® 20 mg](http://www.fachinfo.de/pdf/008644)
+[Pravagamma® 20 mg](data/008644.pdf)
 
-[Pravagamma® 40 mg](http://www.fachinfo.de/pdf/008645)
+[Pravagamma® 40 mg](data/008645.pdf)
 
-[Calcium D3 Heumann Brausetabletten](http://www.fachinfo.de/pdf/008649)
+[Calcium D3 Heumann Brausetabletten](data/008649.pdf)
 
-[Tamoxifen AbZ 20 mg Tabletten](http://www.fachinfo.de/pdf/008652)
+[Tamoxifen AbZ 20 mg Tabletten](data/008652.pdf)
 
-[Mirtazelon® 15 mg/-30 mg/-45 mg](http://www.fachinfo.de/pdf/008654)
+[Mirtazelon® 15 mg/-30 mg/-45 mg](data/008654.pdf)
 
-[Regulax®](http://www.fachinfo.de/pdf/008655)
+[Regulax®](data/008655.pdf)
 
-[Enalapril-ratiopharm® comp. 10 mg/25 mg](http://www.fachinfo.de/pdf/008662)
+[Enalapril-ratiopharm® comp. 10 mg/25 mg](data/008662.pdf)
 
-[Budapp ® nasal](http://www.fachinfo.de/pdf/008680)
+[Budapp ® nasal](data/008680.pdf)
 
-[Tarka® 180 mg/2 mg](http://www.fachinfo.de/pdf/008687)
+[Tarka® 180 mg/2 mg](data/008687.pdf)
 
-[Travex® one](http://www.fachinfo.de/pdf/008691)
+[Travex® one](data/008691.pdf)
 
-[Tramadol-ratiopharm® 50 mg, 150 mg, 200 mg](http://www.fachinfo.de/pdf/008695)
+[Tramadol-ratiopharm® 50 mg, 150 mg, 200 mg](data/008695.pdf)
 
-[Tramadol AbZ Retardkapseln](http://www.fachinfo.de/pdf/008696)
+[Tramadol AbZ Retardkapseln](data/008696.pdf)
 
-[selenase® 300 RP](http://www.fachinfo.de/pdf/008700)
+[selenase® 300 RP](data/008700.pdf)
 
-[Emestar ® mono 600 mg](http://www.fachinfo.de/pdf/008701)
+[Emestar ® mono 600 mg](data/008701.pdf)
 
-[Mirtazapin Heumann 15 mg/30 mg/45 mg](http://www.fachinfo.de/pdf/008709)
+[Mirtazapin Heumann 15 mg/30 mg/45 mg](data/008709.pdf)
 
-[Cyproderm](http://www.fachinfo.de/pdf/008712)
+[Cyproderm](data/008712.pdf)
 
-[Formotop® 6 Mikrogramm Novolizer®](http://www.fachinfo.de/pdf/008713)
+[Formotop® 6 Mikrogramm Novolizer®](data/008713.pdf)
 
-[Formoterol-ratiopharm® 12 Mikrogramm](http://www.fachinfo.de/pdf/008720)
+[Formoterol-ratiopharm® 12 Mikrogramm](data/008720.pdf)
 
-[Tevanate® 10 mg Tabletten](http://www.fachinfo.de/pdf/008725)
+[Tevanate® 10 mg Tabletten](data/008725.pdf)
 
-[Avastin®](http://www.fachinfo.de/pdf/008726)
+[Avastin®](data/008726.pdf)
 
-[Kivexa® Filmtabletten](http://www.fachinfo.de/pdf/008738)
+[Kivexa® Filmtabletten](data/008738.pdf)
 
-[Carbamazepin 400 retard Heumann](http://www.fachinfo.de/pdf/008741)
+[Carbamazepin 400 retard Heumann](data/008741.pdf)
 
-[Mutaflor®](http://www.fachinfo.de/pdf/008742)
+[Mutaflor®](data/008742.pdf)
 
-[Metformin AbZ 1000 mg Filmtabletten](http://www.fachinfo.de/pdf/008744)
+[Metformin AbZ 1000 mg Filmtabletten](data/008744.pdf)
 
-[Udima® 100 mg](http://www.fachinfo.de/pdf/008748)
+[Udima® 100 mg](data/008748.pdf)
 
-[Sinupret ® Liquitabs](http://www.fachinfo.de/pdf/008750)
+[Sinupret ® Liquitabs](data/008750.pdf)
 
-[Felogamma retard](http://www.fachinfo.de/pdf/008751)
+[Felogamma retard](data/008751.pdf)
 
-[Majorana / Melissa Vaginaltabletten](http://www.fachinfo.de/pdf/008774)
+[Majorana / Melissa Vaginaltabletten](data/008774.pdf)
 
-[Majorana / Melissa Zäpfchen](http://www.fachinfo.de/pdf/008775)
+[Majorana / Melissa Zäpfchen](data/008775.pdf)
 
-[Attempta-ratiopharm® 35](http://www.fachinfo.de/pdf/008778)
+[Attempta-ratiopharm® 35](data/008778.pdf)
 
-[Eu-Med®](http://www.fachinfo.de/pdf/008783)
+[Eu-Med®](data/008783.pdf)
 
-[REMINYL® 1 × täglich 8 mg/- 16 mg/- 24 mg Hartkapseln](http://www.fachinfo.de/pdf/008785)
+[REMINYL® 1 × täglich 8 mg/- 16 mg/- 24 mg Hartkapseln](data/008785.pdf)
 
-[Gabapentin-CT 100 mg / 300 mg / 400 mg](http://www.fachinfo.de/pdf/008790)
+[Gabapentin-CT 100 mg / 300 mg / 400 mg](data/008790.pdf)
 
-[Cefixim-CT 100 mg/5 ml Granulat](http://www.fachinfo.de/pdf/008795)
+[Cefixim-CT 100 mg/5 ml Granulat](data/008795.pdf)
 
-[Gabagamma®](http://www.fachinfo.de/pdf/008801)
+[Gabagamma®](data/008801.pdf)
 
-[Xipagamma®](http://www.fachinfo.de/pdf/008802)
+[Xipagamma®](data/008802.pdf)
 
-[CYMBALTA®](http://www.fachinfo.de/pdf/008807)
+[CYMBALTA®](data/008807.pdf)
 
-[Impavido 10 mg/50 mg Kapseln](http://www.fachinfo.de/pdf/008811)
+[Impavido 10 mg/50 mg Kapseln](data/008811.pdf)
 
-[Alvesco® 80 Mikrogramm und 160 Mikrogramm](http://www.fachinfo.de/pdf/008813)
+[Alvesco® 80 Mikrogramm und 160 Mikrogramm](data/008813.pdf)
 
-[Paclitaxel Hospira 6 mg/ml Konzentrat](http://www.fachinfo.de/pdf/008814)
+[Paclitaxel Hospira 6 mg/ml Konzentrat](data/008814.pdf)
 
-[Cefuroxim-ratiopharm® p.i.](http://www.fachinfo.de/pdf/008815)
+[Cefuroxim-ratiopharm® p.i.](data/008815.pdf)
 
-[Kentera®](http://www.fachinfo.de/pdf/008822)
+[Kentera®](data/008822.pdf)
 
-[Amiodaron-CT 200 mg Tabletten](http://www.fachinfo.de/pdf/008827)
+[Amiodaron-CT 200 mg Tabletten](data/008827.pdf)
 
-[Loperamid-CT akut 2 mg Hartkapseln](http://www.fachinfo.de/pdf/008834)
+[Loperamid-CT akut 2 mg Hartkapseln](data/008834.pdf)
 
-[Dexamethason-ratiopharm® 4 mg / 8 mg](http://www.fachinfo.de/pdf/008836)
+[Dexamethason-ratiopharm® 4 mg / 8 mg](data/008836.pdf)
 
-[Jodid-ratiopharm® 100 µg](http://www.fachinfo.de/pdf/008837)
+[Jodid-ratiopharm® 100 µg](data/008837.pdf)
 
-[Jodid-ratiopharm® 200 µg](http://www.fachinfo.de/pdf/008838)
+[Jodid-ratiopharm® 200 µg](data/008838.pdf)
 
-[Actonel® plus Calcium](http://www.fachinfo.de/pdf/008840)
+[Actonel® plus Calcium](data/008840.pdf)
 
-[Flucoderm](http://www.fachinfo.de/pdf/008846)
+[Flucoderm](data/008846.pdf)
 
-[Tasmar 100 mg Filmtabletten](http://www.fachinfo.de/pdf/008852)
+[Tasmar 100 mg Filmtabletten](data/008852.pdf)
 
-[Wilate 450/900](http://www.fachinfo.de/pdf/008857)
+[Wilate 450/900](data/008857.pdf)
 
-[Hydrocortison Heumann 1 % Creme](http://www.fachinfo.de/pdf/008858)
+[Hydrocortison Heumann 1 % Creme](data/008858.pdf)
 
-[Hydro Heumann Hautcreme 0,5 % Creme](http://www.fachinfo.de/pdf/008860)
+[Hydro Heumann Hautcreme 0,5 % Creme](data/008860.pdf)
 
-[Salbutamol-ratiopharm®](http://www.fachinfo.de/pdf/008870)
+[Salbutamol-ratiopharm®](data/008870.pdf)
 
-[Zemplar® 5 Mikrogramm/ml](http://www.fachinfo.de/pdf/008885)
+[Zemplar® 5 Mikrogramm/ml](data/008885.pdf)
 
-[Strathmann Selenk ®](http://www.fachinfo.de/pdf/008897)
+[Strathmann Selenk ®](data/008897.pdf)
 
-[Ardeynephron®](http://www.fachinfo.de/pdf/008898)
+[Ardeynephron®](data/008898.pdf)
 
-[Passidon®](http://www.fachinfo.de/pdf/008899)
+[Passidon®](data/008899.pdf)
 
-[Aminofusin® 5 % Hepar](http://www.fachinfo.de/pdf/008936)
+[Aminofusin® 5 % Hepar](data/008936.pdf)
 
-[Glucose 12 % E Baxter](http://www.fachinfo.de/pdf/008942)
+[Glucose 12 % E Baxter](data/008942.pdf)
 
-[Glucose 50 Baxter](http://www.fachinfo.de/pdf/008966)
+[Glucose 50 Baxter](data/008966.pdf)
 
-[Cefixim-ratiopharm® 100 mg/5 ml Granulat](http://www.fachinfo.de/pdf/008987)
+[Cefixim-ratiopharm® 100 mg/5 ml Granulat](data/008987.pdf)
 
-[Clarithromycin-ratiopharm®](http://www.fachinfo.de/pdf/008997)
+[Clarithromycin-ratiopharm®](data/008997.pdf)
 
-[Omnic® Ocas® 0,4 mg Retardtabletten](http://www.fachinfo.de/pdf/008998)
+[Omnic® Ocas® 0,4 mg Retardtabletten](data/008998.pdf)
 
-[Alna® Ocas® 0,4 mg Retardtabletten](http://www.fachinfo.de/pdf/008999)
+[Alna® Ocas® 0,4 mg Retardtabletten](data/008999.pdf)
 
-[Claversal ® Micropellets 1,5 g](http://www.fachinfo.de/pdf/009002)
+[Claversal ® Micropellets 1,5 g](data/009002.pdf)
 
-[Dermatodoron ® Dilution, Salbe](http://www.fachinfo.de/pdf/009005)
+[Dermatodoron ® Dilution, Salbe](data/009005.pdf)
 
-[Schnupfencreme](http://www.fachinfo.de/pdf/009008)
+[Schnupfencreme](data/009008.pdf)
 
-[Bitter Elixier](http://www.fachinfo.de/pdf/009021)
+[Bitter Elixier](data/009021.pdf)
 
-[Enzian Magentonikum](http://www.fachinfo.de/pdf/009024)
+[Enzian Magentonikum](data/009024.pdf)
 
-[Narben Gel](http://www.fachinfo.de/pdf/009028)
+[Narben Gel](data/009028.pdf)
 
-[Rheuma-Badeöl](http://www.fachinfo.de/pdf/009032)
+[Rheuma-Badeöl](data/009032.pdf)
 
-[Rosmarinus/Prunus comp., Gelatum](http://www.fachinfo.de/pdf/009033)
+[Rosmarinus/Prunus comp., Gelatum](data/009033.pdf)
 
-[Spongia comp., Globuli velati](http://www.fachinfo.de/pdf/009035)
+[Spongia comp., Globuli velati](data/009035.pdf)
 
-[Spasmolyt® 30 mg](http://www.fachinfo.de/pdf/009039)
+[Spasmolyt® 30 mg](data/009039.pdf)
 
-[Kytta-Sedativum® für den Tag](http://www.fachinfo.de/pdf/009040)
+[Kytta-Sedativum® für den Tag](data/009040.pdf)
 
-[Foradil® Spray FCKW-frei](http://www.fachinfo.de/pdf/009041)
+[Foradil® Spray FCKW-frei](data/009041.pdf)
 
-[Tussamag® Hustenlösung](http://www.fachinfo.de/pdf/009043)
+[Tussamag® Hustenlösung](data/009043.pdf)
 
-[INVIRASE® 500 mg Filmtabletten](http://www.fachinfo.de/pdf/009044)
+[INVIRASE® 500 mg Filmtabletten](data/009044.pdf)
 
-[Clarithromycin Heumann](http://www.fachinfo.de/pdf/009045)
+[Clarithromycin Heumann](data/009045.pdf)
 
-[Pravastatin Heumann](http://www.fachinfo.de/pdf/009059)
+[Pravastatin Heumann](data/009059.pdf)
 
-[Xipamid-CT Tabletten](http://www.fachinfo.de/pdf/009060)
+[Xipamid-CT Tabletten](data/009060.pdf)
 
 [Herceptin®)
-.](http://www.fachinfo.de/pdf/009062)
+.](data/009062.pdf)
 
-[Osnervan®](http://www.fachinfo.de/pdf/009068)
+[Osnervan®](data/009068.pdf)
 
-[Panretin Gel 0,1 %](http://www.fachinfo.de/pdf/009084)
+[Panretin Gel 0,1 %](data/009084.pdf)
 
-[Kalymin® 10 N](http://www.fachinfo.de/pdf/009088)
+[Kalymin® 10 N](data/009088.pdf)
 
-[Kalymin® 60 N](http://www.fachinfo.de/pdf/009089)
+[Kalymin® 60 N](data/009089.pdf)
 
-[Fresenius Kabi Glucosteril 20%](http://www.fachinfo.de/pdf/009097)
+[Fresenius Kabi Glucosteril 20%](data/009097.pdf)
 
-[Enalapril comp. AbZ 10 mg/25 mg](http://www.fachinfo.de/pdf/009108)
+[Enalapril comp. AbZ 10 mg/25 mg](data/009108.pdf)
 
-[Dolanaest® 0,25 %](http://www.fachinfo.de/pdf/009109)
+[Dolanaest® 0,25 %](data/009109.pdf)
 
-[Wasser für Injektionszwecke](http://www.fachinfo.de/pdf/009113)
+[Wasser für Injektionszwecke](data/009113.pdf)
 
-[Aloxi® 250 Mikrogramm Injektionslösung](http://www.fachinfo.de/pdf/009120)
+[Aloxi® 250 Mikrogramm Injektionslösung](data/009120.pdf)
 
-[Vitamin B12 ratiopharm® N](http://www.fachinfo.de/pdf/009121)
+[Vitamin B12 ratiopharm® N](data/009121.pdf)
 
-[Ebenol® 0,25 % Creme](http://www.fachinfo.de/pdf/009124)
+[Ebenol® 0,25 % Creme](data/009124.pdf)
 
-[Terbinafin-Teva® 250 mg Tabletten](http://www.fachinfo.de/pdf/009131)
+[Terbinafin-Teva® 250 mg Tabletten](data/009131.pdf)
 
-[Anaemodoron ®](http://www.fachinfo.de/pdf/009135)
+[Anaemodoron ®](data/009135.pdf)
 
-[Gencydo ® 0,1 % Augentropfen](http://www.fachinfo.de/pdf/009136)
+[Gencydo ® 0,1 % Augentropfen](data/009136.pdf)
 
-[Plantago-Primula cum Hyoscyamo](http://www.fachinfo.de/pdf/009137)
+[Plantago-Primula cum Hyoscyamo](data/009137.pdf)
 
-[Weleda Bronchialbalsam](http://www.fachinfo.de/pdf/009138)
+[Weleda Bronchialbalsam](data/009138.pdf)
 
-[Weleda Heilsalbe](http://www.fachinfo.de/pdf/009139)
+[Weleda Heilsalbe](data/009139.pdf)
 
-[Zonegran® 25 mg/50 mg/100 mg](http://www.fachinfo.de/pdf/009147)
+[Zonegran® 25 mg/50 mg/100 mg](data/009147.pdf)
 
-[Micotar® Lösung](http://www.fachinfo.de/pdf/009152)
+[Micotar® Lösung](data/009152.pdf)
 
-[Terbinafin AbZ 250 mg Tabletten](http://www.fachinfo.de/pdf/009155)
+[Terbinafin AbZ 250 mg Tabletten](data/009155.pdf)
 
-[GINKOBIL® ratiopharm 80 mg](http://www.fachinfo.de/pdf/009162)
+[GINKOBIL® ratiopharm 80 mg](data/009162.pdf)
 
-[XEOMIN® 100 Einheiten](http://www.fachinfo.de/pdf/009167)
+[XEOMIN® 100 Einheiten](data/009167.pdf)
 
-[GINKOBIL® ratiopharm 120 mg](http://www.fachinfo.de/pdf/009170)
+[GINKOBIL® ratiopharm 120 mg](data/009170.pdf)
 
-[Sertralin-ratiopharm® 50 mg / 100 mg](http://www.fachinfo.de/pdf/009171)
+[Sertralin-ratiopharm® 50 mg / 100 mg](data/009171.pdf)
 
-[Sertralin AbZ 50 mg / 100 mg](http://www.fachinfo.de/pdf/009172)
+[Sertralin AbZ 50 mg / 100 mg](data/009172.pdf)
 
-[Ebenol® 1 % Creme](http://www.fachinfo.de/pdf/009174)
+[Ebenol® 1 % Creme](data/009174.pdf)
 
-[Fosino-TEVA® 10 mg / 20 mg Tabletten](http://www.fachinfo.de/pdf/009186)
+[Fosino-TEVA® 10 mg / 20 mg Tabletten](data/009186.pdf)
 
-[Vitis comp. Tabletten](http://www.fachinfo.de/pdf/009187)
+[Vitis comp. Tabletten](data/009187.pdf)
 
-[Terbiderm 250 mg](http://www.fachinfo.de/pdf/009188)
+[Terbiderm 250 mg](data/009188.pdf)
 
-[B1-Kattwiga](http://www.fachinfo.de/pdf/009209)
+[B1-Kattwiga](data/009209.pdf)
 
-[Dexa-CT 4 mg / 8 mg Tabletten](http://www.fachinfo.de/pdf/009220)
+[Dexa-CT 4 mg / 8 mg Tabletten](data/009220.pdf)
 
-[Sertralin-CT 50 mg / 100 mg](http://www.fachinfo.de/pdf/009222)
+[Sertralin-CT 50 mg / 100 mg](data/009222.pdf)
 
-[Tarceva®](http://www.fachinfo.de/pdf/009240)
+[Tarceva®](data/009240.pdf)
 
-[Bonviva® 150 mg Filmtabletten](http://www.fachinfo.de/pdf/009246)
+[Bonviva® 150 mg Filmtabletten](data/009246.pdf)
 
-[Amoxicillin-ratiopharm® 250 mg / 5 ml](http://www.fachinfo.de/pdf/009254)
+[Amoxicillin-ratiopharm® 250 mg / 5 ml](data/009254.pdf)
 
-[Fentanyl-ratiopharm® 12 / 25 / 50 / 75 / 100 Mikrogramm/h](http://www.fachinfo.de/pdf/009260)
+[Fentanyl-ratiopharm® 12 / 25 / 50 / 75 / 100 Mikrogramm/h](data/009260.pdf)
 
-[Paclitaxel-GRY® 6 mg/ml](http://www.fachinfo.de/pdf/009264)
+[Paclitaxel-GRY® 6 mg/ml](data/009264.pdf)
 
-[Erythromycin-ratiopharm® 500 mg](http://www.fachinfo.de/pdf/009267)
+[Erythromycin-ratiopharm® 500 mg](data/009267.pdf)
 
-[Teranar® Tabletten 2, 5, 10 mg](http://www.fachinfo.de/pdf/009282)
+[Teranar® Tabletten 2, 5, 10 mg](data/009282.pdf)
 
-[Pangrol® 25 000](http://www.fachinfo.de/pdf/009300)
+[Pangrol® 25 000](data/009300.pdf)
 
-[Pangrol® 40 000](http://www.fachinfo.de/pdf/009301)
+[Pangrol® 40 000](data/009301.pdf)
 
-[Fentanyl-CT 12 / 25 / 50 / 75 / 100 Mikrogramm/h](http://www.fachinfo.de/pdf/009304)
+[Fentanyl-CT 12 / 25 / 50 / 75 / 100 Mikrogramm/h](data/009304.pdf)
 
-[Vomex A® Dragees](http://www.fachinfo.de/pdf/009305)
+[Vomex A® Dragees](data/009305.pdf)
 
-[Vomex A® Sirup](http://www.fachinfo.de/pdf/009306)
+[Vomex A® Sirup](data/009306.pdf)
 
-[Vomex A® Retardkapseln](http://www.fachinfo.de/pdf/009307)
+[Vomex A® Retardkapseln](data/009307.pdf)
 
-[Cefpodoxim-ratiopharm® 100 mg / 200 mg](http://www.fachinfo.de/pdf/009309)
+[Cefpodoxim-ratiopharm® 100 mg / 200 mg](data/009309.pdf)
 
-[Cefpodoxim-CT 100 mg Filmtabletten](http://www.fachinfo.de/pdf/009314)
+[Cefpodoxim-CT 100 mg Filmtabletten](data/009314.pdf)
 
-[Sertralin Heumann 50 mg Filmtabletten](http://www.fachinfo.de/pdf/009315)
+[Sertralin Heumann 50 mg Filmtabletten](data/009315.pdf)
 
-[Vitamin B6-ratiopharm®](http://www.fachinfo.de/pdf/009316)
+[Vitamin B6-ratiopharm®](data/009316.pdf)
 
-[Nifedipin-ratiopharm® 10 mg](http://www.fachinfo.de/pdf/009319)
+[Nifedipin-ratiopharm® 10 mg](data/009319.pdf)
 
-[Amantagamma® 200](http://www.fachinfo.de/pdf/009320)
+[Amantagamma® 200](data/009320.pdf)
 
-[Kofemin® Klimakterium Tabletten](http://www.fachinfo.de/pdf/009321)
+[Kofemin® Klimakterium Tabletten](data/009321.pdf)
 
-[Glimepirid-ratiopharm® 1 mg/2 mg/3 mg](http://www.fachinfo.de/pdf/009326)
+[Glimepirid-ratiopharm® 1 mg/2 mg/3 mg](data/009326.pdf)
 
-[Lisinopril comp. Heumann 20 mg/12,5 mg](http://www.fachinfo.de/pdf/009330)
+[Lisinopril comp. Heumann 20 mg/12,5 mg](data/009330.pdf)
 
-[Ramipril comp. Heumann](http://www.fachinfo.de/pdf/009333)
+[Ramipril comp. Heumann](data/009333.pdf)
 
-[Glimepirid-CT 1 mg/2 mg/3 mg/4 mg/6 mg](http://www.fachinfo.de/pdf/009342)
+[Glimepirid-CT 1 mg/2 mg/3 mg/4 mg/6 mg](data/009342.pdf)
 
-[Xipamid-ratiopharm® Tabletten](http://www.fachinfo.de/pdf/009345)
+[Xipamid-ratiopharm® Tabletten](data/009345.pdf)
 
-[Xipamid AbZ 10/20/40 mg](http://www.fachinfo.de/pdf/009346)
+[Xipamid AbZ 10/20/40 mg](data/009346.pdf)
 
-[Birkenkohle comp.](http://www.fachinfo.de/pdf/009349)
+[Birkenkohle comp.](data/009349.pdf)
 
-[Citrus / Quarz comp. Injektionslösung](http://www.fachinfo.de/pdf/009350)
+[Citrus / Quarz comp. Injektionslösung](data/009350.pdf)
 
-[Weleda Hämorrhoidalzäpfchen](http://www.fachinfo.de/pdf/009352)
+[Weleda Hämorrhoidalzäpfchen](data/009352.pdf)
 
-[Weleda Nasenöl](http://www.fachinfo.de/pdf/009353)
+[Weleda Nasenöl](data/009353.pdf)
 
-[Lyseen®](http://www.fachinfo.de/pdf/009361)
+[Lyseen®](data/009361.pdf)
 
-[Paractol ®](http://www.fachinfo.de/pdf/009364)
+[Paractol ®](data/009364.pdf)
 
-[Strathmann Perison ®](http://www.fachinfo.de/pdf/009365)
+[Strathmann Perison ®](data/009365.pdf)
 
-[Aptivus® 250 mg Weichkapseln](http://www.fachinfo.de/pdf/009367)
+[Aptivus® 250 mg Weichkapseln](data/009367.pdf)
 
-[Ringer-Acetat-Lösung](http://www.fachinfo.de/pdf/009368)
+[Ringer-Acetat-Lösung](data/009368.pdf)
 
-[Tramadol-CT Retardkapseln](http://www.fachinfo.de/pdf/009375)
+[Tramadol-CT Retardkapseln](data/009375.pdf)
 
-[Metformin AbZ 850 mg Filmtabletten](http://www.fachinfo.de/pdf/009376)
+[Metformin AbZ 850 mg Filmtabletten](data/009376.pdf)
 
-[Itraconazol-CT 100 mg Hartkapseln](http://www.fachinfo.de/pdf/009380)
+[Itraconazol-CT 100 mg Hartkapseln](data/009380.pdf)
 
-[Formoterol-CT 12 Mikrogramm](http://www.fachinfo.de/pdf/009382)
+[Formoterol-CT 12 Mikrogramm](data/009382.pdf)
 
-[CLARELUX®](http://www.fachinfo.de/pdf/009391)
+[CLARELUX®](data/009391.pdf)
 
-[Doxazosin AbZ 4 mg Retardtabletten](http://www.fachinfo.de/pdf/009392)
+[Doxazosin AbZ 4 mg Retardtabletten](data/009392.pdf)
 
-[Haloperidol-ratiopharm® 2 mg/ml Lösung](http://www.fachinfo.de/pdf/009394)
+[Haloperidol-ratiopharm® 2 mg/ml Lösung](data/009394.pdf)
 
-[Mucofalk® Fit](http://www.fachinfo.de/pdf/009399)
+[Mucofalk® Fit](data/009399.pdf)
 
-[Oculotect® fluid/- fluid sine](http://www.fachinfo.de/pdf/009404)
+[Oculotect® fluid/- fluid sine](data/009404.pdf)
 
-[Itraconazol-ratiopharm®](http://www.fachinfo.de/pdf/009408)
+[Itraconazol-ratiopharm®](data/009408.pdf)
 
-[Itraconazol AbZ 100 mg Hartkapseln](http://www.fachinfo.de/pdf/009409)
+[Itraconazol AbZ 100 mg Hartkapseln](data/009409.pdf)
 
-[Spasmolyt 5 mg](http://www.fachinfo.de/pdf/009420)
+[Spasmolyt 5 mg](data/009420.pdf)
 
-[Uralyt-U®](http://www.fachinfo.de/pdf/009421)
+[Uralyt-U®](data/009421.pdf)
 
-[Procoralan®](http://www.fachinfo.de/pdf/009422)
+[Procoralan®](data/009422.pdf)
 
-[Depigoid®](http://www.fachinfo.de/pdf/009423)
+[Depigoid®](data/009423.pdf)
 
-[Depigoid® D. pteronyssinus](http://www.fachinfo.de/pdf/009424)
+[Depigoid® D. pteronyssinus](data/009424.pdf)
 
-[Depigoid® Milben-Mix](http://www.fachinfo.de/pdf/009425)
+[Depigoid® Milben-Mix](data/009425.pdf)
 
-[PRICK TEST LETI](http://www.fachinfo.de/pdf/009427)
+[PRICK TEST LETI](data/009427.pdf)
 
-[Provokationstest LETI](http://www.fachinfo.de/pdf/009428)
+[Provokationstest LETI](data/009428.pdf)
 
-[TOBRADEX®](http://www.fachinfo.de/pdf/009429)
+[TOBRADEX®](data/009429.pdf)
 
-[Myoson® Injektionslösung](http://www.fachinfo.de/pdf/009433)
+[Myoson® Injektionslösung](data/009433.pdf)
 
-[Nystaderm Creme](http://www.fachinfo.de/pdf/009445)
+[Nystaderm Creme](data/009445.pdf)
 
-[Gabapentin Heumann 100/300/400 mg Kapseln](http://www.fachinfo.de/pdf/009451)
+[Gabapentin Heumann 100/300/400 mg Kapseln](data/009451.pdf)
 
-[Calciumchlorid 5,5 % Baxter](http://www.fachinfo.de/pdf/009460)
+[Calciumchlorid 5,5 % Baxter](data/009460.pdf)
 
-[Metronidazol-Infusionslösung 0,5 % Baxter](http://www.fachinfo.de/pdf/009461)
+[Metronidazol-Infusionslösung 0,5 % Baxter](data/009461.pdf)
 
-[Glucose 20 Baxter](http://www.fachinfo.de/pdf/009467)
+[Glucose 20 Baxter](data/009467.pdf)
 
-[Glucose 40 Baxter](http://www.fachinfo.de/pdf/009468)
+[Glucose 40 Baxter](data/009468.pdf)
 
-[ELOXATIN® 5 mg/ml](http://www.fachinfo.de/pdf/009469)
+[ELOXATIN® 5 mg/ml](data/009469.pdf)
 
-[Lansoprazol-CT 15 mg / 30 mg](http://www.fachinfo.de/pdf/009472)
+[Lansoprazol-CT 15 mg / 30 mg](data/009472.pdf)
 
-[Sanasthmax® 400 Mikrogramm/1 ml](http://www.fachinfo.de/pdf/009477)
+[Sanasthmax® 400 Mikrogramm/1 ml](data/009477.pdf)
 
-[Cefaclor-CT 250 mg/5 ml Trockensaft](http://www.fachinfo.de/pdf/009490)
+[Cefaclor-CT 250 mg/5 ml Trockensaft](data/009490.pdf)
 
-[Glimepirid AbZ 1 mg/2 mg/3 mg/4 mg/6 mg](http://www.fachinfo.de/pdf/009498)
+[Glimepirid AbZ 1 mg/2 mg/3 mg/4 mg/6 mg](data/009498.pdf)
 
-[Hikma Pharma Brevimytal ® Hikma 500 mg](http://www.fachinfo.de/pdf/009500)
+[Hikma Pharma Brevimytal ® Hikma 500 mg](data/009500.pdf)
 
-[CalciCare-D3 FORTE 1000 mg/880 I.E.](http://www.fachinfo.de/pdf/009507)
+[CalciCare-D3 FORTE 1000 mg/880 I.E.](data/009507.pdf)
 
-[Rytmonorm® SR 225 mg Hartkapseln,](http://www.fachinfo.de/pdf/009524)
+[Rytmonorm® SR 225 mg Hartkapseln,](data/009524.pdf)
 
-[CalciCare-D3 600 mg/400 I.E.](http://www.fachinfo.de/pdf/009525)
+[CalciCare-D3 600 mg/400 I.E.](data/009525.pdf)
 
-[Fem7® Conti](http://www.fachinfo.de/pdf/009529)
+[Fem7® Conti](data/009529.pdf)
 
-[Nife-CT 20 mg/ml Tropfen](http://www.fachinfo.de/pdf/009534)
+[Nife-CT 20 mg/ml Tropfen](data/009534.pdf)
 
-[Pamidronat-GRY® 3 mg/ml](http://www.fachinfo.de/pdf/009543)
+[Pamidronat-GRY® 3 mg/ml](data/009543.pdf)
 
-[Enalagamma® HCT 10 mg/25 mg](http://www.fachinfo.de/pdf/009544)
+[Enalagamma® HCT 10 mg/25 mg](data/009544.pdf)
 
-[Natriumchlorid-Trägerlösung Baxter](http://www.fachinfo.de/pdf/009546)
+[Natriumchlorid-Trägerlösung Baxter](data/009546.pdf)
 
-[Azithromycin-CT 250 mg/500 mg](http://www.fachinfo.de/pdf/009550)
+[Azithromycin-CT 250 mg/500 mg](data/009550.pdf)
 
 [Isotonische Kochsalzlösung Baxter 9 mg/ml (0,9 %)
-](http://www.fachinfo.de/pdf/009552)
+](data/009552.pdf)
 
 [Natriumchlorid 4,5 mg/ml (0,45 %)
- und](http://www.fachinfo.de/pdf/009553)
+ und](data/009553.pdf)
 
-[Weleda Heuschnupfenspray](http://www.fachinfo.de/pdf/009557)
+[Weleda Heuschnupfenspray](data/009557.pdf)
 
-[cratae-loges® 450 mg](http://www.fachinfo.de/pdf/009564)
+[cratae-loges® 450 mg](data/009564.pdf)
 
-[Cyclo-Progynova® N 2 mg/0,15 mg](http://www.fachinfo.de/pdf/009577)
+[Cyclo-Progynova® N 2 mg/0,15 mg](data/009577.pdf)
 
-[Ciclopirox-ratiopharm® 1 % Creme](http://www.fachinfo.de/pdf/009579)
+[Ciclopirox-ratiopharm® 1 % Creme](data/009579.pdf)
 
-[Vivace® 30/10 mg Tabletten](http://www.fachinfo.de/pdf/009582)
+[Vivace® 30/10 mg Tabletten](data/009582.pdf)
 
-[Glimepirid Heumann](http://www.fachinfo.de/pdf/009587)
+[Glimepirid Heumann](data/009587.pdf)
 
-[Tamsulosin-ratiopharm® 0,4 mg Hartkapseln](http://www.fachinfo.de/pdf/009602)
+[Tamsulosin-ratiopharm® 0,4 mg Hartkapseln](data/009602.pdf)
 
-[Torasemid-ratiopharm® 200 mg Tabletten](http://www.fachinfo.de/pdf/009604)
+[Torasemid-ratiopharm® 200 mg Tabletten](data/009604.pdf)
 
-[Tilidin-ratiopharm® plus](http://www.fachinfo.de/pdf/009605)
+[Tilidin-ratiopharm® plus](data/009605.pdf)
 
-[Clearance ist bei Männern und Frauen mit](http://www.fachinfo.de/pdf/009606)
+[Clearance ist bei Männern und Frauen mit](data/009606.pdf)
 
-[Tilidin comp.-CT Retardtabletten](http://www.fachinfo.de/pdf/009607)
+[Tilidin comp.-CT Retardtabletten](data/009607.pdf)
 
-[Heparin-Natrium-5 000-ratiopharm®](http://www.fachinfo.de/pdf/009608)
+[Heparin-Natrium-5 000-ratiopharm®](data/009608.pdf)
 
-[Molsigamma® 8 mg retard Tabletten](http://www.fachinfo.de/pdf/009612)
+[Molsigamma® 8 mg retard Tabletten](data/009612.pdf)
 
-[Opipram® 50 mg Filmtabletten](http://www.fachinfo.de/pdf/009614)
+[Opipram® 50 mg Filmtabletten](data/009614.pdf)
 
-[Piracetam-ratiopharm® 1200 mg](http://www.fachinfo.de/pdf/009617)
+[Piracetam-ratiopharm® 1200 mg](data/009617.pdf)
 
-[Novaminsulfon-ratiopharm® 500 mg](http://www.fachinfo.de/pdf/009618)
+[Novaminsulfon-ratiopharm® 500 mg](data/009618.pdf)
 
-[Novaminsulfon-ratiopharm® 1 g/2 ml Injektionslösung](http://www.fachinfo.de/pdf/009619)
+[Novaminsulfon-ratiopharm® 1 g/2 ml Injektionslösung](data/009619.pdf)
 
-[Medikinet ® retard 10 mg/20 mg/30 mg/40 mg](http://www.fachinfo.de/pdf/009621)
+[Medikinet ® retard 10 mg/20 mg/30 mg/40 mg](data/009621.pdf)
 
-[Clindamycin-ratiopharm® 300 mg / 2 ml Injektionslösung](http://www.fachinfo.de/pdf/009625)
+[Clindamycin-ratiopharm® 300 mg / 2 ml Injektionslösung](data/009625.pdf)
 
-[Fusicutan Creme/Salbe](http://www.fachinfo.de/pdf/009629)
+[Fusicutan Creme/Salbe](data/009629.pdf)
 
-[Opipramol-ratiopharm® Filmtabletten](http://www.fachinfo.de/pdf/009633)
+[Opipramol-ratiopharm® Filmtabletten](data/009633.pdf)
 
-[Opipramol AbZ Filmtabletten](http://www.fachinfo.de/pdf/009634)
+[Opipramol AbZ Filmtabletten](data/009634.pdf)
 
-[Opipramol-CT Filmtabletten](http://www.fachinfo.de/pdf/009642)
+[Opipramol-CT Filmtabletten](data/009642.pdf)
 
-[LIPIDIL 145 ONE®](http://www.fachinfo.de/pdf/009645)
+[LIPIDIL 145 ONE®](data/009645.pdf)
 
-[Tamsulosin Heumann 0,4 mg Hartkapseln](http://www.fachinfo.de/pdf/009649)
+[Tamsulosin Heumann 0,4 mg Hartkapseln](data/009649.pdf)
 
-[Piracetam-CT 1200 mg Filmtabletten](http://www.fachinfo.de/pdf/009655)
+[Piracetam-CT 1200 mg Filmtabletten](data/009655.pdf)
 
-[Flurazepam real](http://www.fachinfo.de/pdf/009656)
+[Flurazepam real](data/009656.pdf)
 
-[Bonviva® 3 mg Injektionslösung](http://www.fachinfo.de/pdf/009662)
+[Bonviva® 3 mg Injektionslösung](data/009662.pdf)
 
-[Posterisan® akut 50 mg/g Rektalsalbe](http://www.fachinfo.de/pdf/009683)
+[Posterisan® akut 50 mg/g Rektalsalbe](data/009683.pdf)
 
-[Posterisan® akut 60 mg Zäpfchen](http://www.fachinfo.de/pdf/009684)
+[Posterisan® akut 60 mg Zäpfchen](data/009684.pdf)
 
-[Instillagel® 6 ml/11 ml](http://www.fachinfo.de/pdf/009685)
+[Instillagel® 6 ml/11 ml](data/009685.pdf)
 
-[Trancolong®](http://www.fachinfo.de/pdf/009688)
+[Trancolong®](data/009688.pdf)
 
-[Azathioprin Heumann 50 mg Filmtabletten](http://www.fachinfo.de/pdf/009690)
+[Azathioprin Heumann 50 mg Filmtabletten](data/009690.pdf)
 
-[Midazolam B. Braun 1 mg/ml](http://www.fachinfo.de/pdf/009706)
+[Midazolam B. Braun 1 mg/ml](data/009706.pdf)
 
-[Midazolam B. Braun 5 mg/ml](http://www.fachinfo.de/pdf/009707)
+[Midazolam B. Braun 5 mg/ml](data/009707.pdf)
 
-[Diazepam AbZ 5 mg Tabletten](http://www.fachinfo.de/pdf/009726)
+[Diazepam AbZ 5 mg Tabletten](data/009726.pdf)
 
-[Diazepam AbZ 10 mg Tabletten](http://www.fachinfo.de/pdf/009727)
+[Diazepam AbZ 10 mg Tabletten](data/009727.pdf)
 
-[Alfuzosin-CT 10 mg Retardtabletten](http://www.fachinfo.de/pdf/009740)
+[Alfuzosin-CT 10 mg Retardtabletten](data/009740.pdf)
 
-[Paroxetin-ratiopharm® 30 mg](http://www.fachinfo.de/pdf/009746)
+[Paroxetin-ratiopharm® 30 mg](data/009746.pdf)
 
-[Ondansetron-ratiopharm® 4 mg / 8 mg](http://www.fachinfo.de/pdf/009752)
+[Ondansetron-ratiopharm® 4 mg / 8 mg](data/009752.pdf)
 
-[Ondansetron-ratiopharm® 4 mg](http://www.fachinfo.de/pdf/009753)
+[Ondansetron-ratiopharm® 4 mg](data/009753.pdf)
 
-[Tevanate® 70 mg Tabletten](http://www.fachinfo.de/pdf/009758)
+[Tevanate® 70 mg Tabletten](data/009758.pdf)
 
-[Torasemid Heumann](http://www.fachinfo.de/pdf/009760)
+[Torasemid Heumann](data/009760.pdf)
 
-[Nephrotrans ® 840 mg](http://www.fachinfo.de/pdf/009763)
+[Nephrotrans ® 840 mg](data/009763.pdf)
 
-[Alfuzosin AbZ 10 mg Retardtabletten](http://www.fachinfo.de/pdf/009765)
+[Alfuzosin AbZ 10 mg Retardtabletten](data/009765.pdf)
 
-[Alfuzosin-ratiopharm® uno](http://www.fachinfo.de/pdf/009766)
+[Alfuzosin-ratiopharm® uno](data/009766.pdf)
 
-[Fenofibrat 200 Heumann](http://www.fachinfo.de/pdf/009771)
+[Fenofibrat 200 Heumann](data/009771.pdf)
 
-[Omeprazol Heumann](http://www.fachinfo.de/pdf/009779)
+[Omeprazol Heumann](data/009779.pdf)
 
-[AZI-TEVA® 250 mg / 500 mg](http://www.fachinfo.de/pdf/009782)
+[AZI-TEVA® 250 mg / 500 mg](data/009782.pdf)
 
-[Ibuprofen AbZ 2 % Saft](http://www.fachinfo.de/pdf/009784)
+[Ibuprofen AbZ 2 % Saft](data/009784.pdf)
 
-[Ursofalk® 500mg Filmtabletten](http://www.fachinfo.de/pdf/009788)
+[Ursofalk® 500mg Filmtabletten](data/009788.pdf)
 
 [CYP3A4-Inhibition, wahrscheinlich zu Bedaquilin)
-.](http://www.fachinfo.de/pdf/009789)
+.](data/009789.pdf)
 
-[Tatsache beeinträchtigt werden könnte.](http://www.fachinfo.de/pdf/009795)
+[Tatsache beeinträchtigt werden könnte.](data/009795.pdf)
 
-[Jucurba® 240 mg](http://www.fachinfo.de/pdf/009815)
+[Jucurba® 240 mg](data/009815.pdf)
 
-[GELAFUSAL ®](http://www.fachinfo.de/pdf/009816)
+[GELAFUSAL ®](data/009816.pdf)
 
-[Clozapin-CT Tabletten](http://www.fachinfo.de/pdf/009824)
+[Clozapin-CT Tabletten](data/009824.pdf)
 
-[Nitregamma® 10](http://www.fachinfo.de/pdf/009829)
+[Nitregamma® 10](data/009829.pdf)
 
-[Itraderm 100 mg Hartkapseln](http://www.fachinfo.de/pdf/009834)
+[Itraderm 100 mg Hartkapseln](data/009834.pdf)
 
-[ISOZID ® 0,5 N](http://www.fachinfo.de/pdf/009837)
+[ISOZID ® 0,5 N](data/009837.pdf)
 
-[Norspan® 5/10/20 Mikrogramm/h](http://www.fachinfo.de/pdf/009841)
+[Norspan® 5/10/20 Mikrogramm/h](data/009841.pdf)
 
-[Anti-Kalium Na, Granulat](http://www.fachinfo.de/pdf/009842)
+[Anti-Kalium Na, Granulat](data/009842.pdf)
 
-[DESMOTABS® 0,1 mg/- 0,2 mg Tabletten](http://www.fachinfo.de/pdf/009844)
+[DESMOTABS® 0,1 mg/- 0,2 mg Tabletten](data/009844.pdf)
 
-[Dolomagon 300 mg/400 mg](http://www.fachinfo.de/pdf/009850)
+[Dolomagon 300 mg/400 mg](data/009850.pdf)
 
-[TARGIN®](http://www.fachinfo.de/pdf/009851)
+[TARGIN®](data/009851.pdf)
 
-[INUVAIR® 100/6 Mikrogramm Druckgasinhalation,](http://www.fachinfo.de/pdf/009852)
+[INUVAIR® 100/6 Mikrogramm Druckgasinhalation,](data/009852.pdf)
 
-[Clozapin-ratiopharm® Tabletten](http://www.fachinfo.de/pdf/009863)
+[Clozapin-ratiopharm® Tabletten](data/009863.pdf)
 
-[Sulpirid-Hormosan 200 mg Tabletten](http://www.fachinfo.de/pdf/009876)
+[Sulpirid-Hormosan 200 mg Tabletten](data/009876.pdf)
 
-[Ebenol® HCA 0,25 % Creme](http://www.fachinfo.de/pdf/009878)
+[Ebenol® HCA 0,25 % Creme](data/009878.pdf)
 
-[Dilzem ® 90 mg retard](http://www.fachinfo.de/pdf/009896)
+[Dilzem ® 90 mg retard](data/009896.pdf)
 
 [12 % bzw. 13 %. Gleichermaßen war bei Bei HIV-HCV koinfizierten Patienten sind zu Peginterferon alfa-2a)
-.](http://www.fachinfo.de/pdf/009902)
+.](data/009902.pdf)
 
-[NeoChinosol ® Tabletten](http://www.fachinfo.de/pdf/009905)
+[NeoChinosol ® Tabletten](data/009905.pdf)
 
-[Veragamma® 240 retard](http://www.fachinfo.de/pdf/009906)
+[Veragamma® 240 retard](data/009906.pdf)
 
-[BRAMITOB® 300 mg/4 ml](http://www.fachinfo.de/pdf/009913)
+[BRAMITOB® 300 mg/4 ml](data/009913.pdf)
 
-[Metrolotion®](http://www.fachinfo.de/pdf/009914)
+[Metrolotion®](data/009914.pdf)
 
-[Ketamin-hameln 50 mg/ml](http://www.fachinfo.de/pdf/009930)
+[Ketamin-hameln 50 mg/ml](data/009930.pdf)
 
-[milgamma® 300 mg](http://www.fachinfo.de/pdf/009941)
+[milgamma® 300 mg](data/009941.pdf)
 
-[Sumatriptan-Hormosan](http://www.fachinfo.de/pdf/009942)
+[Sumatriptan-Hormosan](data/009942.pdf)
 
-[Alendronsäure Heumann 70 mg](http://www.fachinfo.de/pdf/009945)
+[Alendronsäure Heumann 70 mg](data/009945.pdf)
 
-[Lamotrigin Heumann 25 mg/50 mg/100 mg/200 mg](http://www.fachinfo.de/pdf/009951)
+[Lamotrigin Heumann 25 mg/50 mg/100 mg/200 mg](data/009951.pdf)
 
-[ERYTHROMYCIN Stragen 1 g](http://www.fachinfo.de/pdf/009952)
+[ERYTHROMYCIN Stragen 1 g](data/009952.pdf)
 
-[6 Stunden verabreicht. Nach mehreren pa- von 5-FU angegeben wird. Eine Reduktion](http://www.fachinfo.de/pdf/009956)
+[6 Stunden verabreicht. Nach mehreren pa- von 5-FU angegeben wird. Eine Reduktion](data/009956.pdf)
 
-[Oxazepam-ratiopharm® 50 mg](http://www.fachinfo.de/pdf/009966)
+[Oxazepam-ratiopharm® 50 mg](data/009966.pdf)
 
-[Zolpidem-ratiopharm® 10 mg](http://www.fachinfo.de/pdf/009970)
+[Zolpidem-ratiopharm® 10 mg](data/009970.pdf)
 
-[Reducto®-spezial](http://www.fachinfo.de/pdf/009975)
+[Reducto®-spezial](data/009975.pdf)
 
-[axifolin ® 10 mg/ml Injektionslösung](http://www.fachinfo.de/pdf/009979)
+[axifolin ® 10 mg/ml Injektionslösung](data/009979.pdf)
 
-[axisetron ®](http://www.fachinfo.de/pdf/009980)
+[axisetron ®](data/009980.pdf)
 
-[Prialt® 100 Mikrogramm/ml](http://www.fachinfo.de/pdf/009988)
+[Prialt® 100 Mikrogramm/ml](data/009988.pdf)
 
-[Protaminsulfat LEO Pharma](http://www.fachinfo.de/pdf/009997)
+[Protaminsulfat LEO Pharma](data/009997.pdf)
 
-[AT III NF 1000](http://www.fachinfo.de/pdf/009998)
+[AT III NF 1000](data/009998.pdf)
 
-[AT III NF 500](http://www.fachinfo.de/pdf/009999)
+[AT III NF 500](data/009999.pdf)
 
-[Bronchipret® Saft TE](http://www.fachinfo.de/pdf/010000)
+[Bronchipret® Saft TE](data/010000.pdf)
 
-[Paroxetin-ratiopharm® 40 mg](http://www.fachinfo.de/pdf/010003)
+[Paroxetin-ratiopharm® 40 mg](data/010003.pdf)
 
 [Glucose Baxter 50 mg/ml (5 %)
-](http://www.fachinfo.de/pdf/010018)
+](data/010018.pdf)
 
-[Ringer Baxter Infusionslösung](http://www.fachinfo.de/pdf/010019)
+[Ringer Baxter Infusionslösung](data/010019.pdf)
 
-[Ringer-Laktat Baxter Infusionslösung](http://www.fachinfo.de/pdf/010020)
+[Ringer-Laktat Baxter Infusionslösung](data/010020.pdf)
 
-[Leukase ® N Kegel](http://www.fachinfo.de/pdf/010021)
+[Leukase ® N Kegel](data/010021.pdf)
 
-[EMSER® NASENTROPFEN, LÖSUNG](http://www.fachinfo.de/pdf/010025)
+[EMSER® NASENTROPFEN, LÖSUNG](data/010025.pdf)
 
-[EMSER SOLE ® INHALAT](http://www.fachinfo.de/pdf/010026)
+[EMSER SOLE ® INHALAT](data/010026.pdf)
 
-[Digitoxin-Philo](http://www.fachinfo.de/pdf/010034)
+[Digitoxin-Philo](data/010034.pdf)
 
-[Simagel®](http://www.fachinfo.de/pdf/010036)
+[Simagel®](data/010036.pdf)
 
-[Tamsu-astellas®](http://www.fachinfo.de/pdf/010041)
+[Tamsu-astellas®](data/010041.pdf)
 
-[Ozym® 40.000](http://www.fachinfo.de/pdf/010042)
+[Ozym® 40.000](data/010042.pdf)
 
-[Accusol 35](http://www.fachinfo.de/pdf/010054)
+[Accusol 35](data/010054.pdf)
 
-[Accusol 35 Kalium 2 mmol/l](http://www.fachinfo.de/pdf/010055)
+[Accusol 35 Kalium 2 mmol/l](data/010055.pdf)
 
-[Accusol 35 Kalium 4 mmol/l](http://www.fachinfo.de/pdf/010056)
+[Accusol 35 Kalium 4 mmol/l](data/010056.pdf)
 
-[PPSB-human SD/Nano 300](http://www.fachinfo.de/pdf/010064)
+[PPSB-human SD/Nano 300](data/010064.pdf)
 
-[Thomapyrin ® Brausetabletten](http://www.fachinfo.de/pdf/010074)
+[Thomapyrin ® Brausetabletten](data/010074.pdf)
 
-[Leponex® 50 mg](http://www.fachinfo.de/pdf/010083)
+[Leponex® 50 mg](data/010083.pdf)
 
-[Plasbumin® 20](http://www.fachinfo.de/pdf/010090)
+[Plasbumin® 20](data/010090.pdf)
 
-[Cabergolin-CT 1 mg Tabletten](http://www.fachinfo.de/pdf/010092)
+[Cabergolin-CT 1 mg Tabletten](data/010092.pdf)
 
-[Diazepam AbZ 10 mg Ampullen](http://www.fachinfo.de/pdf/010104)
+[Diazepam AbZ 10 mg Ampullen](data/010104.pdf)
 
-[Soderm Crinale](http://www.fachinfo.de/pdf/010105)
+[Soderm Crinale](data/010105.pdf)
 
-[Fentanyl AbZ 12 μg/h / 25 μg/h / 50 μg/h / 75 μg/h / 100 μg/h](http://www.fachinfo.de/pdf/010109)
+[Fentanyl AbZ 12 μg/h / 25 μg/h / 50 μg/h / 75 μg/h / 100 μg/h](data/010109.pdf)
 
-[Bryophyllum 50 % Pulver zum Einnehmen](http://www.fachinfo.de/pdf/010111)
+[Bryophyllum 50 % Pulver zum Einnehmen](data/010111.pdf)
 
-[Weleda Milchbildungsöl](http://www.fachinfo.de/pdf/010112)
+[Weleda Milchbildungsöl](data/010112.pdf)
 
-[Cabergolin-ratiopharm® 0,5 mg](http://www.fachinfo.de/pdf/010122)
+[Cabergolin-ratiopharm® 0,5 mg](data/010122.pdf)
 
-[Cabergolin-ratiopharm® 1 mg Tabletten](http://www.fachinfo.de/pdf/010123)
+[Cabergolin-ratiopharm® 1 mg Tabletten](data/010123.pdf)
 
-[Clindamycin-ratiopharm® 150 mg Hartkapseln](http://www.fachinfo.de/pdf/010128)
+[Clindamycin-ratiopharm® 150 mg Hartkapseln](data/010128.pdf)
 
-[Clozapin AbZ 25 mg/ 50 mg/ 100 mg/ 200 mg](http://www.fachinfo.de/pdf/010134)
+[Clozapin AbZ 25 mg/ 50 mg/ 100 mg/ 200 mg](data/010134.pdf)
 
-[Amlodipin besilat Heumann 5 mg Tabletten](http://www.fachinfo.de/pdf/010149)
+[Amlodipin besilat Heumann 5 mg Tabletten](data/010149.pdf)
 
-[Rifun® 20 mg](http://www.fachinfo.de/pdf/010151)
+[Rifun® 20 mg](data/010151.pdf)
 
-[Rifun® 40 mg](http://www.fachinfo.de/pdf/010152)
+[Rifun® 40 mg](data/010152.pdf)
 
-[Nifedipin-ratiopharm® 20 mg](http://www.fachinfo.de/pdf/010159)
+[Nifedipin-ratiopharm® 20 mg](data/010159.pdf)
 
-[Nifedipin-ratiopharm® 20 mg/ml Tropfen](http://www.fachinfo.de/pdf/010161)
+[Nifedipin-ratiopharm® 20 mg/ml Tropfen](data/010161.pdf)
 
-[Zolpidem-CT 5 mg Filmtabletten](http://www.fachinfo.de/pdf/010169)
+[Zolpidem-CT 5 mg Filmtabletten](data/010169.pdf)
 
-[Sertralin-Teva® 50 mg Filmtabletten](http://www.fachinfo.de/pdf/010180)
+[Sertralin-Teva® 50 mg Filmtabletten](data/010180.pdf)
 
-[Paroxetin-Hormosan 20/40 mg Tabletten](http://www.fachinfo.de/pdf/010185)
+[Paroxetin-Hormosan 20/40 mg Tabletten](data/010185.pdf)
 
-[Sevofluran Baxter](http://www.fachinfo.de/pdf/010187)
+[Sevofluran Baxter](data/010187.pdf)
 
-[Diazep-CT 5 mg Tabletten](http://www.fachinfo.de/pdf/010193)
+[Diazep-CT 5 mg Tabletten](data/010193.pdf)
 
-[Amiodaron-ratiopharm® 150 mg / 3 ml](http://www.fachinfo.de/pdf/010194)
+[Amiodaron-ratiopharm® 150 mg / 3 ml](data/010194.pdf)
 
-[Doxycyclin-ratiopharm® SF](http://www.fachinfo.de/pdf/010197)
+[Doxycyclin-ratiopharm® SF](data/010197.pdf)
 
-[Clindamycin-ratiopharm® 900 mg/6 ml](http://www.fachinfo.de/pdf/010198)
+[Clindamycin-ratiopharm® 900 mg/6 ml](data/010198.pdf)
 
-[Ambroxol AbZ Hustensaft](http://www.fachinfo.de/pdf/010207)
+[Ambroxol AbZ Hustensaft](data/010207.pdf)
 
-[Alprazolam-ratiopharm® 0,5 mg](http://www.fachinfo.de/pdf/010208)
+[Alprazolam-ratiopharm® 0,5 mg](data/010208.pdf)
 
-[Bezafibrat-ratiopharm® 400 mg](http://www.fachinfo.de/pdf/010220)
+[Bezafibrat-ratiopharm® 400 mg](data/010220.pdf)
 
-[Antistax® extra Venentabletten](http://www.fachinfo.de/pdf/010222)
+[Antistax® extra Venentabletten](data/010222.pdf)
 
-[Td-Impfstoff Mérieux®](http://www.fachinfo.de/pdf/010223)
+[Td-Impfstoff Mérieux®](data/010223.pdf)
 
-[milgamma® protekt](http://www.fachinfo.de/pdf/010227)
+[milgamma® protekt](data/010227.pdf)
 
-[Gabapentin Desitin](http://www.fachinfo.de/pdf/010231)
+[Gabapentin Desitin](data/010231.pdf)
 
-[Cliovelle® 1 mg/0,5 mg Tabletten](http://www.fachinfo.de/pdf/010241)
+[Cliovelle® 1 mg/0,5 mg Tabletten](data/010241.pdf)
 
-[dona® 1500 mg Pulver](http://www.fachinfo.de/pdf/010242)
+[dona® 1500 mg Pulver](data/010242.pdf)
 
-[Ondansetron-ratiopharm® 8 mg](http://www.fachinfo.de/pdf/010243)
+[Ondansetron-ratiopharm® 8 mg](data/010243.pdf)
 
-[Isopto-Max® Kombi-Pack](http://www.fachinfo.de/pdf/010244)
+[Isopto-Max® Kombi-Pack](data/010244.pdf)
 
-[Galderma Clobex 500 Mikrogramm/g Shampoo](http://www.fachinfo.de/pdf/010251)
+[Galderma Clobex 500 Mikrogramm/g Shampoo](data/010251.pdf)
 
-[dona® 750 mg Filmtabletten](http://www.fachinfo.de/pdf/010263)
+[dona® 750 mg Filmtabletten](data/010263.pdf)
 
-[CONOXIA® MO2X](http://www.fachinfo.de/pdf/010264)
+[CONOXIA® MO2X](data/010264.pdf)
 
-[CONOXIA ® GO2X](http://www.fachinfo.de/pdf/010265)
+[CONOXIA ® GO2X](data/010265.pdf)
 
-[CONOXIA ® LO2X](http://www.fachinfo.de/pdf/010266)
+[CONOXIA ® LO2X](data/010266.pdf)
 
-[Atenogamma 100 mg](http://www.fachinfo.de/pdf/010273)
+[Atenogamma 100 mg](data/010273.pdf)
 
-[Atenogamma 50 mg](http://www.fachinfo.de/pdf/010274)
+[Atenogamma 50 mg](data/010274.pdf)
 
-[Fludarabinmedac](http://www.fachinfo.de/pdf/010278)
+[Fludarabinmedac](data/010278.pdf)
 
-[Fenofibrat-ratiopharm® 250 mg](http://www.fachinfo.de/pdf/010286)
+[Fenofibrat-ratiopharm® 250 mg](data/010286.pdf)
 
-[LEKA® 500](http://www.fachinfo.de/pdf/010287)
+[LEKA® 500](data/010287.pdf)
 
-[Ampicillin-ratiopharm® 1000 mg](http://www.fachinfo.de/pdf/010290)
+[Ampicillin-ratiopharm® 1000 mg](data/010290.pdf)
 
-[Oxygesic® injekt 10 mg/ml](http://www.fachinfo.de/pdf/010293)
+[Oxygesic® injekt 10 mg/ml](data/010293.pdf)
 
-[Tiamon Mono retard](http://www.fachinfo.de/pdf/010297)
+[Tiamon Mono retard](data/010297.pdf)
 
-[Tarka® 240 mg/2 mg](http://www.fachinfo.de/pdf/010300)
+[Tarka® 240 mg/2 mg](data/010300.pdf)
 
-[Tarka® 240 mg/4 mg](http://www.fachinfo.de/pdf/010301)
+[Tarka® 240 mg/4 mg](data/010301.pdf)
 
-[Ebenol® Spray 0,5 % Lösung](http://www.fachinfo.de/pdf/010308)
+[Ebenol® Spray 0,5 % Lösung](data/010308.pdf)
 
-[Ebenol® 0,5 % Creme](http://www.fachinfo.de/pdf/010309)
+[Ebenol® 0,5 % Creme](data/010309.pdf)
 
-[Doxazosin AbZ 2 mg / 4 mg Tabletten](http://www.fachinfo.de/pdf/010312)
+[Doxazosin AbZ 2 mg / 4 mg Tabletten](data/010312.pdf)
 
-[Cefaclor-ratiopharm® 125 mg/5 ml TS](http://www.fachinfo.de/pdf/010313)
+[Cefaclor-ratiopharm® 125 mg/5 ml TS](data/010313.pdf)
 
-[Amlodigamma® TOP 10 mg](http://www.fachinfo.de/pdf/010316)
+[Amlodigamma® TOP 10 mg](data/010316.pdf)
 
-[Amlodigamma® TOP 5 mg](http://www.fachinfo.de/pdf/010317)
+[Amlodigamma® TOP 5 mg](data/010317.pdf)
 
-[Finamed 5 mg Filmtabletten](http://www.fachinfo.de/pdf/010318)
+[Finamed 5 mg Filmtabletten](data/010318.pdf)
 
-[Fentanyl Krewel® 25 µg/h, - 50 µg/h, - 75 µg/h](http://www.fachinfo.de/pdf/010321)
+[Fentanyl Krewel® 25 µg/h, - 50 µg/h, - 75 µg/h](data/010321.pdf)
 
-[Azithromycin-ratiopharm® 200 mg/5 ml](http://www.fachinfo.de/pdf/010322)
+[Azithromycin-ratiopharm® 200 mg/5 ml](data/010322.pdf)
 
-[Enalapril AbZ Tabletten](http://www.fachinfo.de/pdf/010328)
+[Enalapril AbZ Tabletten](data/010328.pdf)
 
-[milgamma®](http://www.fachinfo.de/pdf/010333)
+[milgamma®](data/010333.pdf)
 
-[Cotrim-ratiopharm® 480 mg Tabletten](http://www.fachinfo.de/pdf/010338)
+[Cotrim-ratiopharm® 480 mg Tabletten](data/010338.pdf)
 
-[Canephron® N Dragees](http://www.fachinfo.de/pdf/010342)
+[Canephron® N Dragees](data/010342.pdf)
 
-[Canephron® N Tropfen](http://www.fachinfo.de/pdf/010343)
+[Canephron® N Tropfen](data/010343.pdf)
 
-[Venofer 20 mg Fe/ml](http://www.fachinfo.de/pdf/010352)
+[Venofer 20 mg Fe/ml](data/010352.pdf)
 
-[Tramagit® 150 mg/200 mg](http://www.fachinfo.de/pdf/010353)
+[Tramagit® 150 mg/200 mg](data/010353.pdf)
 
-[Leukase ® N Puder](http://www.fachinfo.de/pdf/010355)
+[Leukase ® N Puder](data/010355.pdf)
 
-[HUMANALBUMIN 200 g/l KEDRION](http://www.fachinfo.de/pdf/010360)
+[HUMANALBUMIN 200 g/l KEDRION](data/010360.pdf)
 
-[meridol® med CHX 0,2 %](http://www.fachinfo.de/pdf/010365)
+[meridol® med CHX 0,2 %](data/010365.pdf)
 
-[elmex® fluid](http://www.fachinfo.de/pdf/010369)
+[elmex® fluid](data/010369.pdf)
 
-[elmex® gelée](http://www.fachinfo.de/pdf/010370)
+[elmex® gelée](data/010370.pdf)
 
-[Ringer-Acetat-Lösung B. Braun](http://www.fachinfo.de/pdf/010371)
+[Ringer-Acetat-Lösung B. Braun](data/010371.pdf)
 
-[ben-u-ron® 1000 mg Tabletten](http://www.fachinfo.de/pdf/010383)
+[ben-u-ron® 1000 mg Tabletten](data/010383.pdf)
 
-[Zemplar® 1 Mikrogramm Weichkapseln](http://www.fachinfo.de/pdf/010406)
+[Zemplar® 1 Mikrogramm Weichkapseln](data/010406.pdf)
 
-[MIRCERA®](http://www.fachinfo.de/pdf/010409)
+[MIRCERA®](data/010409.pdf)
 
-[Nitrolingual forte](http://www.fachinfo.de/pdf/010418)
+[Nitrolingual forte](data/010418.pdf)
 
-[Actonel® plus Calcium D](http://www.fachinfo.de/pdf/010420)
+[Actonel® plus Calcium D](data/010420.pdf)
 
-[Lamotrigin-TEVA® 5 mg / 25 mg / 50 mg / 100 mg / 200 mg Tabletten](http://www.fachinfo.de/pdf/010429)
+[Lamotrigin-TEVA® 5 mg / 25 mg / 50 mg / 100 mg / 200 mg Tabletten](data/010429.pdf)
 
-[Lamotrigin-TEVA® 25 mg / 50 mg / 100 mg / 200 mg](http://www.fachinfo.de/pdf/010430)
+[Lamotrigin-TEVA® 25 mg / 50 mg / 100 mg / 200 mg](data/010430.pdf)
 
-[Oftaquix® sine 5 mg/ml](http://www.fachinfo.de/pdf/010436)
+[Oftaquix® sine 5 mg/ml](data/010436.pdf)
 
-[Synagis® 100 mg](http://www.fachinfo.de/pdf/010438)
+[Synagis® 100 mg](data/010438.pdf)
 
-[Altargo ® 10 mg/g Salbe](http://www.fachinfo.de/pdf/010444)
+[Altargo ® 10 mg/g Salbe](data/010444.pdf)
 
-[Ritalin® LA](http://www.fachinfo.de/pdf/010445)
+[Ritalin® LA](data/010445.pdf)
 
-[Flecainid-ratiopharm® 100 mg](http://www.fachinfo.de/pdf/010457)
+[Flecainid-ratiopharm® 100 mg](data/010457.pdf)
 
-[Risperidon-Hormosan](http://www.fachinfo.de/pdf/010465)
+[Risperidon-Hormosan](data/010465.pdf)
 
-[Risperidon-ratiopharm® 0,25/0,5/1/2 mg Filmtabletten](http://www.fachinfo.de/pdf/010467)
+[Risperidon-ratiopharm® 0,25/0,5/1/2 mg Filmtabletten](data/010467.pdf)
 
-[INCRELEX® 10 mg/ml](http://www.fachinfo.de/pdf/010468)
+[INCRELEX® 10 mg/ml](data/010468.pdf)
 
-[Amiodaron-ratiopharm® 200 mg](http://www.fachinfo.de/pdf/010470)
+[Amiodaron-ratiopharm® 200 mg](data/010470.pdf)
 
-[Naloxon-hameln 0,4 mg/ml](http://www.fachinfo.de/pdf/010472)
+[Naloxon-hameln 0,4 mg/ml](data/010472.pdf)
 
-[HAEMATO-pharm HAEMATO-carb](http://www.fachinfo.de/pdf/010477)
+[HAEMATO-pharm HAEMATO-carb](data/010477.pdf)
 
-[HAEMATO-folin ® 10 mg/ml](http://www.fachinfo.de/pdf/010478)
+[HAEMATO-folin ® 10 mg/ml](data/010478.pdf)
 
-[Doxepia ® real 50 mg/100 mg](http://www.fachinfo.de/pdf/010494)
+[Doxepia ® real 50 mg/100 mg](data/010494.pdf)
 
-[Ferinject 50 mg Eisen/ml](http://www.fachinfo.de/pdf/010495)
+[Ferinject 50 mg Eisen/ml](data/010495.pdf)
 
-[Fenofibrat AbZ 250 mg Retardkapseln](http://www.fachinfo.de/pdf/010496)
+[Fenofibrat AbZ 250 mg Retardkapseln](data/010496.pdf)
 
-[Folsäure AbZ 5 mg Tabletten](http://www.fachinfo.de/pdf/010497)
+[Folsäure AbZ 5 mg Tabletten](data/010497.pdf)
 
-[H2Blocker-ratiopharm® 200 mg/2 ml](http://www.fachinfo.de/pdf/010502)
+[H2Blocker-ratiopharm® 200 mg/2 ml](data/010502.pdf)
 
-[axicarb ® 10 mg/ml](http://www.fachinfo.de/pdf/010504)
+[axicarb ® 10 mg/ml](data/010504.pdf)
 
-[Olanzapin-CT Schmelztabletten](http://www.fachinfo.de/pdf/010505)
+[Olanzapin-CT Schmelztabletten](data/010505.pdf)
 
-[Olanzapin-CT Tabletten](http://www.fachinfo.de/pdf/010506)
+[Olanzapin-CT Tabletten](data/010506.pdf)
 
-[Enalagamma® HCT 20 mg/12,5 mg](http://www.fachinfo.de/pdf/010513)
+[Enalagamma® HCT 20 mg/12,5 mg](data/010513.pdf)
 
-[Spiriva® Respimat®](http://www.fachinfo.de/pdf/010518)
+[Spiriva® Respimat®](data/010518.pdf)
 
-[EMB-Fatol® 1,0 g](http://www.fachinfo.de/pdf/010521)
+[EMB-Fatol® 1,0 g](data/010521.pdf)
 
-[Alprazolam AbZ 0,5 mg Tabletten](http://www.fachinfo.de/pdf/010526)
+[Alprazolam AbZ 0,5 mg Tabletten](data/010526.pdf)
 
-[TESTOPATCH ®](http://www.fachinfo.de/pdf/010530)
+[TESTOPATCH ®](data/010530.pdf)
 
-[Naltrexon HCl aop 50 mg Filmtabletten](http://www.fachinfo.de/pdf/010533)
+[Naltrexon HCl aop 50 mg Filmtabletten](data/010533.pdf)
 
-[Iopamidol-ratiopharm® 300 mg/ml](http://www.fachinfo.de/pdf/010540)
+[Iopamidol-ratiopharm® 300 mg/ml](data/010540.pdf)
 
-[Heparin-Natrium-250 000-ratiopharm®](http://www.fachinfo.de/pdf/010544)
+[Heparin-Natrium-250 000-ratiopharm®](data/010544.pdf)
 
-[Heparin-Natrium-7 500-ratiopharm® FS](http://www.fachinfo.de/pdf/010545)
+[Heparin-Natrium-7 500-ratiopharm® FS](data/010545.pdf)
 
-[NasenSpray-ratiopharm®](http://www.fachinfo.de/pdf/010552)
+[NasenSpray-ratiopharm®](data/010552.pdf)
 
-[Vertigo-Vomex® S Suppositorien](http://www.fachinfo.de/pdf/010570)
+[Vertigo-Vomex® S Suppositorien](data/010570.pdf)
 
-[Risperidon Heumann Filmtabletten](http://www.fachinfo.de/pdf/010578)
+[Risperidon Heumann Filmtabletten](data/010578.pdf)
 
-[Fentanyl Heumann Matrixpflaster](http://www.fachinfo.de/pdf/010579)
+[Fentanyl Heumann Matrixpflaster](data/010579.pdf)
 
-[Indapamid Heumann 1,5 mg](http://www.fachinfo.de/pdf/010587)
+[Indapamid Heumann 1,5 mg](data/010587.pdf)
 
-[Tramundin ® 50 mg Filmtabletten](http://www.fachinfo.de/pdf/010599)
+[Tramundin ® 50 mg Filmtabletten](data/010599.pdf)
 
-[Olanzapin AbZ Schmelztabletten](http://www.fachinfo.de/pdf/010602)
+[Olanzapin AbZ Schmelztabletten](data/010602.pdf)
 
-[Olanzapin AbZ Tabletten](http://www.fachinfo.de/pdf/010603)
+[Olanzapin AbZ Tabletten](data/010603.pdf)
 
-[Olanzapin-ratiopharm® Schmelztabletten](http://www.fachinfo.de/pdf/010604)
+[Olanzapin-ratiopharm® Schmelztabletten](data/010604.pdf)
 
-[Olanzapin-ratiopharm® Tabletten](http://www.fachinfo.de/pdf/010605)
+[Olanzapin-ratiopharm® Tabletten](data/010605.pdf)
 
-[Oxaliplatin-GRY® 5 mg/ml](http://www.fachinfo.de/pdf/010618)
+[Oxaliplatin-GRY® 5 mg/ml](data/010618.pdf)
 
-[Gabapentin Desitin ®](http://www.fachinfo.de/pdf/010619)
+[Gabapentin Desitin ®](data/010619.pdf)
 
-[Gabagamma® 600 mg Filmtabletten](http://www.fachinfo.de/pdf/010622)
+[Gabagamma® 600 mg Filmtabletten](data/010622.pdf)
 
-[Fluconazol Redibag 2 mg/ml](http://www.fachinfo.de/pdf/010628)
+[Fluconazol Redibag 2 mg/ml](data/010628.pdf)
 
-[Diclofenac-ratiopharm®](http://www.fachinfo.de/pdf/010653)
+[Diclofenac-ratiopharm®](data/010653.pdf)
 
-[Paracetamol-ratiopharm® 500 mg](http://www.fachinfo.de/pdf/010657)
+[Paracetamol-ratiopharm® 500 mg](data/010657.pdf)
 
-[Diacomit ® 500 mg Hartkapseln](http://www.fachinfo.de/pdf/010665)
+[Diacomit ® 500 mg Hartkapseln](data/010665.pdf)
 
-[Diacomit ® 250 mg Pulver](http://www.fachinfo.de/pdf/010666)
+[Diacomit ® 250 mg Pulver](data/010666.pdf)
 
-[Diacomit ® 500 mg Pulver](http://www.fachinfo.de/pdf/010667)
+[Diacomit ® 500 mg Pulver](data/010667.pdf)
 
-[Depiquick®](http://www.fachinfo.de/pdf/010674)
+[Depiquick®](data/010674.pdf)
 
-[Azi-TEVA® 200 mg / 5 ml](http://www.fachinfo.de/pdf/010675)
+[Azi-TEVA® 200 mg / 5 ml](data/010675.pdf)
 
-[selenase® 50 AP](http://www.fachinfo.de/pdf/010681)
+[selenase® 50 AP](data/010681.pdf)
 
-[NAC-ratiopharm® 200 mg Brausetabletten](http://www.fachinfo.de/pdf/010690)
+[NAC-ratiopharm® 200 mg Brausetabletten](data/010690.pdf)
 
-[Vitamin A 30 000 I.E. JENAPHARM®](http://www.fachinfo.de/pdf/010700)
+[Vitamin A 30 000 I.E. JENAPHARM®](data/010700.pdf)
 
-[NIONTIX®](http://www.fachinfo.de/pdf/010702)
+[NIONTIX®](data/010702.pdf)
 
-[Loperamid-ratiopharm® 2 mg](http://www.fachinfo.de/pdf/010704)
+[Loperamid-ratiopharm® 2 mg](data/010704.pdf)
 
-[Lactulose AbZ 66,7 g/100 ml Sirup](http://www.fachinfo.de/pdf/010705)
+[Lactulose AbZ 66,7 g/100 ml Sirup](data/010705.pdf)
 
-[dysto-loges® S Tropfen](http://www.fachinfo.de/pdf/010706)
+[dysto-loges® S Tropfen](data/010706.pdf)
 
-[TilactaMed®](http://www.fachinfo.de/pdf/010710)
+[TilactaMed®](data/010710.pdf)
 
-[BREVACTID® 1500 I.E.](http://www.fachinfo.de/pdf/010712)
+[BREVACTID® 1500 I.E.](data/010712.pdf)
 
-[BREVACTID® 5000 I.E.](http://www.fachinfo.de/pdf/010713)
+[BREVACTID® 5000 I.E.](data/010713.pdf)
 
-[Oxycodon-HCl AbZ 20 mg / 40 mg](http://www.fachinfo.de/pdf/010721)
+[Oxycodon-HCl AbZ 20 mg / 40 mg](data/010721.pdf)
 
-[Diazepam AbZ Tropfen](http://www.fachinfo.de/pdf/010730)
+[Diazepam AbZ Tropfen](data/010730.pdf)
 
-[Oxycodon-HCl-CT 20 / 40 / 80 mg](http://www.fachinfo.de/pdf/010745)
+[Oxycodon-HCl-CT 20 / 40 / 80 mg](data/010745.pdf)
 
-[Helixate® NexGen 2000 I.E.](http://www.fachinfo.de/pdf/010749)
+[Helixate® NexGen 2000 I.E.](data/010749.pdf)
 
-[Lamotrigin Desitin® 100 mg Tabletten](http://www.fachinfo.de/pdf/010760)
+[Lamotrigin Desitin® 100 mg Tabletten](data/010760.pdf)
 
-[Ambroxol-ratiopharm® 75 mg Hustenlöser](http://www.fachinfo.de/pdf/010764)
+[Ambroxol-ratiopharm® 75 mg Hustenlöser](data/010764.pdf)
 
-[Ambroxol-ratiopharm® Hustensaft](http://www.fachinfo.de/pdf/010765)
+[Ambroxol-ratiopharm® Hustensaft](data/010765.pdf)
 
-[Ambroxol-ratiopharm® 15 mg/2 ml](http://www.fachinfo.de/pdf/010766)
+[Ambroxol-ratiopharm® 15 mg/2 ml](data/010766.pdf)
 
-[Paracetamol-ratiopharm® 500 mg](http://www.fachinfo.de/pdf/010778)
+[Paracetamol-ratiopharm® 500 mg](data/010778.pdf)
 
-[Paracetamol-ratiopharm®](http://www.fachinfo.de/pdf/010779)
+[Paracetamol-ratiopharm®](data/010779.pdf)
 
-[Diazepam-ratiopharm® 10 mg](http://www.fachinfo.de/pdf/010780)
+[Diazepam-ratiopharm® 10 mg](data/010780.pdf)
 
-[Haloperidol-ratiopharm® 5 mg](http://www.fachinfo.de/pdf/010782)
+[Haloperidol-ratiopharm® 5 mg](data/010782.pdf)
 
-[Aer medicinalis Linde](http://www.fachinfo.de/pdf/010783)
+[Aer medicinalis Linde](data/010783.pdf)
 
-[NAC-ratiopharm® akut Hustenlöser](http://www.fachinfo.de/pdf/010789)
+[NAC-ratiopharm® akut Hustenlöser](data/010789.pdf)
 
-[RetacritTM](http://www.fachinfo.de/pdf/010790)
+[RetacritTM](data/010790.pdf)
 
-[Zinkit® 20](http://www.fachinfo.de/pdf/010793)
+[Zinkit® 20](data/010793.pdf)
 
-[Alpha-Lipogamma®](http://www.fachinfo.de/pdf/010795)
+[Alpha-Lipogamma®](data/010795.pdf)
 
-[AKNICHTHOL ®](http://www.fachinfo.de/pdf/010798)
+[AKNICHTHOL ®](data/010798.pdf)
 
-[Paracetamol-CT 500 mg Tabletten](http://www.fachinfo.de/pdf/010810)
+[Paracetamol-CT 500 mg Tabletten](data/010810.pdf)
 
-[Clotrimazol-CT 10 mg/g Vaginalcreme](http://www.fachinfo.de/pdf/010812)
+[Clotrimazol-CT 10 mg/g Vaginalcreme](data/010812.pdf)
 
-[Rheuma-Hek® forte 600 mg](http://www.fachinfo.de/pdf/010818)
+[Rheuma-Hek® forte 600 mg](data/010818.pdf)
 
-[Eprosartan-ratiopharm® 600 mg](http://www.fachinfo.de/pdf/010821)
+[Eprosartan-ratiopharm® 600 mg](data/010821.pdf)
 
-[Rheuma-Hek® 268 mg](http://www.fachinfo.de/pdf/010824)
+[Rheuma-Hek® 268 mg](data/010824.pdf)
 
-[Neurop®](http://www.fachinfo.de/pdf/010830)
+[Neurop®](data/010830.pdf)
 
-[Aescusan® retard](http://www.fachinfo.de/pdf/010843)
+[Aescusan® retard](data/010843.pdf)
 
-[Bolus alba comp. Pulver](http://www.fachinfo.de/pdf/010850)
+[Bolus alba comp. Pulver](data/010850.pdf)
 
-[Cera/Aesculus comp., Unguentum](http://www.fachinfo.de/pdf/010852)
+[Cera/Aesculus comp., Unguentum](data/010852.pdf)
 
-[Tizanidin-TEVA® 2 mg / 4 mg Tabletten](http://www.fachinfo.de/pdf/010854)
+[Tizanidin-TEVA® 2 mg / 4 mg Tabletten](data/010854.pdf)
 
-[Esberitox ® Tabletten](http://www.fachinfo.de/pdf/010861)
+[Esberitox ® Tabletten](data/010861.pdf)
 
-[Nebivolol Heumann 5 mg Tabletten](http://www.fachinfo.de/pdf/010876)
+[Nebivolol Heumann 5 mg Tabletten](data/010876.pdf)
 
-[Kaletra® 100 mg/25 mg Filmtabletten](http://www.fachinfo.de/pdf/010883)
+[Kaletra® 100 mg/25 mg Filmtabletten](data/010883.pdf)
 
-[NAC-ratiopharm® 200 mg Trinktabletten](http://www.fachinfo.de/pdf/010899)
+[NAC-ratiopharm® 200 mg Trinktabletten](data/010899.pdf)
 
-[NAC-ratiopharm® 100 mg/ml](http://www.fachinfo.de/pdf/010900)
+[NAC-ratiopharm® 100 mg/ml](data/010900.pdf)
 
-[Allergodil® akut Duo](http://www.fachinfo.de/pdf/010904)
+[Allergodil® akut Duo](data/010904.pdf)
 
-[Flecagamma® 50 mg](http://www.fachinfo.de/pdf/010908)
+[Flecagamma® 50 mg](data/010908.pdf)
 
-[Flecagamma® 100 mg](http://www.fachinfo.de/pdf/010909)
+[Flecagamma® 100 mg](data/010909.pdf)
 
-[Lansogamma®](http://www.fachinfo.de/pdf/010910)
+[Lansogamma®](data/010910.pdf)
 
-[Simvagamma® 80 mg](http://www.fachinfo.de/pdf/010911)
+[Simvagamma® 80 mg](data/010911.pdf)
 
-[nasic® für Kinder O.K.](http://www.fachinfo.de/pdf/010913)
+[nasic® für Kinder O.K.](data/010913.pdf)
 
-[Fungizid-ratiopharm® 100/200 mg](http://www.fachinfo.de/pdf/010914)
+[Fungizid-ratiopharm® 100/200 mg](data/010914.pdf)
 
-[Plantago Bronchialbalsam](http://www.fachinfo.de/pdf/010915)
+[Plantago Bronchialbalsam](data/010915.pdf)
 
-[Plantago Hustensaft](http://www.fachinfo.de/pdf/010916)
+[Plantago Hustensaft](data/010916.pdf)
 
-[Medikinet® retard 5 mg](http://www.fachinfo.de/pdf/010919)
+[Medikinet® retard 5 mg](data/010919.pdf)
 
-[Koro-Nyhadin®, Filmtabletten](http://www.fachinfo.de/pdf/010931)
+[Koro-Nyhadin®, Filmtabletten](data/010931.pdf)
 
-[FrekaVit ® wasserlöslich Novum](http://www.fachinfo.de/pdf/010935)
+[FrekaVit ® wasserlöslich Novum](data/010935.pdf)
 
-[Traumaplant®](http://www.fachinfo.de/pdf/010936)
+[Traumaplant®](data/010936.pdf)
 
-[Diazepam-ratiopharm® 10 mg / ml](http://www.fachinfo.de/pdf/010941)
+[Diazepam-ratiopharm® 10 mg / ml](data/010941.pdf)
 
-[Kinzalkomb® 80 mg/25 mg Tabletten](http://www.fachinfo.de/pdf/010948)
+[Kinzalkomb® 80 mg/25 mg Tabletten](data/010948.pdf)
 
-[Ebixa® 20 mg Filmtabletten](http://www.fachinfo.de/pdf/010949)
+[Ebixa® 20 mg Filmtabletten](data/010949.pdf)
 
-[Ebixa® 5/10/15/20 mg Filmtabletten](http://www.fachinfo.de/pdf/010950)
+[Ebixa® 5/10/15/20 mg Filmtabletten](data/010950.pdf)
 
-[Medivitan® iV Ampullen](http://www.fachinfo.de/pdf/010959)
+[Medivitan® iV Ampullen](data/010959.pdf)
 
-[Pradaxa® 75 mg Hartkapseln](http://www.fachinfo.de/pdf/010963)
+[Pradaxa® 75 mg Hartkapseln](data/010963.pdf)
 
-[Pradaxa® 110 mg Hartkapseln](http://www.fachinfo.de/pdf/010964)
+[Pradaxa® 110 mg Hartkapseln](data/010964.pdf)
 
-[Amoxicillin-ratiopharm comp. 500 mg/125 mg Filmtabletten](http://www.fachinfo.de/pdf/010968)
+[Amoxicillin-ratiopharm comp. 500 mg/125 mg Filmtabletten](data/010968.pdf)
 
-[Valocordin®-Doxylamin](http://www.fachinfo.de/pdf/010970)
+[Valocordin®-Doxylamin](data/010970.pdf)
 
-[Tebonin® konzent® 240 mg](http://www.fachinfo.de/pdf/010978)
+[Tebonin® konzent® 240 mg](data/010978.pdf)
 
 [Tebonin® forte 40 mg (Filmtabletten)
-](http://www.fachinfo.de/pdf/010979)
+](data/010979.pdf)
 
-[Ratiograstim Injektions- oder Infusionslösung](http://www.fachinfo.de/pdf/010987)
+[Ratiograstim Injektions- oder Infusionslösung](data/010987.pdf)
 
-[Cofact ](http://www.fachinfo.de/pdf/010989)
+[Cofact ](data/010989.pdf)
 
-[Bicalutamid-ratiopharm® 50 mg Filmtabletten](http://www.fachinfo.de/pdf/010993)
+[Bicalutamid-ratiopharm® 50 mg Filmtabletten](data/010993.pdf)
 
-[Bicalutamid AbZ 50 mg Filmtabletten](http://www.fachinfo.de/pdf/010994)
+[Bicalutamid AbZ 50 mg Filmtabletten](data/010994.pdf)
 
-[Bicalutamid Teva® 50 mg Filmtabletten](http://www.fachinfo.de/pdf/010998)
+[Bicalutamid Teva® 50 mg Filmtabletten](data/010998.pdf)
 
-[MicardisPlus® 80 mg/25 mg Tabletten](http://www.fachinfo.de/pdf/011005)
+[MicardisPlus® 80 mg/25 mg Tabletten](data/011005.pdf)
 
-[Haenal® fact Hamamelis Salbe](http://www.fachinfo.de/pdf/011008)
+[Haenal® fact Hamamelis Salbe](data/011008.pdf)
 
-[Aspecton® Hustensaft](http://www.fachinfo.de/pdf/011017)
+[Aspecton® Hustensaft](data/011017.pdf)
 
-[Aspecton® Hustentropfen](http://www.fachinfo.de/pdf/011018)
+[Aspecton® Hustentropfen](data/011018.pdf)
 
-[Adalat® SL 20 mg](http://www.fachinfo.de/pdf/011021)
+[Adalat® SL 20 mg](data/011021.pdf)
 
-[LIVOPAN®](http://www.fachinfo.de/pdf/011023)
+[LIVOPAN®](data/011023.pdf)
 
-[TAFLOTAN®](http://www.fachinfo.de/pdf/011026)
+[TAFLOTAN®](data/011026.pdf)
 
-[TAFLOTAN® sine](http://www.fachinfo.de/pdf/011027)
+[TAFLOTAN® sine](data/011027.pdf)
 
-[GINKOBIL® ratiopharm 40 mg](http://www.fachinfo.de/pdf/011029)
+[GINKOBIL® ratiopharm 40 mg](data/011029.pdf)
 
-[Apis Belladonna Inject](http://www.fachinfo.de/pdf/011030)
+[Apis Belladonna Inject](data/011030.pdf)
 
-[ALVALIN®](http://www.fachinfo.de/pdf/011040)
+[ALVALIN®](data/011040.pdf)
 
-[Cerson® Creme 0,02](http://www.fachinfo.de/pdf/011043)
+[Cerson® Creme 0,02](data/011043.pdf)
 
-[Cerson® liquidum 0,02](http://www.fachinfo.de/pdf/011044)
+[Cerson® liquidum 0,02](data/011044.pdf)
 
-[Cerson® Fettcreme 0,02](http://www.fachinfo.de/pdf/011045)
+[Cerson® Fettcreme 0,02](data/011045.pdf)
 
-[HYLASE® „Dessau“ 300 I.E.](http://www.fachinfo.de/pdf/011050)
+[HYLASE® „Dessau“ 300 I.E.](data/011050.pdf)
 
-[HYLASE® „Dessau“ 1500 I.E.](http://www.fachinfo.de/pdf/011051)
+[HYLASE® „Dessau“ 1500 I.E.](data/011051.pdf)
 
-[Ledermix®, Dentalpulver und Lösungen](http://www.fachinfo.de/pdf/011053)
+[Ledermix®, Dentalpulver und Lösungen](data/011053.pdf)
 
-[Meptid ®](http://www.fachinfo.de/pdf/011055)
+[Meptid ®](data/011055.pdf)
 
-[MYKUNDEX® Dragees](http://www.fachinfo.de/pdf/011057)
+[MYKUNDEX® Dragees](data/011057.pdf)
 
-[Mykundex® Suspension](http://www.fachinfo.de/pdf/011058)
+[Mykundex® Suspension](data/011058.pdf)
 
-[Robinul® zur Injektion](http://www.fachinfo.de/pdf/011059)
+[Robinul® zur Injektion](data/011059.pdf)
 
-[Triapten® Antiviralcreme](http://www.fachinfo.de/pdf/011060)
+[Triapten® Antiviralcreme](data/011060.pdf)
 
-[Vancomycin „Lederle“ 1000 mg](http://www.fachinfo.de/pdf/011062)
+[Vancomycin „Lederle“ 1000 mg](data/011062.pdf)
 
-[VANCOMYCIN ENTEROCAPS® 250 mg](http://www.fachinfo.de/pdf/011063)
+[VANCOMYCIN ENTEROCAPS® 250 mg](data/011063.pdf)
 
-[Mirtazapin-CT 15 mg / 30 mg](http://www.fachinfo.de/pdf/011074)
+[Mirtazapin-CT 15 mg / 30 mg](data/011074.pdf)
 
-[Ambroxol-ratiopharm® Hustentropfen](http://www.fachinfo.de/pdf/011080)
+[Ambroxol-ratiopharm® Hustentropfen](data/011080.pdf)
 
-[temagin® Paracetamol plus](http://www.fachinfo.de/pdf/011085)
+[temagin® Paracetamol plus](data/011085.pdf)
 
-[ARICLAIM®](http://www.fachinfo.de/pdf/011097)
+[ARICLAIM®](data/011097.pdf)
 
-[exoderil ® Creme 10 mg](http://www.fachinfo.de/pdf/011103)
+[exoderil ® Creme 10 mg](data/011103.pdf)
 
-[Vitagamma®](http://www.fachinfo.de/pdf/011104)
+[Vitagamma®](data/011104.pdf)
 
-[Gentiana Magen Globuli velati](http://www.fachinfo.de/pdf/011106)
+[Gentiana Magen Globuli velati](data/011106.pdf)
 
-[Belara®](http://www.fachinfo.de/pdf/011126)
+[Belara®](data/011126.pdf)
 
-[Rupafin® 10 mg Tabletten](http://www.fachinfo.de/pdf/011129)
+[Rupafin® 10 mg Tabletten](data/011129.pdf)
 
-[Mirtazapin-ratiopharm® 15 mg / 30 mg / 45 mg](http://www.fachinfo.de/pdf/011131)
+[Mirtazapin-ratiopharm® 15 mg / 30 mg / 45 mg](data/011131.pdf)
 
-[Balisa® VAS, Creme](http://www.fachinfo.de/pdf/011135)
+[Balisa® VAS, Creme](data/011135.pdf)
 
-[Prednisolon-Augensalbe JENAPHARM®](http://www.fachinfo.de/pdf/011144)
+[Prednisolon-Augensalbe JENAPHARM®](data/011144.pdf)
 
-[Calcet® 475 mg/950 mg Filmtabletten](http://www.fachinfo.de/pdf/011148)
+[Calcet® 475 mg/950 mg Filmtabletten](data/011148.pdf)
 
-[Privigen 100 mg/ml Infusionslösung](http://www.fachinfo.de/pdf/011154)
+[Privigen 100 mg/ml Infusionslösung](data/011154.pdf)
 
-[Calcea Wund- und Heilcreme](http://www.fachinfo.de/pdf/011157)
+[Calcea Wund- und Heilcreme](data/011157.pdf)
 
-[Metronidazol 400 mg Drossapharm](http://www.fachinfo.de/pdf/011159)
+[Metronidazol 400 mg Drossapharm](data/011159.pdf)
 
-[Clopidogrel ratiopharm GmbH 75 mg](http://www.fachinfo.de/pdf/011162)
+[Clopidogrel ratiopharm GmbH 75 mg](data/011162.pdf)
 
-[Silomat® DMP gegen Reizhusten](http://www.fachinfo.de/pdf/011163)
+[Silomat® DMP gegen Reizhusten](data/011163.pdf)
 
-[Finasterid-ratiopharm® 1 mg Filmtabletten](http://www.fachinfo.de/pdf/011183)
+[Finasterid-ratiopharm® 1 mg Filmtabletten](data/011183.pdf)
 
-[Bicalutamid Heumann 50 mg](http://www.fachinfo.de/pdf/011197)
+[Bicalutamid Heumann 50 mg](data/011197.pdf)
 
-[Diazepam-ratiopharm® 5 mg Tabletten](http://www.fachinfo.de/pdf/011209)
+[Diazepam-ratiopharm® 5 mg Tabletten](data/011209.pdf)
 
-[Diazepam-ratiopharm® 10 mg Tabletten](http://www.fachinfo.de/pdf/011210)
+[Diazepam-ratiopharm® 10 mg Tabletten](data/011210.pdf)
 
-[ECHINACEA-ratiopharm® Liquid alkoholfrei](http://www.fachinfo.de/pdf/011219)
+[ECHINACEA-ratiopharm® Liquid alkoholfrei](data/011219.pdf)
 
-[ECHINACEA-ratiopharm® Liquid](http://www.fachinfo.de/pdf/011220)
+[ECHINACEA-ratiopharm® Liquid](data/011220.pdf)
 
-[Doxycyclin-ratiopharm® 100 mg](http://www.fachinfo.de/pdf/011224)
+[Doxycyclin-ratiopharm® 100 mg](data/011224.pdf)
 
-[DoloVisano® Methocarbamol 750 mg Tabletten](http://www.fachinfo.de/pdf/011229)
+[DoloVisano® Methocarbamol 750 mg Tabletten](data/011229.pdf)
 
-[Aspirin® Direkt](http://www.fachinfo.de/pdf/011230)
+[Aspirin® Direkt](data/011230.pdf)
 
-[Hydrocortison 10 mg JENAPHARM ®](http://www.fachinfo.de/pdf/011234)
+[Hydrocortison 10 mg JENAPHARM ®](data/011234.pdf)
 
-[Etidronat 200 mg JENAPHARM®](http://www.fachinfo.de/pdf/011235)
+[Etidronat 200 mg JENAPHARM®](data/011235.pdf)
 
-[Dexamethason JENAPHARM®](http://www.fachinfo.de/pdf/011238)
+[Dexamethason JENAPHARM®](data/011238.pdf)
 
-[Omeprazol Heumann 10 mg/40 mg](http://www.fachinfo.de/pdf/011239)
+[Omeprazol Heumann 10 mg/40 mg](data/011239.pdf)
 
-[Effentora 100 / 200 / 400 / 600 / 800 Mikrogramm](http://www.fachinfo.de/pdf/011241)
+[Effentora 100 / 200 / 400 / 600 / 800 Mikrogramm](data/011241.pdf)
 
-[®](http://www.fachinfo.de/pdf/011246)
+[®](data/011246.pdf)
 
-[NovoSeven® 1 mg/2 mg/5 mg/8 mg](http://www.fachinfo.de/pdf/011256)
+[NovoSeven® 1 mg/2 mg/5 mg/8 mg](data/011256.pdf)
 
-[Aspirin ® Plus C Orange](http://www.fachinfo.de/pdf/011259)
+[Aspirin ® Plus C Orange](data/011259.pdf)
 
-[nasic® O.K.](http://www.fachinfo.de/pdf/011261)
+[nasic® O.K.](data/011261.pdf)
 
-[OsvaRen ®](http://www.fachinfo.de/pdf/011282)
+[OsvaRen ®](data/011282.pdf)
 
-[INTELENCE® 100 mg Tabletten](http://www.fachinfo.de/pdf/011289)
+[INTELENCE® 100 mg Tabletten](data/011289.pdf)
 
-[Ascorvit® 200 mg FT](http://www.fachinfo.de/pdf/011329)
+[Ascorvit® 200 mg FT](data/011329.pdf)
 
-[Ascorvit® 500 mg FT](http://www.fachinfo.de/pdf/011330)
+[Ascorvit® 500 mg FT](data/011330.pdf)
 
-[Xamiol® Gel](http://www.fachinfo.de/pdf/011337)
+[Xamiol® Gel](data/011337.pdf)
 
-[Wasser zur Injektion JENAPHARM®](http://www.fachinfo.de/pdf/011341)
+[Wasser zur Injektion JENAPHARM®](data/011341.pdf)
 
-[Soledum® Kapseln forte 200 mg](http://www.fachinfo.de/pdf/011344)
+[Soledum® Kapseln forte 200 mg](data/011344.pdf)
 
-[Magnesium 100 mg JENAPHARM®](http://www.fachinfo.de/pdf/011345)
+[Magnesium 100 mg JENAPHARM®](data/011345.pdf)
 
-[Dekristol® 20 000 I.E.](http://www.fachinfo.de/pdf/011346)
+[Dekristol® 20 000 I.E.](data/011346.pdf)
 
-[Ciclocutan® Lösung](http://www.fachinfo.de/pdf/011348)
+[Ciclocutan® Lösung](data/011348.pdf)
 
-[Hydrocutan ® Creme 0,25 %](http://www.fachinfo.de/pdf/011351)
+[Hydrocutan ® Creme 0,25 %](data/011351.pdf)
 
-[Cortidexason Tabletten](http://www.fachinfo.de/pdf/011352)
+[Cortidexason Tabletten](data/011352.pdf)
 
-[Vitamin B6 20 mg JENAPHARM®](http://www.fachinfo.de/pdf/011363)
+[Vitamin B6 20 mg JENAPHARM®](data/011363.pdf)
 
-[Vitamin B1-ratiopharm®](http://www.fachinfo.de/pdf/011367)
+[Vitamin B1-ratiopharm®](data/011367.pdf)
 
-[Faktu ® lind Salbe mit Hamamelis](http://www.fachinfo.de/pdf/011370)
+[Faktu ® lind Salbe mit Hamamelis](data/011370.pdf)
 
-[Venlafaxin-CT 37,5 mg / 75 mg / 150 mg](http://www.fachinfo.de/pdf/011387)
+[Venlafaxin-CT 37,5 mg / 75 mg / 150 mg](data/011387.pdf)
 
-[Silomat ® gegen Reizhusten](http://www.fachinfo.de/pdf/011400)
+[Silomat ® gegen Reizhusten](data/011400.pdf)
 
-[Silomat® gegen Reizhusten](http://www.fachinfo.de/pdf/011401)
+[Silomat® gegen Reizhusten](data/011401.pdf)
 
-[BENDA-5 FU 50 mg/ml](http://www.fachinfo.de/pdf/011403)
+[BENDA-5 FU 50 mg/ml](data/011403.pdf)
 
-[BENDAEPI 2 mg/ml](http://www.fachinfo.de/pdf/011404)
+[BENDAEPI 2 mg/ml](data/011404.pdf)
 
-[Strathmann Booster-StroVac ®](http://www.fachinfo.de/pdf/011413)
+[Strathmann Booster-StroVac ®](data/011413.pdf)
 
-[Booster-Gynatren®](http://www.fachinfo.de/pdf/011416)
+[Booster-Gynatren®](data/011416.pdf)
 
-[CalciDoc®](http://www.fachinfo.de/pdf/011417)
+[CalciDoc®](data/011417.pdf)
 
-[PRETERAX® N](http://www.fachinfo.de/pdf/011419)
+[PRETERAX® N](data/011419.pdf)
 
-[BIPRETERAX® N](http://www.fachinfo.de/pdf/011420)
+[BIPRETERAX® N](data/011420.pdf)
 
-[Dexamethason AbZ 4 mg/1 ml / 8 mg/2 ml](http://www.fachinfo.de/pdf/011421)
+[Dexamethason AbZ 4 mg/1 ml / 8 mg/2 ml](data/011421.pdf)
 
-[axidronat ®](http://www.fachinfo.de/pdf/011431)
+[axidronat ®](data/011431.pdf)
 
-[axirubicin-e ® 2 mg/ml Injektionslösung](http://www.fachinfo.de/pdf/011432)
+[axirubicin-e ® 2 mg/ml Injektionslösung](data/011432.pdf)
 
-[Bellissima® 0,03 mg/2 mg](http://www.fachinfo.de/pdf/011434)
+[Bellissima® 0,03 mg/2 mg](data/011434.pdf)
 
-[CitraFleet®](http://www.fachinfo.de/pdf/011435)
+[CitraFleet®](data/011435.pdf)
 
-[Ropinirol-CT Filmtabletten](http://www.fachinfo.de/pdf/011446)
+[Ropinirol-CT Filmtabletten](data/011446.pdf)
 
-[Oxycodon-HCl-CT 10 mg Retardtabletten](http://www.fachinfo.de/pdf/011447)
+[Oxycodon-HCl-CT 10 mg Retardtabletten](data/011447.pdf)
 
-[Vitamin B duo](http://www.fachinfo.de/pdf/011448)
+[Vitamin B duo](data/011448.pdf)
 
-[Glucosamin-ratiopharm®](http://www.fachinfo.de/pdf/011450)
+[Glucosamin-ratiopharm®](data/011450.pdf)
 
-[Triamcinolon AbZ 0,1 % Creme](http://www.fachinfo.de/pdf/011452)
+[Triamcinolon AbZ 0,1 % Creme](data/011452.pdf)
 
-[MUTAFLOR® MITE](http://www.fachinfo.de/pdf/011461)
+[MUTAFLOR® MITE](data/011461.pdf)
 
-[Citalopram AbZ 10 mg Filmtabletten](http://www.fachinfo.de/pdf/011463)
+[Citalopram AbZ 10 mg Filmtabletten](data/011463.pdf)
 
-[Ropinal®](http://www.fachinfo.de/pdf/011470)
+[Ropinal®](data/011470.pdf)
 
-[Venlafaxin-ratiopharm® 37,5 mg / 75 mg / 150 mg](http://www.fachinfo.de/pdf/011471)
+[Venlafaxin-ratiopharm® 37,5 mg / 75 mg / 150 mg](data/011471.pdf)
 
-[Venlafaxin AbZ 37,5 mg / 75 mg / 150 mg](http://www.fachinfo.de/pdf/011472)
+[Venlafaxin AbZ 37,5 mg / 75 mg / 150 mg](data/011472.pdf)
 
 [Brimonidintartrat AbZ 2 mg/ml (0,2 %)
-](http://www.fachinfo.de/pdf/011483)
+](data/011483.pdf)
 
 [Brimonidin-ratiopharm® 2 mg/ml (0,2 %)
-](http://www.fachinfo.de/pdf/011484)
+](data/011484.pdf)
 
-[Furesis® comp.](http://www.fachinfo.de/pdf/011494)
+[Furesis® comp.](data/011494.pdf)
 
-[Oxycodon-HCl AbZ 10 mg](http://www.fachinfo.de/pdf/011495)
+[Oxycodon-HCl AbZ 10 mg](data/011495.pdf)
 
-[Mirtagamma® Filmtabletten](http://www.fachinfo.de/pdf/011497)
+[Mirtagamma® Filmtabletten](data/011497.pdf)
 
-[selen-loges® 300 µg](http://www.fachinfo.de/pdf/011499)
+[selen-loges® 300 µg](data/011499.pdf)
 
-[Azur ® compositum](http://www.fachinfo.de/pdf/011524)
+[Azur ® compositum](data/011524.pdf)
 
-[Venlafaxin-CT 37,5 mg / 75 mg / 150 mg / 225 mg](http://www.fachinfo.de/pdf/011534)
+[Venlafaxin-CT 37,5 mg / 75 mg / 150 mg / 225 mg](data/011534.pdf)
 
-[Novaminsulfon-CT 500 mg/ml](http://www.fachinfo.de/pdf/011544)
+[Novaminsulfon-CT 500 mg/ml](data/011544.pdf)
 
-[Ropinirol-ratiopharm® Filmtabletten](http://www.fachinfo.de/pdf/011545)
+[Ropinirol-ratiopharm® Filmtabletten](data/011545.pdf)
 
-[Levodopa/Benserazid-CT 50 mg/12,5 mg](http://www.fachinfo.de/pdf/011546)
+[Levodopa/Benserazid-CT 50 mg/12,5 mg](data/011546.pdf)
 
-[Venlafaxin Teva® 37,5 mg Tabletten](http://www.fachinfo.de/pdf/011559)
+[Venlafaxin Teva® 37,5 mg Tabletten](data/011559.pdf)
 
-[Amantadin-ratiopharm® 200 mg](http://www.fachinfo.de/pdf/011561)
+[Amantadin-ratiopharm® 200 mg](data/011561.pdf)
 
-[Neurontin ® 600/ 800 mg Filmtabletten](http://www.fachinfo.de/pdf/011567)
+[Neurontin ® 600/ 800 mg Filmtabletten](data/011567.pdf)
 
-[Diarönt® mono](http://www.fachinfo.de/pdf/011578)
+[Diarönt® mono](data/011578.pdf)
 
-[Cibadrex ® 20 mg/25 mg](http://www.fachinfo.de/pdf/011588)
+[Cibadrex ® 20 mg/25 mg](data/011588.pdf)
 
-[Neuro-Vibolex® 200](http://www.fachinfo.de/pdf/011592)
+[Neuro-Vibolex® 200](data/011592.pdf)
 
-[Tevabone® 70 mg Tabletten und](http://www.fachinfo.de/pdf/011594)
+[Tevabone® 70 mg Tabletten und](data/011594.pdf)
 
-[PREZISTA Ritonavir-Lösung zum Einnehmen: 80 mg/ml](http://www.fachinfo.de/pdf/011601)
+[PREZISTA Ritonavir-Lösung zum Einnehmen: 80 mg/ml](data/011601.pdf)
 
-[Gabapentin-Teva® 600 mg / 800 mg](http://www.fachinfo.de/pdf/011606)
+[Gabapentin-Teva® 600 mg / 800 mg](data/011606.pdf)
 
-[Vocado®](http://www.fachinfo.de/pdf/011610)
+[Vocado®](data/011610.pdf)
 
-[Calciumfolinat onkovis 10 mg/ml](http://www.fachinfo.de/pdf/011611)
+[Calciumfolinat onkovis 10 mg/ml](data/011611.pdf)
 
-[Carboplatin onkovis 10 mg/ml](http://www.fachinfo.de/pdf/011612)
+[Carboplatin onkovis 10 mg/ml](data/011612.pdf)
 
-[Epirubicin onkovis 2 mg/ml](http://www.fachinfo.de/pdf/011613)
+[Epirubicin onkovis 2 mg/ml](data/011613.pdf)
 
-[Pantoprazol NYC® 20 mg](http://www.fachinfo.de/pdf/011614)
+[Pantoprazol NYC® 20 mg](data/011614.pdf)
 
-[Pantoprazol NYC® 40 mg](http://www.fachinfo.de/pdf/011615)
+[Pantoprazol NYC® 40 mg](data/011615.pdf)
 
-[Cetirizin AbZ 10 mg Filmtabletten](http://www.fachinfo.de/pdf/011621)
+[Cetirizin AbZ 10 mg Filmtabletten](data/011621.pdf)
 
-[Virupos®](http://www.fachinfo.de/pdf/011623)
+[Virupos®](data/011623.pdf)
 
-[Atropin-POS® 0,5 %](http://www.fachinfo.de/pdf/011624)
+[Atropin-POS® 0,5 %](data/011624.pdf)
 
-[Neosynephrin-POS® 5 %](http://www.fachinfo.de/pdf/011629)
+[Neosynephrin-POS® 5 %](data/011629.pdf)
 
-[Neosynephrin-POS® 10 %](http://www.fachinfo.de/pdf/011630)
+[Neosynephrin-POS® 10 %](data/011630.pdf)
 
-[Posifenicol® C 1 %](http://www.fachinfo.de/pdf/011634)
+[Posifenicol® C 1 %](data/011634.pdf)
 
-[Predni-POS® 0,5 %](http://www.fachinfo.de/pdf/011635)
+[Predni-POS® 0,5 %](data/011635.pdf)
 
-[Predni-POS® 1 %](http://www.fachinfo.de/pdf/011636)
+[Predni-POS® 1 %](data/011636.pdf)
 
-[ISO-EREMFAT 150 mg/300 mg](http://www.fachinfo.de/pdf/011640)
+[ISO-EREMFAT 150 mg/300 mg](data/011640.pdf)
 
-[RoActemra® i. v.](http://www.fachinfo.de/pdf/011650)
+[RoActemra® i. v.](data/011650.pdf)
 
-[Ropinirol Heumann 0,25 mg/0,5 mg/1 mg/2 mg](http://www.fachinfo.de/pdf/011654)
+[Ropinirol Heumann 0,25 mg/0,5 mg/1 mg/2 mg](data/011654.pdf)
 
-[Alfacalcidol-ratiopharm® 0,25 µg/1 µg](http://www.fachinfo.de/pdf/011655)
+[Alfacalcidol-ratiopharm® 0,25 µg/1 µg](data/011655.pdf)
 
-[Spiro comp. forte-ratiopharm® 100 mg/20 mg](http://www.fachinfo.de/pdf/011657)
+[Spiro comp. forte-ratiopharm® 100 mg/20 mg](data/011657.pdf)
 
-[Brimozept® 2 mg/ml Augentropfen](http://www.fachinfo.de/pdf/011659)
+[Brimozept® 2 mg/ml Augentropfen](data/011659.pdf)
 
-[ZYPADHERA 210 mg/- 300 mg/- 405 mg Pulver und Lösungsmittel](http://www.fachinfo.de/pdf/011666)
+[ZYPADHERA 210 mg/- 300 mg/- 405 mg Pulver und Lösungsmittel](data/011666.pdf)
 
-[Jarsin® Rx 300 mg](http://www.fachinfo.de/pdf/011671)
+[Jarsin® Rx 300 mg](data/011671.pdf)
 
-[VALDOXAN® 25 mg](http://www.fachinfo.de/pdf/011672)
+[VALDOXAN® 25 mg](data/011672.pdf)
 
-[Nitrolingual® Pumpspray](http://www.fachinfo.de/pdf/011675)
+[Nitrolingual® Pumpspray](data/011675.pdf)
 
 [Konzentrat zur Herstellung einer Infusions- für Herceptin ®)
-.](http://www.fachinfo.de/pdf/011679)
+.](data/011679.pdf)
 
-[Ropivacain-HCl-ratiopharm® 2 mg/ml / 7,5 mg/ml / 10 mg/ml](http://www.fachinfo.de/pdf/011707)
+[Ropivacain-HCl-ratiopharm® 2 mg/ml / 7,5 mg/ml / 10 mg/ml](data/011707.pdf)
 
-[Lodotra®](http://www.fachinfo.de/pdf/011708)
+[Lodotra®](data/011708.pdf)
 
-[Valproat Heumann chrono 300 mg Retardtabletten](http://www.fachinfo.de/pdf/011709)
+[Valproat Heumann chrono 300 mg Retardtabletten](data/011709.pdf)
 
-[ Opipramol Heumann 50 mg Filmtabletten](http://www.fachinfo.de/pdf/011710)
+[ Opipramol Heumann 50 mg Filmtabletten](data/011710.pdf)
 
-[Pantoprazol Heumann 20 mg/40 mg](http://www.fachinfo.de/pdf/011713)
+[Pantoprazol Heumann 20 mg/40 mg](data/011713.pdf)
 
-[Ortoton®](http://www.fachinfo.de/pdf/011715)
+[Ortoton®](data/011715.pdf)
 
-[Ortoton® K.I.S.](http://www.fachinfo.de/pdf/011716)
+[Ortoton® K.I.S.](data/011716.pdf)
 
-[Levodopa/Benserazid-ratiopharm® 50 mg/12,5 mg](http://www.fachinfo.de/pdf/011717)
+[Levodopa/Benserazid-ratiopharm® 50 mg/12,5 mg](data/011717.pdf)
 
-[Cetirizin-ratiopharm® Saft](http://www.fachinfo.de/pdf/011720)
+[Cetirizin-ratiopharm® Saft](data/011720.pdf)
 
-[Efient®](http://www.fachinfo.de/pdf/011721)
+[Efient®](data/011721.pdf)
 
-[Actonel® 75 mg Filmtabletten](http://www.fachinfo.de/pdf/011722)
+[Actonel® 75 mg Filmtabletten](data/011722.pdf)
 
-[Ciprobay® 200 mg](http://www.fachinfo.de/pdf/011729)
+[Ciprobay® 200 mg](data/011729.pdf)
 
-[Ciprobay® 400 mg](http://www.fachinfo.de/pdf/011730)
+[Ciprobay® 400 mg](data/011730.pdf)
 
-[Ciprobay® 500 mg](http://www.fachinfo.de/pdf/011731)
+[Ciprobay® 500 mg](data/011731.pdf)
 
-[Ciprobay® 750 mg](http://www.fachinfo.de/pdf/011732)
+[Ciprobay® 750 mg](data/011732.pdf)
 
-[Ciprobay® Saft 10 %](http://www.fachinfo.de/pdf/011733)
+[Ciprobay® Saft 10 %](data/011733.pdf)
 
-[Octaplas® LG](http://www.fachinfo.de/pdf/011734)
+[Octaplas® LG](data/011734.pdf)
 
-[Bisoprolol Heumann 5 mg Tabletten](http://www.fachinfo.de/pdf/011735)
+[Bisoprolol Heumann 5 mg Tabletten](data/011735.pdf)
 
-[Jennifer® 35 2 mg/0,035 mg](http://www.fachinfo.de/pdf/011753)
+[Jennifer® 35 2 mg/0,035 mg](data/011753.pdf)
 
-[Aciclovir-ratiopharm® 200 mg/400 mg/800 mg](http://www.fachinfo.de/pdf/011761)
+[Aciclovir-ratiopharm® 200 mg/400 mg/800 mg](data/011761.pdf)
 
-[Mucoangin ® gegen Halsschmerzen](http://www.fachinfo.de/pdf/011765)
+[Mucoangin ® gegen Halsschmerzen](data/011765.pdf)
 
-[Finasterid-CT 1 mg Filmtabletten](http://www.fachinfo.de/pdf/011777)
+[Finasterid-CT 1 mg Filmtabletten](data/011777.pdf)
 
-[Gemcitabin-GRY® 1000 mg](http://www.fachinfo.de/pdf/011784)
+[Gemcitabin-GRY® 1000 mg](data/011784.pdf)
 
-[Ibu Teva® 400 mg Filmtabletten](http://www.fachinfo.de/pdf/011787)
+[Ibu Teva® 400 mg Filmtabletten](data/011787.pdf)
 
-[Oraycea 40 mg](http://www.fachinfo.de/pdf/011791)
+[Oraycea 40 mg](data/011791.pdf)
 
-[Cabergolin-Teva® 0,5 mg Tabletten](http://www.fachinfo.de/pdf/011804)
+[Cabergolin-Teva® 0,5 mg Tabletten](data/011804.pdf)
 
-[Cabergolin-Teva® 1 mg / 2 mg Tabletten](http://www.fachinfo.de/pdf/011805)
+[Cabergolin-Teva® 1 mg / 2 mg Tabletten](data/011805.pdf)
 
-[Alfacalcidol Medice 0,25 μg/1,0 μg](http://www.fachinfo.de/pdf/011813)
+[Alfacalcidol Medice 0,25 μg/1,0 μg](data/011813.pdf)
 
-[Gemcitabin onkovis 1000 mg](http://www.fachinfo.de/pdf/011815)
+[Gemcitabin onkovis 1000 mg](data/011815.pdf)
 
-[Gemcitabin onkovis 200 mg](http://www.fachinfo.de/pdf/011816)
+[Gemcitabin onkovis 200 mg](data/011816.pdf)
 
-[Pantoprazol Krewel® 20 mg](http://www.fachinfo.de/pdf/011823)
+[Pantoprazol Krewel® 20 mg](data/011823.pdf)
 
-[Krewel Meuselbach GmbH Pantoprazol Krewel ® 40 mg](http://www.fachinfo.de/pdf/011824)
+[Krewel Meuselbach GmbH Pantoprazol Krewel ® 40 mg](data/011824.pdf)
 
-[FrekaVit® fettlöslich Infant](http://www.fachinfo.de/pdf/011832)
+[FrekaVit® fettlöslich Infant](data/011832.pdf)
 
-[Tracitrans® Infant](http://www.fachinfo.de/pdf/011833)
+[Tracitrans® Infant](data/011833.pdf)
 
-[IBU-DENT akut Heumann 400 mg](http://www.fachinfo.de/pdf/011835)
+[IBU-DENT akut Heumann 400 mg](data/011835.pdf)
 
-[Dolobene® Ibu](http://www.fachinfo.de/pdf/011843)
+[Dolobene® Ibu](data/011843.pdf)
 
-[Trimipramin Heumann 25/100 mg Tabletten](http://www.fachinfo.de/pdf/011849)
+[Trimipramin Heumann 25/100 mg Tabletten](data/011849.pdf)
 
-[Venlafaxin Heumann 37,5 mg/- 75 mg/- 150 mg](http://www.fachinfo.de/pdf/011855)
+[Venlafaxin Heumann 37,5 mg/- 75 mg/- 150 mg](data/011855.pdf)
 
-[Piperacillin/Tazobactam Stragen 4 g/0,5 g Pulver](http://www.fachinfo.de/pdf/011857)
+[Piperacillin/Tazobactam Stragen 4 g/0,5 g Pulver](data/011857.pdf)
 
-[axigem ® 38 mg/ml](http://www.fachinfo.de/pdf/011858)
+[axigem ® 38 mg/ml](data/011858.pdf)
 
-[Victoza® 6 mg/ml](http://www.fachinfo.de/pdf/011859)
+[Victoza® 6 mg/ml](data/011859.pdf)
 
-[Removab 50 Mikrogramm](http://www.fachinfo.de/pdf/011861)
+[Removab 50 Mikrogramm](data/011861.pdf)
 
-[Metoprolol-ratiopharm® Succinat 23,75 mg/47,5 mg/95 mg/190 mg](http://www.fachinfo.de/pdf/011866)
+[Metoprolol-ratiopharm® Succinat 23,75 mg/47,5 mg/95 mg/190 mg](data/011866.pdf)
 
-[Gemcitabin aries](http://www.fachinfo.de/pdf/011874)
+[Gemcitabin aries](data/011874.pdf)
 
-[Pantoprazol Hennig® 20 mg](http://www.fachinfo.de/pdf/011877)
+[Pantoprazol Hennig® 20 mg](data/011877.pdf)
 
-[Pantoprazol Hennig® 40 mg](http://www.fachinfo.de/pdf/011878)
+[Pantoprazol Hennig® 40 mg](data/011878.pdf)
 
-[Metoprolol Succinat-CT](http://www.fachinfo.de/pdf/011885)
+[Metoprolol Succinat-CT](data/011885.pdf)
 
-[Levobens-TEVA® 50 mg / 12,5 mg / 100 mg / 25 mg / 200 mg / 50 mg](http://www.fachinfo.de/pdf/011891)
+[Levobens-TEVA® 50 mg / 12,5 mg / 100 mg / 25 mg / 200 mg / 50 mg](data/011891.pdf)
 
-[Fenizolan® 600 mg Vaginalovulum](http://www.fachinfo.de/pdf/011897)
+[Fenizolan® 600 mg Vaginalovulum](data/011897.pdf)
 
-[Valproinsäure-ratiopharm® 300](http://www.fachinfo.de/pdf/011903)
+[Valproinsäure-ratiopharm® 300](data/011903.pdf)
 
-[Valproinsäure-ratiopharm® 600](http://www.fachinfo.de/pdf/011904)
+[Valproinsäure-ratiopharm® 600](data/011904.pdf)
 
-[Mercaptopurin-Medice 10 mg](http://www.fachinfo.de/pdf/011907)
+[Mercaptopurin-Medice 10 mg](data/011907.pdf)
 
-[Glimepirid-ratiopharm® 4 mg/6 mg Tabletten](http://www.fachinfo.de/pdf/011908)
+[Glimepirid-ratiopharm® 4 mg/6 mg Tabletten](data/011908.pdf)
 
 [ml Irinotecan)
 . tienten)
-: von Capecitabin wird bei einer Kombination](http://www.fachinfo.de/pdf/011924)
+: von Capecitabin wird bei einer Kombination](data/011924.pdf)
 
-[Omeprazol-CT protect 20 mg](http://www.fachinfo.de/pdf/011926)
+[Omeprazol-CT protect 20 mg](data/011926.pdf)
 
-[Morphinsulfat-CT Retardtabletten](http://www.fachinfo.de/pdf/011932)
+[Morphinsulfat-CT Retardtabletten](data/011932.pdf)
 
-[einmal täglich zweimal täglich](http://www.fachinfo.de/pdf/011936)
+[einmal täglich zweimal täglich](data/011936.pdf)
 
-[einmal täglich zweimal täglich](http://www.fachinfo.de/pdf/011937)
+[einmal täglich zweimal täglich](data/011937.pdf)
 
-[Losartan-ratiopharm® 12,5 mg/- 50 mg/- 100 mg](http://www.fachinfo.de/pdf/011944)
+[Losartan-ratiopharm® 12,5 mg/- 50 mg/- 100 mg](data/011944.pdf)
 
-[Losartan-ratiopharm® 25 mg Filmtabletten](http://www.fachinfo.de/pdf/011945)
+[Losartan-ratiopharm® 25 mg Filmtabletten](data/011945.pdf)
 
-[Indapamid-ratiopharm® 1,5 mg](http://www.fachinfo.de/pdf/011948)
+[Indapamid-ratiopharm® 1,5 mg](data/011948.pdf)
 
-[Acarbose-ratiopharm® 50 mg Tabletten](http://www.fachinfo.de/pdf/011950)
+[Acarbose-ratiopharm® 50 mg Tabletten](data/011950.pdf)
 
-[Irinotecan Kabi 20 mg/ml Konzentrat](http://www.fachinfo.de/pdf/011952)
+[Irinotecan Kabi 20 mg/ml Konzentrat](data/011952.pdf)
 
-[Cotrim-ratiopharm®](http://www.fachinfo.de/pdf/011953)
+[Cotrim-ratiopharm®](data/011953.pdf)
 
-[Cotrim E-ratiopharm® 480 mg/5 ml](http://www.fachinfo.de/pdf/011954)
+[Cotrim E-ratiopharm® 480 mg/5 ml](data/011954.pdf)
 
-[Cotrim K-ratiopharm® 240 mg/5 ml](http://www.fachinfo.de/pdf/011955)
+[Cotrim K-ratiopharm® 240 mg/5 ml](data/011955.pdf)
 
 [Konzentrat zur Herstellung einer Infusions- für Herceptin®)
-.](http://www.fachinfo.de/pdf/011956)
+.](data/011956.pdf)
 
 [40 mg Irinotecanhydrochlorid-Trihydrat Wochen (siehe auch Abschnitte 4.4 und 6.6)
-. von Capecitabin wird bei einer Kombination](http://www.fachinfo.de/pdf/011963)
+. von Capecitabin wird bei einer Kombination](data/011963.pdf)
 
-[Calcilac® Brausetabletten](http://www.fachinfo.de/pdf/011966)
+[Calcilac® Brausetabletten](data/011966.pdf)
 
-[Aptivus® 100 mg/ml](http://www.fachinfo.de/pdf/011968)
+[Aptivus® 100 mg/ml](data/011968.pdf)
 
-[Omeprazol-ratiopharm® SK 20 mg](http://www.fachinfo.de/pdf/011969)
+[Omeprazol-ratiopharm® SK 20 mg](data/011969.pdf)
 
-[Mono-Embolex® 3000 I.E. Prophylaxe](http://www.fachinfo.de/pdf/011981)
+[Mono-Embolex® 3000 I.E. Prophylaxe](data/011981.pdf)
 
-[Carbamazepin Aristo ® 200/400 mg](http://www.fachinfo.de/pdf/011985)
+[Carbamazepin Aristo ® 200/400 mg](data/011985.pdf)
 
-[Carbamazepin Aristo ® 200 mg](http://www.fachinfo.de/pdf/011986)
+[Carbamazepin Aristo ® 200 mg](data/011986.pdf)
 
-[Carbamazepin Aristo ® 300/600 mg](http://www.fachinfo.de/pdf/011987)
+[Carbamazepin Aristo ® 300/600 mg](data/011987.pdf)
 
-[BOCOUTURE® 50 Einheiten Pulver](http://www.fachinfo.de/pdf/011992)
+[BOCOUTURE® 50 Einheiten Pulver](data/011992.pdf)
 
-[HCT-ratiopharm® 12,5 mg](http://www.fachinfo.de/pdf/011993)
+[HCT-ratiopharm® 12,5 mg](data/011993.pdf)
 
-[HCT AbZ 12,5 mg Tabletten](http://www.fachinfo.de/pdf/011994)
+[HCT AbZ 12,5 mg Tabletten](data/011994.pdf)
 
-[Javlor® 25 mg/ml Konzentrat](http://www.fachinfo.de/pdf/011996)
+[Javlor® 25 mg/ml Konzentrat](data/011996.pdf)
 
-[Losartan-Hormosan 50 mg/100 mg](http://www.fachinfo.de/pdf/012000)
+[Losartan-Hormosan 50 mg/100 mg](data/012000.pdf)
 
-[axinotecan ® 20 mg/ml](http://www.fachinfo.de/pdf/012002)
+[axinotecan ® 20 mg/ml](data/012002.pdf)
 
-[Perindopril/Indapamid-ratiopharm® 4 mg/1,25 mg](http://www.fachinfo.de/pdf/012003)
+[Perindopril/Indapamid-ratiopharm® 4 mg/1,25 mg](data/012003.pdf)
 
-[Perindopril/Indapamid-ratiopharm® 2 mg/0,625 mg](http://www.fachinfo.de/pdf/012004)
+[Perindopril/Indapamid-ratiopharm® 2 mg/0,625 mg](data/012004.pdf)
 
-[Instanyl® 50, 100, 200 Mikrogramm/Dosis](http://www.fachinfo.de/pdf/012020)
+[Instanyl® 50, 100, 200 Mikrogramm/Dosis](data/012020.pdf)
 
-[Topiramat-Hormosan](http://www.fachinfo.de/pdf/012028)
+[Topiramat-Hormosan](data/012028.pdf)
 
-[Zebinix® 800 mg Tabletten](http://www.fachinfo.de/pdf/012031)
+[Zebinix® 800 mg Tabletten](data/012031.pdf)
 
-[Topiramat Desitin® 100 mg/quadro 200 mg](http://www.fachinfo.de/pdf/012037)
+[Topiramat Desitin® 100 mg/quadro 200 mg](data/012037.pdf)
 
-[Klosterfrau Allergin Tropfen](http://www.fachinfo.de/pdf/012038)
+[Klosterfrau Allergin Tropfen](data/012038.pdf)
 
-[Klosterfrau Allergin Globuli](http://www.fachinfo.de/pdf/012039)
+[Klosterfrau Allergin Globuli](data/012039.pdf)
 
-[Klosterfrau Allergin Tabletten](http://www.fachinfo.de/pdf/012040)
+[Klosterfrau Allergin Tabletten](data/012040.pdf)
 
-[HCT-CT 12,5 mg Tabletten](http://www.fachinfo.de/pdf/012046)
+[HCT-CT 12,5 mg Tabletten](data/012046.pdf)
 
-[Nitronal ® Spray](http://www.fachinfo.de/pdf/012062)
+[Nitronal ® Spray](data/012062.pdf)
 
-[NiQuitin Mini 1,5 mg Lutschtabletten](http://www.fachinfo.de/pdf/012065)
+[NiQuitin Mini 1,5 mg Lutschtabletten](data/012065.pdf)
 
-[NiQuitin Mini 4 mg Lutschtabletten](http://www.fachinfo.de/pdf/012066)
+[NiQuitin Mini 4 mg Lutschtabletten](data/012066.pdf)
 
-[Omeprazol AbZ PROTECT 20 mg Kapseln](http://www.fachinfo.de/pdf/012068)
+[Omeprazol AbZ PROTECT 20 mg Kapseln](data/012068.pdf)
 
-[Irinotecan onkovis 20 mg/ml](http://www.fachinfo.de/pdf/012070)
+[Irinotecan onkovis 20 mg/ml](data/012070.pdf)
 
-[Eporatio Injektionslösung in Fertigspritze](http://www.fachinfo.de/pdf/012074)
+[Eporatio Injektionslösung in Fertigspritze](data/012074.pdf)
 
-[Topiramat Desitin® 25 mg/50 mg](http://www.fachinfo.de/pdf/012094)
+[Topiramat Desitin® 25 mg/50 mg](data/012094.pdf)
 
-[Perindopril/Indapamid-CT 4 mg/1,25 mg](http://www.fachinfo.de/pdf/012095)
+[Perindopril/Indapamid-CT 4 mg/1,25 mg](data/012095.pdf)
 
-[Levodopa/Benserazid-ratiopharm® 100 mg/25 mg](http://www.fachinfo.de/pdf/012111)
+[Levodopa/Benserazid-ratiopharm® 100 mg/25 mg](data/012111.pdf)
 
-[Bicalutamid Heumann 150 mg](http://www.fachinfo.de/pdf/012116)
+[Bicalutamid Heumann 150 mg](data/012116.pdf)
 
-[Topiramat Heumann 25 mg/- 50 mg/- 100 mg/- 200 mg](http://www.fachinfo.de/pdf/012118)
+[Topiramat Heumann 25 mg/- 50 mg/- 100 mg/- 200 mg](data/012118.pdf)
 
-[Oxaliplatin Kabi 5 mg/ml](http://www.fachinfo.de/pdf/012120)
+[Oxaliplatin Kabi 5 mg/ml](data/012120.pdf)
 
-[Granisetron-GRY® 1 mg/1 ml Konzentrat](http://www.fachinfo.de/pdf/012123)
+[Granisetron-GRY® 1 mg/1 ml Konzentrat](data/012123.pdf)
 
-[Granisetron-GRY® 3 mg/3 ml Konzentrat](http://www.fachinfo.de/pdf/012124)
+[Granisetron-GRY® 3 mg/3 ml Konzentrat](data/012124.pdf)
 
-[Pantoprazol Heumann 20 mg bei Sodbrennen](http://www.fachinfo.de/pdf/012127)
+[Pantoprazol Heumann 20 mg bei Sodbrennen](data/012127.pdf)
 
-[Clopidogrel Heumann 75 mg](http://www.fachinfo.de/pdf/012137)
+[Clopidogrel Heumann 75 mg](data/012137.pdf)
 
-[Terbinafin Heumann 250 mg Tabletten](http://www.fachinfo.de/pdf/012141)
+[Terbinafin Heumann 250 mg Tabletten](data/012141.pdf)
 
-[FerMed® 20 mg/ml Injektionslösung /](http://www.fachinfo.de/pdf/012156)
+[FerMed® 20 mg/ml Injektionslösung /](data/012156.pdf)
 
-[Cefuroxim-saar ® 750 mg/1500 mg](http://www.fachinfo.de/pdf/012158)
+[Cefuroxim-saar ® 750 mg/1500 mg](data/012158.pdf)
 
-[Vanco-saar ® 500 mg / 1 g](http://www.fachinfo.de/pdf/012159)
+[Vanco-saar ® 500 mg / 1 g](data/012159.pdf)
 
-[Lippenherpescreme elac ®](http://www.fachinfo.de/pdf/012160)
+[Lippenherpescreme elac ®](data/012160.pdf)
 
-[Heraeus PMMA Kette G/mini G](http://www.fachinfo.de/pdf/012170)
+[Heraeus PMMA Kette G/mini G](data/012170.pdf)
 
-[Biopoin®](http://www.fachinfo.de/pdf/012173)
+[Biopoin®](data/012173.pdf)
 
-[Citalopram Heumann 20/30/40 mg](http://www.fachinfo.de/pdf/012175)
+[Citalopram Heumann 20/30/40 mg](data/012175.pdf)
 
-[Sulpirid-Hormosan 50 mg Hartkapseln](http://www.fachinfo.de/pdf/012176)
+[Sulpirid-Hormosan 50 mg Hartkapseln](data/012176.pdf)
 
-[Finasterid AbZ 1 mg Filmtabletten](http://www.fachinfo.de/pdf/012178)
+[Finasterid AbZ 1 mg Filmtabletten](data/012178.pdf)
 
-[Irinotecan aries 20 mg/ml](http://www.fachinfo.de/pdf/012179)
+[Irinotecan aries 20 mg/ml](data/012179.pdf)
 
-[Levodopa/Benserazid-CT 100 mg/25 mg](http://www.fachinfo.de/pdf/012181)
+[Levodopa/Benserazid-CT 100 mg/25 mg](data/012181.pdf)
 
-[Abstral 100 μg/200 μg/300 μg/400 μg/600 μg/800 μg](http://www.fachinfo.de/pdf/012188)
+[Abstral 100 μg/200 μg/300 μg/400 μg/600 μg/800 μg](data/012188.pdf)
 
-[ADCIRCA ® 20 mg Filmtabletten](http://www.fachinfo.de/pdf/012190)
+[ADCIRCA ® 20 mg Filmtabletten](data/012190.pdf)
 
-[Riboirino 20 mg/ml Konzentrat](http://www.fachinfo.de/pdf/012192)
+[Riboirino 20 mg/ml Konzentrat](data/012192.pdf)
 
-[Doxazosin Heumann 4 mg Retardtabletten](http://www.fachinfo.de/pdf/012204)
+[Doxazosin Heumann 4 mg Retardtabletten](data/012204.pdf)
 
-[Calcimagon®-D3 UNO](http://www.fachinfo.de/pdf/012210)
+[Calcimagon®-D3 UNO](data/012210.pdf)
 
-[Carvedilol-ratiopharm® 6,25 mg/12,5 mg/25 mg](http://www.fachinfo.de/pdf/012229)
+[Carvedilol-ratiopharm® 6,25 mg/12,5 mg/25 mg](data/012229.pdf)
 
-[Carvedilol AbZ 6,25 mg/12,5 mg/25 mg](http://www.fachinfo.de/pdf/012230)
+[Carvedilol AbZ 6,25 mg/12,5 mg/25 mg](data/012230.pdf)
 
-[BENDARABIN 50 mg](http://www.fachinfo.de/pdf/012231)
+[BENDARABIN 50 mg](data/012231.pdf)
 
-[Repaglinid-ratiopharm® 0,5 mg / 1 mg / 2 mg](http://www.fachinfo.de/pdf/012232)
+[Repaglinid-ratiopharm® 0,5 mg / 1 mg / 2 mg](data/012232.pdf)
 
-[Actilyse® Cathflo® 2 mg](http://www.fachinfo.de/pdf/012249)
+[Actilyse® Cathflo® 2 mg](data/012249.pdf)
 
-[Venlafaxin-ratiopharm® 37,5 mg Tabletten](http://www.fachinfo.de/pdf/012250)
+[Venlafaxin-ratiopharm® 37,5 mg Tabletten](data/012250.pdf)
 
-[Liana-ratiopharm®](http://www.fachinfo.de/pdf/012259)
+[Liana-ratiopharm®](data/012259.pdf)
 
-[HCT AbZ 25 mg Tabletten](http://www.fachinfo.de/pdf/012261)
+[HCT AbZ 25 mg Tabletten](data/012261.pdf)
 
-[Valproat-CT 150 mg Filmtabletten](http://www.fachinfo.de/pdf/012262)
+[Valproat-CT 150 mg Filmtabletten](data/012262.pdf)
 
-[Carvedilol-CT 6,25 mg/12,5 mg/25 mg](http://www.fachinfo.de/pdf/012266)
+[Carvedilol-CT 6,25 mg/12,5 mg/25 mg](data/012266.pdf)
 
-[axiplatin ® 5 mg/ml](http://www.fachinfo.de/pdf/012267)
+[axiplatin ® 5 mg/ml](data/012267.pdf)
 
-[Carbamazepin Heumann 300 mg Retardtabletten](http://www.fachinfo.de/pdf/012269)
+[Carbamazepin Heumann 300 mg Retardtabletten](data/012269.pdf)
 
-[Carbamazepin 200 retard Heumann](http://www.fachinfo.de/pdf/012270)
+[Carbamazepin 200 retard Heumann](data/012270.pdf)
 
-[Metoprololsuccinat Heumann 47,5 mg/95 mg/190 mg](http://www.fachinfo.de/pdf/012283)
+[Metoprololsuccinat Heumann 47,5 mg/95 mg/190 mg](data/012283.pdf)
 
-[Daivobet® 50 Mikrogramm/g + 0,5 mg/g](http://www.fachinfo.de/pdf/012289)
+[Daivobet® 50 Mikrogramm/g + 0,5 mg/g](data/012289.pdf)
 
-[Dorzolamid-ratiopharm® 20 mg/ml](http://www.fachinfo.de/pdf/012291)
+[Dorzolamid-ratiopharm® 20 mg/ml](data/012291.pdf)
 
-[Rocuroniumbromid-hameln 10 mg/ml](http://www.fachinfo.de/pdf/012297)
+[Rocuroniumbromid-hameln 10 mg/ml](data/012297.pdf)
 
-[Epi Teva® 2 mg/ml](http://www.fachinfo.de/pdf/012304)
+[Epi Teva® 2 mg/ml](data/012304.pdf)
 
-[Hydromorphon-ratiopharm® 4 mg / 8 mg / 16 mg / 24 mg](http://www.fachinfo.de/pdf/012306)
+[Hydromorphon-ratiopharm® 4 mg / 8 mg / 16 mg / 24 mg](data/012306.pdf)
 
-[Venlafaxin Heumann 37,5 mg](http://www.fachinfo.de/pdf/012307)
+[Venlafaxin Heumann 37,5 mg](data/012307.pdf)
 
-[Tramal® 100 mg/ml,](http://www.fachinfo.de/pdf/012322)
+[Tramal® 100 mg/ml,](data/012322.pdf)
 
-[Tramal® Zäpfchen, 100 mg](http://www.fachinfo.de/pdf/012323)
+[Tramal® Zäpfchen, 100 mg](data/012323.pdf)
 
-[Euphrasia Augentropfen](http://www.fachinfo.de/pdf/012324)
+[Euphrasia Augentropfen](data/012324.pdf)
 
-[Risperidon AbZ 1 mg/ml](http://www.fachinfo.de/pdf/012328)
+[Risperidon AbZ 1 mg/ml](data/012328.pdf)
 
-[Levocetirizin AbZ 5 mg Filmtabletten](http://www.fachinfo.de/pdf/012330)
+[Levocetirizin AbZ 5 mg Filmtabletten](data/012330.pdf)
 
-[Morphinsulfat AbZ 10 mg / 30 mg / 60 mg / 100 mg](http://www.fachinfo.de/pdf/012333)
+[Morphinsulfat AbZ 10 mg / 30 mg / 60 mg / 100 mg](data/012333.pdf)
 
-[Metoprololsuccinat AbZ 23,75 mg/47,5 mg/95 mg/190 mg](http://www.fachinfo.de/pdf/012334)
+[Metoprololsuccinat AbZ 23,75 mg/47,5 mg/95 mg/190 mg](data/012334.pdf)
 
-[Anastrozol-CT 1 mg Filmtabletten](http://www.fachinfo.de/pdf/012342)
+[Anastrozol-CT 1 mg Filmtabletten](data/012342.pdf)
 
-[Acarbose-CT 50 mg/100 mg Tabletten](http://www.fachinfo.de/pdf/012343)
+[Acarbose-CT 50 mg/100 mg Tabletten](data/012343.pdf)
 
-[Levocetirizin-CT 5 mg Filmtabletten](http://www.fachinfo.de/pdf/012348)
+[Levocetirizin-CT 5 mg Filmtabletten](data/012348.pdf)
 
-[Hydromorphon-AWD® 4/8/16/24 mg](http://www.fachinfo.de/pdf/012349)
+[Hydromorphon-AWD® 4/8/16/24 mg](data/012349.pdf)
 
-[Norvir® 100 mg Filmtabletten](http://www.fachinfo.de/pdf/012355)
+[Norvir® 100 mg Filmtabletten](data/012355.pdf)
 
-[Acarbose AbZ 50 mg Tabletten](http://www.fachinfo.de/pdf/012405)
+[Acarbose AbZ 50 mg Tabletten](data/012405.pdf)
 
-[Wund- und Brandgel](http://www.fachinfo.de/pdf/012407)
+[Wund- und Brandgel](data/012407.pdf)
 
-[Iscucin® Populi](http://www.fachinfo.de/pdf/012409)
+[Iscucin® Populi](data/012409.pdf)
 
-[Iscucin® Salicis](http://www.fachinfo.de/pdf/012410)
+[Iscucin® Salicis](data/012410.pdf)
 
-[Minette® 2 mg/0,03 mg Filmtabletten](http://www.fachinfo.de/pdf/012413)
+[Minette® 2 mg/0,03 mg Filmtabletten](data/012413.pdf)
 
-[Ardeyceryl® Phospholipid compositum](http://www.fachinfo.de/pdf/012433)
+[Ardeyceryl® Phospholipid compositum](data/012433.pdf)
 
-[LASTET® 25 mg/50 mg/100 mg](http://www.fachinfo.de/pdf/012436)
+[LASTET® 25 mg/50 mg/100 mg](data/012436.pdf)
 
-[Pridax 20 Mikrogramm/ml](http://www.fachinfo.de/pdf/012438)
+[Pridax 20 Mikrogramm/ml](data/012438.pdf)
 
-[Temozolomid-ratiopharm® 5 mg / 20 mg / 100 mg / 140 mg / 180 mg / 250 mg](http://www.fachinfo.de/pdf/012439)
+[Temozolomid-ratiopharm® 5 mg / 20 mg / 100 mg / 140 mg / 180 mg / 250 mg](data/012439.pdf)
 
-[Glimegamma®](http://www.fachinfo.de/pdf/012443)
+[Glimegamma®](data/012443.pdf)
 
-[Combudoron ® Flüssigkeit](http://www.fachinfo.de/pdf/012445)
+[Combudoron ® Flüssigkeit](data/012445.pdf)
 
-[Combudoron® Salbe](http://www.fachinfo.de/pdf/012446)
+[Combudoron® Salbe](data/012446.pdf)
 
-[Urorec ® 4 mg Hartkapseln](http://www.fachinfo.de/pdf/012447)
+[Urorec ® 4 mg Hartkapseln](data/012447.pdf)
 
-[Urorec ® 8 mg Hartkapseln](http://www.fachinfo.de/pdf/012448)
+[Urorec ® 8 mg Hartkapseln](data/012448.pdf)
 
-[Losartan-Hormosan comp](http://www.fachinfo.de/pdf/012453)
+[Losartan-Hormosan comp](data/012453.pdf)
 
-[Phlebodril ® Venenkapseln](http://www.fachinfo.de/pdf/012455)
+[Phlebodril ® Venenkapseln](data/012455.pdf)
 
-[Lercanidipin Heumann 10 mg Filmtabletten](http://www.fachinfo.de/pdf/012457)
+[Lercanidipin Heumann 10 mg Filmtabletten](data/012457.pdf)
 
-[Akne-Wasser](http://www.fachinfo.de/pdf/012468)
+[Akne-Wasser](data/012468.pdf)
 
-[Losartan Heumann 12,5/50/100 mg](http://www.fachinfo.de/pdf/012471)
+[Losartan Heumann 12,5/50/100 mg](data/012471.pdf)
 
-[Clopidogrel Hennig ® 75 mg](http://www.fachinfo.de/pdf/012472)
+[Clopidogrel Hennig ® 75 mg](data/012472.pdf)
 
-[Sedotussin® Hustenstiller](http://www.fachinfo.de/pdf/012480)
+[Sedotussin® Hustenstiller](data/012480.pdf)
 
-[Daxas® 500 Mikrogramm Filmtabletten](http://www.fachinfo.de/pdf/012483)
+[Daxas® 500 Mikrogramm Filmtabletten](data/012483.pdf)
 
-[Claversal® 4 g/60 g Klysmen](http://www.fachinfo.de/pdf/012484)
+[Claversal® 4 g/60 g Klysmen](data/012484.pdf)
 
-[Asumate® 20](http://www.fachinfo.de/pdf/012485)
+[Asumate® 20](data/012485.pdf)
 
-[Claversal® Zäpfchen](http://www.fachinfo.de/pdf/012492)
+[Claversal® Zäpfchen](data/012492.pdf)
 
-[Claversal® Tabletten](http://www.fachinfo.de/pdf/012493)
+[Claversal® Tabletten](data/012493.pdf)
 
-[Claversal® Rektalschaum 1 g](http://www.fachinfo.de/pdf/012494)
+[Claversal® Rektalschaum 1 g](data/012494.pdf)
 
-[Hydrocutan® Creme 0,5 %](http://www.fachinfo.de/pdf/012501)
+[Hydrocutan® Creme 0,5 %](data/012501.pdf)
 
-[Hydrocutan® Creme 1 %](http://www.fachinfo.de/pdf/012502)
+[Hydrocutan® Creme 1 %](data/012502.pdf)
 
-[HCT-gamma® 12,5](http://www.fachinfo.de/pdf/012503)
+[HCT-gamma® 12,5](data/012503.pdf)
 
-[Iscucin® Abietis](http://www.fachinfo.de/pdf/012506)
+[Iscucin® Abietis](data/012506.pdf)
 
-[Iscucin® Crataegi](http://www.fachinfo.de/pdf/012507)
+[Iscucin® Crataegi](data/012507.pdf)
 
-[Iscucin® Quercus](http://www.fachinfo.de/pdf/012509)
+[Iscucin® Quercus](data/012509.pdf)
 
-[Takipril® 20 mg/ml Injektionslösung](http://www.fachinfo.de/pdf/012519)
+[Takipril® 20 mg/ml Injektionslösung](data/012519.pdf)
 
-[Evaluna® 20](http://www.fachinfo.de/pdf/012522)
+[Evaluna® 20](data/012522.pdf)
 
-[Evaluna® 30](http://www.fachinfo.de/pdf/012523)
+[Evaluna® 30](data/012523.pdf)
 
-[Furo-CT 40 mg Tabletten](http://www.fachinfo.de/pdf/012527)
+[Furo-CT 40 mg Tabletten](data/012527.pdf)
 
-[Furo-CT 30 mg Retardkapseln](http://www.fachinfo.de/pdf/012528)
+[Furo-CT 30 mg Retardkapseln](data/012528.pdf)
 
-[Zoloft ® 20 mg/ml](http://www.fachinfo.de/pdf/012533)
+[Zoloft ® 20 mg/ml](data/012533.pdf)
 
-[TEPADINA ® 100 mg](http://www.fachinfo.de/pdf/012541)
+[TEPADINA ® 100 mg](data/012541.pdf)
 
-[Desmopressin Teva® 0,1 mg / 0,2 mg](http://www.fachinfo.de/pdf/012544)
+[Desmopressin Teva® 0,1 mg / 0,2 mg](data/012544.pdf)
 
-[Nasenspray Teva®](http://www.fachinfo.de/pdf/012551)
+[Nasenspray Teva®](data/012551.pdf)
 
-[Levocetirizin-ratiopharm® 5 mg](http://www.fachinfo.de/pdf/012554)
+[Levocetirizin-ratiopharm® 5 mg](data/012554.pdf)
 
-[Adiclair® Nystatin Mundgel](http://www.fachinfo.de/pdf/012569)
+[Adiclair® Nystatin Mundgel](data/012569.pdf)
 
-[Ribosetron®](http://www.fachinfo.de/pdf/012571)
+[Ribosetron®](data/012571.pdf)
 
-[CELSENTRI® 300 mg Filmtabletten](http://www.fachinfo.de/pdf/012595)
+[CELSENTRI® 300 mg Filmtabletten](data/012595.pdf)
 
-[Esomeprazol-CT 20 mg magensaftresistente Hartkapseln](http://www.fachinfo.de/pdf/012600)
+[Esomeprazol-CT 20 mg magensaftresistente Hartkapseln](data/012600.pdf)
 
-[Oxycodon-HCl-ratiopharm® 5 mg](http://www.fachinfo.de/pdf/012603)
+[Oxycodon-HCl-ratiopharm® 5 mg](data/012603.pdf)
 
-[Capto-CT 50 mg Tabletten](http://www.fachinfo.de/pdf/012612)
+[Capto-CT 50 mg Tabletten](data/012612.pdf)
 
-[Furosemid-ratiopharm® 30 mg](http://www.fachinfo.de/pdf/012618)
+[Furosemid-ratiopharm® 30 mg](data/012618.pdf)
 
-[Esomeprazol AbZ 20 mg/40 mg](http://www.fachinfo.de/pdf/012624)
+[Esomeprazol AbZ 20 mg/40 mg](data/012624.pdf)
 
-[Esomeprazol-ratiopharm® 20 mg/40 mg](http://www.fachinfo.de/pdf/012625)
+[Esomeprazol-ratiopharm® 20 mg/40 mg](data/012625.pdf)
 
-[Bicalutamid Teva® 150 mg Filmtabletten](http://www.fachinfo.de/pdf/012627)
+[Bicalutamid Teva® 150 mg Filmtabletten](data/012627.pdf)
 
-[Kalymin® retard](http://www.fachinfo.de/pdf/012631)
+[Kalymin® retard](data/012631.pdf)
 
-[ACE-Hemmer-ratiopharm® 25 mg](http://www.fachinfo.de/pdf/012638)
+[ACE-Hemmer-ratiopharm® 25 mg](data/012638.pdf)
 
-[ACE-Hemmer-ratiopharm® 50 mg](http://www.fachinfo.de/pdf/012639)
+[ACE-Hemmer-ratiopharm® 50 mg](data/012639.pdf)
 
-[Captopril AbZ 25 mg Tabletten](http://www.fachinfo.de/pdf/012642)
+[Captopril AbZ 25 mg Tabletten](data/012642.pdf)
 
-[Captopril AbZ 50 mg Tabletten](http://www.fachinfo.de/pdf/012643)
+[Captopril AbZ 50 mg Tabletten](data/012643.pdf)
 
-[VPRIV 400 Einheiten](http://www.fachinfo.de/pdf/012657)
+[VPRIV 400 Einheiten](data/012657.pdf)
 
-[Timox® Suspension](http://www.fachinfo.de/pdf/012662)
+[Timox® Suspension](data/012662.pdf)
 
-[Pramipexol-CT Tabletten](http://www.fachinfo.de/pdf/012663)
+[Pramipexol-CT Tabletten](data/012663.pdf)
 
-[SERVIER Deutschland GmbH Diamicron UNO ® 60 mg](http://www.fachinfo.de/pdf/012671)
+[SERVIER Deutschland GmbH Diamicron UNO ® 60 mg](data/012671.pdf)
 
-[Lithiofor ®](http://www.fachinfo.de/pdf/012674)
+[Lithiofor ®](data/012674.pdf)
 
-[Pramipexol AbZ Tabletten](http://www.fachinfo.de/pdf/012685)
+[Pramipexol AbZ Tabletten](data/012685.pdf)
 
-[Pramipexol-ratiopharm® Tabletten](http://www.fachinfo.de/pdf/012686)
+[Pramipexol-ratiopharm® Tabletten](data/012686.pdf)
 
-[Fragmin ®](http://www.fachinfo.de/pdf/012690)
+[Fragmin ®](data/012690.pdf)
 
-[Levitra® 10 mg Schmelztabletten](http://www.fachinfo.de/pdf/012691)
+[Levitra® 10 mg Schmelztabletten](data/012691.pdf)
 
-[Torasemid AbZ 20 mg Tabletten](http://www.fachinfo.de/pdf/012692)
+[Torasemid AbZ 20 mg Tabletten](data/012692.pdf)
 
-[Torasemid-ratiopharm® 20 mg Tabletten](http://www.fachinfo.de/pdf/012693)
+[Torasemid-ratiopharm® 20 mg Tabletten](data/012693.pdf)
 
-[Helixate® NexGen 3000 I.E.](http://www.fachinfo.de/pdf/012697)
+[Helixate® NexGen 3000 I.E.](data/012697.pdf)
 
-[Torasemid-CT 20 mg Tabletten](http://www.fachinfo.de/pdf/012702)
+[Torasemid-CT 20 mg Tabletten](data/012702.pdf)
 
-[Pramip®](http://www.fachinfo.de/pdf/012703)
+[Pramip®](data/012703.pdf)
 
-[Docetaxel-ratiopharm® 20 mg/ml](http://www.fachinfo.de/pdf/012705)
+[Docetaxel-ratiopharm® 20 mg/ml](data/012705.pdf)
 
-[Ropivacainhydrochlorid GRY® 2 mg/ml](http://www.fachinfo.de/pdf/012711)
+[Ropivacainhydrochlorid GRY® 2 mg/ml](data/012711.pdf)
 
-[Adrimedac® 2 mg/ml Infusionslösung](http://www.fachinfo.de/pdf/012718)
+[Adrimedac® 2 mg/ml Infusionslösung](data/012718.pdf)
 
-[Reparil®-Dragees](http://www.fachinfo.de/pdf/012726)
+[Reparil®-Dragees](data/012726.pdf)
 
-[Letrozol onkovis 2,5 mg Filmtabletten](http://www.fachinfo.de/pdf/012730)
+[Letrozol onkovis 2,5 mg Filmtabletten](data/012730.pdf)
 
-[MYCOPHENOLAT MOFETIL ACCORD 250 mg](http://www.fachinfo.de/pdf/012731)
+[MYCOPHENOLAT MOFETIL ACCORD 250 mg](data/012731.pdf)
 
-[Hametum® Extrakt](http://www.fachinfo.de/pdf/012739)
+[Hametum® Extrakt](data/012739.pdf)
 
-[Hametum® Wund- und Heilsalbe](http://www.fachinfo.de/pdf/012740)
+[Hametum® Wund- und Heilsalbe](data/012740.pdf)
 
-[Lasea®](http://www.fachinfo.de/pdf/012741)
+[Lasea®](data/012741.pdf)
 
-[Pinimenthol® Erkältungsbalsam mild](http://www.fachinfo.de/pdf/012742)
+[Pinimenthol® Erkältungsbalsam mild](data/012742.pdf)
 
-[Pinimenthol® Erkältungsinhalat](http://www.fachinfo.de/pdf/012743)
+[Pinimenthol® Erkältungsinhalat](data/012743.pdf)
 
-[Pinimenthol® Erkältungssalbe](http://www.fachinfo.de/pdf/012744)
+[Pinimenthol® Erkältungssalbe](data/012744.pdf)
 
-[Rökan® 40 mg](http://www.fachinfo.de/pdf/012745)
+[Rökan® 40 mg](data/012745.pdf)
 
-[Rökan® novo 120 mg](http://www.fachinfo.de/pdf/012746)
+[Rökan® novo 120 mg](data/012746.pdf)
 
-[Rökan® plus 80 mg](http://www.fachinfo.de/pdf/012747)
+[Rökan® plus 80 mg](data/012747.pdf)
 
-[Rökan® Tropfen 40 mg](http://www.fachinfo.de/pdf/012748)
+[Rökan® Tropfen 40 mg](data/012748.pdf)
 
-[Umckaloabo ®](http://www.fachinfo.de/pdf/012749)
+[Umckaloabo ®](data/012749.pdf)
 
-[Umckaloabo ® 20 mg Filmtabletten](http://www.fachinfo.de/pdf/012750)
+[Umckaloabo ® 20 mg Filmtabletten](data/012750.pdf)
 
-[Tetmodis ® 25 mg Tabletten](http://www.fachinfo.de/pdf/012753)
+[Tetmodis ® 25 mg Tabletten](data/012753.pdf)
 
-[Risedronsäure-ratiopharm 35 mg](http://www.fachinfo.de/pdf/012757)
+[Risedronsäure-ratiopharm 35 mg](data/012757.pdf)
 
-[Zusätzliche](http://www.fachinfo.de/pdf/012758)
+[Zusätzliche](data/012758.pdf)
 
-[Ribodocel ®](http://www.fachinfo.de/pdf/012767)
+[Ribodocel ®](data/012767.pdf)
 
-[viridal® 10 μg/viridal® 20 μg/viridal® 40 μg](http://www.fachinfo.de/pdf/012773)
+[viridal® 10 μg/viridal® 20 μg/viridal® 40 μg](data/012773.pdf)
 
-[Leflunomid ratiopharm® 10 mg / 20 mg](http://www.fachinfo.de/pdf/012784)
+[Leflunomid ratiopharm® 10 mg / 20 mg](data/012784.pdf)
 
-[Prednitop® Crinale](http://www.fachinfo.de/pdf/012785)
+[Prednitop® Crinale](data/012785.pdf)
 
-[Medivitan® iV Fertigspritze](http://www.fachinfo.de/pdf/012788)
+[Medivitan® iV Fertigspritze](data/012788.pdf)
 
-[Rapamune ® 0,5 mg/- 1 mg/- 2 mg](http://www.fachinfo.de/pdf/012791)
+[Rapamune ® 0,5 mg/- 1 mg/- 2 mg](data/012791.pdf)
 
-[Fragmin ® 4 ml Multidose](http://www.fachinfo.de/pdf/012792)
+[Fragmin ® 4 ml Multidose](data/012792.pdf)
 
-[Mitomycin Teva® 1 mg/ml](http://www.fachinfo.de/pdf/012807)
+[Mitomycin Teva® 1 mg/ml](data/012807.pdf)
 
-[Fluomizin® 10 mg](http://www.fachinfo.de/pdf/012808)
+[Fluomizin® 10 mg](data/012808.pdf)
 
-[Finalgon® Wärmecreme stark](http://www.fachinfo.de/pdf/012813)
+[Finalgon® Wärmecreme stark](data/012813.pdf)
 
-[Finalgon® CPD Wärmecreme](http://www.fachinfo.de/pdf/012814)
+[Finalgon® CPD Wärmecreme](data/012814.pdf)
 
-[PiDaNa 1,5 mg Tablette](http://www.fachinfo.de/pdf/012817)
+[PiDaNa 1,5 mg Tablette](data/012817.pdf)
 
-[Vimpat® 10 mg/ml Infusionslösung](http://www.fachinfo.de/pdf/012835)
+[Vimpat® 10 mg/ml Infusionslösung](data/012835.pdf)
 
-[Omeprazol Heumann 20 mg bei Sodbrennen](http://www.fachinfo.de/pdf/012845)
+[Omeprazol Heumann 20 mg bei Sodbrennen](data/012845.pdf)
 
-[Femigyne-ratiopharm® N](http://www.fachinfo.de/pdf/012860)
+[Femigyne-ratiopharm® N](data/012860.pdf)
 
-[Anastromin® 1 mg](http://www.fachinfo.de/pdf/012873)
+[Anastromin® 1 mg](data/012873.pdf)
 
-[Spirogamma® 100](http://www.fachinfo.de/pdf/012876)
+[Spirogamma® 100](data/012876.pdf)
 
-[Spirogamma® 50](http://www.fachinfo.de/pdf/012877)
+[Spirogamma® 50](data/012877.pdf)
 
-[Cholspas Atropin](http://www.fachinfo.de/pdf/012883)
+[Cholspas Atropin](data/012883.pdf)
 
-[Vimpat® 50 mg/100 mg/150 mg/200 mg](http://www.fachinfo.de/pdf/012885)
+[Vimpat® 50 mg/100 mg/150 mg/200 mg](data/012885.pdf)
 
-[IS 5 mono-ratiopharm® 100 mg](http://www.fachinfo.de/pdf/012901)
+[IS 5 mono-ratiopharm® 100 mg](data/012901.pdf)
 
-[magnerot®](http://www.fachinfo.de/pdf/012904)
+[magnerot®](data/012904.pdf)
 
-[Furosemid-ratiopharm® 20 mg Tabletten](http://www.fachinfo.de/pdf/012912)
+[Furosemid-ratiopharm® 20 mg Tabletten](data/012912.pdf)
 
-[Levetiracetam Desitin® 250 mg, - 375 mg, - 500 mg, - 750 mg,](http://www.fachinfo.de/pdf/012915)
+[Levetiracetam Desitin® 250 mg, - 375 mg, - 500 mg, - 750 mg,](data/012915.pdf)
 
-[Peyona 20 mg/ml Infusionslösung und Lösung](http://www.fachinfo.de/pdf/012919)
+[Peyona 20 mg/ml Infusionslösung und Lösung](data/012919.pdf)
 
-[Ropinirol-ratiopharm® 2 mg / 4 mg / 8 mg](http://www.fachinfo.de/pdf/012931)
+[Ropinirol-ratiopharm® 2 mg / 4 mg / 8 mg](data/012931.pdf)
 
-[Aldactone® 50](http://www.fachinfo.de/pdf/012935)
+[Aldactone® 50](data/012935.pdf)
 
-[Aldactone® 100](http://www.fachinfo.de/pdf/012936)
+[Aldactone® 100](data/012936.pdf)
 
-[Ciprofloxacin Teva® 2 mg/ml Infusionslösung](http://www.fachinfo.de/pdf/012938)
+[Ciprofloxacin Teva® 2 mg/ml Infusionslösung](data/012938.pdf)
 
-[Doce onkovis 20 mg/ml Konzentrat](http://www.fachinfo.de/pdf/012939)
+[Doce onkovis 20 mg/ml Konzentrat](data/012939.pdf)
 
-[Aldactone® 25](http://www.fachinfo.de/pdf/012940)
+[Aldactone® 25](data/012940.pdf)
 
-[Ropivacain-HCl B. Braun 5 mg/ml](http://www.fachinfo.de/pdf/012942)
+[Ropivacain-HCl B. Braun 5 mg/ml](data/012942.pdf)
 
-[Ropivacain-HCl B. Braun 7,5 mg/ml](http://www.fachinfo.de/pdf/012943)
+[Ropivacain-HCl B. Braun 7,5 mg/ml](data/012943.pdf)
 
-[Ropivacain-HCl B. Braun 10 mg/ml](http://www.fachinfo.de/pdf/012944)
+[Ropivacain-HCl B. Braun 10 mg/ml](data/012944.pdf)
 
-[Aloxi® 500 Mikrogramm Weichkapseln](http://www.fachinfo.de/pdf/012960)
+[Aloxi® 500 Mikrogramm Weichkapseln](data/012960.pdf)
 
-[Ropinirol AbZ 2 mg / 4 mg / 8 mg](http://www.fachinfo.de/pdf/012968)
+[Ropinirol AbZ 2 mg / 4 mg / 8 mg](data/012968.pdf)
 
-[Cetirizindihydrochlorid elac® 10 mg](http://www.fachinfo.de/pdf/012969)
+[Cetirizindihydrochlorid elac® 10 mg](data/012969.pdf)
 
-[Hydromorphonhydrochlorid-CT Hartkapseln](http://www.fachinfo.de/pdf/012970)
+[Hydromorphonhydrochlorid-CT Hartkapseln](data/012970.pdf)
 
-[Ropinirol-CT 2 mg / 4 mg / 8 mg](http://www.fachinfo.de/pdf/012973)
+[Ropinirol-CT 2 mg / 4 mg / 8 mg](data/012973.pdf)
 
-[Silomat® DMP INTENSIV gegen Reizhusten](http://www.fachinfo.de/pdf/012974)
+[Silomat® DMP INTENSIV gegen Reizhusten](data/012974.pdf)
 
-[Mycophenolatmofetil Heumann 250 mg](http://www.fachinfo.de/pdf/012980)
+[Mycophenolatmofetil Heumann 250 mg](data/012980.pdf)
 
-[Mycophenolatmofetil Heumann 500 mg](http://www.fachinfo.de/pdf/012981)
+[Mycophenolatmofetil Heumann 500 mg](data/012981.pdf)
 
-[MINIRIN® 60/120/240 Mikrogramm Lyophilisat](http://www.fachinfo.de/pdf/012990)
+[MINIRIN® 60/120/240 Mikrogramm Lyophilisat](data/012990.pdf)
 
-[Pramipexol Heumann Tabletten](http://www.fachinfo.de/pdf/012991)
+[Pramipexol Heumann Tabletten](data/012991.pdf)
 
-[Piritramid-hameln 7,5 mg/ml](http://www.fachinfo.de/pdf/012996)
+[Piritramid-hameln 7,5 mg/ml](data/012996.pdf)
 
-[Budenofalk® Uno 9mg](http://www.fachinfo.de/pdf/013002)
+[Budenofalk® Uno 9mg](data/013002.pdf)
 
-[Ibandronsäure ratiopharm 50 mg](http://www.fachinfo.de/pdf/013004)
+[Ibandronsäure ratiopharm 50 mg](data/013004.pdf)
 
-[Ibandronsäure-CT 50 mg](http://www.fachinfo.de/pdf/013005)
+[Ibandronsäure-CT 50 mg](data/013005.pdf)
 
-[Broncho-Vaxom ® Tropfen 3,5 mg](http://www.fachinfo.de/pdf/013007)
+[Broncho-Vaxom ® Tropfen 3,5 mg](data/013007.pdf)
 
-[Levodopa/Benserazid-ratiopharm® 200 mg/50 mg](http://www.fachinfo.de/pdf/013015)
+[Levodopa/Benserazid-ratiopharm® 200 mg/50 mg](data/013015.pdf)
 
-[Levodopa/Benserazid-CT 200 mg/50 mg](http://www.fachinfo.de/pdf/013016)
+[Levodopa/Benserazid-CT 200 mg/50 mg](data/013016.pdf)
 
-[Remifentanil B. Braun 1 mg/2 mg/5 mg](http://www.fachinfo.de/pdf/013018)
+[Remifentanil B. Braun 1 mg/2 mg/5 mg](data/013018.pdf)
 
-[Meropenem Hospira 500 mg/- 1 g](http://www.fachinfo.de/pdf/013031)
+[Meropenem Hospira 500 mg/- 1 g](data/013031.pdf)
 
-[Medikinet® adult](http://www.fachinfo.de/pdf/013066)
+[Medikinet® adult](data/013066.pdf)
 
-[Letrozol-Hormosan 2,5 mg](http://www.fachinfo.de/pdf/013088)
+[Letrozol-Hormosan 2,5 mg](data/013088.pdf)
 
-[Exemestan-Hormosan 25 mg](http://www.fachinfo.de/pdf/013089)
+[Exemestan-Hormosan 25 mg](data/013089.pdf)
 
-[Riluzol SUN 50 mg](http://www.fachinfo.de/pdf/013099)
+[Riluzol SUN 50 mg](data/013099.pdf)
 
-[Pradaxa® 150 mg Hartkapseln](http://www.fachinfo.de/pdf/013108)
+[Pradaxa® 150 mg Hartkapseln](data/013108.pdf)
 
-[Letroarom® 2,5 mg Filmtabletten](http://www.fachinfo.de/pdf/013109)
+[Letroarom® 2,5 mg Filmtabletten](data/013109.pdf)
 
-[Sumatriptan-Hormosan Inject 6 mg/0,5 ml](http://www.fachinfo.de/pdf/013117)
+[Sumatriptan-Hormosan Inject 6 mg/0,5 ml](data/013117.pdf)
 
-[Ardeybronchol ®](http://www.fachinfo.de/pdf/013120)
+[Ardeybronchol ®](data/013120.pdf)
 
-[Leganto® 1 mg/24 h // 3 mg/24 h](http://www.fachinfo.de/pdf/013121)
+[Leganto® 1 mg/24 h // 3 mg/24 h](data/013121.pdf)
 
-[Leganto® 2 mg/24 h](http://www.fachinfo.de/pdf/013122)
+[Leganto® 2 mg/24 h](data/013122.pdf)
 
-[Leganto® 4 mg/24 h // 6 mg/24 h // 8 mg/24 h](http://www.fachinfo.de/pdf/013123)
+[Leganto® 4 mg/24 h // 6 mg/24 h // 8 mg/24 h](data/013123.pdf)
 
-[Kineret® 100 mg/0,67 ml](http://www.fachinfo.de/pdf/013125)
+[Kineret® 100 mg/0,67 ml](data/013125.pdf)
 
-[Dorzolamid-ratiopharm® comp. Augentropfen](http://www.fachinfo.de/pdf/013127)
+[Dorzolamid-ratiopharm® comp. Augentropfen](data/013127.pdf)
 
-[Colibiogen® inject](http://www.fachinfo.de/pdf/013132)
+[Colibiogen® inject](data/013132.pdf)
 
-[Colibiogen® Kinder](http://www.fachinfo.de/pdf/013133)
+[Colibiogen® Kinder](data/013133.pdf)
 
-[Colibiogen® oral](http://www.fachinfo.de/pdf/013134)
+[Colibiogen® oral](data/013134.pdf)
 
-[Synerga®](http://www.fachinfo.de/pdf/013135)
+[Synerga®](data/013135.pdf)
 
-[Ligosan Slow Release](http://www.fachinfo.de/pdf/013137)
+[Ligosan Slow Release](data/013137.pdf)
 
-[Cetebe ® duoEffekt Erkältungs-Trunk](http://www.fachinfo.de/pdf/013139)
+[Cetebe ® duoEffekt Erkältungs-Trunk](data/013139.pdf)
 
-[Cetebe ® duoEffekt Menthol-Frisch](http://www.fachinfo.de/pdf/013140)
+[Cetebe ® duoEffekt Menthol-Frisch](data/013140.pdf)
 
-[Hepar-SL ® forte 600 mg](http://www.fachinfo.de/pdf/013143)
+[Hepar-SL ® forte 600 mg](data/013143.pdf)
 
-[ben-u-ron® direkt Erdbeer/Vanille 250 mg](http://www.fachinfo.de/pdf/013147)
+[ben-u-ron® direkt Erdbeer/Vanille 250 mg](data/013147.pdf)
 
-[ben-u-ron® direkt Cappuccino 1000 mg](http://www.fachinfo.de/pdf/013149)
+[ben-u-ron® direkt Cappuccino 1000 mg](data/013149.pdf)
 
-[Letrozol Accord 2,5 mg](http://www.fachinfo.de/pdf/013150)
+[Letrozol Accord 2,5 mg](data/013150.pdf)
 
-[axidoxo ® 2 mg/ml Infusionslösung](http://www.fachinfo.de/pdf/013152)
+[axidoxo ® 2 mg/ml Infusionslösung](data/013152.pdf)
 
-[GINKOBIL® ratiopharm 240 mg](http://www.fachinfo.de/pdf/013158)
+[GINKOBIL® ratiopharm 240 mg](data/013158.pdf)
 
-[Fexofenaderm 120 mg](http://www.fachinfo.de/pdf/013165)
+[Fexofenaderm 120 mg](data/013165.pdf)
 
-[Fexofenaderm 180 mg](http://www.fachinfo.de/pdf/013166)
+[Fexofenaderm 180 mg](data/013166.pdf)
 
-[Levofloxacin-ratiopharm® 250/500 mg](http://www.fachinfo.de/pdf/013168)
+[Levofloxacin-ratiopharm® 250/500 mg](data/013168.pdf)
 
-[Esbriet® 267 mg Hartkapseln](http://www.fachinfo.de/pdf/013169)
+[Esbriet® 267 mg Hartkapseln](data/013169.pdf)
 
-[Ribostan ®](http://www.fachinfo.de/pdf/013174)
+[Ribostan ®](data/013174.pdf)
 
-[Cisatracurium Kabi 2 mg/ml](http://www.fachinfo.de/pdf/013176)
+[Cisatracurium Kabi 2 mg/ml](data/013176.pdf)
 
-[Ginkgo-Maren® 120 mg](http://www.fachinfo.de/pdf/013178)
+[Ginkgo-Maren® 120 mg](data/013178.pdf)
 
-[Ropinirol Heumann 5 mg](http://www.fachinfo.de/pdf/013183)
+[Ropinirol Heumann 5 mg](data/013183.pdf)
 
-[Exemestan AbZ 25 mg Filmtabletten](http://www.fachinfo.de/pdf/013186)
+[Exemestan AbZ 25 mg Filmtabletten](data/013186.pdf)
 
-[Exemestan-ratiopharm®](http://www.fachinfo.de/pdf/013187)
+[Exemestan-ratiopharm®](data/013187.pdf)
 
-[Levetiracetam Desitin® 100 mg/ml](http://www.fachinfo.de/pdf/013193)
+[Levetiracetam Desitin® 100 mg/ml](data/013193.pdf)
 
-[Levetiracetam Desitin® 100 mg/ml](http://www.fachinfo.de/pdf/013194)
+[Levetiracetam Desitin® 100 mg/ml](data/013194.pdf)
 
-[Levofloxacin Teva® 5 mg/ml](http://www.fachinfo.de/pdf/013197)
+[Levofloxacin Teva® 5 mg/ml](data/013197.pdf)
 
-[Levofloxacin Heumann 250 mg / 500 mg](http://www.fachinfo.de/pdf/013198)
+[Levofloxacin Heumann 250 mg / 500 mg](data/013198.pdf)
 
-[Leflunomid AbZ 10 mg / 20 mg](http://www.fachinfo.de/pdf/013224)
+[Leflunomid AbZ 10 mg / 20 mg](data/013224.pdf)
 
-[Olanzapin-Hormosan Schmelztabletten](http://www.fachinfo.de/pdf/013229)
+[Olanzapin-Hormosan Schmelztabletten](data/013229.pdf)
 
-[Valsartan-CT 40 mg / 80 mg / 120 mg / 160 mg](http://www.fachinfo.de/pdf/013235)
+[Valsartan-CT 40 mg / 80 mg / 120 mg / 160 mg](data/013235.pdf)
 
-[Valsartan-CT 320 mg](http://www.fachinfo.de/pdf/013236)
+[Valsartan-CT 320 mg](data/013236.pdf)
 
-[Valsartan comp.-CT 80 mg/12,5 mg / 160 mg/12,5 mg Filmtabletten](http://www.fachinfo.de/pdf/013237)
+[Valsartan comp.-CT 80 mg/12,5 mg / 160 mg/12,5 mg Filmtabletten](data/013237.pdf)
 
-[Valsartan comp.-CT 320 mg / 12,5 mg Filmtabletten](http://www.fachinfo.de/pdf/013238)
+[Valsartan comp.-CT 320 mg / 12,5 mg Filmtabletten](data/013238.pdf)
 
-[Olanzapin-Hormosan Filmtabletten](http://www.fachinfo.de/pdf/013239)
+[Olanzapin-Hormosan Filmtabletten](data/013239.pdf)
 
-[Ibu-Lysin AbZ Migräne 684 mg Filmtabletten](http://www.fachinfo.de/pdf/013244)
+[Ibu-Lysin AbZ Migräne 684 mg Filmtabletten](data/013244.pdf)
 
-[IBU-LYSIN-ratiopharm® 684 mg Filmtabletten](http://www.fachinfo.de/pdf/013245)
+[IBU-LYSIN-ratiopharm® 684 mg Filmtabletten](data/013245.pdf)
 
-[Valsartan AbZ 40 mg / 80 mg / 120 mg / 160 mg](http://www.fachinfo.de/pdf/013252)
+[Valsartan AbZ 40 mg / 80 mg / 120 mg / 160 mg](data/013252.pdf)
 
-[Valsartan AbZ 320 mg](http://www.fachinfo.de/pdf/013253)
+[Valsartan AbZ 320 mg](data/013253.pdf)
 
-[Valsartan comp. AbZ 80 mg/12,5 mg / 160 mg/12,5 mg Filmtabletten](http://www.fachinfo.de/pdf/013254)
+[Valsartan comp. AbZ 80 mg/12,5 mg / 160 mg/12,5 mg Filmtabletten](data/013254.pdf)
 
-[Valsartan comp. AbZ 320 mg / 12,5 mg Filmtabletten](http://www.fachinfo.de/pdf/013255)
+[Valsartan comp. AbZ 320 mg / 12,5 mg Filmtabletten](data/013255.pdf)
 
-[Valsartan-ratiopharm® 40 mg / 80 mg / 120 mg / 160 mg](http://www.fachinfo.de/pdf/013256)
+[Valsartan-ratiopharm® 40 mg / 80 mg / 120 mg / 160 mg](data/013256.pdf)
 
-[Valsartan-ratiopharm® 320 mg](http://www.fachinfo.de/pdf/013257)
+[Valsartan-ratiopharm® 320 mg](data/013257.pdf)
 
-[Valsartan-ratiopharm® comp. 80 mg — 160 mg / 12,5 mg Filmtabletten](http://www.fachinfo.de/pdf/013258)
+[Valsartan-ratiopharm® comp. 80 mg — 160 mg / 12,5 mg Filmtabletten](data/013258.pdf)
 
-[Valsartan-ratiopharm® comp. 320 mg / 12,5 mg Filmtabletten](http://www.fachinfo.de/pdf/013259)
+[Valsartan-ratiopharm® comp. 320 mg / 12,5 mg Filmtabletten](data/013259.pdf)
 
-[Bronchicum® Saft](http://www.fachinfo.de/pdf/013265)
+[Bronchicum® Saft](data/013265.pdf)
 
-[sis von 750 mg alle 8 Stunden durchge-](http://www.fachinfo.de/pdf/013266)
+[sis von 750 mg alle 8 Stunden durchge-](data/013266.pdf)
 
-[Numeta G 16% E Emulsion zur Infusion](http://www.fachinfo.de/pdf/013269)
+[Numeta G 16% E Emulsion zur Infusion](data/013269.pdf)
 
-[Baclofen Meduna Intrathekal 0,05 mg/ml](http://www.fachinfo.de/pdf/013270)
+[Baclofen Meduna Intrathekal 0,05 mg/ml](data/013270.pdf)
 
-[Baclofen Meduna Intrathekal 0,5 mg/ml](http://www.fachinfo.de/pdf/013271)
+[Baclofen Meduna Intrathekal 0,5 mg/ml](data/013271.pdf)
 
-[Baclofen Meduna Intrathekal 2 mg/ml](http://www.fachinfo.de/pdf/013272)
+[Baclofen Meduna Intrathekal 2 mg/ml](data/013272.pdf)
 
-[Tacpan® 0,5 mg/- 1 mg/- 5 mg](http://www.fachinfo.de/pdf/013301)
+[Tacpan® 0,5 mg/- 1 mg/- 5 mg](data/013301.pdf)
 
-[Flupigil ® 100 mg Hartkapseln](http://www.fachinfo.de/pdf/013303)
+[Flupigil ® 100 mg Hartkapseln](data/013303.pdf)
 
-[Calcimagon® Extra D3](http://www.fachinfo.de/pdf/013306)
+[Calcimagon® Extra D3](data/013306.pdf)
 
-[Piperacillin/Tazobactam-Teva® 4 g / 0,5 g](http://www.fachinfo.de/pdf/013311)
+[Piperacillin/Tazobactam-Teva® 4 g / 0,5 g](data/013311.pdf)
 
-[Orlistat-ratiopharm® 60 mg](http://www.fachinfo.de/pdf/013312)
+[Orlistat-ratiopharm® 60 mg](data/013312.pdf)
 
-[Orlistat-ratiopharm® 120 mg](http://www.fachinfo.de/pdf/013313)
+[Orlistat-ratiopharm® 120 mg](data/013313.pdf)
 
-[Ammonaps® 940 mg/g Granulat](http://www.fachinfo.de/pdf/013319)
+[Ammonaps® 940 mg/g Granulat](data/013319.pdf)
 
-[PHYSIONEAL 40 Glucose 3,86 % w/v / 38,6 mg/ml](http://www.fachinfo.de/pdf/013320)
+[PHYSIONEAL 40 Glucose 3,86 % w/v / 38,6 mg/ml](data/013320.pdf)
 
-[PHYSIONEAL 35 Glucose 1,36 % w/v / 13,6 mg/ml](http://www.fachinfo.de/pdf/013321)
+[PHYSIONEAL 35 Glucose 1,36 % w/v / 13,6 mg/ml](data/013321.pdf)
 
-[PHYSIONEAL 35 Glucose 2,27 % w/v / 22,7 mg/ml](http://www.fachinfo.de/pdf/013322)
+[PHYSIONEAL 35 Glucose 2,27 % w/v / 22,7 mg/ml](data/013322.pdf)
 
-[PHYSIONEAL 40 Glucose 1,36 % w/v / 13,6 mg/ml](http://www.fachinfo.de/pdf/013324)
+[PHYSIONEAL 40 Glucose 1,36 % w/v / 13,6 mg/ml](data/013324.pdf)
 
-[PHYSIONEAL 40 Glucose 2,27 % w/v / 22,7 mg/ml](http://www.fachinfo.de/pdf/013325)
+[PHYSIONEAL 40 Glucose 2,27 % w/v / 22,7 mg/ml](data/013325.pdf)
 
-[ASPIRIN COMPLEX HEISSGETRÄNK](http://www.fachinfo.de/pdf/013329)
+[ASPIRIN COMPLEX HEISSGETRÄNK](data/013329.pdf)
 
-[5-FU axios 50 mg/ml Injektionslösung](http://www.fachinfo.de/pdf/013330)
+[5-FU axios 50 mg/ml Injektionslösung](data/013330.pdf)
 
-[Faktu ® lind Zäpfchen mit Hamamelis](http://www.fachinfo.de/pdf/013334)
+[Faktu ® lind Zäpfchen mit Hamamelis](data/013334.pdf)
 
-[Levetiracetam-Hormosan](http://www.fachinfo.de/pdf/013335)
+[Levetiracetam-Hormosan](data/013335.pdf)
 
-[Losartan comp. Heumann Filmtabletten](http://www.fachinfo.de/pdf/013337)
+[Losartan comp. Heumann Filmtabletten](data/013337.pdf)
 
-[Larylin Husten-Stiller Saft](http://www.fachinfo.de/pdf/013341)
+[Larylin Husten-Stiller Saft](data/013341.pdf)
 
-[Dexdor 100 Mikrogramm/ml](http://www.fachinfo.de/pdf/013358)
+[Dexdor 100 Mikrogramm/ml](data/013358.pdf)
 
-[Viramune® 50 mg Retardtabletten](http://www.fachinfo.de/pdf/013364)
+[Viramune® 50 mg Retardtabletten](data/013364.pdf)
 
-[Viramune® 400 mg Retardtabletten](http://www.fachinfo.de/pdf/013365)
+[Viramune® 400 mg Retardtabletten](data/013365.pdf)
 
-[Viramune ® 100 mg Retardtabletten](http://www.fachinfo.de/pdf/013366)
+[Viramune ® 100 mg Retardtabletten](data/013366.pdf)
 
-[Instanyl® 50/100/200 Mikrogramm](http://www.fachinfo.de/pdf/013373)
+[Instanyl® 50/100/200 Mikrogramm](data/013373.pdf)
 
-[XEOMIN® 50 Einheiten](http://www.fachinfo.de/pdf/013374)
+[XEOMIN® 50 Einheiten](data/013374.pdf)
 
-[Levofloxacin AbZ 500 mg Filmtabletten](http://www.fachinfo.de/pdf/013375)
+[Levofloxacin AbZ 500 mg Filmtabletten](data/013375.pdf)
 
-[Clobetasol acis®](http://www.fachinfo.de/pdf/013382)
+[Clobetasol acis®](data/013382.pdf)
 
-[Ciclopirox acis® 1 % Lösung](http://www.fachinfo.de/pdf/013383)
+[Ciclopirox acis® 1 % Lösung](data/013383.pdf)
 
-[Letrozol Heumann 2,5 mg](http://www.fachinfo.de/pdf/013388)
+[Letrozol Heumann 2,5 mg](data/013388.pdf)
 
-[Paracetamol-ratiopharm® 75 mg](http://www.fachinfo.de/pdf/013414)
+[Paracetamol-ratiopharm® 75 mg](data/013414.pdf)
 
-[Paracetamol-ratiopharm® 1000 mg](http://www.fachinfo.de/pdf/013415)
+[Paracetamol-ratiopharm® 1000 mg](data/013415.pdf)
 
-[Valsartan-Hormosan comp](http://www.fachinfo.de/pdf/013417)
+[Valsartan-Hormosan comp](data/013417.pdf)
 
-[Propofol-ratiopharm® MCT 20 mg/ml](http://www.fachinfo.de/pdf/013419)
+[Propofol-ratiopharm® MCT 20 mg/ml](data/013419.pdf)
 
-[Topotecan Teva 1 mg/1 ml](http://www.fachinfo.de/pdf/013420)
+[Topotecan Teva 1 mg/1 ml](data/013420.pdf)
 
-[Topotecan Teva 4 mg/4 ml](http://www.fachinfo.de/pdf/013421)
+[Topotecan Teva 4 mg/4 ml](data/013421.pdf)
 
-[Hydromorphon-HCl AbZ](http://www.fachinfo.de/pdf/013428)
+[Hydromorphon-HCl AbZ](data/013428.pdf)
 
-[Umckaloabo ® Saft für Kinder](http://www.fachinfo.de/pdf/013431)
+[Umckaloabo ® Saft für Kinder](data/013431.pdf)
 
-[Hametum® Hämorrhoidenzäpfchen](http://www.fachinfo.de/pdf/013432)
+[Hametum® Hämorrhoidenzäpfchen](data/013432.pdf)
 
-[Hametum® Hämorrhoidensalbe](http://www.fachinfo.de/pdf/013433)
+[Hametum® Hämorrhoidensalbe](data/013433.pdf)
 
-[Olanzapin Heumann 2,5 mg/5 mg/7,5 mg/10 mg/15 mg/20 mg](http://www.fachinfo.de/pdf/013436)
+[Olanzapin Heumann 2,5 mg/5 mg/7,5 mg/10 mg/15 mg/20 mg](data/013436.pdf)
 
-[Edarbi ® 20 mg Tabletten](http://www.fachinfo.de/pdf/013440)
+[Edarbi ® 20 mg Tabletten](data/013440.pdf)
 
-[Edarbi ® 40 mg Tabletten](http://www.fachinfo.de/pdf/013441)
+[Edarbi ® 40 mg Tabletten](data/013441.pdf)
 
-[Edarbi ® 80 mg Tabletten](http://www.fachinfo.de/pdf/013442)
+[Edarbi ® 80 mg Tabletten](data/013442.pdf)
 
-[INTELENCE® 200 mg Tabletten](http://www.fachinfo.de/pdf/013467)
+[INTELENCE® 200 mg Tabletten](data/013467.pdf)
 
-[Spasmolyt 15 mg](http://www.fachinfo.de/pdf/013468)
+[Spasmolyt 15 mg](data/013468.pdf)
 
-[Arutidor ® 20 mg/ml + 5 mg/ml](http://www.fachinfo.de/pdf/013481)
+[Arutidor ® 20 mg/ml + 5 mg/ml](data/013481.pdf)
 
-[EDURANT® 25 mg Filmtabletten](http://www.fachinfo.de/pdf/013490)
+[EDURANT® 25 mg Filmtabletten](data/013490.pdf)
 
-[Asumate® 30](http://www.fachinfo.de/pdf/013492)
+[Asumate® 30](data/013492.pdf)
 
-[Valsartan-Hormosan Filmtabletten](http://www.fachinfo.de/pdf/013500)
+[Valsartan-Hormosan Filmtabletten](data/013500.pdf)
 
-[Tacni 0,5 mg / 1 mg / 5 mg](http://www.fachinfo.de/pdf/013515)
+[Tacni 0,5 mg / 1 mg / 5 mg](data/013515.pdf)
 
-[Latanoprost AbZ 50 Mikrogramm/ml](http://www.fachinfo.de/pdf/013528)
+[Latanoprost AbZ 50 Mikrogramm/ml](data/013528.pdf)
 
-[Naratriptan-ratiopharm® 2,5 mg](http://www.fachinfo.de/pdf/013529)
+[Naratriptan-ratiopharm® 2,5 mg](data/013529.pdf)
 
-[Zolmitriptan-CT 2,5 mg/5 mg Schmelztabletten](http://www.fachinfo.de/pdf/013530)
+[Zolmitriptan-CT 2,5 mg/5 mg Schmelztabletten](data/013530.pdf)
 
-[Zolmitriptan-ratiopharm® 2,5 mg/5 mg](http://www.fachinfo.de/pdf/013532)
+[Zolmitriptan-ratiopharm® 2,5 mg/5 mg](data/013532.pdf)
 
-[Zolmitriptan-ratiopharm® 2,5 mg/5 mg](http://www.fachinfo.de/pdf/013533)
+[Zolmitriptan-ratiopharm® 2,5 mg/5 mg](data/013533.pdf)
 
-[Arulatan ®](http://www.fachinfo.de/pdf/013534)
+[Arulatan ®](data/013534.pdf)
 
-[Bisoprolol-AbZ 1,25 mg/2,5 mg/3,75 mg](http://www.fachinfo.de/pdf/013542)
+[Bisoprolol-AbZ 1,25 mg/2,5 mg/3,75 mg](data/013542.pdf)
 
-[Esomeprazol-ratiopharm® 20 mg/40 mg](http://www.fachinfo.de/pdf/013543)
+[Esomeprazol-ratiopharm® 20 mg/40 mg](data/013543.pdf)
 
-[Donepezil-HCl-ratiopharm® 5 mg / 10 mg](http://www.fachinfo.de/pdf/013546)
+[Donepezil-HCl-ratiopharm® 5 mg / 10 mg](data/013546.pdf)
 
-[Ciclocutan® Creme](http://www.fachinfo.de/pdf/013566)
+[Ciclocutan® Creme](data/013566.pdf)
 
-[Vyndaqel ® 20 mg Weichkapseln](http://www.fachinfo.de/pdf/013567)
+[Vyndaqel ® 20 mg Weichkapseln](data/013567.pdf)
 
-[Terbiderm® Gel 10 mg/g](http://www.fachinfo.de/pdf/013571)
+[Terbiderm® Gel 10 mg/g](data/013571.pdf)
 
-[Terbiderm® Spray 10 mg/g](http://www.fachinfo.de/pdf/013572)
+[Terbiderm® Spray 10 mg/g](data/013572.pdf)
 
-[Valsargamma® 40 mg](http://www.fachinfo.de/pdf/013597)
+[Valsargamma® 40 mg](data/013597.pdf)
 
-[Valsargamma® 80 mg](http://www.fachinfo.de/pdf/013598)
+[Valsargamma® 80 mg](data/013598.pdf)
 
-[Valsargamma® 160 mg](http://www.fachinfo.de/pdf/013599)
+[Valsargamma® 160 mg](data/013599.pdf)
 
-[Valsargamma® 320 mg](http://www.fachinfo.de/pdf/013601)
+[Valsargamma® 320 mg](data/013601.pdf)
 
-[Dexamethason acis® Injektionslösung](http://www.fachinfo.de/pdf/013609)
+[Dexamethason acis® Injektionslösung](data/013609.pdf)
 
-[Amorolfin Nagelkur Heumann 5%](http://www.fachinfo.de/pdf/013612)
+[Amorolfin Nagelkur Heumann 5%](data/013612.pdf)
 
-[Venlafaxin Heumann 75 mg](http://www.fachinfo.de/pdf/013613)
+[Venlafaxin Heumann 75 mg](data/013613.pdf)
 
-[Benzaknen® 5 %/10 %](http://www.fachinfo.de/pdf/013624)
+[Benzaknen® 5 %/10 %](data/013624.pdf)
 
-[Terbiderm® Creme](http://www.fachinfo.de/pdf/013626)
+[Terbiderm® Creme](data/013626.pdf)
 
-[Anastrozol-HAEMATO 1 mg](http://www.fachinfo.de/pdf/013627)
+[Anastrozol-HAEMATO 1 mg](data/013627.pdf)
 
-[Esomeprazol Heumann 20 mg/40 mg](http://www.fachinfo.de/pdf/013631)
+[Esomeprazol Heumann 20 mg/40 mg](data/013631.pdf)
 
-[Anastrozol Heumann 1 mg Filmtabletten](http://www.fachinfo.de/pdf/013633)
+[Anastrozol Heumann 1 mg Filmtabletten](data/013633.pdf)
 
-[Cisatracurium-hameln 2 mg/ml](http://www.fachinfo.de/pdf/013635)
+[Cisatracurium-hameln 2 mg/ml](data/013635.pdf)
 
-[Flumazenil-hameln 0,1 mg/ml Injektionslösung](http://www.fachinfo.de/pdf/013636)
+[Flumazenil-hameln 0,1 mg/ml Injektionslösung](data/013636.pdf)
 
-[Levofloxacin-hameln 5 mg/ml](http://www.fachinfo.de/pdf/013637)
+[Levofloxacin-hameln 5 mg/ml](data/013637.pdf)
 
-[Remifentanil-hameln 1 mg/2 mg/5 mg](http://www.fachinfo.de/pdf/013638)
+[Remifentanil-hameln 1 mg/2 mg/5 mg](data/013638.pdf)
 
-[Desloratadine ratiopharm 5 mg](http://www.fachinfo.de/pdf/013639)
+[Desloratadine ratiopharm 5 mg](data/013639.pdf)
 
-[Zelboraf® 240 mg Filmtabletten](http://www.fachinfo.de/pdf/013644)
+[Zelboraf® 240 mg Filmtabletten](data/013644.pdf)
 
-[ALOPEXY® 5 %](http://www.fachinfo.de/pdf/013668)
+[ALOPEXY® 5 %](data/013668.pdf)
 
-[Amorolfin-CT 5 %](http://www.fachinfo.de/pdf/013671)
+[Amorolfin-CT 5 %](data/013671.pdf)
 
-[Quetiapin AbZ 25 mg /100 mg /200 mg /300 mg](http://www.fachinfo.de/pdf/013672)
+[Quetiapin AbZ 25 mg /100 mg /200 mg /300 mg](data/013672.pdf)
 
-[Donepegamma®](http://www.fachinfo.de/pdf/013674)
+[Donepegamma®](data/013674.pdf)
 
-[Quetiapin-ratiopharm® 25 mg / 100 mg / 150 mg / 200 mg / 300 mg](http://www.fachinfo.de/pdf/013675)
+[Quetiapin-ratiopharm® 25 mg / 100 mg / 150 mg / 200 mg / 300 mg](data/013675.pdf)
 
-[Simvastatin-CT 30 mg / 60 mg Filmtabletten](http://www.fachinfo.de/pdf/013686)
+[Simvastatin-CT 30 mg / 60 mg Filmtabletten](data/013686.pdf)
 
-[Latanoprost-ratiopharm® 50 Mikrogramm/ml](http://www.fachinfo.de/pdf/013687)
+[Latanoprost-ratiopharm® 50 Mikrogramm/ml](data/013687.pdf)
 
-[Velafee® 0,03 mg/2 mg Filmtabletten](http://www.fachinfo.de/pdf/013688)
+[Velafee® 0,03 mg/2 mg Filmtabletten](data/013688.pdf)
 
-[Thomapyrin ® TENSION](http://www.fachinfo.de/pdf/013691)
+[Thomapyrin ® TENSION](data/013691.pdf)
 
-[Simvastatin-ratiopharm® 30 mg / 60 mg](http://www.fachinfo.de/pdf/013692)
+[Simvastatin-ratiopharm® 30 mg / 60 mg](data/013692.pdf)
 
-[Solera® 2 mg/0,03 mg Filmtabletten](http://www.fachinfo.de/pdf/013708)
+[Solera® 2 mg/0,03 mg Filmtabletten](data/013708.pdf)
 
-[Paroxetin-Hormosan 33,1 mg/ml](http://www.fachinfo.de/pdf/013709)
+[Paroxetin-Hormosan 33,1 mg/ml](data/013709.pdf)
 
-[Inovelon ® 40 mg/ml](http://www.fachinfo.de/pdf/013710)
+[Inovelon ® 40 mg/ml](data/013710.pdf)
 
-[Indapamid Heumann 2,5 mg Filmtabletten](http://www.fachinfo.de/pdf/013729)
+[Indapamid Heumann 2,5 mg Filmtabletten](data/013729.pdf)
 
-[Kevatril® 1 mg/1 ml Injektionslösung](http://www.fachinfo.de/pdf/013749)
+[Kevatril® 1 mg/1 ml Injektionslösung](data/013749.pdf)
 
-[Yvette-ratiopharm® 75 Mikrogramm](http://www.fachinfo.de/pdf/013751)
+[Yvette-ratiopharm® 75 Mikrogramm](data/013751.pdf)
 
-[Riluzol-ratiopharm® 50 mg Filmtabletten](http://www.fachinfo.de/pdf/013754)
+[Riluzol-ratiopharm® 50 mg Filmtabletten](data/013754.pdf)
 
-[Riluzol-CT 50 mg Filmtabletten](http://www.fachinfo.de/pdf/013755)
+[Riluzol-CT 50 mg Filmtabletten](data/013755.pdf)
 
-[Azafalk® 50mg / 75mg / 100mg](http://www.fachinfo.de/pdf/013766)
+[Azafalk® 50mg / 75mg / 100mg](data/013766.pdf)
 
-[Femikadin® 20](http://www.fachinfo.de/pdf/013769)
+[Femikadin® 20](data/013769.pdf)
 
-[Candesartan-comp. AbZ 8 mg/12,5 mg Tabletten](http://www.fachinfo.de/pdf/013772)
+[Candesartan-comp. AbZ 8 mg/12,5 mg Tabletten](data/013772.pdf)
 
-[Candesartan-comp. AbZ 32 mg/12,5 mg Tabletten](http://www.fachinfo.de/pdf/013773)
+[Candesartan-comp. AbZ 32 mg/12,5 mg Tabletten](data/013773.pdf)
 
-[Candesartan-AbZ 4 mg / 8 mg / 16 mg / 32 mg](http://www.fachinfo.de/pdf/013774)
+[Candesartan-AbZ 4 mg / 8 mg / 16 mg / 32 mg](data/013774.pdf)
 
-[Naratriptan-Hormosan bei Migräne 2,5 mg](http://www.fachinfo.de/pdf/013776)
+[Naratriptan-Hormosan bei Migräne 2,5 mg](data/013776.pdf)
 
-[Candesartan-ratiopharm® 4 mg / 8 mg / 16 mg / 32 mg](http://www.fachinfo.de/pdf/013777)
+[Candesartan-ratiopharm® 4 mg / 8 mg / 16 mg / 32 mg](data/013777.pdf)
 
-[Candesartan-ratiopharm® comp. 32 mg/12,5 mg Tabletten](http://www.fachinfo.de/pdf/013778)
+[Candesartan-ratiopharm® comp. 32 mg/12,5 mg Tabletten](data/013778.pdf)
 
-[Candesartan-ratiopharm® comp. 8 mg/12,5 mg Tabletten](http://www.fachinfo.de/pdf/013779)
+[Candesartan-ratiopharm® comp. 8 mg/12,5 mg Tabletten](data/013779.pdf)
 
-[Candesartancilexetil-CT 4 mg / 8 mg / 16 mg / 32 mg](http://www.fachinfo.de/pdf/013780)
+[Candesartancilexetil-CT 4 mg / 8 mg / 16 mg / 32 mg](data/013780.pdf)
 
-[Candesartancilexetil comp.-CT 32 mg/12,5 mg Tabletten](http://www.fachinfo.de/pdf/013781)
+[Candesartancilexetil comp.-CT 32 mg/12,5 mg Tabletten](data/013781.pdf)
 
-[Candesartancilexetil comp.-CT 8 mg/12,5 mg Tabletten](http://www.fachinfo.de/pdf/013782)
+[Candesartancilexetil comp.-CT 8 mg/12,5 mg Tabletten](data/013782.pdf)
 
-[Ramipril comp.-CT 5 mg / 12,5 mg](http://www.fachinfo.de/pdf/013784)
+[Ramipril comp.-CT 5 mg / 12,5 mg](data/013784.pdf)
 
-[Ramipril comp. AbZ 5 mg / 12,5 mg](http://www.fachinfo.de/pdf/013785)
+[Ramipril comp. AbZ 5 mg / 12,5 mg](data/013785.pdf)
 
-[Quetiapin-Hormosan Filmtabletten](http://www.fachinfo.de/pdf/013800)
+[Quetiapin-Hormosan Filmtabletten](data/013800.pdf)
 
-[Vimpat® 10 mg/ml Sirup](http://www.fachinfo.de/pdf/013802)
+[Vimpat® 10 mg/ml Sirup](data/013802.pdf)
 
-[Eurartesim® 320/40 mg Filmtabletten](http://www.fachinfo.de/pdf/013806)
+[Eurartesim® 320/40 mg Filmtabletten](data/013806.pdf)
 
-[Furosemid-ratiopharm® 125 mg/250 mg](http://www.fachinfo.de/pdf/013810)
+[Furosemid-ratiopharm® 125 mg/250 mg](data/013810.pdf)
 
-[Furosemid-ratiopharm® 40/500 mg](http://www.fachinfo.de/pdf/013811)
+[Furosemid-ratiopharm® 40/500 mg](data/013811.pdf)
 
-[Donepezilhydrochlorid Heumann 5 mg/10 mg](http://www.fachinfo.de/pdf/013815)
+[Donepezilhydrochlorid Heumann 5 mg/10 mg](data/013815.pdf)
 
-[Metamizol AbZ 500 mg Tabletten](http://www.fachinfo.de/pdf/013816)
+[Metamizol AbZ 500 mg Tabletten](data/013816.pdf)
 
-[Metamizol-CT 500 mg Tabletten](http://www.fachinfo.de/pdf/013817)
+[Metamizol-CT 500 mg Tabletten](data/013817.pdf)
 
-[Cefpodoxim-CT 40 mg/5 ml Pulver zur Herstellung](http://www.fachinfo.de/pdf/013822)
+[Cefpodoxim-CT 40 mg/5 ml Pulver zur Herstellung](data/013822.pdf)
 
-[Vinorelbin onkovis 10 mg/ml](http://www.fachinfo.de/pdf/013830)
+[Vinorelbin onkovis 10 mg/ml](data/013830.pdf)
 
-[Pylera® 140 mg/125 mg/125 mg](http://www.fachinfo.de/pdf/013842)
+[Pylera® 140 mg/125 mg/125 mg](data/013842.pdf)
 
-[Mowel ® 250 mg/500 mg Filmtabletten](http://www.fachinfo.de/pdf/013843)
+[Mowel ® 250 mg/500 mg Filmtabletten](data/013843.pdf)
 
-[Levetiracetam-ratiopharm® 100 mg/ml](http://www.fachinfo.de/pdf/013846)
+[Levetiracetam-ratiopharm® 100 mg/ml](data/013846.pdf)
 
-[Sultamicillin-ratiopharm®](http://www.fachinfo.de/pdf/013847)
+[Sultamicillin-ratiopharm®](data/013847.pdf)
 
-[Mitoxantron TEVA® 2 mg/ml](http://www.fachinfo.de/pdf/013849)
+[Mitoxantron TEVA® 2 mg/ml](data/013849.pdf)
 
-[VAXIGRIP® 2015/2016](http://www.fachinfo.de/pdf/013854)
+[VAXIGRIP® 2015/2016](data/013854.pdf)
 
-[Donepezilhydrochlorid Heumann 5 mg/10 mg](http://www.fachinfo.de/pdf/013869)
+[Donepezilhydrochlorid Heumann 5 mg/10 mg](data/013869.pdf)
 
-[Femikadin® 30](http://www.fachinfo.de/pdf/013872)
+[Femikadin® 30](data/013872.pdf)
 
-[DAYLETTE® 0,02 mg/3 mg](http://www.fachinfo.de/pdf/013876)
+[DAYLETTE® 0,02 mg/3 mg](data/013876.pdf)
 
-[MAITALON® 20 0,02 mg/3 mg](http://www.fachinfo.de/pdf/013877)
+[MAITALON® 20 0,02 mg/3 mg](data/013877.pdf)
 
-[MAITALON® 30 0,03 mg/3 mg](http://www.fachinfo.de/pdf/013878)
+[MAITALON® 30 0,03 mg/3 mg](data/013878.pdf)
 
-[Spasuret ® 200 mg](http://www.fachinfo.de/pdf/013880)
+[Spasuret ® 200 mg](data/013880.pdf)
 
-[Calcitrat®](http://www.fachinfo.de/pdf/013882)
+[Calcitrat®](data/013882.pdf)
 
-[Hylak® N](http://www.fachinfo.de/pdf/013883)
+[Hylak® N](data/013883.pdf)
 
-[Hylak® plus acidophilus](http://www.fachinfo.de/pdf/013884)
+[Hylak® plus acidophilus](data/013884.pdf)
 
-[Zolmitriptan-Hormosan 2,5 mg Filmtabletten](http://www.fachinfo.de/pdf/013898)
+[Zolmitriptan-Hormosan 2,5 mg Filmtabletten](data/013898.pdf)
 
-[Zolmitriptan-Hormosan 2,5 mg Schmelztabletten](http://www.fachinfo.de/pdf/013899)
+[Zolmitriptan-Hormosan 2,5 mg Schmelztabletten](data/013899.pdf)
 
-[Larbex® Steri-Neb® 0,5 mg/2 ml](http://www.fachinfo.de/pdf/013928)
+[Larbex® Steri-Neb® 0,5 mg/2 ml](data/013928.pdf)
 
-[Revatio ® 10 mg/ml](http://www.fachinfo.de/pdf/013946)
+[Revatio ® 10 mg/ml](data/013946.pdf)
 
-[FLUTAMID-biosyn](http://www.fachinfo.de/pdf/013950)
+[FLUTAMID-biosyn](data/013950.pdf)
 
-[Riboirino ®](http://www.fachinfo.de/pdf/013953)
+[Riboirino ®](data/013953.pdf)
 
-[OXALIPLATIN BENDALIS 5 mg/ml](http://www.fachinfo.de/pdf/013967)
+[OXALIPLATIN BENDALIS 5 mg/ml](data/013967.pdf)
 
-[Imupret® N Dragees](http://www.fachinfo.de/pdf/013970)
+[Imupret® N Dragees](data/013970.pdf)
 
-[Humantis Dolex ® 1500 mg Filmtabletten](http://www.fachinfo.de/pdf/013971)
+[Humantis Dolex ® 1500 mg Filmtabletten](data/013971.pdf)
 
-[Desloraderm 5 mg](http://www.fachinfo.de/pdf/013979)
+[Desloraderm 5 mg](data/013979.pdf)
 
-[Desloraderm 0,5 mg/ml](http://www.fachinfo.de/pdf/013980)
+[Desloraderm 0,5 mg/ml](data/013980.pdf)
 
-[Imupret® N Tropfen](http://www.fachinfo.de/pdf/013985)
+[Imupret® N Tropfen](data/013985.pdf)
 
-[docetaxel axios 20 mg/1 ml, - 80 mg/4 ml](http://www.fachinfo.de/pdf/013986)
+[docetaxel axios 20 mg/1 ml, - 80 mg/4 ml](data/013986.pdf)
 
-[Hydromorphon-HCl-ratiopharm®](http://www.fachinfo.de/pdf/013989)
+[Hydromorphon-HCl-ratiopharm®](data/013989.pdf)
 
-[Irbesartan-ratiopharm® 75 mg/- 150 mg/- 300 mg](http://www.fachinfo.de/pdf/013990)
+[Irbesartan-ratiopharm® 75 mg/- 150 mg/- 300 mg](data/013990.pdf)
 
-[Irbesartan AbZ 75 mg / 150 mg / 225 mg / 300 mg](http://www.fachinfo.de/pdf/013991)
+[Irbesartan AbZ 75 mg / 150 mg / 225 mg / 300 mg](data/013991.pdf)
 
-[Irbesartan-CT 75 mg / 150 mg / 300 mg](http://www.fachinfo.de/pdf/013992)
+[Irbesartan-CT 75 mg / 150 mg / 300 mg](data/013992.pdf)
 
-[Irbesartan-ratiopharm® 225 mg](http://www.fachinfo.de/pdf/013993)
+[Irbesartan-ratiopharm® 225 mg](data/013993.pdf)
 
-[Recatol ® mono](http://www.fachinfo.de/pdf/013995)
+[Recatol ® mono](data/013995.pdf)
 
-[Antiadipositum RIEMSER](http://www.fachinfo.de/pdf/013996)
+[Antiadipositum RIEMSER](data/013996.pdf)
 
-[NEVANAC®](http://www.fachinfo.de/pdf/013997)
+[NEVANAC®](data/013997.pdf)
 
-[Finic®](http://www.fachinfo.de/pdf/013999)
+[Finic®](data/013999.pdf)
 
-[isicom® retard 100 mg/25 mg](http://www.fachinfo.de/pdf/014004)
+[isicom® retard 100 mg/25 mg](data/014004.pdf)
 
-[isicom® retard 200 mg/50 mg](http://www.fachinfo.de/pdf/014005)
+[isicom® retard 200 mg/50 mg](data/014005.pdf)
 
-[Dorzolamid Heumann 20 mg/ml](http://www.fachinfo.de/pdf/014006)
+[Dorzolamid Heumann 20 mg/ml](data/014006.pdf)
 
-[Colobreathe 1.662.500 IE](http://www.fachinfo.de/pdf/014008)
+[Colobreathe 1.662.500 IE](data/014008.pdf)
 
-[Cefpodoxim-ratiopharm® 40 mg/5 ml](http://www.fachinfo.de/pdf/014010)
+[Cefpodoxim-ratiopharm® 40 mg/5 ml](data/014010.pdf)
 
-[Ibandronsäure ratiopharm® 150 mg](http://www.fachinfo.de/pdf/014017)
+[Ibandronsäure ratiopharm® 150 mg](data/014017.pdf)
 
-[Ibandronsäure AbZ 150 mg](http://www.fachinfo.de/pdf/014018)
+[Ibandronsäure AbZ 150 mg](data/014018.pdf)
 
-[Tolterodin-ratiopharm® 1 mg Filmtabletten](http://www.fachinfo.de/pdf/014019)
+[Tolterodin-ratiopharm® 1 mg Filmtabletten](data/014019.pdf)
 
-[Donepezil-HCl Hormosan 5 mg/10 mg](http://www.fachinfo.de/pdf/014033)
+[Donepezil-HCl Hormosan 5 mg/10 mg](data/014033.pdf)
 
-[ben-u-ron® direkt Erdbeer/Vanille 500 mg](http://www.fachinfo.de/pdf/014037)
+[ben-u-ron® direkt Erdbeer/Vanille 500 mg](data/014037.pdf)
 
-[MICLAST ®](http://www.fachinfo.de/pdf/014040)
+[MICLAST ®](data/014040.pdf)
 
-[Sibilla®](http://www.fachinfo.de/pdf/014049)
+[Sibilla®](data/014049.pdf)
 
-[Desloratadin-Hormosan 5 mg](http://www.fachinfo.de/pdf/014055)
+[Desloratadin-Hormosan 5 mg](data/014055.pdf)
 
-[Alendronsäure Heumann 10 mg](http://www.fachinfo.de/pdf/014062)
+[Alendronsäure Heumann 10 mg](data/014062.pdf)
 
-[Naratriptan Heumann bei Migräne](http://www.fachinfo.de/pdf/014063)
+[Naratriptan Heumann bei Migräne](data/014063.pdf)
 
-[Paracetamol](http://www.fachinfo.de/pdf/014070)
+[Paracetamol](data/014070.pdf)
 
 [Propofol Claris 1 % (10 mg/ml)
-](http://www.fachinfo.de/pdf/014078)
+](data/014078.pdf)
 
 [Propofol Claris 2 % (20 mg/ml)
- MCT](http://www.fachinfo.de/pdf/014079)
+ MCT](data/014079.pdf)
 
-[Rabeprazol-ratiopharm® 10 mg / 20 mg](http://www.fachinfo.de/pdf/014081)
+[Rabeprazol-ratiopharm® 10 mg / 20 mg](data/014081.pdf)
 
-[Rivastigmin-ratiopharm® 1,5 mg / 3 mg / 4,5 mg / 6 mg](http://www.fachinfo.de/pdf/014082)
+[Rivastigmin-ratiopharm® 1,5 mg / 3 mg / 4,5 mg / 6 mg](data/014082.pdf)
 
-[IMODIUM®](http://www.fachinfo.de/pdf/014085)
+[IMODIUM®](data/014085.pdf)
 
-[Clonidin-ratiopharm® 75](http://www.fachinfo.de/pdf/014086)
+[Clonidin-ratiopharm® 75](data/014086.pdf)
 
-[Ibandronsäure-CT 3 mg](http://www.fachinfo.de/pdf/014108)
+[Ibandronsäure-CT 3 mg](data/014108.pdf)
 
-[Ibandronsäure-ratiopharm® 3 mg](http://www.fachinfo.de/pdf/014111)
+[Ibandronsäure-ratiopharm® 3 mg](data/014111.pdf)
 
-[Oxycodonhydrochlorid-CT 5 mg](http://www.fachinfo.de/pdf/014125)
+[Oxycodonhydrochlorid-CT 5 mg](data/014125.pdf)
 
-[Levofloxacin Ibisqus 5 mg/ml](http://www.fachinfo.de/pdf/014126)
+[Levofloxacin Ibisqus 5 mg/ml](data/014126.pdf)
 
-[Acicutan 10 mg Hartkapseln](http://www.fachinfo.de/pdf/014128)
+[Acicutan 10 mg Hartkapseln](data/014128.pdf)
 
-[Gabapentin Pfizer 100/ 300/ 400 mg](http://www.fachinfo.de/pdf/014131)
+[Gabapentin Pfizer 100/ 300/ 400 mg](data/014131.pdf)
 
-[Gabapentin Pfizer 600/ 800 mg](http://www.fachinfo.de/pdf/014132)
+[Gabapentin Pfizer 600/ 800 mg](data/014132.pdf)
 
-[Desloratadin Heumann 0,5 mg/ml](http://www.fachinfo.de/pdf/014136)
+[Desloratadin Heumann 0,5 mg/ml](data/014136.pdf)
 
-[Desloratadin Heumann 5 mg](http://www.fachinfo.de/pdf/014137)
+[Desloratadin Heumann 5 mg](data/014137.pdf)
 
-[Irbesartan-CT 225 mg](http://www.fachinfo.de/pdf/014152)
+[Irbesartan-CT 225 mg](data/014152.pdf)
 
-[Valsartan comp. Heumann](http://www.fachinfo.de/pdf/014154)
+[Valsartan comp. Heumann](data/014154.pdf)
 
-[Gamunex 10 % – Infusionslösung](http://www.fachinfo.de/pdf/014157)
+[Gamunex 10 % – Infusionslösung](data/014157.pdf)
 
-[Azithromycin-ratiopharm® 250 mg](http://www.fachinfo.de/pdf/014164)
+[Azithromycin-ratiopharm® 250 mg](data/014164.pdf)
 
-[Azithromycin-ratiopharm® 500 mg](http://www.fachinfo.de/pdf/014165)
+[Azithromycin-ratiopharm® 500 mg](data/014165.pdf)
 
-[Valsartan Heumann 320 mg](http://www.fachinfo.de/pdf/014168)
+[Valsartan Heumann 320 mg](data/014168.pdf)
 
-[Levetiragamma® 250/500/750/1000 mg](http://www.fachinfo.de/pdf/014170)
+[Levetiragamma® 250/500/750/1000 mg](data/014170.pdf)
 
-[Urapidil Stragen i.v. 100 mg](http://www.fachinfo.de/pdf/014172)
+[Urapidil Stragen i.v. 100 mg](data/014172.pdf)
 
-[Urapidil Stragen i.v. 25 mg](http://www.fachinfo.de/pdf/014173)
+[Urapidil Stragen i.v. 25 mg](data/014173.pdf)
 
-[Urapidil Stragen i.v. 50 mg](http://www.fachinfo.de/pdf/014174)
+[Urapidil Stragen i.v. 50 mg](data/014174.pdf)
 
-[Tolterodin-Hormosan 4 mg](http://www.fachinfo.de/pdf/014180)
+[Tolterodin-Hormosan 4 mg](data/014180.pdf)
 
-[flutiform® 50 Mikrogramm/5 Mikrogramm pro Sprühstoß](http://www.fachinfo.de/pdf/014182)
+[flutiform® 50 Mikrogramm/5 Mikrogramm pro Sprühstoß](data/014182.pdf)
 
-[flutiform® 125 Mikrogramm/5 Mikrogramm pro Sprühstoß](http://www.fachinfo.de/pdf/014183)
+[flutiform® 125 Mikrogramm/5 Mikrogramm pro Sprühstoß](data/014183.pdf)
 
-[flutiform® 250 Mikrogramm/10 Mikrogramm pro Sprühstoß](http://www.fachinfo.de/pdf/014184)
+[flutiform® 250 Mikrogramm/10 Mikrogramm pro Sprühstoß](data/014184.pdf)
 
-[Humatin ® Kapseln](http://www.fachinfo.de/pdf/014185)
+[Humatin ® Kapseln](data/014185.pdf)
 
-[Fenizolan® 2 % Creme](http://www.fachinfo.de/pdf/014186)
+[Fenizolan® 2 % Creme](data/014186.pdf)
 
-[Lidocain](http://www.fachinfo.de/pdf/014190)
+[Lidocain](data/014190.pdf)
 
-[Fycompa® Filmtabletten](http://www.fachinfo.de/pdf/014193)
+[Fycompa® Filmtabletten](data/014193.pdf)
 
-[Krewel Meuselbach GmbH Aspecton ® Eukaps 200 mg](http://www.fachinfo.de/pdf/014194)
+[Krewel Meuselbach GmbH Aspecton ® Eukaps 200 mg](data/014194.pdf)
 
-[Buprenorphin AbZ 2 mg Sublingualtabletten](http://www.fachinfo.de/pdf/014207)
+[Buprenorphin AbZ 2 mg Sublingualtabletten](data/014207.pdf)
 
-[Riluzol-Hormosan 50 mg](http://www.fachinfo.de/pdf/014208)
+[Riluzol-Hormosan 50 mg](data/014208.pdf)
 
-[Damara® 75 Mikrogramm](http://www.fachinfo.de/pdf/014220)
+[Damara® 75 Mikrogramm](data/014220.pdf)
 
-[Pravastatin-ratiopharm® 10 mg / 20 mg / 40 mg](http://www.fachinfo.de/pdf/014230)
+[Pravastatin-ratiopharm® 10 mg / 20 mg / 40 mg](data/014230.pdf)
 
-[Pravastatin-CT 10 mg / 20 mg / 40 mg](http://www.fachinfo.de/pdf/014231)
+[Pravastatin-CT 10 mg / 20 mg / 40 mg](data/014231.pdf)
 
-[IBU-ratiopharm®](http://www.fachinfo.de/pdf/014232)
+[IBU-ratiopharm®](data/014232.pdf)
 
-[IBU-ratiopharm®](http://www.fachinfo.de/pdf/014233)
+[IBU-ratiopharm®](data/014233.pdf)
 
-[docetaxel axios 20 mg/ml](http://www.fachinfo.de/pdf/014236)
+[docetaxel axios 20 mg/ml](data/014236.pdf)
 
-[Desloratadin AbZ 5 mg Filmtabletten](http://www.fachinfo.de/pdf/014266)
+[Desloratadin AbZ 5 mg Filmtabletten](data/014266.pdf)
 
-[CILODEX® 3 mg/ml / 1 mg/ml](http://www.fachinfo.de/pdf/014268)
+[CILODEX® 3 mg/ml / 1 mg/ml](data/014268.pdf)
 
-[Cisplatin-HAEMATO 1 mg/ml](http://www.fachinfo.de/pdf/014278)
+[Cisplatin-HAEMATO 1 mg/ml](data/014278.pdf)
 
-[Gemcitabin-HAEMATO 200 mg](http://www.fachinfo.de/pdf/014282)
+[Gemcitabin-HAEMATO 200 mg](data/014282.pdf)
 
-[Gemcitabin-HAEMATO 1000 mg](http://www.fachinfo.de/pdf/014283)
+[Gemcitabin-HAEMATO 1000 mg](data/014283.pdf)
 
-[Irinotecan-HAEMATO 20 mg/ml](http://www.fachinfo.de/pdf/014285)
+[Irinotecan-HAEMATO 20 mg/ml](data/014285.pdf)
 
-[Letrozol-HAEMATO 2,5 mg](http://www.fachinfo.de/pdf/014286)
+[Letrozol-HAEMATO 2,5 mg](data/014286.pdf)
 
-[Vinorelbin-HAEMATO 10 mg/ml](http://www.fachinfo.de/pdf/014289)
+[Vinorelbin-HAEMATO 10 mg/ml](data/014289.pdf)
 
-[Montelukast-ratiopharm® 4 mg](http://www.fachinfo.de/pdf/014298)
+[Montelukast-ratiopharm® 4 mg](data/014298.pdf)
 
-[Tolterodin-ratiopharm® 4 mg](http://www.fachinfo.de/pdf/014300)
+[Tolterodin-ratiopharm® 4 mg](data/014300.pdf)
 
-[Tolterodin AbZ 4 mg](http://www.fachinfo.de/pdf/014301)
+[Tolterodin AbZ 4 mg](data/014301.pdf)
 
-[Muxan®](http://www.fachinfo.de/pdf/014319)
+[Muxan®](data/014319.pdf)
 
-[Lamivudin/Zidovudin Teva](http://www.fachinfo.de/pdf/014322)
+[Lamivudin/Zidovudin Teva](data/014322.pdf)
 
-[Atorvastatin-ratiopharm® 30 mg / 60 mg](http://www.fachinfo.de/pdf/014327)
+[Atorvastatin-ratiopharm® 30 mg / 60 mg](data/014327.pdf)
 
-[Atorvastatin AbZ 30 mg / 60 mg](http://www.fachinfo.de/pdf/014328)
+[Atorvastatin AbZ 30 mg / 60 mg](data/014328.pdf)
 
-[Atorvastatin-CT 30 mg/60 mg](http://www.fachinfo.de/pdf/014329)
+[Atorvastatin-CT 30 mg/60 mg](data/014329.pdf)
 
-[Crataegutt® 80 mg](http://www.fachinfo.de/pdf/014342)
+[Crataegutt® 80 mg](data/014342.pdf)
 
-[Crataegutt® novo 450 mg](http://www.fachinfo.de/pdf/014343)
+[Crataegutt® novo 450 mg](data/014343.pdf)
 
-[Crataegutt ® 600 mg](http://www.fachinfo.de/pdf/014344)
+[Crataegutt ® 600 mg](data/014344.pdf)
 
-[Crataegutt ® Tropfen](http://www.fachinfo.de/pdf/014345)
+[Crataegutt ® Tropfen](data/014345.pdf)
 
-[Prostagutt® forte 80/60 mg](http://www.fachinfo.de/pdf/014346)
+[Prostagutt® forte 80/60 mg](data/014346.pdf)
 
-[Prostagutt ® forte 160/120 mg](http://www.fachinfo.de/pdf/014347)
+[Prostagutt ® forte 160/120 mg](data/014347.pdf)
 
-[Prostagutt ® uno](http://www.fachinfo.de/pdf/014348)
+[Prostagutt ® uno](data/014348.pdf)
 
-[Prostagutt ® mono](http://www.fachinfo.de/pdf/014349)
+[Prostagutt ® mono](data/014349.pdf)
 
-[Euvegal® 320/160 mg](http://www.fachinfo.de/pdf/014350)
+[Euvegal® 320/160 mg](data/014350.pdf)
 
-[Euvegal® Balance 500 mg](http://www.fachinfo.de/pdf/014351)
+[Euvegal® Balance 500 mg](data/014351.pdf)
 
-[Thyreogutt ® mono Tabletten](http://www.fachinfo.de/pdf/014352)
+[Thyreogutt ® mono Tabletten](data/014352.pdf)
 
-[Venoplant® retard S](http://www.fachinfo.de/pdf/014353)
+[Venoplant® retard S](data/014353.pdf)
 
-[ZYVOXID ® 2 mg/ml](http://www.fachinfo.de/pdf/014358)
+[ZYVOXID ® 2 mg/ml](data/014358.pdf)
 
-[Picato® 150 Mikrogramm/g Gel](http://www.fachinfo.de/pdf/014363)
+[Picato® 150 Mikrogramm/g Gel](data/014363.pdf)
 
-[Picato® 500 Mikrogramm/g Gel](http://www.fachinfo.de/pdf/014364)
+[Picato® 500 Mikrogramm/g Gel](data/014364.pdf)
 
-[Neuroplant®](http://www.fachinfo.de/pdf/014366)
+[Neuroplant®](data/014366.pdf)
 
-[Neuroplant® Aktiv](http://www.fachinfo.de/pdf/014367)
+[Neuroplant® Aktiv](data/014367.pdf)
 
-[Evakadin® 75 Mikrogramm Filmtabletten](http://www.fachinfo.de/pdf/014383)
+[Evakadin® 75 Mikrogramm Filmtabletten](data/014383.pdf)
 
-[Aqua ad Iniectabilia ex Colonia](http://www.fachinfo.de/pdf/014384)
+[Aqua ad Iniectabilia ex Colonia](data/014384.pdf)
 
-[Montelukast AbZ 4 mg Kautabletten](http://www.fachinfo.de/pdf/014388)
+[Montelukast AbZ 4 mg Kautabletten](data/014388.pdf)
 
-[Montelukast AbZ 5 mg Kautabletten](http://www.fachinfo.de/pdf/014389)
+[Montelukast AbZ 5 mg Kautabletten](data/014389.pdf)
 
-[Clarithromycin AbZ 250 mg / 500 mg](http://www.fachinfo.de/pdf/014393)
+[Clarithromycin AbZ 250 mg / 500 mg](data/014393.pdf)
 
-[Riluzol Heumann 50 mg](http://www.fachinfo.de/pdf/014394)
+[Riluzol Heumann 50 mg](data/014394.pdf)
 
-[Progestan®](http://www.fachinfo.de/pdf/014395)
+[Progestan®](data/014395.pdf)
 
-[http://www.fachinfo.de/pdf/014396](KOROLINDA)
+[data/014396.pdf](KOROLINDA)
 
-[Desofemono® 75](http://www.fachinfo.de/pdf/014399)
+[Desofemono® 75](data/014399.pdf)
 
-[Omega-3-Säurenethylester 90 Heumann](http://www.fachinfo.de/pdf/014401)
+[Omega-3-Säurenethylester 90 Heumann](data/014401.pdf)
 
-[Finalgon® 4 mg/g + 25 mg/g Salbe](http://www.fachinfo.de/pdf/014421)
+[Finalgon® 4 mg/g + 25 mg/g Salbe](data/014421.pdf)
 
-[Tramagit® Tabletten](http://www.fachinfo.de/pdf/014436)
+[Tramagit® Tabletten](data/014436.pdf)
 
-[Tramagit® 100 mg/ml](http://www.fachinfo.de/pdf/014437)
+[Tramagit® 100 mg/ml](data/014437.pdf)
 
-[Atorvastatin-ratiopharm® 10 mg / 20 mg / 40 mg / 80 mg](http://www.fachinfo.de/pdf/014438)
+[Atorvastatin-ratiopharm® 10 mg / 20 mg / 40 mg / 80 mg](data/014438.pdf)
 
-[Quetiapin-ratiopharm® 50 mg / 150 mg / 200 mg / 300 mg / 400 mg](http://www.fachinfo.de/pdf/014442)
+[Quetiapin-ratiopharm® 50 mg / 150 mg / 200 mg / 300 mg / 400 mg](data/014442.pdf)
 
-[Quetiapin AbZ 50 mg / 150 mg / 200 mg / 300 mg / 400 mg](http://www.fachinfo.de/pdf/014443)
+[Quetiapin AbZ 50 mg / 150 mg / 200 mg / 300 mg / 400 mg](data/014443.pdf)
 
-[Quetiapin-CT 50 mg / 150 mg / 200 mg / 300 mg / 400 mg](http://www.fachinfo.de/pdf/014444)
+[Quetiapin-CT 50 mg / 150 mg / 200 mg / 300 mg / 400 mg](data/014444.pdf)
 
-[Tobramycin Teva® 300 mg / 5 ml Steri-Neb®](http://www.fachinfo.de/pdf/014445)
+[Tobramycin Teva® 300 mg / 5 ml Steri-Neb®](data/014445.pdf)
 
-[Ofloxacin-ratiopharm 3 mg/ml](http://www.fachinfo.de/pdf/014448)
+[Ofloxacin-ratiopharm 3 mg/ml](data/014448.pdf)
 
-[Venostasin®-Creme](http://www.fachinfo.de/pdf/014454)
+[Venostasin®-Creme](data/014454.pdf)
 
-[Venostasin®-Gel Aescin](http://www.fachinfo.de/pdf/014455)
+[Venostasin®-Gel Aescin](data/014455.pdf)
 
-[Ribodocel® 20 mg/ml](http://www.fachinfo.de/pdf/014456)
+[Ribodocel® 20 mg/ml](data/014456.pdf)
 
-[Retef AP 0,127 % Creme](http://www.fachinfo.de/pdf/014457)
+[Retef AP 0,127 % Creme](data/014457.pdf)
 
-[Clarithromycin-CT 250 mg/500 mg](http://www.fachinfo.de/pdf/014458)
+[Clarithromycin-CT 250 mg/500 mg](data/014458.pdf)
 
-[Enriqa®](http://www.fachinfo.de/pdf/014459)
+[Enriqa®](data/014459.pdf)
 
-[Minisiston ® überzogene Tabletten](http://www.fachinfo.de/pdf/014467)
+[Minisiston ® überzogene Tabletten](data/014467.pdf)
 
-[Minisiston® 20 fem überzogene Tabletten](http://www.fachinfo.de/pdf/014468)
+[Minisiston® 20 fem überzogene Tabletten](data/014468.pdf)
 
-[Trisiston ® überzogene Tabletten](http://www.fachinfo.de/pdf/014470)
+[Trisiston ® überzogene Tabletten](data/014470.pdf)
 
-[Montelukast-Hormosan 4 mg/5 mg](http://www.fachinfo.de/pdf/014474)
+[Montelukast-Hormosan 4 mg/5 mg](data/014474.pdf)
 
-[Montelukast-Hormosan 10 mg](http://www.fachinfo.de/pdf/014475)
+[Montelukast-Hormosan 10 mg](data/014475.pdf)
 
-[Midazolam-hameln](http://www.fachinfo.de/pdf/014508)
+[Midazolam-hameln](data/014508.pdf)
 
-[Canesten® Extra Spray](http://www.fachinfo.de/pdf/014509)
+[Canesten® Extra Spray](data/014509.pdf)
 
-[Quetiapin Heumann Filmtabletten](http://www.fachinfo.de/pdf/014512)
+[Quetiapin Heumann Filmtabletten](data/014512.pdf)
 
-[Sildenafil ratiopharm 25 mg/ 50 mg / 100 mg](http://www.fachinfo.de/pdf/014513)
+[Sildenafil ratiopharm 25 mg/ 50 mg / 100 mg](data/014513.pdf)
 
-[Naratriptan-Hormosan 2,5 mg](http://www.fachinfo.de/pdf/014525)
+[Naratriptan-Hormosan 2,5 mg](data/014525.pdf)
 
-[Kalydeco® 150 mg Filmtabletten](http://www.fachinfo.de/pdf/014527)
+[Kalydeco® 150 mg Filmtabletten](data/014527.pdf)
 
-[mit Prägung „800“ auf der einen Seite und](http://www.fachinfo.de/pdf/014534)
+[mit Prägung „800“ auf der einen Seite und](data/014534.pdf)
 
-[Perjeta® 420 mg](http://www.fachinfo.de/pdf/014535)
+[Perjeta® 420 mg](data/014535.pdf)
 
-[Gravistat ® 125 fem überzogene Tabletten](http://www.fachinfo.de/pdf/014539)
+[Gravistat ® 125 fem überzogene Tabletten](data/014539.pdf)
 
-[Lederlon® 5 mg](http://www.fachinfo.de/pdf/014541)
+[Lederlon® 5 mg](data/014541.pdf)
 
-[Lederlon® 20 mg](http://www.fachinfo.de/pdf/014542)
+[Lederlon® 20 mg](data/014542.pdf)
 
-[Memantin-ratiopharm® Filmtabletten](http://www.fachinfo.de/pdf/014553)
+[Memantin-ratiopharm® Filmtabletten](data/014553.pdf)
 
-[Memantin AbZ Filmtabletten](http://www.fachinfo.de/pdf/014554)
+[Memantin AbZ Filmtabletten](data/014554.pdf)
 
-[Aciclovir 200 Heumann](http://www.fachinfo.de/pdf/014557)
+[Aciclovir 200 Heumann](data/014557.pdf)
 
-[Aciclovir 400 Heumann](http://www.fachinfo.de/pdf/014558)
+[Aciclovir 400 Heumann](data/014558.pdf)
 
-[Aciclovir 800 Heumann](http://www.fachinfo.de/pdf/014559)
+[Aciclovir 800 Heumann](data/014559.pdf)
 
-[Dorzolamid-Hormosan 20 mg/ml](http://www.fachinfo.de/pdf/014573)
+[Dorzolamid-Hormosan 20 mg/ml](data/014573.pdf)
 
-[Montelukast acis ® 4 mg Kautabletten](http://www.fachinfo.de/pdf/014574)
+[Montelukast acis ® 4 mg Kautabletten](data/014574.pdf)
 
-[Montelukast acis ® 5 mg Kautabletten](http://www.fachinfo.de/pdf/014575)
+[Montelukast acis ® 5 mg Kautabletten](data/014575.pdf)
 
-[Montelukast acis ® 10 mg Filmtabletten](http://www.fachinfo.de/pdf/014576)
+[Montelukast acis ® 10 mg Filmtabletten](data/014576.pdf)
 
-[Sildenafil Pfizer ® 25 mg/50 mg/100 mg](http://www.fachinfo.de/pdf/014580)
+[Sildenafil Pfizer ® 25 mg/50 mg/100 mg](data/014580.pdf)
 
-[Ketozolin ® 2%](http://www.fachinfo.de/pdf/014583)
+[Ketozolin ® 2%](data/014583.pdf)
 
-[Topotecan-HAEMATO](http://www.fachinfo.de/pdf/014584)
+[Topotecan-HAEMATO](data/014584.pdf)
 
-[Raloxifen Teva 60 mg Filmtabletten](http://www.fachinfo.de/pdf/014590)
+[Raloxifen Teva 60 mg Filmtabletten](data/014590.pdf)
 
-[Fluvastatin-ratiopharm® 20 mg / 40 mg](http://www.fachinfo.de/pdf/014591)
+[Fluvastatin-ratiopharm® 20 mg / 40 mg](data/014591.pdf)
 
-[Elacutan® Fettcreme](http://www.fachinfo.de/pdf/014594)
+[Elacutan® Fettcreme](data/014594.pdf)
 
-[MYKUNDEX® mono Salbe](http://www.fachinfo.de/pdf/014595)
+[MYKUNDEX® mono Salbe](data/014595.pdf)
 
-[L-Thyroxin-Na AbZ Tabletten](http://www.fachinfo.de/pdf/014598)
+[L-Thyroxin-Na AbZ Tabletten](data/014598.pdf)
 
-[Diclo-ratiopharm® Schmerzgel](http://www.fachinfo.de/pdf/014600)
+[Diclo-ratiopharm® Schmerzgel](data/014600.pdf)
 
-[Ziprasidon-Hormosan Hartkapseln](http://www.fachinfo.de/pdf/014602)
+[Ziprasidon-Hormosan Hartkapseln](data/014602.pdf)
 
-[Klein Hyperforat ® Vitahom](http://www.fachinfo.de/pdf/014605)
+[Klein Hyperforat ® Vitahom](data/014605.pdf)
 
-[Nevirapin-Hormosan 200 mg](http://www.fachinfo.de/pdf/014606)
+[Nevirapin-Hormosan 200 mg](data/014606.pdf)
 
-[Clopigamma® 75 mg](http://www.fachinfo.de/pdf/014610)
+[Clopigamma® 75 mg](data/014610.pdf)
 
-[Montelukast Heumann 10 mg Filmtabletten](http://www.fachinfo.de/pdf/014624)
+[Montelukast Heumann 10 mg Filmtabletten](data/014624.pdf)
 
-[Montelukast Heumann 5 mg](http://www.fachinfo.de/pdf/014644)
+[Montelukast Heumann 5 mg](data/014644.pdf)
 
-[Nevirapin-ratiopharm® 200 mg Tabletten](http://www.fachinfo.de/pdf/014645)
+[Nevirapin-ratiopharm® 200 mg Tabletten](data/014645.pdf)
 
-[Vertigoheel® Tabletten](http://www.fachinfo.de/pdf/014648)
+[Vertigoheel® Tabletten](data/014648.pdf)
 
-[Vertigoheel® Mischung](http://www.fachinfo.de/pdf/014649)
+[Vertigoheel® Mischung](data/014649.pdf)
 
-[Neurexan® Mischung](http://www.fachinfo.de/pdf/014650)
+[Neurexan® Mischung](data/014650.pdf)
 
-[Neurexan® Tabletten](http://www.fachinfo.de/pdf/014651)
+[Neurexan® Tabletten](data/014651.pdf)
 
-[Montelukast Heumann 10 mg](http://www.fachinfo.de/pdf/014655)
+[Montelukast Heumann 10 mg](data/014655.pdf)
 
-[Simvastatin AbZ 10 mg / 20 mg /40 mg / 80 mg](http://www.fachinfo.de/pdf/014659)
+[Simvastatin AbZ 10 mg / 20 mg /40 mg / 80 mg](data/014659.pdf)
 
-[Elacutan® Creme, 10 %](http://www.fachinfo.de/pdf/014660)
+[Elacutan® Creme, 10 %](data/014660.pdf)
 
-[Sildenafil-Hormosan Filmtabletten](http://www.fachinfo.de/pdf/014661)
+[Sildenafil-Hormosan Filmtabletten](data/014661.pdf)
 
-[Galantamin Heumann 8 mg/- 16 mg/- 24 mg](http://www.fachinfo.de/pdf/014662)
+[Galantamin Heumann 8 mg/- 16 mg/- 24 mg](data/014662.pdf)
 
-[Rivastigmin Heumann 4,6 mg/24 Stunden transdermales Pflaster](http://www.fachinfo.de/pdf/014664)
+[Rivastigmin Heumann 4,6 mg/24 Stunden transdermales Pflaster](data/014664.pdf)
 
-[Prednicarbat acis® Lösung](http://www.fachinfo.de/pdf/014666)
+[Prednicarbat acis® Lösung](data/014666.pdf)
 
-[BoxaGrippal® 200 mg / 30 mg](http://www.fachinfo.de/pdf/014667)
+[BoxaGrippal® 200 mg / 30 mg](data/014667.pdf)
 
-[Vaprino® Gegen akuten Durchfall](http://www.fachinfo.de/pdf/014668)
+[Vaprino® Gegen akuten Durchfall](data/014668.pdf)
 
-[Carboplat onkovis 10 mg/ml](http://www.fachinfo.de/pdf/014678)
+[Carboplat onkovis 10 mg/ml](data/014678.pdf)
 
-[MYKUNDEX® Heilsalbe](http://www.fachinfo.de/pdf/014684)
+[MYKUNDEX® Heilsalbe](data/014684.pdf)
 
-[MAITALON® 20/21 + 7 0,02 mg/3 mg](http://www.fachinfo.de/pdf/014685)
+[MAITALON® 20/21 + 7 0,02 mg/3 mg](data/014685.pdf)
 
-[MAITALON® 30/21 + 7 0,03 mg/3 mg](http://www.fachinfo.de/pdf/014686)
+[MAITALON® 30/21 + 7 0,03 mg/3 mg](data/014686.pdf)
 
-[Kytta® Geruchsneutral](http://www.fachinfo.de/pdf/014687)
+[Kytta® Geruchsneutral](data/014687.pdf)
 
-[ARCTUVAN® Bärentraubenblätter](http://www.fachinfo.de/pdf/014688)
+[ARCTUVAN® Bärentraubenblätter](data/014688.pdf)
 
-[Kleodina 30 μg/125 μg](http://www.fachinfo.de/pdf/014690)
+[Kleodina 30 μg/125 μg](data/014690.pdf)
 
-[Montelukast Heumann 4 mg](http://www.fachinfo.de/pdf/014693)
+[Montelukast Heumann 4 mg](data/014693.pdf)
 
-[Rizatriptan-Hormosan 5 mg Tabletten](http://www.fachinfo.de/pdf/014701)
+[Rizatriptan-Hormosan 5 mg Tabletten](data/014701.pdf)
 
-[Novalgin® 1 g-Injektionslösung](http://www.fachinfo.de/pdf/014709)
+[Novalgin® 1 g-Injektionslösung](data/014709.pdf)
 
-[Ribometa® 4 mg/5 ml](http://www.fachinfo.de/pdf/014712)
+[Ribometa® 4 mg/5 ml](data/014712.pdf)
 
-[Lamotrigin-ratiopharm® 5 mg/25 mg/50 mg/100 mg/200 mg](http://www.fachinfo.de/pdf/014713)
+[Lamotrigin-ratiopharm® 5 mg/25 mg/50 mg/100 mg/200 mg](data/014713.pdf)
 
-[Urokinase 10 000 HS medac](http://www.fachinfo.de/pdf/014715)
+[Urokinase 10 000 HS medac](data/014715.pdf)
 
-[Urokinase 50 000 HS medac](http://www.fachinfo.de/pdf/014716)
+[Urokinase 50 000 HS medac](data/014716.pdf)
 
-[Urokinase 100 000 HS medac](http://www.fachinfo.de/pdf/014717)
+[Urokinase 100 000 HS medac](data/014717.pdf)
 
-[Urokinase 250 000 HS medac](http://www.fachinfo.de/pdf/014718)
+[Urokinase 250 000 HS medac](data/014718.pdf)
 
-[Urokinase HS medac](http://www.fachinfo.de/pdf/014719)
+[Urokinase HS medac](data/014719.pdf)
 
-[Oxycodon-HCl-ratiopharm® 30 mg / 60 mg](http://www.fachinfo.de/pdf/014725)
+[Oxycodon-HCl-ratiopharm® 30 mg / 60 mg](data/014725.pdf)
 
-[Oxycodon-HCl AbZ 30 mg / 60 mg](http://www.fachinfo.de/pdf/014726)
+[Oxycodon-HCl AbZ 30 mg / 60 mg](data/014726.pdf)
 
-[Oxycodon-HCl-CT 30 mg Retardtabletten](http://www.fachinfo.de/pdf/014727)
+[Oxycodon-HCl-CT 30 mg Retardtabletten](data/014727.pdf)
 
-[Sildenafil AbZ 25 / 50 / 100 mg](http://www.fachinfo.de/pdf/014731)
+[Sildenafil AbZ 25 / 50 / 100 mg](data/014731.pdf)
 
-[Valedonis 25 mg / 50 mg / 100 mg](http://www.fachinfo.de/pdf/014732)
+[Valedonis 25 mg / 50 mg / 100 mg](data/014732.pdf)
 
-[Candesartan Heumann 4 mg Tabletten](http://www.fachinfo.de/pdf/014735)
+[Candesartan Heumann 4 mg Tabletten](data/014735.pdf)
 
-[Candesartan Heumann 8 mg/16 mg/32 mg](http://www.fachinfo.de/pdf/014736)
+[Candesartan Heumann 8 mg/16 mg/32 mg](data/014736.pdf)
 
-[Ibandronsäure Ibisqus 2 mg](http://www.fachinfo.de/pdf/014738)
+[Ibandronsäure Ibisqus 2 mg](data/014738.pdf)
 
-[Ibandronsäure Ibisqus 6 mg](http://www.fachinfo.de/pdf/014739)
+[Ibandronsäure Ibisqus 6 mg](data/014739.pdf)
 
-[Ibandronsäure Ibisqus 3 mg](http://www.fachinfo.de/pdf/014740)
+[Ibandronsäure Ibisqus 3 mg](data/014740.pdf)
 
-[Ibuprofen AbZ 4 % Saft](http://www.fachinfo.de/pdf/014742)
+[Ibuprofen AbZ 4 % Saft](data/014742.pdf)
 
-[Paroxetin-ratiopharm® 20 mg](http://www.fachinfo.de/pdf/014745)
+[Paroxetin-ratiopharm® 20 mg](data/014745.pdf)
 
-[Neuro-ratiopharm® Filmtabletten](http://www.fachinfo.de/pdf/014746)
+[Neuro-ratiopharm® Filmtabletten](data/014746.pdf)
 
-[Ambro-ratiopharm® 6 mg/ml](http://www.fachinfo.de/pdf/014749)
+[Ambro-ratiopharm® 6 mg/ml](data/014749.pdf)
 
-[Traumeel ® S Creme](http://www.fachinfo.de/pdf/014752)
+[Traumeel ® S Creme](data/014752.pdf)
 
-[Traumeel ® S Tabletten](http://www.fachinfo.de/pdf/014753)
+[Traumeel ® S Tabletten](data/014753.pdf)
 
-[Traumeel ® S](http://www.fachinfo.de/pdf/014754)
+[Traumeel ® S](data/014754.pdf)
 
-[Tebonin ® 120 mg bei Ohrgeräuschen](http://www.fachinfo.de/pdf/014768)
+[Tebonin ® 120 mg bei Ohrgeräuschen](data/014768.pdf)
 
-[Canesten ® Tropflösung Spray](http://www.fachinfo.de/pdf/014769)
+[Canesten ® Tropflösung Spray](data/014769.pdf)
 
-[Rivastigmin AbZ 4,6 mg/24 Stunden transdermales Pflaster](http://www.fachinfo.de/pdf/014773)
+[Rivastigmin AbZ 4,6 mg/24 Stunden transdermales Pflaster](data/014773.pdf)
 
-[Omeprazol-ratiopharm® NT 10 mg / 20 mg / 40 mg](http://www.fachinfo.de/pdf/014779)
+[Omeprazol-ratiopharm® NT 10 mg / 20 mg / 40 mg](data/014779.pdf)
 
-[Omeprazol AbZ 10 mg / 20 mg / 40 mg](http://www.fachinfo.de/pdf/014780)
+[Omeprazol AbZ 10 mg / 20 mg / 40 mg](data/014780.pdf)
 
-[Omeprazol-CT 10 mg / 20 mg / 40 mg](http://www.fachinfo.de/pdf/014781)
+[Omeprazol-CT 10 mg / 20 mg / 40 mg](data/014781.pdf)
 
-[Capecitabin-Hormosan 150 mg Filmtabletten](http://www.fachinfo.de/pdf/014789)
+[Capecitabin-Hormosan 150 mg Filmtabletten](data/014789.pdf)
 
-[RIOPAN® Magen Tabletten Mint](http://www.fachinfo.de/pdf/014790)
+[RIOPAN® Magen Tabletten Mint](data/014790.pdf)
 
-[Esberitox® COMPACT](http://www.fachinfo.de/pdf/014796)
+[Esberitox® COMPACT](data/014796.pdf)
 
-[Irbesartan/Hydrochlorothiazid Heumann](http://www.fachinfo.de/pdf/014812)
+[Irbesartan/Hydrochlorothiazid Heumann](data/014812.pdf)
 
-[Quetiapin Heumann 50 mg/400 mg](http://www.fachinfo.de/pdf/014813)
+[Quetiapin Heumann 50 mg/400 mg](data/014813.pdf)
 
-[Erivedge® 150 mg Hartkapseln](http://www.fachinfo.de/pdf/014814)
+[Erivedge® 150 mg Hartkapseln](data/014814.pdf)
 
-[Zoledronsäure IBIGEN 4 mg/5 ml](http://www.fachinfo.de/pdf/014816)
+[Zoledronsäure IBIGEN 4 mg/5 ml](data/014816.pdf)
 
-[Irbesartan comp. ratiopharm®](http://www.fachinfo.de/pdf/014826)
+[Irbesartan comp. ratiopharm®](data/014826.pdf)
 
-[Irbesartan comp. AbZ Filmtabletten](http://www.fachinfo.de/pdf/014827)
+[Irbesartan comp. AbZ Filmtabletten](data/014827.pdf)
 
-[Bronchicum Thymian Lutschpastillen](http://www.fachinfo.de/pdf/014828)
+[Bronchicum Thymian Lutschpastillen](data/014828.pdf)
 
-[Sildenafil Heumann Filmtabletten](http://www.fachinfo.de/pdf/014831)
+[Sildenafil Heumann Filmtabletten](data/014831.pdf)
 
-[Unexym®](http://www.fachinfo.de/pdf/014837)
+[Unexym®](data/014837.pdf)
 
-[Rivastigmin Heumann Hartkapseln](http://www.fachinfo.de/pdf/014839)
+[Rivastigmin Heumann Hartkapseln](data/014839.pdf)
 
-[Monovo ® 1 mg/g Creme](http://www.fachinfo.de/pdf/014840)
+[Monovo ® 1 mg/g Creme](data/014840.pdf)
 
-[Monovo ® 1 mg/g Salbe](http://www.fachinfo.de/pdf/014841)
+[Monovo ® 1 mg/g Salbe](data/014841.pdf)
 
-[Candesartan/HCT Heumann 8 mg/12,5 mg / 16 mg/12,5 mg Tabletten](http://www.fachinfo.de/pdf/014843)
+[Candesartan/HCT Heumann 8 mg/12,5 mg / 16 mg/12,5 mg Tabletten](data/014843.pdf)
 
-[Tonotec® Hartkapseln](http://www.fachinfo.de/pdf/014846)
+[Tonotec® Hartkapseln](data/014846.pdf)
 
-[Medipurin](http://www.fachinfo.de/pdf/014862)
+[Medipurin](data/014862.pdf)
 
-[Telmisartan AbZ 20 mg / 40 mg / 80 mg](http://www.fachinfo.de/pdf/014870)
+[Telmisartan AbZ 20 mg / 40 mg / 80 mg](data/014870.pdf)
 
-[Telmisartan AbZ 30 mg / 60 mg](http://www.fachinfo.de/pdf/014871)
+[Telmisartan AbZ 30 mg / 60 mg](data/014871.pdf)
 
-[Telmisartan-ratiopharm® 20 mg/40 mg/80 mg](http://www.fachinfo.de/pdf/014872)
+[Telmisartan-ratiopharm® 20 mg/40 mg/80 mg](data/014872.pdf)
 
-[Telmisartan-ratiopharm® 30 mg / 60 mg](http://www.fachinfo.de/pdf/014873)
+[Telmisartan-ratiopharm® 30 mg / 60 mg](data/014873.pdf)
 
-[Lonquex 6 mg Injektionslösung](http://www.fachinfo.de/pdf/014885)
+[Lonquex 6 mg Injektionslösung](data/014885.pdf)
 
-[Fluvastatin-CT 20 mg / 40 mg](http://www.fachinfo.de/pdf/014886)
+[Fluvastatin-CT 20 mg / 40 mg](data/014886.pdf)
 
-[Fluvastatin AbZ 20 mg / 40 mg](http://www.fachinfo.de/pdf/014887)
+[Fluvastatin AbZ 20 mg / 40 mg](data/014887.pdf)
 
-[Sildenafil ratiopharm 75 mg](http://www.fachinfo.de/pdf/014890)
+[Sildenafil ratiopharm 75 mg](data/014890.pdf)
 
-[Clarithromycin-ratiopharm® 250 mg / 500 mg](http://www.fachinfo.de/pdf/014895)
+[Clarithromycin-ratiopharm® 250 mg / 500 mg](data/014895.pdf)
 
-[Memantigamma® 10 mg](http://www.fachinfo.de/pdf/014896)
+[Memantigamma® 10 mg](data/014896.pdf)
 
-[Memantigamma® 20 mg](http://www.fachinfo.de/pdf/014897)
+[Memantigamma® 20 mg](data/014897.pdf)
 
-[Memantigamma ® Startpackung](http://www.fachinfo.de/pdf/014898)
+[Memantigamma ® Startpackung](data/014898.pdf)
 
-[Dexa-CT 4 mg / 1 ml Ampullen](http://www.fachinfo.de/pdf/014899)
+[Dexa-CT 4 mg / 1 ml Ampullen](data/014899.pdf)
 
-[Dexa-ratiopharm® 4 mg / 8 mg](http://www.fachinfo.de/pdf/014900)
+[Dexa-ratiopharm® 4 mg / 8 mg](data/014900.pdf)
 
-[Dexa-ratiopharm® 40 mg / 100 mg](http://www.fachinfo.de/pdf/014901)
+[Dexa-ratiopharm® 40 mg / 100 mg](data/014901.pdf)
 
-[Memantin Heumann 10 mg/ml](http://www.fachinfo.de/pdf/014907)
+[Memantin Heumann 10 mg/ml](data/014907.pdf)
 
-[Nicorette Spray](http://www.fachinfo.de/pdf/014910)
+[Nicorette Spray](data/014910.pdf)
 
-[Bellissima® 21 + 7](http://www.fachinfo.de/pdf/014915)
+[Bellissima® 21 + 7](data/014915.pdf)
 
-[Fucidine® 20 mg/g Creme](http://www.fachinfo.de/pdf/014918)
+[Fucidine® 20 mg/g Creme](data/014918.pdf)
 
-[Fucidine® 20 mg/g Salbe](http://www.fachinfo.de/pdf/014919)
+[Fucidine® 20 mg/g Salbe](data/014919.pdf)
 
-[Fucidine® 30 mg/100 cm2 Gaze](http://www.fachinfo.de/pdf/014920)
+[Fucidine® 30 mg/100 cm2 Gaze](data/014920.pdf)
 
-[Luvyna® 0,03 mg/2 mg Filmtabletten](http://www.fachinfo.de/pdf/014922)
+[Luvyna® 0,03 mg/2 mg Filmtabletten](data/014922.pdf)
 
-[Irbesartan-Hormosan comp](http://www.fachinfo.de/pdf/014926)
+[Irbesartan-Hormosan comp](data/014926.pdf)
 
-[Memantin Heumann 10 mg Filmtabletten](http://www.fachinfo.de/pdf/014927)
+[Memantin Heumann 10 mg Filmtabletten](data/014927.pdf)
 
-[Gripp-Heel ® Tabletten](http://www.fachinfo.de/pdf/014928)
+[Gripp-Heel ® Tabletten](data/014928.pdf)
 
-[Euphorbium comp. Nasentropfen SN](http://www.fachinfo.de/pdf/014929)
+[Euphorbium comp. Nasentropfen SN](data/014929.pdf)
 
-[Engystol® Tabletten](http://www.fachinfo.de/pdf/014931)
+[Engystol® Tabletten](data/014931.pdf)
 
-[IBU-ratiopharm® 400 mg akut](http://www.fachinfo.de/pdf/014937)
+[IBU-ratiopharm® 400 mg akut](data/014937.pdf)
 
-[Ofloxacin-ratiopharm 3 mg/ml](http://www.fachinfo.de/pdf/014940)
+[Ofloxacin-ratiopharm 3 mg/ml](data/014940.pdf)
 
-[Viburcol® N Zäpfchen](http://www.fachinfo.de/pdf/014945)
+[Viburcol® N Zäpfchen](data/014945.pdf)
 
-[neuraxpharm Tianeurax ® 12,5 mg](http://www.fachinfo.de/pdf/014946)
+[neuraxpharm Tianeurax ® 12,5 mg](data/014946.pdf)
 
-[Ciclocutan ® Creme 1%](http://www.fachinfo.de/pdf/014947)
+[Ciclocutan ® Creme 1%](data/014947.pdf)
 
-[Amorocutan 50 mg/ml](http://www.fachinfo.de/pdf/014948)
+[Amorocutan 50 mg/ml](data/014948.pdf)
 
-[Coversum® Arginin 2,5 mg/5 mg/10 mg](http://www.fachinfo.de/pdf/014949)
+[Coversum® Arginin 2,5 mg/5 mg/10 mg](data/014949.pdf)
 
-[Sildenafil AbZ 75 mg Filmtabletten](http://www.fachinfo.de/pdf/014951)
+[Sildenafil AbZ 75 mg Filmtabletten](data/014951.pdf)
 
-[Valedonis 75 mg Filmtabletten](http://www.fachinfo.de/pdf/014960)
+[Valedonis 75 mg Filmtabletten](data/014960.pdf)
 
-[Rivanol ® 1,0 g](http://www.fachinfo.de/pdf/014961)
+[Rivanol ® 1,0 g](data/014961.pdf)
 
-[Modafinil Heumann 100 mg Tabletten](http://www.fachinfo.de/pdf/014964)
+[Modafinil Heumann 100 mg Tabletten](data/014964.pdf)
 
-[Rivanol ® 0,1 g](http://www.fachinfo.de/pdf/014965)
+[Rivanol ® 0,1 g](data/014965.pdf)
 
-[Axiron 30 mg/1,5 ml](http://www.fachinfo.de/pdf/014970)
+[Axiron 30 mg/1,5 ml](data/014970.pdf)
 
-[Zoledronsäure-Hormosan 4 mg/100 ml](http://www.fachinfo.de/pdf/014971)
+[Zoledronsäure-Hormosan 4 mg/100 ml](data/014971.pdf)
 
-[Spascupreel ®](http://www.fachinfo.de/pdf/014973)
+[Spascupreel ®](data/014973.pdf)
 
-[nern von Endemiegebieten (semi-immunen funktion:](http://www.fachinfo.de/pdf/014989)
+[nern von Endemiegebieten (semi-immunen funktion:](data/014989.pdf)
 
-[Relvar® Ellipta®](http://www.fachinfo.de/pdf/015000)
+[Relvar® Ellipta®](data/015000.pdf)
 
-[L-Thyroxin-Na-ratiopharm® Tabletten](http://www.fachinfo.de/pdf/015001)
+[L-Thyroxin-Na-ratiopharm® Tabletten](data/015001.pdf)
 
-[Kadcyla®](http://www.fachinfo.de/pdf/015002)
+[Kadcyla®](data/015002.pdf)
 
-[Verapamil AbZ 240 mg](http://www.fachinfo.de/pdf/015010)
+[Verapamil AbZ 240 mg](data/015010.pdf)
 
-[Irbesartan Heumann 75 mg/150 mg/300 mg](http://www.fachinfo.de/pdf/015018)
+[Irbesartan Heumann 75 mg/150 mg/300 mg](data/015018.pdf)
 
-[Aureomycin® RIEMSER, 30 mg/g, Salbe](http://www.fachinfo.de/pdf/015019)
+[Aureomycin® RIEMSER, 30 mg/g, Salbe](data/015019.pdf)
 
-[Aureomycin® Augensalbe RIEMSER,](http://www.fachinfo.de/pdf/015020)
+[Aureomycin® Augensalbe RIEMSER,](data/015020.pdf)
 
-[Losartan comp.-CT 100 mg / 12,5 mg](http://www.fachinfo.de/pdf/015024)
+[Losartan comp.-CT 100 mg / 12,5 mg](data/015024.pdf)
 
-[Telmisartan Heumann 20 mg/40 mg/80 mg](http://www.fachinfo.de/pdf/015028)
+[Telmisartan Heumann 20 mg/40 mg/80 mg](data/015028.pdf)
 
-[Lercanidipin-Omniapharm® 10 mg](http://www.fachinfo.de/pdf/015035)
+[Lercanidipin-Omniapharm® 10 mg](data/015035.pdf)
 
-[Lercanidipin-Omniapharm® 20 mg](http://www.fachinfo.de/pdf/015036)
+[Lercanidipin-Omniapharm® 20 mg](data/015036.pdf)
 
-[Escitalopram AbZ 20 mg/ml](http://www.fachinfo.de/pdf/015043)
+[Escitalopram AbZ 20 mg/ml](data/015043.pdf)
 
-[Simvastatin-CT 10 mg / 20 mg / 40 mg / 80 mg](http://www.fachinfo.de/pdf/015049)
+[Simvastatin-CT 10 mg / 20 mg / 40 mg / 80 mg](data/015049.pdf)
 
-[Imazol® comp. Creme](http://www.fachinfo.de/pdf/015058)
+[Imazol® comp. Creme](data/015058.pdf)
 
-[Escitalopram AbZ 5 mg/10 mg/15 mg/20 mg](http://www.fachinfo.de/pdf/015062)
+[Escitalopram AbZ 5 mg/10 mg/15 mg/20 mg](data/015062.pdf)
 
-[Bronchobini® Streukügelchen für Säuglinge ab 6 Monate,](http://www.fachinfo.de/pdf/015064)
+[Bronchobini® Streukügelchen für Säuglinge ab 6 Monate,](data/015064.pdf)
 
-[Cutacalmi® Streukügelchen für Säuglinge ab 6 Monate,](http://www.fachinfo.de/pdf/015065)
+[Cutacalmi® Streukügelchen für Säuglinge ab 6 Monate,](data/015065.pdf)
 
-[Lunafini® Streukügelchen für Säuglinge ab 6 Monate,](http://www.fachinfo.de/pdf/015066)
+[Lunafini® Streukügelchen für Säuglinge ab 6 Monate,](data/015066.pdf)
 
-[Flatulini® Streukügelchen für Säuglinge, Kleinkinder,](http://www.fachinfo.de/pdf/015067)
+[Flatulini® Streukügelchen für Säuglinge, Kleinkinder,](data/015067.pdf)
 
-[Salbu Novolizer®](http://www.fachinfo.de/pdf/015068)
+[Salbu Novolizer®](data/015068.pdf)
 
-[Atosiban SUN 37,5 mg/5 ml Konzentrat](http://www.fachinfo.de/pdf/015077)
+[Atosiban SUN 37,5 mg/5 ml Konzentrat](data/015077.pdf)
 
-[Atosiban SUN 6,75 mg/0,9 ml](http://www.fachinfo.de/pdf/015078)
+[Atosiban SUN 6,75 mg/0,9 ml](data/015078.pdf)
 
-[ben-u-ron ® 1000 mg Tabletten](http://www.fachinfo.de/pdf/015079)
+[ben-u-ron ® 1000 mg Tabletten](data/015079.pdf)
 
-[Ritalin® Adult](http://www.fachinfo.de/pdf/015153)
+[Ritalin® Adult](data/015153.pdf)
 
-[Zithromax ® 250/500 mg Filmtabletten](http://www.fachinfo.de/pdf/015933)
+[Zithromax ® 250/500 mg Filmtabletten](data/015933.pdf)
 
-[Tivicay® 50 mg Filmtabletten](http://www.fachinfo.de/pdf/020003)
+[Tivicay® 50 mg Filmtabletten](data/020003.pdf)
 
-[ Metamizol Heumann Tropfen](http://www.fachinfo.de/pdf/020010)
+[ Metamizol Heumann Tropfen](data/020010.pdf)
 
-[Lyogen® 2,5 mg/ml,](http://www.fachinfo.de/pdf/020012)
+[Lyogen® 2,5 mg/ml,](data/020012.pdf)
 
-[Ampres 10 mg/ml Injektionslösung](http://www.fachinfo.de/pdf/020015)
+[Ampres 10 mg/ml Injektionslösung](data/020015.pdf)
 
-[CIN 100 mg, magensaftresistente Weichkapseln](http://www.fachinfo.de/pdf/020016)
+[CIN 100 mg, magensaftresistente Weichkapseln](data/020016.pdf)
 
-[RoActemra® s.c.](http://www.fachinfo.de/pdf/020017)
+[RoActemra® s.c.](data/020017.pdf)
 
-[Pelargonium-ratiopharm®](http://www.fachinfo.de/pdf/020018)
+[Pelargonium-ratiopharm®](data/020018.pdf)
 
-[Aidulan® 30 0,03 mg/0,075 mg Filmtabletten](http://www.fachinfo.de/pdf/020020)
+[Aidulan® 30 0,03 mg/0,075 mg Filmtabletten](data/020020.pdf)
 
-[Zodin® Omega-3](http://www.fachinfo.de/pdf/020022)
+[Zodin® Omega-3](data/020022.pdf)
 
-[Gabrilen® N 50 mg Hartkapseln](http://www.fachinfo.de/pdf/020025)
+[Gabrilen® N 50 mg Hartkapseln](data/020025.pdf)
 
-[EZICLEN Konzentrat](http://www.fachinfo.de/pdf/020028)
+[EZICLEN Konzentrat](data/020028.pdf)
 
-[Striverdi® Respimat®](http://www.fachinfo.de/pdf/020033)
+[Striverdi® Respimat®](data/020033.pdf)
 
-[Bisoprolol-ratiopharm®](http://www.fachinfo.de/pdf/020036)
+[Bisoprolol-ratiopharm®](data/020036.pdf)
 
-[Bisoprolol-CT 1,25 mg, 2,5 mg, 3,75 mg Tabletten](http://www.fachinfo.de/pdf/020037)
+[Bisoprolol-CT 1,25 mg, 2,5 mg, 3,75 mg Tabletten](data/020037.pdf)
 
-[Antistax® Venencreme](http://www.fachinfo.de/pdf/020038)
+[Antistax® Venencreme](data/020038.pdf)
 
-[Levoflox-CT 250 mg/500 mg](http://www.fachinfo.de/pdf/020041)
+[Levoflox-CT 250 mg/500 mg](data/020041.pdf)
 
-[Gabapentin-Hormosan](http://www.fachinfo.de/pdf/020042)
+[Gabapentin-Hormosan](data/020042.pdf)
 
-[Bromhexin Krewel Meuselbach®](http://www.fachinfo.de/pdf/020044)
+[Bromhexin Krewel Meuselbach®](data/020044.pdf)
 
-[Valverde Passiflor forte 425 mg Beruhigungsdragees](http://www.fachinfo.de/pdf/020045)
+[Valverde Passiflor forte 425 mg Beruhigungsdragees](data/020045.pdf)
 
-[Oxygesic® infusio 50 mg/ml](http://www.fachinfo.de/pdf/020046)
+[Oxygesic® infusio 50 mg/ml](data/020046.pdf)
 
-[Postericort® Salbe](http://www.fachinfo.de/pdf/020047)
+[Postericort® Salbe](data/020047.pdf)
 
-[Postericort® Zäpfchen](http://www.fachinfo.de/pdf/020048)
+[Postericort® Zäpfchen](data/020048.pdf)
 
-[Momecutan Fettcreme](http://www.fachinfo.de/pdf/020057)
+[Momecutan Fettcreme](data/020057.pdf)
 
-[Momecutan® Lösung](http://www.fachinfo.de/pdf/020059)
+[Momecutan® Lösung](data/020059.pdf)
 
-[Levodopa/Carbidopa-ratiopharm® 100 mg / 25 mg Retardtabletten](http://www.fachinfo.de/pdf/020064)
+[Levodopa/Carbidopa-ratiopharm® 100 mg / 25 mg Retardtabletten](data/020064.pdf)
 
-[Levodopa/Carbidopa-ratiopharm® 100 mg/25 mg / 200 mg/50 mg](http://www.fachinfo.de/pdf/020067)
+[Levodopa/Carbidopa-ratiopharm® 100 mg/25 mg / 200 mg/50 mg](data/020067.pdf)
 
-[Melleril® retard 30](http://www.fachinfo.de/pdf/020068)
+[Melleril® retard 30](data/020068.pdf)
 
-[Bisogamma® 2,5 mg](http://www.fachinfo.de/pdf/020069)
+[Bisogamma® 2,5 mg](data/020069.pdf)
 
-[Levodopa/Carbidopa AbZ 100 mg/25 mg Retardtabletten](http://www.fachinfo.de/pdf/020071)
+[Levodopa/Carbidopa AbZ 100 mg/25 mg Retardtabletten](data/020071.pdf)
 
-[Levodopa/Carbidopa-CT 100 mg/25 mg / 200 mg/50 mg](http://www.fachinfo.de/pdf/020073)
+[Levodopa/Carbidopa-CT 100 mg/25 mg / 200 mg/50 mg](data/020073.pdf)
 
-[Levodopa/Carbidopa-CT 100 mg/25 mg Retardtabletten](http://www.fachinfo.de/pdf/020074)
+[Levodopa/Carbidopa-CT 100 mg/25 mg Retardtabletten](data/020074.pdf)
 
-[Moxifloxacin AbZ 400 mg Filmtabletten](http://www.fachinfo.de/pdf/020079)
+[Moxifloxacin AbZ 400 mg Filmtabletten](data/020079.pdf)
 
-[SANCUSO® 3,1 mg/24 Stunden transdermales Pflaster](http://www.fachinfo.de/pdf/020082)
+[SANCUSO® 3,1 mg/24 Stunden transdermales Pflaster](data/020082.pdf)
 
-[Amoxicillin Heumann 500 mg/5 ml](http://www.fachinfo.de/pdf/020094)
+[Amoxicillin Heumann 500 mg/5 ml](data/020094.pdf)
 
-[Levetiracetam Heumann 100 mg/ml](http://www.fachinfo.de/pdf/020095)
+[Levetiracetam Heumann 100 mg/ml](data/020095.pdf)
 
-[Adempas® 0,5 mg Filmtabletten](http://www.fachinfo.de/pdf/020099)
+[Adempas® 0,5 mg Filmtabletten](data/020099.pdf)
 
-[Adempas® 1,5 mg Filmtabletten](http://www.fachinfo.de/pdf/020100)
+[Adempas® 1,5 mg Filmtabletten](data/020100.pdf)
 
-[Adempas® 2 mg Filmtabletten](http://www.fachinfo.de/pdf/020101)
+[Adempas® 2 mg Filmtabletten](data/020101.pdf)
 
-[Adempas® 2,5 mg Filmtabletten](http://www.fachinfo.de/pdf/020102)
+[Adempas® 2,5 mg Filmtabletten](data/020102.pdf)
 
-[Adempas® 1 mg Filmtabletten](http://www.fachinfo.de/pdf/020103)
+[Adempas® 1 mg Filmtabletten](data/020103.pdf)
 
-[Bicalutamid-Uropharm® 150 mg](http://www.fachinfo.de/pdf/020105)
+[Bicalutamid-Uropharm® 150 mg](data/020105.pdf)
 
-[Udrik® 0,5 mg / 1 mg / 2 mg](http://www.fachinfo.de/pdf/020111)
+[Udrik® 0,5 mg / 1 mg / 2 mg](data/020111.pdf)
 
-[TAXOTERE® 20 – 160 mg](http://www.fachinfo.de/pdf/020118)
+[TAXOTERE® 20 – 160 mg](data/020118.pdf)
 
-[Bromhexin Krewel Meuselbach®](http://www.fachinfo.de/pdf/020120)
+[Bromhexin Krewel Meuselbach®](data/020120.pdf)
 
-[Bromhexin Krewel Meuselbach®](http://www.fachinfo.de/pdf/020121)
+[Bromhexin Krewel Meuselbach®](data/020121.pdf)
 
-[MEGESTAT 160 mg Tabletten](http://www.fachinfo.de/pdf/020124)
+[MEGESTAT 160 mg Tabletten](data/020124.pdf)
 
-[Losartan comp. AbZ 50 mg / 12,5 mg Filmtabletten](http://www.fachinfo.de/pdf/020127)
+[Losartan comp. AbZ 50 mg / 12,5 mg Filmtabletten](data/020127.pdf)
 
-[Antepan® nasal](http://www.fachinfo.de/pdf/020128)
+[Antepan® nasal](data/020128.pdf)
 
-[Antepan® 200](http://www.fachinfo.de/pdf/020129)
+[Antepan® 200](data/020129.pdf)
 
-[Leflon 10 mg/20 mg](http://www.fachinfo.de/pdf/020130)
+[Leflon 10 mg/20 mg](data/020130.pdf)
 
-[FLUORESZEIN SE THILO®](http://www.fachinfo.de/pdf/020134)
+[FLUORESZEIN SE THILO®](data/020134.pdf)
 
-[Finapil 1 mg Filmtabletten](http://www.fachinfo.de/pdf/020135)
+[Finapil 1 mg Filmtabletten](data/020135.pdf)
 
-[Metoprololsuccinat Heumann 23,75 mg](http://www.fachinfo.de/pdf/020136)
+[Metoprololsuccinat Heumann 23,75 mg](data/020136.pdf)
 
-[Donepezil-Elpen 5 mg Filmtabletten](http://www.fachinfo.de/pdf/020139)
+[Donepezil-Elpen 5 mg Filmtabletten](data/020139.pdf)
 
-[Donepezil-Elpen 10 mg Filmtabletten](http://www.fachinfo.de/pdf/020140)
+[Donepezil-Elpen 10 mg Filmtabletten](data/020140.pdf)
 
-[proff® Schmerzkapseln](http://www.fachinfo.de/pdf/020153)
+[proff® Schmerzkapseln](data/020153.pdf)
 
-[Pantoprazol-ratiopharm® 20 mg](http://www.fachinfo.de/pdf/020159)
+[Pantoprazol-ratiopharm® 20 mg](data/020159.pdf)
 
-[Pantoprazol-ratiopharm® 40 mg](http://www.fachinfo.de/pdf/020160)
+[Pantoprazol-ratiopharm® 40 mg](data/020160.pdf)
 
-[Pantoprazol AbZ 40 mg](http://www.fachinfo.de/pdf/020161)
+[Pantoprazol AbZ 40 mg](data/020161.pdf)
 
-[Pantoprazol AbZ bei Sodbrennen 20 mg](http://www.fachinfo.de/pdf/020162)
+[Pantoprazol AbZ bei Sodbrennen 20 mg](data/020162.pdf)
 
-[Pantoprazol AbZ 20 mg](http://www.fachinfo.de/pdf/020163)
+[Pantoprazol AbZ 20 mg](data/020163.pdf)
 
-[Pantoprazol-CT bei Sodbrennen 20 mg](http://www.fachinfo.de/pdf/020165)
+[Pantoprazol-CT bei Sodbrennen 20 mg](data/020165.pdf)
 
-[NovoRapid® PumpCart® 100 Einheiten/ml](http://www.fachinfo.de/pdf/020169)
+[NovoRapid® PumpCart® 100 Einheiten/ml](data/020169.pdf)
 
-[Pyragamma ® 200](http://www.fachinfo.de/pdf/020175)
+[Pyragamma ® 200](data/020175.pdf)
 
-[Numeta G 19 % E Emulsion zur Infusion](http://www.fachinfo.de/pdf/020185)
+[Numeta G 19 % E Emulsion zur Infusion](data/020185.pdf)
 
-[Risedronat Heumann 35 mg Filmtabletten](http://www.fachinfo.de/pdf/020188)
+[Risedronat Heumann 35 mg Filmtabletten](data/020188.pdf)
 
-[Hydromorphon-HCl Heumann 2 mg/4 mg/8 mg/16 mg/24 mg](http://www.fachinfo.de/pdf/020195)
+[Hydromorphon-HCl Heumann 2 mg/4 mg/8 mg/16 mg/24 mg](data/020195.pdf)
 
-[Dexilant ® 30 mg/60 mg](http://www.fachinfo.de/pdf/020198)
+[Dexilant ® 30 mg/60 mg](data/020198.pdf)
 
-[Jod-Wundsalbe Robugen](http://www.fachinfo.de/pdf/020206)
+[Jod-Wundsalbe Robugen](data/020206.pdf)
 
-[Diclofenac 100 retard Heumann](http://www.fachinfo.de/pdf/020213)
+[Diclofenac 100 retard Heumann](data/020213.pdf)
 
-[Diclofenac 50 Heumann](http://www.fachinfo.de/pdf/020214)
+[Diclofenac 50 Heumann](data/020214.pdf)
 
-[proff® Schmerzdragées](http://www.fachinfo.de/pdf/020215)
+[proff® Schmerzdragées](data/020215.pdf)
 
-[Cyclophosphamid Trockensubstanz 500 mg/1 g/2 g](http://www.fachinfo.de/pdf/020223)
+[Cyclophosphamid Trockensubstanz 500 mg/1 g/2 g](data/020223.pdf)
 
-[und bei 25 °C für 6 Stunden nachgewiesen. Einmalhandschuhen, Schutzabdeckungen des Herstellers.](http://www.fachinfo.de/pdf/020224)
+[und bei 25 °C für 6 Stunden nachgewiesen. Einmalhandschuhen, Schutzabdeckungen des Herstellers.](data/020224.pdf)
 
-[Duraphat Fluorid 5 mg/g Zahnpaste](http://www.fachinfo.de/pdf/020227)
+[Duraphat Fluorid 5 mg/g Zahnpaste](data/020227.pdf)
 
-[Duraphat ®, 50mg/ml Dentalsuspension](http://www.fachinfo.de/pdf/020228)
+[Duraphat ®, 50mg/ml Dentalsuspension](data/020228.pdf)
 
-[Escitalopram-ratiopharm® 5 mg / 10 mg / 15 mg / 20 mg](http://www.fachinfo.de/pdf/020243)
+[Escitalopram-ratiopharm® 5 mg / 10 mg / 15 mg / 20 mg](data/020243.pdf)
 
-[Jardiance® 10 mg Filmtabletten](http://www.fachinfo.de/pdf/020248)
+[Jardiance® 10 mg Filmtabletten](data/020248.pdf)
 
-[Jardiance® 25 mg Filmtabletten](http://www.fachinfo.de/pdf/020249)
+[Jardiance® 25 mg Filmtabletten](data/020249.pdf)
 
-[TESTOGEL® 25 mg](http://www.fachinfo.de/pdf/020250)
+[TESTOGEL® 25 mg](data/020250.pdf)
 
-[TESTOGEL® 50 mg](http://www.fachinfo.de/pdf/020251)
+[TESTOGEL® 50 mg](data/020251.pdf)
 
-[Losartan-ratiopharm® 12,5 mg / 25 mg / 50 mg](http://www.fachinfo.de/pdf/020253)
+[Losartan-ratiopharm® 12,5 mg / 25 mg / 50 mg](data/020253.pdf)
 
-[Losartan-CT 12,5 mg / 25 mg / 50 mg](http://www.fachinfo.de/pdf/020254)
+[Losartan-CT 12,5 mg / 25 mg / 50 mg](data/020254.pdf)
 
-[Losartan-AbZ 12,5 mg / 25 mg / 50 mg](http://www.fachinfo.de/pdf/020255)
+[Losartan-AbZ 12,5 mg / 25 mg / 50 mg](data/020255.pdf)
 
-[Clonidin-ratiopharm® Ampullen](http://www.fachinfo.de/pdf/020256)
+[Clonidin-ratiopharm® Ampullen](data/020256.pdf)
 
-[Clonidin retard-ratiopharm® 250](http://www.fachinfo.de/pdf/020257)
+[Clonidin retard-ratiopharm® 250](data/020257.pdf)
 
-[Clonidin-ratiopharm® 150](http://www.fachinfo.de/pdf/020258)
+[Clonidin-ratiopharm® 150](data/020258.pdf)
 
-[Clonidin-ratiopharm® 300](http://www.fachinfo.de/pdf/020259)
+[Clonidin-ratiopharm® 300](data/020259.pdf)
 
-[Vancomycin CP 500 mg](http://www.fachinfo.de/pdf/020261)
+[Vancomycin CP 500 mg](data/020261.pdf)
 
-[Gazyvaro®](http://www.fachinfo.de/pdf/020264)
+[Gazyvaro®](data/020264.pdf)
 
-[Vinorelbin-ratiopharm® 10 mg/ml](http://www.fachinfo.de/pdf/020282)
+[Vinorelbin-ratiopharm® 10 mg/ml](data/020282.pdf)
 
-[Tamsulosin-Uropharm® 0,4 mg](http://www.fachinfo.de/pdf/020283)
+[Tamsulosin-Uropharm® 0,4 mg](data/020283.pdf)
 
-[Nystaderm-S](http://www.fachinfo.de/pdf/020285)
+[Nystaderm-S](data/020285.pdf)
 
-[Nystaderm® Mundgel](http://www.fachinfo.de/pdf/020286)
+[Nystaderm® Mundgel](data/020286.pdf)
 
-[Nystaderm Filmtabletten](http://www.fachinfo.de/pdf/020287)
+[Nystaderm Filmtabletten](data/020287.pdf)
 
-[Fluimucil 10 % Injektionslösung](http://www.fachinfo.de/pdf/020288)
+[Fluimucil 10 % Injektionslösung](data/020288.pdf)
 
-[Fluimucil Antidot 20 %](http://www.fachinfo.de/pdf/020289)
+[Fluimucil Antidot 20 %](data/020289.pdf)
 
-[Fluimucil Hustenlöser akut 600 mg](http://www.fachinfo.de/pdf/020290)
+[Fluimucil Hustenlöser akut 600 mg](data/020290.pdf)
 
-[Fluimucil Kindersaft 2 %](http://www.fachinfo.de/pdf/020291)
+[Fluimucil Kindersaft 2 %](data/020291.pdf)
 
-[Fluimucil long 600 mg](http://www.fachinfo.de/pdf/020292)
+[Fluimucil long 600 mg](data/020292.pdf)
 
-[Fluimucil N 200 mg Granulat](http://www.fachinfo.de/pdf/020293)
+[Fluimucil N 200 mg Granulat](data/020293.pdf)
 
-[Fluimucil 200 mg](http://www.fachinfo.de/pdf/020294)
+[Fluimucil 200 mg](data/020294.pdf)
 
-[Moronal® Suspension](http://www.fachinfo.de/pdf/020295)
+[Moronal® Suspension](data/020295.pdf)
 
-[Moronal® Filmtabletten](http://www.fachinfo.de/pdf/020296)
+[Moronal® Filmtabletten](data/020296.pdf)
 
-[Vesanoid 10 mg Weichkapseln](http://www.fachinfo.de/pdf/020298)
+[Vesanoid 10 mg Weichkapseln](data/020298.pdf)
 
-[Ibuprofen Heumann Schmerztabletten 400 mg](http://www.fachinfo.de/pdf/020299)
+[Ibuprofen Heumann Schmerztabletten 400 mg](data/020299.pdf)
 
-[Gallolingual ® N](http://www.fachinfo.de/pdf/020301)
+[Gallolingual ® N](data/020301.pdf)
 
-[Triumeq® 50 mg/600 mg/300 mg](http://www.fachinfo.de/pdf/020307)
+[Triumeq® 50 mg/600 mg/300 mg](data/020307.pdf)
 
-[Cerucal 10 mg Tablette](http://www.fachinfo.de/pdf/020308)
+[Cerucal 10 mg Tablette](data/020308.pdf)
 
-[SELUKOS](http://www.fachinfo.de/pdf/020313)
+[SELUKOS](data/020313.pdf)
 
-[Ribozar® 40 mg/ml Konzentrat](http://www.fachinfo.de/pdf/020315)
+[Ribozar® 40 mg/ml Konzentrat](data/020315.pdf)
 
-[Telmisartan/Hydrochlorothiazid Heumann 40 mg/12,5 mg](http://www.fachinfo.de/pdf/020324)
+[Telmisartan/Hydrochlorothiazid Heumann 40 mg/12,5 mg](data/020324.pdf)
 
-[Telmisartan/Hydrochlorothiazid Heumann 80 mg/12,5 mg](http://www.fachinfo.de/pdf/020325)
+[Telmisartan/Hydrochlorothiazid Heumann 80 mg/12,5 mg](data/020325.pdf)
 
-[Telmisartan/Hydrochlorothiazid Heumann 80 mg/25 mg](http://www.fachinfo.de/pdf/020326)
+[Telmisartan/Hydrochlorothiazid Heumann 80 mg/25 mg](data/020326.pdf)
 
-[Normofundin OP Infusionslösung](http://www.fachinfo.de/pdf/020329)
+[Normofundin OP Infusionslösung](data/020329.pdf)
 
-[Normofundin G-5 Infusionslösung](http://www.fachinfo.de/pdf/020330)
+[Normofundin G-5 Infusionslösung](data/020330.pdf)
 
-[Cefuroxim-saar® 750 mg / 1500 mg](http://www.fachinfo.de/pdf/020332)
+[Cefuroxim-saar® 750 mg / 1500 mg](data/020332.pdf)
 
-[Paracetamol-Hormosan 500 mg](http://www.fachinfo.de/pdf/020334)
+[Paracetamol-Hormosan 500 mg](data/020334.pdf)
 
-[Ibuprofen-Hormosan 400 mg](http://www.fachinfo.de/pdf/020335)
+[Ibuprofen-Hormosan 400 mg](data/020335.pdf)
 
-[wurden bei Säuglingen unter 4 Wochen Nukleotid-Reverse-Transkriptase-Inhibitoren](http://www.fachinfo.de/pdf/020337)
+[wurden bei Säuglingen unter 4 Wochen Nukleotid-Reverse-Transkriptase-Inhibitoren](data/020337.pdf)
 
-[Madinance 2,0 mg/0,03 mg Filmtabletten](http://www.fachinfo.de/pdf/020342)
+[Madinance 2,0 mg/0,03 mg Filmtabletten](data/020342.pdf)
 
-[Simvastatin-Hormosan 30 mg/- 60 mg](http://www.fachinfo.de/pdf/020347)
+[Simvastatin-Hormosan 30 mg/- 60 mg](data/020347.pdf)
 
-[Levocetirizin-di-HCl Heumann 5 mg](http://www.fachinfo.de/pdf/020352)
+[Levocetirizin-di-HCl Heumann 5 mg](data/020352.pdf)
 
-[Moxifloxacin Heumann](http://www.fachinfo.de/pdf/020353)
+[Moxifloxacin Heumann](data/020353.pdf)
 
-[Novantron® 10 mg/ 5 ml](http://www.fachinfo.de/pdf/020357)
+[Novantron® 10 mg/ 5 ml](data/020357.pdf)
 
-[Soledum® Kapseln junior](http://www.fachinfo.de/pdf/020359)
+[Soledum® Kapseln junior](data/020359.pdf)
 
-[Magnesium Heumann](http://www.fachinfo.de/pdf/020360)
+[Magnesium Heumann](data/020360.pdf)
 
-[Atorvastatin Heumann 10 mg/20 m/40 mg/80 mg](http://www.fachinfo.de/pdf/020362)
+[Atorvastatin Heumann 10 mg/20 m/40 mg/80 mg](data/020362.pdf)
 
-[Ibuprofen-CT 4 % Kindersaft](http://www.fachinfo.de/pdf/020368)
+[Ibuprofen-CT 4 % Kindersaft](data/020368.pdf)
 
-[Rytmonorm® SR 325 mg Hartkapseln,](http://www.fachinfo.de/pdf/020371)
+[Rytmonorm® SR 325 mg Hartkapseln,](data/020371.pdf)
 
-[Rytmonorm® SR 425 mg Hartkapseln,](http://www.fachinfo.de/pdf/020372)
+[Rytmonorm® SR 425 mg Hartkapseln,](data/020372.pdf)
 
-[Alendronsäure/Colecalciferol AbZ 70 mg/5.600 I.E.](http://www.fachinfo.de/pdf/020377)
+[Alendronsäure/Colecalciferol AbZ 70 mg/5.600 I.E.](data/020377.pdf)
 
-[Oxycodonhydrochlorid Heumann 5 mg/10 mg/20 mg/30 mg/40 mg/60 mg/80 mg](http://www.fachinfo.de/pdf/020378)
+[Oxycodonhydrochlorid Heumann 5 mg/10 mg/20 mg/30 mg/40 mg/60 mg/80 mg](data/020378.pdf)
 
-[Vertigoheel®](http://www.fachinfo.de/pdf/020380)
+[Vertigoheel®](data/020380.pdf)
 
-[Traumeel® S Mischung](http://www.fachinfo.de/pdf/020381)
+[Traumeel® S Mischung](data/020381.pdf)
 
-[Spascupreel® Tabletten](http://www.fachinfo.de/pdf/020382)
+[Spascupreel® Tabletten](data/020382.pdf)
 
-[Spascupreel® S Zäpfchen](http://www.fachinfo.de/pdf/020383)
+[Spascupreel® S Zäpfchen](data/020383.pdf)
 
-[Gripp-Heel®](http://www.fachinfo.de/pdf/020384)
+[Gripp-Heel®](data/020384.pdf)
 
-[Euphorbium comp. SN Mischung](http://www.fachinfo.de/pdf/020385)
+[Euphorbium comp. SN Mischung](data/020385.pdf)
 
-[Euphorbium comp. SN](http://www.fachinfo.de/pdf/020386)
+[Euphorbium comp. SN](data/020386.pdf)
 
-[Engystol®](http://www.fachinfo.de/pdf/020387)
+[Engystol®](data/020387.pdf)
 
-[VELMARI® Langzyklus](http://www.fachinfo.de/pdf/020391)
+[VELMARI® Langzyklus](data/020391.pdf)
 
-[Sevelamercarbonat-ratiopharm® 800 mg](http://www.fachinfo.de/pdf/020400)
+[Sevelamercarbonat-ratiopharm® 800 mg](data/020400.pdf)
 
-[Nystaderm Paste](http://www.fachinfo.de/pdf/020404)
+[Nystaderm Paste](data/020404.pdf)
 
-[Envarsus® 0,75 mg Retardtabletten](http://www.fachinfo.de/pdf/020405)
+[Envarsus® 0,75 mg Retardtabletten](data/020405.pdf)
 
-[Envarsus® 1 mg Retardtabletten](http://www.fachinfo.de/pdf/020406)
+[Envarsus® 1 mg Retardtabletten](data/020406.pdf)
 
-[Envarsus® 4 mg Retardtabletten](http://www.fachinfo.de/pdf/020407)
+[Envarsus® 4 mg Retardtabletten](data/020407.pdf)
 
-[Zinkit®](http://www.fachinfo.de/pdf/020410)
+[Zinkit®](data/020410.pdf)
 
-[Emselex 7,5 mg Retardtabletten](http://www.fachinfo.de/pdf/020411)
+[Emselex 7,5 mg Retardtabletten](data/020411.pdf)
 
-[Emselex® 15 mg Retardtabletten](http://www.fachinfo.de/pdf/020412)
+[Emselex® 15 mg Retardtabletten](data/020412.pdf)
 
-[Irenat Tropfen 300 mg/ml Tropfen zum Einnehmen](http://www.fachinfo.de/pdf/020415)
+[Irenat Tropfen 300 mg/ml Tropfen zum Einnehmen](data/020415.pdf)
 
-[Cholspasmin® Artischocke, überzogene Tabletten](http://www.fachinfo.de/pdf/020416)
+[Cholspasmin® Artischocke, überzogene Tabletten](data/020416.pdf)
 
-[Pravastatin AbZ 10 mg / 20 mg / 40 mg](http://www.fachinfo.de/pdf/020417)
+[Pravastatin AbZ 10 mg / 20 mg / 40 mg](data/020417.pdf)
 
-[Fentanyl AWD® Matrix Transdermales Pflaster](http://www.fachinfo.de/pdf/020418)
+[Fentanyl AWD® Matrix Transdermales Pflaster](data/020418.pdf)
 
-[Metoprolol-CT 200 mg Retardtabletten](http://www.fachinfo.de/pdf/020419)
+[Metoprolol-CT 200 mg Retardtabletten](data/020419.pdf)
 
-[Metoprolol-CT 50 mg Tabletten](http://www.fachinfo.de/pdf/020420)
+[Metoprolol-CT 50 mg Tabletten](data/020420.pdf)
 
-[Savene 20 mg/ml](http://www.fachinfo.de/pdf/020425)
+[Savene 20 mg/ml](data/020425.pdf)
 
-[Fem7® Sequi 50 Mikrogramm + 50 Mikrogramm/](http://www.fachinfo.de/pdf/020426)
+[Fem7® Sequi 50 Mikrogramm + 50 Mikrogramm/](data/020426.pdf)
 
-[Micanol Creme 1 %/3 %](http://www.fachinfo.de/pdf/020428)
+[Micanol Creme 1 %/3 %](data/020428.pdf)
 
-[Maexeni® 20 0,02 mg/0,1 mg Filmtabletten](http://www.fachinfo.de/pdf/020429)
+[Maexeni® 20 0,02 mg/0,1 mg Filmtabletten](data/020429.pdf)
 
-[Amisulprid-ratiopharm® 100 mg/200 mg Tabletten](http://www.fachinfo.de/pdf/020432)
+[Amisulprid-ratiopharm® 100 mg/200 mg Tabletten](data/020432.pdf)
 
-[Fentanyl AWD® Matrix 12 Mikrogramm/h](http://www.fachinfo.de/pdf/020433)
+[Fentanyl AWD® Matrix 12 Mikrogramm/h](data/020433.pdf)
 
-[Synagis® 100 mg/ml](http://www.fachinfo.de/pdf/020439)
+[Synagis® 100 mg/ml](data/020439.pdf)
 
-[Ventavis® 20 Mikrogramm/ml Lösung](http://www.fachinfo.de/pdf/020442)
+[Ventavis® 20 Mikrogramm/ml Lösung](data/020442.pdf)
 
-[Bronchoretard® 350](http://www.fachinfo.de/pdf/020444)
+[Bronchoretard® 350](data/020444.pdf)
 
-[Bronchoretard® 500 forte](http://www.fachinfo.de/pdf/020445)
+[Bronchoretard® 500 forte](data/020445.pdf)
 
-[Bronchoretard® 200 mite](http://www.fachinfo.de/pdf/020446)
+[Bronchoretard® 200 mite](data/020446.pdf)
 
-[Bronchoretard® 100 junior](http://www.fachinfo.de/pdf/020447)
+[Bronchoretard® 100 junior](data/020447.pdf)
 
-[Bifon Gel](http://www.fachinfo.de/pdf/020449)
+[Bifon Gel](data/020449.pdf)
 
-[Bifon Lösung](http://www.fachinfo.de/pdf/020450)
+[Bifon Lösung](data/020450.pdf)
 
-[Telmisartan Heumann Tabletten](http://www.fachinfo.de/pdf/020453)
+[Telmisartan Heumann Tabletten](data/020453.pdf)
 
-[Escitalopram Heumann 20 mg/ml](http://www.fachinfo.de/pdf/020454)
+[Escitalopram Heumann 20 mg/ml](data/020454.pdf)
 
 [rale Mittel (DAAs)
- eingeschränkt. Die Fälle](http://www.fachinfo.de/pdf/020455)
+ eingeschränkt. Die Fälle](data/020455.pdf)
 
-[Irbesartan/Hydrochlorothiazid Heumann](http://www.fachinfo.de/pdf/020456)
+[Irbesartan/Hydrochlorothiazid Heumann](data/020456.pdf)
 
-[Rizatriptan AbZ 10 mg](http://www.fachinfo.de/pdf/020464)
+[Rizatriptan AbZ 10 mg](data/020464.pdf)
 
-[Rizatriptan-ratiopharm® 10 mg](http://www.fachinfo.de/pdf/020465)
+[Rizatriptan-ratiopharm® 10 mg](data/020465.pdf)
 
-[Ropinirol Heumann retard 2 mg/4 mg/8 mg](http://www.fachinfo.de/pdf/020466)
+[Ropinirol Heumann retard 2 mg/4 mg/8 mg](data/020466.pdf)
 
-[Valsartan Heumann 80 mg/- 160 mg Filmtabletten](http://www.fachinfo.de/pdf/020468)
+[Valsartan Heumann 80 mg/- 160 mg Filmtabletten](data/020468.pdf)
 
-[Valsartan Heumann 320 mg Filmtabletten](http://www.fachinfo.de/pdf/020469)
+[Valsartan Heumann 320 mg Filmtabletten](data/020469.pdf)
 
-[Zeel® comp. N Tabletten](http://www.fachinfo.de/pdf/020470)
+[Zeel® comp. N Tabletten](data/020470.pdf)
 
-[Corifeo® 10 mg Filmtabletten](http://www.fachinfo.de/pdf/020478)
+[Corifeo® 10 mg Filmtabletten](data/020478.pdf)
 
-[Corifeo® 20 mg Filmtabletten](http://www.fachinfo.de/pdf/020479)
+[Corifeo® 20 mg Filmtabletten](data/020479.pdf)
 
-[Diazepam Temmler 5 mg](http://www.fachinfo.de/pdf/020480)
+[Diazepam Temmler 5 mg](data/020480.pdf)
 
-[Trulicity®](http://www.fachinfo.de/pdf/020484)
+[Trulicity®](data/020484.pdf)
 
-[Humalog® 200 Einheiten/ml KwikPen](http://www.fachinfo.de/pdf/020485)
+[Humalog® 200 Einheiten/ml KwikPen](data/020485.pdf)
 
-[Cyramza® 10 mg/ml](http://www.fachinfo.de/pdf/020486)
+[Cyramza® 10 mg/ml](data/020486.pdf)
 
-[Aspecton® Hustenliquid](http://www.fachinfo.de/pdf/020488)
+[Aspecton® Hustenliquid](data/020488.pdf)
 
-[Vargatef ® 100 mg Weichkapseln](http://www.fachinfo.de/pdf/020489)
+[Vargatef ® 100 mg Weichkapseln](data/020489.pdf)
 
-[Vargatef ® 150 mg Weichkapseln](http://www.fachinfo.de/pdf/020490)
+[Vargatef ® 150 mg Weichkapseln](data/020490.pdf)
 
-[Carmenthin® bei Verdauungsstörungen](http://www.fachinfo.de/pdf/020491)
+[Carmenthin® bei Verdauungsstörungen](data/020491.pdf)
 
-[Amyvid®](http://www.fachinfo.de/pdf/020500)
+[Amyvid®](data/020500.pdf)
 
-[Cloderm Creme 1 %](http://www.fachinfo.de/pdf/020518)
+[Cloderm Creme 1 %](data/020518.pdf)
 
-[Cloderm Puder](http://www.fachinfo.de/pdf/020519)
+[Cloderm Puder](data/020519.pdf)
 
-[Exviera® 250 mg Filmtabletten](http://www.fachinfo.de/pdf/020522)
+[Exviera® 250 mg Filmtabletten](data/020522.pdf)
 
-[Viekirax® 12,5 mg/75 mg/50 mg](http://www.fachinfo.de/pdf/020523)
+[Viekirax® 12,5 mg/75 mg/50 mg](data/020523.pdf)
 
-[Remifemin® mono](http://www.fachinfo.de/pdf/020524)
+[Remifemin® mono](data/020524.pdf)
 
-[Vitango®](http://www.fachinfo.de/pdf/020525)
+[Vitango®](data/020525.pdf)
 
-[Duloxetin Lilly 30 mg/60 mg](http://www.fachinfo.de/pdf/020526)
+[Duloxetin Lilly 30 mg/60 mg](data/020526.pdf)
 
-[Sandimmun® 100 mg/ml](http://www.fachinfo.de/pdf/020529)
+[Sandimmun® 100 mg/ml](data/020529.pdf)
 
-[Paricalcitol-ratiopharm® 5 Mikrogramm/ml](http://www.fachinfo.de/pdf/020534)
+[Paricalcitol-ratiopharm® 5 Mikrogramm/ml](data/020534.pdf)
 
-[Cloderm liquid 1 % Pumpspray](http://www.fachinfo.de/pdf/020543)
+[Cloderm liquid 1 % Pumpspray](data/020543.pdf)
 
-[Liprolog® 200 Einheiten/ml KwikPen™](http://www.fachinfo.de/pdf/020545)
+[Liprolog® 200 Einheiten/ml KwikPen™](data/020545.pdf)
 
-[Aripiprazol-Hormosan 5 mg/10 mg/15 mg/30 mg](http://www.fachinfo.de/pdf/020546)
+[Aripiprazol-Hormosan 5 mg/10 mg/15 mg/30 mg](data/020546.pdf)
 
-[Aripiprazol AbZ 5 mg / 10 mg / 15 mg / 20 mg / 30 mg](http://www.fachinfo.de/pdf/020548)
+[Aripiprazol AbZ 5 mg / 10 mg / 15 mg / 20 mg / 30 mg](data/020548.pdf)
 
-[Ramipril HCT gamma®](http://www.fachinfo.de/pdf/020549)
+[Ramipril HCT gamma®](data/020549.pdf)
 
-[LIPISCOR® Kapseln](http://www.fachinfo.de/pdf/020553)
+[LIPISCOR® Kapseln](data/020553.pdf)
 
-[Neuroplant® 300 mg Novo](http://www.fachinfo.de/pdf/020554)
+[Neuroplant® 300 mg Novo](data/020554.pdf)
 
-[Ofev® 100 mg Weichkapseln](http://www.fachinfo.de/pdf/020555)
+[Ofev® 100 mg Weichkapseln](data/020555.pdf)
 
-[Ofev® 150 mg Weichkapseln](http://www.fachinfo.de/pdf/020556)
+[Ofev® 150 mg Weichkapseln](data/020556.pdf)
 
-[Ribozar® 200 mg Pulver zur Herstellung einer Infusionslösung](http://www.fachinfo.de/pdf/020561)
+[Ribozar® 200 mg Pulver zur Herstellung einer Infusionslösung](data/020561.pdf)
 
-[RIXUBIS](http://www.fachinfo.de/pdf/020564)
+[RIXUBIS](data/020564.pdf)
 
-[Propofol-ratiopharm® MCT 10 mg/ml](http://www.fachinfo.de/pdf/020566)
+[Propofol-ratiopharm® MCT 10 mg/ml](data/020566.pdf)
 
-[ABASAGLAR®](http://www.fachinfo.de/pdf/020567)
+[ABASAGLAR®](data/020567.pdf)
 
-[Doxorubicinhydrochlorid Bendalis 2 mg/ml](http://www.fachinfo.de/pdf/020568)
+[Doxorubicinhydrochlorid Bendalis 2 mg/ml](data/020568.pdf)
 
-[Rasagilin ratiopharm 1 mg Tabletten](http://www.fachinfo.de/pdf/020570)
+[Rasagilin ratiopharm 1 mg Tabletten](data/020570.pdf)
 
-[Pregabalin Hennig®](http://www.fachinfo.de/pdf/020572)
+[Pregabalin Hennig®](data/020572.pdf)
 
-[Nitrolingual® Spray](http://www.fachinfo.de/pdf/020573)
+[Nitrolingual® Spray](data/020573.pdf)
 
-[der verabreicht werden, wenn die Infusions- Muttermilch ausgeschieden. In therapeuti-](http://www.fachinfo.de/pdf/020575)
+[der verabreicht werden, wenn die Infusions- Muttermilch ausgeschieden. In therapeuti-](data/020575.pdf)
 
-[Thyreogutt® mono Tropfen](http://www.fachinfo.de/pdf/020577)
+[Thyreogutt® mono Tropfen](data/020577.pdf)
 
-[Deltaran® 200 mg/300 mg/400 mg](http://www.fachinfo.de/pdf/020578)
+[Deltaran® 200 mg/300 mg/400 mg](data/020578.pdf)
 
-[Substitol® 100/200 mg Hartkapseln,](http://www.fachinfo.de/pdf/020580)
+[Substitol® 100/200 mg Hartkapseln,](data/020580.pdf)
 
-[Ropivacainhydrochlorid Sintetica 2 mg/ml](http://www.fachinfo.de/pdf/020581)
+[Ropivacainhydrochlorid Sintetica 2 mg/ml](data/020581.pdf)
 
-[Ropivacainhydrochlorid Sintetica 7,5 mg/ml](http://www.fachinfo.de/pdf/020582)
+[Ropivacainhydrochlorid Sintetica 7,5 mg/ml](data/020582.pdf)
 
-[Ropivacainhydrochlorid Sintetica 10 mg/ml](http://www.fachinfo.de/pdf/020583)
+[Ropivacainhydrochlorid Sintetica 10 mg/ml](data/020583.pdf)
 
-[Ropivacainhydrochlorid Sintetica 2 mg/ml](http://www.fachinfo.de/pdf/020584)
+[Ropivacainhydrochlorid Sintetica 2 mg/ml](data/020584.pdf)
 
-[Ropivacainhydrochlorid Sintetica 5 mg/ml](http://www.fachinfo.de/pdf/020585)
+[Ropivacainhydrochlorid Sintetica 5 mg/ml](data/020585.pdf)
 
-[Venlafaxin-Hormosan 37,5 mg/75 mg/150 mg](http://www.fachinfo.de/pdf/020587)
+[Venlafaxin-Hormosan 37,5 mg/75 mg/150 mg](data/020587.pdf)
 
-[Dantamacrin 25 mg/50 mg Hartkapseln](http://www.fachinfo.de/pdf/020589)
+[Dantamacrin 25 mg/50 mg Hartkapseln](data/020589.pdf)
 
-[Emerade hat keinen oder einen zu vernach- aufgeführten Informationen liegen keine](http://www.fachinfo.de/pdf/020591)
+[Emerade hat keinen oder einen zu vernach- aufgeführten Informationen liegen keine](data/020591.pdf)
 
-[Exemestan Heumann 25 mg](http://www.fachinfo.de/pdf/020601)
+[Exemestan Heumann 25 mg](data/020601.pdf)
 
-[Propiverin-Uropharm® 15 mg Filmtabletten](http://www.fachinfo.de/pdf/020602)
+[Propiverin-Uropharm® 15 mg Filmtabletten](data/020602.pdf)
 
-[Propiverin-Uropharm® 5 mg Filmtabletten](http://www.fachinfo.de/pdf/020603)
+[Propiverin-Uropharm® 5 mg Filmtabletten](data/020603.pdf)
 
-[Vetren® Gel 60.000 I.E.](http://www.fachinfo.de/pdf/020604)
+[Vetren® Gel 60.000 I.E.](data/020604.pdf)
 
-[SANDRIN®](http://www.fachinfo.de/pdf/020611)
+[SANDRIN®](data/020611.pdf)
 
-[Euvegal®](http://www.fachinfo.de/pdf/020612)
+[Euvegal®](data/020612.pdf)
 
-[Cardio-Kreislauf-Longoral](http://www.fachinfo.de/pdf/020617)
+[Cardio-Kreislauf-Longoral](data/020617.pdf)
 
-[Linoseptic 1 mg/g + 20 mg/g Spray](http://www.fachinfo.de/pdf/020621)
+[Linoseptic 1 mg/g + 20 mg/g Spray](data/020621.pdf)
 
-[Multovitan® N](http://www.fachinfo.de/pdf/020622)
+[Multovitan® N](data/020622.pdf)
 
-[Linoseptic 1 mg/g + 10 mg/g Gel](http://www.fachinfo.de/pdf/020624)
+[Linoseptic 1 mg/g + 10 mg/g Gel](data/020624.pdf)
 
-[Velphoro® 500 mg Kautabletten](http://www.fachinfo.de/pdf/020626)
+[Velphoro® 500 mg Kautabletten](data/020626.pdf)
 
-[Paricalcitol-ratiopharm® 1 Mikrogramm / 2 Mikrogramm](http://www.fachinfo.de/pdf/020627)
+[Paricalcitol-ratiopharm® 1 Mikrogramm / 2 Mikrogramm](data/020627.pdf)
 
-[Escitalopram Heumann 5 mg/15 mg Filmtabletten](http://www.fachinfo.de/pdf/020632)
+[Escitalopram Heumann 5 mg/15 mg Filmtabletten](data/020632.pdf)
 
-[CRATON®](http://www.fachinfo.de/pdf/020633)
+[CRATON®](data/020633.pdf)
 
-[CRATON® comfort](http://www.fachinfo.de/pdf/020634)
+[CRATON® comfort](data/020634.pdf)
 
-[Rabeprazol Heumann 10 mg/20 mg](http://www.fachinfo.de/pdf/020635)
+[Rabeprazol Heumann 10 mg/20 mg](data/020635.pdf)
 
-[Toujeo® 300 Einheiten/ml](http://www.fachinfo.de/pdf/020640)
+[Toujeo® 300 Einheiten/ml](data/020640.pdf)
 
-[Vanco-ratiopharm® 500 mg / 1000 mg](http://www.fachinfo.de/pdf/020641)
+[Vanco-ratiopharm® 500 mg / 1000 mg](data/020641.pdf)
 
-[Sumatriptan-ratiopharm® 50 mg Filmtabletten](http://www.fachinfo.de/pdf/020645)
+[Sumatriptan-ratiopharm® 50 mg Filmtabletten](data/020645.pdf)
 
-[Zofran®](http://www.fachinfo.de/pdf/020648)
+[Zofran®](data/020648.pdf)
 
 [den möglichen Wirkungen des Arzneimit- Lethargie oder Halsschmerzen)
-, zu jeg- war Quetiapin mit einer anhaltenden Ver-](http://www.fachinfo.de/pdf/020656)
+, zu jeg- war Quetiapin mit einer anhaltenden Ver-](data/020656.pdf)
 
-[LENVIMA® 4 mg/10 mg](http://www.fachinfo.de/pdf/020661)
+[LENVIMA® 4 mg/10 mg](data/020661.pdf)
 
-[IKERVIS® 1 mg/ml Augentropfen, Emulsion](http://www.fachinfo.de/pdf/020664)
+[IKERVIS® 1 mg/ml Augentropfen, Emulsion](data/020664.pdf)
 
-[Pregabin 25 mg/50 mg/75 mg/100 mg/150 mg/300 mg](http://www.fachinfo.de/pdf/020665)
+[Pregabin 25 mg/50 mg/75 mg/100 mg/150 mg/300 mg](data/020665.pdf)
 
-[ANTIVENO Heumann® Venentabletten](http://www.fachinfo.de/pdf/020666)
+[ANTIVENO Heumann® Venentabletten](data/020666.pdf)
 
-[Pregabalin-ratiopharm® 20 mg/ml](http://www.fachinfo.de/pdf/020669)
+[Pregabalin-ratiopharm® 20 mg/ml](data/020669.pdf)
 
-[PNEUMOVAX® 23, Fertigspritze](http://www.fachinfo.de/pdf/020674)
+[PNEUMOVAX® 23, Fertigspritze](data/020674.pdf)
 
 [Promixin, 1 Million Internationale Einheiten (I. E.)
-](http://www.fachinfo.de/pdf/020676)
+](data/020676.pdf)
 
-[Promixin 1 MIO I. E.](http://www.fachinfo.de/pdf/020677)
+[Promixin 1 MIO I. E.](data/020677.pdf)
 
-[Ovaleap 300 I.E./0,5 ml / 450 I.E./0,75 ml / 900 I.E./1,5 ml](http://www.fachinfo.de/pdf/020678)
+[Ovaleap 300 I.E./0,5 ml / 450 I.E./0,75 ml / 900 I.E./1,5 ml](data/020678.pdf)
 
-[Delphicort® Creme](http://www.fachinfo.de/pdf/020680)
+[Delphicort® Creme](data/020680.pdf)
 
-[Delphicort® Salbe](http://www.fachinfo.de/pdf/020681)
+[Delphicort® Salbe](data/020681.pdf)
 
-[Dexamethason Creme LAW](http://www.fachinfo.de/pdf/020682)
+[Dexamethason Creme LAW](data/020682.pdf)
 
-[Lederlind® Heilpaste](http://www.fachinfo.de/pdf/020683)
+[Lederlind® Heilpaste](data/020683.pdf)
 
-[Lederlind® Mundgel](http://www.fachinfo.de/pdf/020684)
+[Lederlind® Mundgel](data/020684.pdf)
 
-[LOCASALEN® Salbe](http://www.fachinfo.de/pdf/020685)
+[LOCASALEN® Salbe](data/020685.pdf)
 
-[nikofrenon® 10/20/30](http://www.fachinfo.de/pdf/020686)
+[nikofrenon® 10/20/30](data/020686.pdf)
 
-[Prednisolon Creme LAW](http://www.fachinfo.de/pdf/020687)
+[Prednisolon Creme LAW](data/020687.pdf)
 
-[Prednisolon Fettcreme LAW](http://www.fachinfo.de/pdf/020688)
+[Prednisolon Fettcreme LAW](data/020688.pdf)
 
-[Oxygesic® 15 mg/30 mg/60 mg/120 mg/160 mg](http://www.fachinfo.de/pdf/020689)
+[Oxygesic® 15 mg/30 mg/60 mg/120 mg/160 mg](data/020689.pdf)
 
-[LYOVAC-COSMEGEN® 0,5 mg](http://www.fachinfo.de/pdf/020690)
+[LYOVAC-COSMEGEN® 0,5 mg](data/020690.pdf)
 
-[Esberi-Efeu® Hustensaft](http://www.fachinfo.de/pdf/020695)
+[Esberi-Efeu® Hustensaft](data/020695.pdf)
 
-[Candesartan Heumann 2 mg Tabletten](http://www.fachinfo.de/pdf/020696)
+[Candesartan Heumann 2 mg Tabletten](data/020696.pdf)
 
-[Anastrozol-ratiopharm® 1 mg](http://www.fachinfo.de/pdf/020702)
+[Anastrozol-ratiopharm® 1 mg](data/020702.pdf)
 
-[Saxenda® 6 mg/ml Injektionslösung](http://www.fachinfo.de/pdf/020715)
+[Saxenda® 6 mg/ml Injektionslösung](data/020715.pdf)
 
-[Nystatin Lederle Salbe 100.000 I. E.](http://www.fachinfo.de/pdf/020718)
+[Nystatin Lederle Salbe 100.000 I. E.](data/020718.pdf)
 
-[Nystatin Lederle Creme 100.000 I. E.](http://www.fachinfo.de/pdf/020719)
+[Nystatin Lederle Creme 100.000 I. E.](data/020719.pdf)
 
-[Aspirin® Plus C Forte](http://www.fachinfo.de/pdf/020724)
+[Aspirin® Plus C Forte](data/020724.pdf)
 
-[Arpoya Tabletten](http://www.fachinfo.de/pdf/020727)
+[Arpoya Tabletten](data/020727.pdf)
 
-[Irbesartan Heumann Filmtabletten](http://www.fachinfo.de/pdf/020728)
+[Irbesartan Heumann Filmtabletten](data/020728.pdf)
 
-[Finasterid Heumann 5 mg](http://www.fachinfo.de/pdf/020729)
+[Finasterid Heumann 5 mg](data/020729.pdf)
 
-[Spiolto® Respimat®](http://www.fachinfo.de/pdf/020738)
+[Spiolto® Respimat®](data/020738.pdf)
 
-[Eplerenon Heumann 25 mg/50 mg](http://www.fachinfo.de/pdf/020740)
+[Eplerenon Heumann 25 mg/50 mg](data/020740.pdf)
 
-[Duloxetin Heumann 20 mg/40 mg](http://www.fachinfo.de/pdf/020741)
+[Duloxetin Heumann 20 mg/40 mg](data/020741.pdf)
 
-[Duloxetin Heumann 30 mg/60 mg](http://www.fachinfo.de/pdf/020742)
+[Duloxetin Heumann 30 mg/60 mg](data/020742.pdf)
 
-[Fusidinsäure-ratiopharm® 20 mg/g](http://www.fachinfo.de/pdf/020743)
+[Fusidinsäure-ratiopharm® 20 mg/g](data/020743.pdf)
 
-[MCP-AbZ 1 mg/ml](http://www.fachinfo.de/pdf/020747)
+[MCP-AbZ 1 mg/ml](data/020747.pdf)
 
-[GROUPE PANPHARMA](http://www.fachinfo.de/pdf/020749)
+[GROUPE PANPHARMA](data/020749.pdf)
 
-[GROUPE PANPHARMA](http://www.fachinfo.de/pdf/020750)
+[GROUPE PANPHARMA](data/020750.pdf)
 
-[GROUPE PANPHARMA](http://www.fachinfo.de/pdf/020751)
+[GROUPE PANPHARMA](data/020751.pdf)
 
-[GROUPE PANPHARMA](http://www.fachinfo.de/pdf/020752)
+[GROUPE PANPHARMA](data/020752.pdf)
 
-[GROUPE PANPHARMA](http://www.fachinfo.de/pdf/020753)
+[GROUPE PANPHARMA](data/020753.pdf)
 
-[GROUPE PANPHARMA](http://www.fachinfo.de/pdf/020754)
+[GROUPE PANPHARMA](data/020754.pdf)
 
-[GROUPE PANPHARMA](http://www.fachinfo.de/pdf/020755)
+[GROUPE PANPHARMA](data/020755.pdf)
 
-[GROUPE PANPHARMA](http://www.fachinfo.de/pdf/020758)
+[GROUPE PANPHARMA](data/020758.pdf)
 
-[GROUPE PANPHARMA](http://www.fachinfo.de/pdf/020760)
+[GROUPE PANPHARMA](data/020760.pdf)
 
-[GROUPE PANPHARMA](http://www.fachinfo.de/pdf/020761)
+[GROUPE PANPHARMA](data/020761.pdf)
 
-[GROUPE PANPHARMA](http://www.fachinfo.de/pdf/020762)
+[GROUPE PANPHARMA](data/020762.pdf)
 
-[GROUPE PANPHARMA](http://www.fachinfo.de/pdf/020765)
+[GROUPE PANPHARMA](data/020765.pdf)
 
-[GROUPE PANPHARMA](http://www.fachinfo.de/pdf/020766)
+[GROUPE PANPHARMA](data/020766.pdf)
 
-[GROUPE PANPHARMA](http://www.fachinfo.de/pdf/020769)
+[GROUPE PANPHARMA](data/020769.pdf)
 
-[GROUPE PANPHARMA](http://www.fachinfo.de/pdf/020770)
+[GROUPE PANPHARMA](data/020770.pdf)
 
-[GROUPE PANPHARMA](http://www.fachinfo.de/pdf/020771)
+[GROUPE PANPHARMA](data/020771.pdf)
 
-[GROUPE PANPHARMA](http://www.fachinfo.de/pdf/020774)
+[GROUPE PANPHARMA](data/020774.pdf)
 
-[GROUPE PANPHARMA](http://www.fachinfo.de/pdf/020775)
+[GROUPE PANPHARMA](data/020775.pdf)
 
-[GROUPE PANPHARMA](http://www.fachinfo.de/pdf/020776)
+[GROUPE PANPHARMA](data/020776.pdf)
 
-[GROUPE PANPHARMA](http://www.fachinfo.de/pdf/020777)
+[GROUPE PANPHARMA](data/020777.pdf)
 
-[GROUPE PANPHARMA](http://www.fachinfo.de/pdf/020778)
+[GROUPE PANPHARMA](data/020778.pdf)
 
-[GROUPE PANPHARMA](http://www.fachinfo.de/pdf/020781)
+[GROUPE PANPHARMA](data/020781.pdf)
 
-[GROUPE PANPHARMA](http://www.fachinfo.de/pdf/020782)
+[GROUPE PANPHARMA](data/020782.pdf)
 
-[Vitamin B12 Sanum](http://www.fachinfo.de/pdf/020785)
+[Vitamin B12 Sanum](data/020785.pdf)
 
-[Midien 0,03 mg/2 mg Filmtabletten](http://www.fachinfo.de/pdf/020790)
+[Midien 0,03 mg/2 mg Filmtabletten](data/020790.pdf)
 
-[Midesia 75 Mikrogramm Filmtabletten](http://www.fachinfo.de/pdf/020791)
+[Midesia 75 Mikrogramm Filmtabletten](data/020791.pdf)
 
-[Orfadin® 4 mg/ml](http://www.fachinfo.de/pdf/020793)
+[Orfadin® 4 mg/ml](data/020793.pdf)
 
-[GROUPE PANPHARMA](http://www.fachinfo.de/pdf/020794)
+[GROUPE PANPHARMA](data/020794.pdf)
 
-[Reisetabletten Heumann 50 mg Tabletten](http://www.fachinfo.de/pdf/020796)
+[Reisetabletten Heumann 50 mg Tabletten](data/020796.pdf)
 
-[Escitalopram Heumann 10 mg/20 mg](http://www.fachinfo.de/pdf/020800)
+[Escitalopram Heumann 10 mg/20 mg](data/020800.pdf)
 
-[Zonisamid-ratiopharm® 25 mg / 50 mg / 100 mg](http://www.fachinfo.de/pdf/020802)
+[Zonisamid-ratiopharm® 25 mg / 50 mg / 100 mg](data/020802.pdf)
 
-[Losartan-ratiopharm® 100 mg](http://www.fachinfo.de/pdf/020803)
+[Losartan-ratiopharm® 100 mg](data/020803.pdf)
 
-[Losartan-AbZ 100 mg](http://www.fachinfo.de/pdf/020804)
+[Losartan-AbZ 100 mg](data/020804.pdf)
 
-[Losartan-CT 100 mg](http://www.fachinfo.de/pdf/020805)
+[Losartan-CT 100 mg](data/020805.pdf)
 
-[Kengrexal 50 mg Pulver für ein Konzentrat](http://www.fachinfo.de/pdf/020811)
+[Kengrexal 50 mg Pulver für ein Konzentrat](data/020811.pdf)
 
-[Migräne-Kranit® 500 mg](http://www.fachinfo.de/pdf/020812)
+[Migräne-Kranit® 500 mg](data/020812.pdf)
 
-[Respreeza® 1.000 mg](http://www.fachinfo.de/pdf/020827)
+[Respreeza® 1.000 mg](data/020827.pdf)
 
-[Orfadin® 2 mg/5 mg/10 mg/20 mg](http://www.fachinfo.de/pdf/020834)
+[Orfadin® 2 mg/5 mg/10 mg/20 mg](data/020834.pdf)
 
-[Silvaysan® Hartkapseln](http://www.fachinfo.de/pdf/020840)
+[Silvaysan® Hartkapseln](data/020840.pdf)
 
-[Aripiprazol Heumann 10 mg/15 mg](http://www.fachinfo.de/pdf/020841)
+[Aripiprazol Heumann 10 mg/15 mg](data/020841.pdf)
 
-[Levodopa/Carbidopa/Entacapon Heumann](http://www.fachinfo.de/pdf/020844)
+[Levodopa/Carbidopa/Entacapon Heumann](data/020844.pdf)
 
-[Aripiprazol Heumann 20 mg Tabletten](http://www.fachinfo.de/pdf/020847)
+[Aripiprazol Heumann 20 mg Tabletten](data/020847.pdf)
 
-[Bromelaintabletten hysan®](http://www.fachinfo.de/pdf/020850)
+[Bromelaintabletten hysan®](data/020850.pdf)
 
-[Praluent® 75 mg/150 mg Injektionslösung in einem Fertigpen](http://www.fachinfo.de/pdf/020851)
+[Praluent® 75 mg/150 mg Injektionslösung in einem Fertigpen](data/020851.pdf)
 
-[Bronchipret® Tropfen](http://www.fachinfo.de/pdf/020856)
+[Bronchipret® Tropfen](data/020856.pdf)
 
-[KOGENATE Bayer 250 / 500 / 1000 / 2000 / 3000 I.E.](http://www.fachinfo.de/pdf/020857)
+[KOGENATE Bayer 250 / 500 / 1000 / 2000 / 3000 I.E.](data/020857.pdf)
 
-[Proculin® Augentropfen](http://www.fachinfo.de/pdf/020858)
+[Proculin® Augentropfen](data/020858.pdf)
 
-[Mydrum® Augentropfen](http://www.fachinfo.de/pdf/020859)
+[Mydrum® Augentropfen](data/020859.pdf)
 
-[Arutimol® uno Augentropfen 0,25 %](http://www.fachinfo.de/pdf/020860)
+[Arutimol® uno Augentropfen 0,25 %](data/020860.pdf)
 
-[Arutimol® Augentropfen 0,25 %](http://www.fachinfo.de/pdf/020861)
+[Arutimol® Augentropfen 0,25 %](data/020861.pdf)
 
-[Irbesartan/Hydrochlorothiazid Heumann](http://www.fachinfo.de/pdf/020862)
+[Irbesartan/Hydrochlorothiazid Heumann](data/020862.pdf)
 
-[Cotellic® 20 mg Filmtabletten](http://www.fachinfo.de/pdf/020869)
+[Cotellic® 20 mg Filmtabletten](data/020869.pdf)
 
-[Narcaricin® mite](http://www.fachinfo.de/pdf/020870)
+[Narcaricin® mite](data/020870.pdf)
 
-[Fevarin® 100 mg Filmtabletten](http://www.fachinfo.de/pdf/020871)
+[Fevarin® 100 mg Filmtabletten](data/020871.pdf)
 
-[Fevarin® 50 mg Filmtabletten](http://www.fachinfo.de/pdf/020872)
+[Fevarin® 50 mg Filmtabletten](data/020872.pdf)
 
-[ALKALA® “N“ Pulver](http://www.fachinfo.de/pdf/020874)
+[ALKALA® “N“ Pulver](data/020874.pdf)
 
-[Kalydeco® 50 mg/75 mg Granulat im Beutel](http://www.fachinfo.de/pdf/020878)
+[Kalydeco® 50 mg/75 mg Granulat im Beutel](data/020878.pdf)
 
-[Orkambi® 200 mg/125 mg Filmtabletten](http://www.fachinfo.de/pdf/020879)
+[Orkambi® 200 mg/125 mg Filmtabletten](data/020879.pdf)
 
-[OBIZUR 500 E](http://www.fachinfo.de/pdf/020880)
+[OBIZUR 500 E](data/020880.pdf)
 
-[LaYaisa® 20 0,02 mg/3 mg](http://www.fachinfo.de/pdf/020881)
+[LaYaisa® 20 0,02 mg/3 mg](data/020881.pdf)
 
-[LaYanina® 30 0,03 mg/3 mg](http://www.fachinfo.de/pdf/020882)
+[LaYanina® 30 0,03 mg/3 mg](data/020882.pdf)
 
-[Amoxicillin-ratiopharm® 500 mg/5 ml](http://www.fachinfo.de/pdf/020886)
+[Amoxicillin-ratiopharm® 500 mg/5 ml](data/020886.pdf)
 
-[ALKALA® “T“ Tabletten](http://www.fachinfo.de/pdf/020887)
+[ALKALA® “T“ Tabletten](data/020887.pdf)
 
-[Nucala® 100 mg](http://www.fachinfo.de/pdf/020888)
+[Nucala® 100 mg](data/020888.pdf)
 
-[Iscador M c. Arg.](http://www.fachinfo.de/pdf/020892)
+[Iscador M c. Arg.](data/020892.pdf)
 
-[Iscador M c. Hg](http://www.fachinfo.de/pdf/020893)
+[Iscador M c. Hg](data/020893.pdf)
 
-[Iscador M c. Cu](http://www.fachinfo.de/pdf/020894)
+[Iscador M c. Cu](data/020894.pdf)
 
-[Iscador M](http://www.fachinfo.de/pdf/020895)
+[Iscador M](data/020895.pdf)
 
-[Iscador M 5 mg spezial](http://www.fachinfo.de/pdf/020896)
+[Iscador M 5 mg spezial](data/020896.pdf)
 
-[Iscador P](http://www.fachinfo.de/pdf/020897)
+[Iscador P](data/020897.pdf)
 
-[Iscador P c. Hg](http://www.fachinfo.de/pdf/020898)
+[Iscador P c. Hg](data/020898.pdf)
 
-[Iscador Qu](http://www.fachinfo.de/pdf/020899)
+[Iscador Qu](data/020899.pdf)
 
-[Iscador Qu c. Arg.](http://www.fachinfo.de/pdf/020900)
+[Iscador Qu c. Arg.](data/020900.pdf)
 
-[Iscador Qu c. Cu](http://www.fachinfo.de/pdf/020901)
+[Iscador Qu c. Cu](data/020901.pdf)
 
-[Iscador Qu c. Hg](http://www.fachinfo.de/pdf/020902)
+[Iscador Qu c. Hg](data/020902.pdf)
 
-[Iscador U c. Hg](http://www.fachinfo.de/pdf/020903)
+[Iscador U c. Hg](data/020903.pdf)
 
-[Aconitum/China comp., Suppositorien](http://www.fachinfo.de/pdf/020904)
+[Aconitum/China comp., Suppositorien](data/020904.pdf)
 
-[Aconitum/China comp., Suppositorien für Kinder](http://www.fachinfo.de/pdf/020905)
+[Aconitum/China comp., Suppositorien für Kinder](data/020905.pdf)
 
-[Ammi visnaga comp., Suppositorien](http://www.fachinfo.de/pdf/020906)
+[Ammi visnaga comp., Suppositorien](data/020906.pdf)
 
-[Ammi visnaga comp., Suppositorien für Kinder](http://www.fachinfo.de/pdf/020907)
+[Ammi visnaga comp., Suppositorien für Kinder](data/020907.pdf)
 
-[Carum carvi Zäpfchen](http://www.fachinfo.de/pdf/020908)
+[Carum carvi Zäpfchen](data/020908.pdf)
 
-[Carum carvi Kinderzäpfchen](http://www.fachinfo.de/pdf/020909)
+[Carum carvi Kinderzäpfchen](data/020909.pdf)
 
-[Silicea comp., Suppositorien](http://www.fachinfo.de/pdf/020910)
+[Silicea comp., Suppositorien](data/020910.pdf)
 
-[Silicea comp., Suppositorien für Kinder](http://www.fachinfo.de/pdf/020911)
+[Silicea comp., Suppositorien für Kinder](data/020911.pdf)
 
-[Luffasan® Tabletten](http://www.fachinfo.de/pdf/020921)
+[Luffasan® Tabletten](data/020921.pdf)
 
-[Episcorit® Auszug](http://www.fachinfo.de/pdf/020922)
+[Episcorit® Auszug](data/020922.pdf)
 
-[STROPHANTHUS D4 SANUM Tabletten](http://www.fachinfo.de/pdf/020925)
+[STROPHANTHUS D4 SANUM Tabletten](data/020925.pdf)
 
-[Praxbind 2,5 g/50 ml](http://www.fachinfo.de/pdf/020929)
+[Praxbind 2,5 g/50 ml](data/020929.pdf)
 
-[Rasagilin Heumann 1 mg Tabletten](http://www.fachinfo.de/pdf/020934)
+[Rasagilin Heumann 1 mg Tabletten](data/020934.pdf)
 
-[Gilt® Lösung, Clotrimazol 1 %](http://www.fachinfo.de/pdf/020938)
+[Gilt® Lösung, Clotrimazol 1 %](data/020938.pdf)
 
-[Almotriptan Heumann bei Migräne 12,5 mg](http://www.fachinfo.de/pdf/020940)
+[Almotriptan Heumann bei Migräne 12,5 mg](data/020940.pdf)
 
-[Attentin® 10 mg/20 mg Tablette](http://www.fachinfo.de/pdf/020945)
+[Attentin® 10 mg/20 mg Tablette](data/020945.pdf)
 
-[Ibuprofen Heumann 200 mg](http://www.fachinfo.de/pdf/020948)
+[Ibuprofen Heumann 200 mg](data/020948.pdf)
 
-[Synjardy® Filmtabletten](http://www.fachinfo.de/pdf/020957)
+[Synjardy® Filmtabletten](data/020957.pdf)
 
-[ASS-AbZ 100 mg TAH Tabletten](http://www.fachinfo.de/pdf/020969)
+[ASS-AbZ 100 mg TAH Tabletten](data/020969.pdf)
 
-[Levetiracetam Heumann](http://www.fachinfo.de/pdf/020971)
+[Levetiracetam Heumann](data/020971.pdf)
 
-[GINKGOVITAL Heumann® Filmtabletten](http://www.fachinfo.de/pdf/020973)
+[GINKGOVITAL Heumann® Filmtabletten](data/020973.pdf)
 
-[Kovaltry® 250 I.E. /500 I.E. /1000 I.E. /2000 I.E. /3000 I.E.](http://www.fachinfo.de/pdf/020974)
+[Kovaltry® 250 I.E. /500 I.E. /1000 I.E. /2000 I.E. /3000 I.E.](data/020974.pdf)
 
-[Isoptin® mite, 40 mg, Filmtabletten](http://www.fachinfo.de/pdf/020975)
+[Isoptin® mite, 40 mg, Filmtabletten](data/020975.pdf)
 
-[Isoptin® 120 mg, Filmtabletten](http://www.fachinfo.de/pdf/020976)
+[Isoptin® 120 mg, Filmtabletten](data/020976.pdf)
 
-[Isoptin® KHK retard](http://www.fachinfo.de/pdf/020977)
+[Isoptin® KHK retard](data/020977.pdf)
 
-[Isoptin® RR](http://www.fachinfo.de/pdf/020978)
+[Isoptin® RR](data/020978.pdf)
 
-[Rasagilin AbZ 1 mg Tabletten](http://www.fachinfo.de/pdf/020979)
+[Rasagilin AbZ 1 mg Tabletten](data/020979.pdf)
 
-[Metoprolol 200 retard Heumann](http://www.fachinfo.de/pdf/020984)
+[Metoprolol 200 retard Heumann](data/020984.pdf)
 
-[Myopridin](http://www.fachinfo.de/pdf/020988)
+[Myopridin](data/020988.pdf)
 
-[Esomeprazol Heumann 20 mg magensaftresistente Tabletten](http://www.fachinfo.de/pdf/020989)
+[Esomeprazol Heumann 20 mg magensaftresistente Tabletten](data/020989.pdf)
 
-[GIOTRIF® 20 mg/30 mg/40 mg/50 mg Filmtabletten](http://www.fachinfo.de/pdf/020993)
+[GIOTRIF® 20 mg/30 mg/40 mg/50 mg Filmtabletten](data/020993.pdf)
 
-[Portrazza® 800 mg](http://www.fachinfo.de/pdf/021003)
+[Portrazza® 800 mg](data/021003.pdf)
 
-[Amoxicillin/Clavulansäure Heumann 500 mg/125 mg](http://www.fachinfo.de/pdf/021005)
+[Amoxicillin/Clavulansäure Heumann 500 mg/125 mg](data/021005.pdf)
 
-[Amoxicillin/Clavulansäure Heumann 875 mg/125 mg](http://www.fachinfo.de/pdf/021006)
+[Amoxicillin/Clavulansäure Heumann 875 mg/125 mg](data/021006.pdf)
 
-[Naproxen-Hormosan 250 mg](http://www.fachinfo.de/pdf/021008)
+[Naproxen-Hormosan 250 mg](data/021008.pdf)
 
-[Naproxen-Hormosan 500 mg](http://www.fachinfo.de/pdf/021009)
+[Naproxen-Hormosan 500 mg](data/021009.pdf)
 
-[Buprenoratiopharm 35 / 52,5 / 70 Mikrogramm/Stunde](http://www.fachinfo.de/pdf/021015)
+[Buprenoratiopharm 35 / 52,5 / 70 Mikrogramm/Stunde](data/021015.pdf)
 
-[Bedienen von Maschinen Meldung des Verdachts auf Nebenwir-](http://www.fachinfo.de/pdf/021020)
+[Bedienen von Maschinen Meldung des Verdachts auf Nebenwir-](data/021020.pdf)
 
-[Celecoxib Heumann 100 mg Hartkapseln](http://www.fachinfo.de/pdf/021025)
+[Celecoxib Heumann 100 mg Hartkapseln](data/021025.pdf)
 
-[ICHTHOMED® 4 % Gel](http://www.fachinfo.de/pdf/021026)
+[ICHTHOMED® 4 % Gel](data/021026.pdf)
 
-[Ubretid® Injektionslösung 0,5 mg](http://www.fachinfo.de/pdf/021028)
+[Ubretid® Injektionslösung 0,5 mg](data/021028.pdf)
 
-[Ubretid® Tabletten 5,0 mg](http://www.fachinfo.de/pdf/021029)
+[Ubretid® Tabletten 5,0 mg](data/021029.pdf)
 
-[ITRAISDIN 50 mg Hartkapseln](http://www.fachinfo.de/pdf/021034)
+[ITRAISDIN 50 mg Hartkapseln](data/021034.pdf)
 
-[von Atosiban 37,5 mg/5 ml Konzentrat zur](http://www.fachinfo.de/pdf/021036)
+[von Atosiban 37,5 mg/5 ml Konzentrat zur](data/021036.pdf)
 
-[Bronchilin®](http://www.fachinfo.de/pdf/021041)
+[Bronchilin®](data/021041.pdf)
 
-[Capecitabin medac 150/300/500 mg](http://www.fachinfo.de/pdf/021049)
+[Capecitabin medac 150/300/500 mg](data/021049.pdf)
 
-[Jardiance® 10 mg/25 mg](http://www.fachinfo.de/pdf/021054)
+[Jardiance® 10 mg/25 mg](data/021054.pdf)
 
-[Itraconazol Heumann 100 mg](http://www.fachinfo.de/pdf/021055)
+[Itraconazol Heumann 100 mg](data/021055.pdf)
 
-[Taltz®](http://www.fachinfo.de/pdf/021057)
+[Taltz®](data/021057.pdf)
 
-[Nitronal® 0,8 mg](http://www.fachinfo.de/pdf/021058)
+[Nitronal® 0,8 mg](data/021058.pdf)
 
-[Oncaspar](http://www.fachinfo.de/pdf/021060)
+[Oncaspar](data/021060.pdf)
 
-[Vargatef ® 100 mg/150 mg Weichkapseln](http://www.fachinfo.de/pdf/021070)
+[Vargatef ® 100 mg/150 mg Weichkapseln](data/021070.pdf)
 
-[Irbesartan/Hydrochlorothiazid Heumann](http://www.fachinfo.de/pdf/021074)
+[Irbesartan/Hydrochlorothiazid Heumann](data/021074.pdf)
 
-[Oxycodonhydrochlorid Heumann 5 mg/10 mg/20 mg](http://www.fachinfo.de/pdf/021077)
+[Oxycodonhydrochlorid Heumann 5 mg/10 mg/20 mg](data/021077.pdf)
 
-[Ambroxol 75 retard Heumann](http://www.fachinfo.de/pdf/021080)
+[Ambroxol 75 retard Heumann](data/021080.pdf)
 
-[IDELVION 250 I.E./500 I.E./1000 I.E./2000 I.E. Pulver und Lösungsmittel](http://www.fachinfo.de/pdf/021086)
+[IDELVION 250 I.E./500 I.E./1000 I.E./2000 I.E. Pulver und Lösungsmittel](data/021086.pdf)
 
-[Klacid® 500 mg](http://www.fachinfo.de/pdf/021092)
+[Klacid® 500 mg](data/021092.pdf)
 
-[Zonisamid Heumann Hartkapseln](http://www.fachinfo.de/pdf/021106)
+[Zonisamid Heumann Hartkapseln](data/021106.pdf)
 
-[Oxycodon / Naloxon KRUGMANN®](http://www.fachinfo.de/pdf/021107)
+[Oxycodon / Naloxon KRUGMANN®](data/021107.pdf)
 
-[SIFROL® Retardtabletten](http://www.fachinfo.de/pdf/021111)
+[SIFROL® Retardtabletten](data/021111.pdf)
 
-[SIFROL® Tabletten](http://www.fachinfo.de/pdf/021112)
+[SIFROL® Tabletten](data/021112.pdf)
 
-[Strimvelis®](http://www.fachinfo.de/pdf/021114)
+[Strimvelis®](data/021114.pdf)
 
